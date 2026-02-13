@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Product Analyst, Fraud at Persona
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Data Analyst |
+| Company | [Persona](https://scoutify.ai/companies/persona?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Business Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/persona/b8f61185-b945-4307-807b-7f42617c5963) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This business analyst position at Persona was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

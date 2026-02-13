@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Sr. Business Analytics Manager at Ocean Optics
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Ocean Optics](https://scoutify.ai/companies/halma?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Orlando, Florida, United States |
 | Category | Data Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://halma.wd3.myworkdayjobs.com/halma/job/Orlando/Sr-Business-Analytics-Manager_JR26_000129) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This data analyst position at Ocean Optics was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

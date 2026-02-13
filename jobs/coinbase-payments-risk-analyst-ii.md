@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Payments Risk Analyst II at Coinbase
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7569161?gh_jid=7569161) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This data analyst position at Coinbase was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

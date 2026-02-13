@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jacobs Douwe Egberts](https://scoutify.ai/companies/jacobsdouweegberts?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Analyst |
 | Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000107049744-digital-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000107084312-digital-data-analyst) |
 
 ## About This Role
 

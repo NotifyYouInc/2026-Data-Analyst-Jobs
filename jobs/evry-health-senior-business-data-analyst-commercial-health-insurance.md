@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Senior Business Data Analyst – Commercial Health Insurance at Evry Health
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Evry Health](https://scoutify.ai/companies/evry-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://jobs.lever.co/evry-health/fbf97d94-7dfb-4630-a445-5cdee6a7656d) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This data analyst position at Evry Health was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

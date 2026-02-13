@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Services Operations Analyst  at Smartsheet
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Data Analyst |
+| Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | San José, San José, Costa Rica |
+| Category | Operations |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7593216) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This operations position at Smartsheet was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

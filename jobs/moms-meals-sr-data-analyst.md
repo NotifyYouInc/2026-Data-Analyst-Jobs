@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Sr Data Analyst at Mom's Meals
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Mom's Meals](https://scoutify.ai/companies/momsmeals?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Ankeny, Iowa, United States |
 | Category | Data Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://jobs.lever.co/momsmeals/9908a4f9-1ecc-4064-9704-adc4458a37da) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This data analyst position at Mom's Meals was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

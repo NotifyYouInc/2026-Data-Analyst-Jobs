@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Senior Data Analyst at Bank of America
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Analyst_26003509-1) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This data analyst position at Bank of America was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

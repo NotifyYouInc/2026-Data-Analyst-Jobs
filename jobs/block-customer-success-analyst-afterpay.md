@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Customer Success Analyst, Afterpay at Block
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Data Analyst |
+| Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | California, US |
+| Category | Customer Success |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5110360008?gh_jid=5110360008) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This customer success position at Block was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

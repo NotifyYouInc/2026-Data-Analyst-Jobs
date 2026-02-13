@@ -1,16 +1,16 @@
-# Logistics Claim Analyst - Bilingual (English/Korean) at Woongjin
+# Supply Chain Operations Analyst at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Plano, Texas, United States |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 4 locations |
 | Category | Operations |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107628935-logistics-claim-analyst-bilingual-englishkorean) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Supply-Chain-Operations-Analyst_REQ483543-1) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-06.
+This operations position at JLL was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

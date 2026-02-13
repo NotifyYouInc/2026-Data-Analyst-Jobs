@@ -1,16 +1,16 @@
-# Junior Insight Analyst at NielsenIQ
+# Data Analyst at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Data Analyst |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York, US |
+| Category | Data Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107504378-junior-insight-analyst) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1125673549642290) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-05.
+This data engineer position at Meta was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
