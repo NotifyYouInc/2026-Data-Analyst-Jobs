@@ -1,16 +1,16 @@
-# Customer Service & Operations Analyst at NatWest Group
+# Investment Risk Analyst at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bristol/Customer-Service---Operations-Analyst_R-00270997-1) |
+| Location | London, England, United Kingdom |
+| Category | Venture Capital |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Investment-Risk-Analyst_R-00271268-1) |
 
 ## About This Role
 
-This customer success position at NatWest Group was posted on 2026-02-04.
+This venture capital position at NatWest Group was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

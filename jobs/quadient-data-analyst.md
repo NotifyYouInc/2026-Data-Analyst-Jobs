@@ -1,16 +1,16 @@
-# Data Analyst at S&P Global
+# Data Analyst at Quadient
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Data-Analyst_318177-1) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000107691375-data-analyst) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-02-04.
+This data analyst position at Quadient was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

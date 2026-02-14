@@ -1,16 +1,16 @@
-# Data Analyst at S&P Global
+# Senior Growth Analyst, Domains at Squarespace
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Squarespace](https://scoutify.ai/companies/squarespace?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Data-Analyst_318177-1) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](http://www.squarespace.com/about/careers?gh_jid=7591623) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-02-04.
+This data analyst position at Squarespace was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst II - Data Ventures at Walmart
+# Senior, Data Analyst - Walmart Brands at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/Data-Analyst-II---Data-Ventures_R-2410197-1) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Senior--Data-Analyst---Walmart-Brands_R-2408667) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-02-05.
+This data analyst position at Walmart was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst at PwC
+# BI Analyst at Ajax Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Ajax Systems](https://scoutify.ai/companies/ajax-systems?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kyiv/Data-Analyst_703410WD-1) |
+| Category | Business Analyst |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.lever.co/ajax/ecd36b1b-78fd-47ca-baa0-b3d1c87aad34) |
 
 ## About This Role
 
-This data analyst position at PwC was posted on 2026-02-05.
+This business analyst position at Ajax Systems was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

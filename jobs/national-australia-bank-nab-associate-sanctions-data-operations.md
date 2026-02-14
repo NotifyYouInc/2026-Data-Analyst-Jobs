@@ -6,7 +6,7 @@
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Operations |
 | Posted | 2026-02-04 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Associate--Sanctions-Data-Operations_JR113540) |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Associate--Sanctions-Data-Operations_JR113541) |
 
 ## About This Role
 
