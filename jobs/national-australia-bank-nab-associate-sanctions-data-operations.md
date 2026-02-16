@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Associate--Sanctions-Data-Operations_JR113541) |
+| Category | Strategy And Operations |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Associate--Sanctions-Data-Operations_JR113490) |
 
 ## About This Role
 
-This operations position at National Australia Bank (NAB) was posted on 2026-02-04.
+This strategy and operations position at National Australia Bank (NAB) was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
