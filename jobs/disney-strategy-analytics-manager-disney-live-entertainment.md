@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kissimmee, Florida, United States |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Strategy---Analytics-Manager--Disney-Live-Entertainment_10141148-1) |
 
 ## About This Role
 
-This strategy and operations position at Disney was posted on 2026-02-05.
+This strategy & operations position at Disney was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

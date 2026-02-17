@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [BDO Dunwoody](https://scoutify.ai/companies/bdo-dunwoody?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 5 locations |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Senior-Data-Quality-Analyst_JR5784-1) |
 

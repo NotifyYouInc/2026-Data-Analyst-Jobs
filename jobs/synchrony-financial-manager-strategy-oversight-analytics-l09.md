@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Manager--Strategy-Oversight-Analytics--L09-_2504047-1) |
 
 ## About This Role
 
-This strategy and operations position at Synchrony Financial was posted on 2026-02-06.
+This strategy & operations position at Synchrony Financial was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

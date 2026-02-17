@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000107490336-data-analyst-confirme-hf) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000107775377-data-analyst-confirme-hf) |
 
 ## About This Role
 
-This data analyst position at Scalian was posted on 2026-02-05.
+This data analyst position at Scalian was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

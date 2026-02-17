@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marina Bay Sands](https://scoutify.ai/companies/marina-bay-sands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore |
-| Category | Product Marketing Management |
+| Category | Product Marketing |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Manager---Senior-Manager--Sales-Operations---Support--CI--Market-Development-_JR10006099-1) |
 
 ## About This Role
 
-This product marketing management position at Marina Bay Sands was posted on 2026-02-06.
+This product marketing position at Marina Bay Sands was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

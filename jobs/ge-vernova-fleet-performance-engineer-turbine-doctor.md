@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Barcelona/Fleet-Performance-Engineer--Turbine-Doctor_R5027194-3) |
 

@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Quality-Review---Reporting-Analyst_R301563) |
 

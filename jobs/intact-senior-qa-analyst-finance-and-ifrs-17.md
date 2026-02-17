@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Senior-QA-Analyst_R148691) |
 
