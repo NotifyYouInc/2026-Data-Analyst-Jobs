@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | National Capital Region, PH |
 | Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Fraud-and-Loss-Prevention-Analyst_JR-202602604) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Fraud-and-Loss-Prevention-Analyst_JR-202600887) |
 
 ## About This Role
 
-This operations position at General Motors was posted on 2026-02-06.
+This operations position at General Motors was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cardiff, Wales, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000107499070-hr-insights-project-lead) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000108528455-hr-insights-project-lead) |
 
 ## About This Role
 
-This project manager position at Legal & General was posted on 2026-02-05.
+This project manager position at Legal & General was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

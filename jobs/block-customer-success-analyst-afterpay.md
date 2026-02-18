@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | California, US |
+| Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5110360008?gh_jid=5110360008) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5056526008?gh_jid=5056526008) |
 
 ## About This Role
 
-This customer success position at Block was posted on 2026-02-05.
+This customer success position at Block was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

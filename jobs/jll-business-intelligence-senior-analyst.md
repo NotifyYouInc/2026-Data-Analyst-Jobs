@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Business-Intelligence-Senior-Analyst_REQ483924) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Business-Intelligence-Senior-Analyst_REQ484893-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-02-04.
+This business analyst position at JLL was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Analyst_36102) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Business Analyst |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Data-Analyst_34910) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-02-03.
+This business analyst position at Guidehouse was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

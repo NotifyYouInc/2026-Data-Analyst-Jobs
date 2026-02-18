@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Pricing-Analyst---Fuel_R26_734) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Pricing-Analyst---Fuel_R26_890) |
 
 ## About This Role
 
-This operations position at 7-Eleven was posted on 2026-02-06.
+This data analyst position at 7-Eleven was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

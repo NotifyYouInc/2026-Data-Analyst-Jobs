@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 3 locations |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Summer-Intern-2026---Operations-Analyst_JR25100202) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Montreal-Quebec/Summer-Intern-2026---Operations-Analyst_JR25100201) |
 
 ## About This Role
 
-This operations position at Manulife was posted on 2026-02-05.
+This operations position at Manulife was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
