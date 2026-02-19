@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000107701651-power-bi-developer) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000108784797-power-bi-developer) |
 
 ## About This Role
 
-This business analyst position at ASOS was posted on 2026-02-06.
+This business analyst position at ASOS was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

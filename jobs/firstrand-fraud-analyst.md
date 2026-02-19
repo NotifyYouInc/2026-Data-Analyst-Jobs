@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Fraud-Analyst_R45670) |
+| Location | Randburg, Gauteng, South Africa |
+| Category | Data Analyst |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Fraud-Analyst_R41227-1) |
 
 ## About This Role
 
-This operations position at FirstRand was posted on 2026-02-03.
+This data analyst position at FirstRand was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

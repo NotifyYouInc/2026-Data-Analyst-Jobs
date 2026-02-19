@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000108020385-data-analyst-intern-june-2026-january-2027) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000108921885-data-analyst-intern-june-2026-january-2027) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-02-09.
+This data analyst position at NBCUniversal was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

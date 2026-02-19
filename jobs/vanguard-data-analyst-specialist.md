@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_171946) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Scottsdale-AZ/Data-Analyst--Specialist_172998-1) |
 
 ## About This Role
 
-This data analyst position at Vanguard was posted on 2026-02-04.
+This data analyst position at Vanguard was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

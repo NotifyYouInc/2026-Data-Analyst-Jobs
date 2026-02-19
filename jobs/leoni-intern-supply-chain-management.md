@@ -5,12 +5,12 @@
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kitzingen, Bavaria, Germany |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000108151711-intern-supply-chain-management) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000108483490-intern-supply-chain-management) |
 
 ## About This Role
 
-This operations position at LEONI was posted on 2026-02-09.
+This operations position at LEONI was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

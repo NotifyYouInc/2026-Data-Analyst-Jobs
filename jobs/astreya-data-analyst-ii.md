@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Data-Analyst-II_R0014341) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Singapore-Singapore/Data-Analyst-II_R0014308) |
 
 ## About This Role
 
-This data analyst position at Astreya was posted on 2026-02-03.
+This data analyst position at Astreya was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

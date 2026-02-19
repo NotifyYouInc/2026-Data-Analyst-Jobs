@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Bury St Edmunds, England, United Kingdom |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000108161430-cro-analyst) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000108575651-cro-analyst) |
 
 ## About This Role
 
-This sales position at Greene King was posted on 2026-02-09.
+This sales position at Greene King was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

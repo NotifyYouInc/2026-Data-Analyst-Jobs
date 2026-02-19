@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Northfield, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Analyst-Pricing_R2600055) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Pricing-Analyst---Smart-Pricing_R2602866) |
 
 ## About This Role
 
-This data analyst position at Medline was posted on 2026-02-05.
+This data analyst position at Medline was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

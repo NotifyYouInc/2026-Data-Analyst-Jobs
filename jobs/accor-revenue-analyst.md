@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amman, Amman, Jordan |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000107350406-revenue-analyst) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108878992-revenue-analyst) |
 
 ## About This Role
 
-This business analyst position at ACCOR was posted on 2026-02-04.
+This business analyst position at ACCOR was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
