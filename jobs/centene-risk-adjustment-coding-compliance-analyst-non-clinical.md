@@ -5,12 +5,12 @@
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Missouri, US |
 | Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Risk-Adjustment-Coding-Compliance-Analyst--Non-Clinical-_1612163) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Risk-Adjustment-Coding-Compliance-Analyst--Non-Clinical-_1631541) |
 
 ## About This Role
 
-This operations position at Centene was posted on 2026-02-03.
+This operations position at Centene was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

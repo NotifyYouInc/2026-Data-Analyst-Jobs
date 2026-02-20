@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108239125-sr-insights-analyst-linkedin-marketing-solutions) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108788515-sr-insights-analyst-linkedin-marketing-solutions) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-02-09.
+This data analyst position at LinkedIn was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

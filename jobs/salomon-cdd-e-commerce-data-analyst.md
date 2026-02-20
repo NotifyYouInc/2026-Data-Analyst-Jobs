@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000108263024-cdd-e-commerce-data-analyst) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000108553852-cdd-e-commerce-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Salomon was posted on 2026-02-09.
+This data analyst position at Salomon was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
