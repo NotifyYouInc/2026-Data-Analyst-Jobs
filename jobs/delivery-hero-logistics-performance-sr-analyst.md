@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Salvador, San Salvador Department, El Salvador |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107051555-logistics-performance-sr-analyst) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109302916-logistics-performance-sr-analyst) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-02-03.
+This operations position at Delivery Hero was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

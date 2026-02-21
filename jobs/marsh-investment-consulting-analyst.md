@@ -5,12 +5,12 @@
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | China |
 | Category | Venture Capital |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Hong-Kong---Devon/Investment-Consulting-Analyst_R_337461) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Hong-Kong---Devon/Investment-Consulting-Analyst_R_337460) |
 
 ## About This Role
 
-This venture capital position at Marsh was posted on 2026-02-06.
+This venture capital position at Marsh was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

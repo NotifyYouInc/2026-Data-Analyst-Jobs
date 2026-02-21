@@ -1,16 +1,16 @@
-# Senior Security Operations Analyst  at Anduril
+# Senior Security Operations Analyst at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Boston, Massachusetts, United States |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5047245007?gh_jid=5047245007) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5052991007?gh_jid=5052991007) |
 
 ## About This Role
 
-This operations position at Anduril was posted on 2026-02-09.
+This operations position at Anduril was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

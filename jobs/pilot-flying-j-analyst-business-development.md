@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000108597093-analyst-business-development) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000108873616-analyst-business-development) |
 
 ## About This Role
 
-This business development position at Pilot Flying J was posted on 2026-02-10.
+This business development position at Pilot Flying J was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

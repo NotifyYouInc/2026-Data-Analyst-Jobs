@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000107536966-senior-data-analyst-people-analytics) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109272466-senior-data-analyst-people-analytics) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-05.
+This data analyst position at WISE was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

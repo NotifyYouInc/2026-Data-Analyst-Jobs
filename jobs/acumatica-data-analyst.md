@@ -5,12 +5,12 @@
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Data Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000108543453-data-analyst) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000109294313-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Acumatica was posted on 2026-02-10.
+This data analyst position at Acumatica was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

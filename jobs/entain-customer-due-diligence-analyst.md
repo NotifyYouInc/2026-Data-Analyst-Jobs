@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000108435458-customer-due-diligence-analyst) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000109262275-customer-due-diligence-analyst) |
 
 ## About This Role
 
-This operations position at Entain was posted on 2026-02-10.
+This operations position at Entain was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
