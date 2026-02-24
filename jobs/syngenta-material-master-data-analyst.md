@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108686000-material-master-data-analyst) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108925665-material-master-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Syngenta was posted on 2026-02-11.
+This data analyst position at Syngenta was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

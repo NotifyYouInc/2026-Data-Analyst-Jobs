@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Customer Lifecycle Analyst at Varian
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
+| Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Pennsylvania, US |
+| Category | Operations |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-LB/Customer-Lifecycle-Analyst_R-26874) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This operations position at Varian was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

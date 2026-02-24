@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Data Analyst  at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Manly, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000109641365-data-analyst) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This data analyst position at ACCOR was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Sr. Data Analyst at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/India---Maharashtra--Pune---Baner---Amar-Madhuban-Tech-Park/Sr-Data-Analyst_R1109427) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This data analyst position at Dentsu was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

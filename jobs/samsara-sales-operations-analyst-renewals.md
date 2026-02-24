@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Sales Operations Analyst - Renewals at Samsara
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
+| Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | Operations |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7587205?gh_jid=7587205) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This operations position at Samsara was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

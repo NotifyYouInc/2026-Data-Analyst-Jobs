@@ -1,16 +1,16 @@
-# Azure  Power BI Developer at Robert Bosch
+# Logistics Specialist at Unilever
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mexico |
 | Category | Data Analyst |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109642834-azure-power-bi-developer) |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Tultitlan-Mexico/Logistics-Specialist_R-1175309-1) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-02-17.
+This data analyst position at Unilever was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

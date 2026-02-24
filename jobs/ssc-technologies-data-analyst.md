@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Data Analyst at SS&C Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Data Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Bangkok-Thailand/Data-Analyst_R41350) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This data analyst position at SS&C Technologies was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

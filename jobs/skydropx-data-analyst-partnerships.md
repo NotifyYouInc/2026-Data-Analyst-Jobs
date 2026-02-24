@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Data Analyst - Partnerships at SkydropX
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
+| Company | [SkydropX](https://scoutify.ai/companies/skydropx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Colombia |
+| Category | Business Development |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skydropx/7cf94b0c-467d-459a-b1d9-88c7d925db2e) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This business development position at SkydropX was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

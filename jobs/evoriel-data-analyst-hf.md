@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Data Analyst H/F at Evoriel
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000109580055-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This data analyst position at Evoriel was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

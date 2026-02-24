@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Senior Data Analyst - WPP OPEN at WPP
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8420306002) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This data analyst position at WPP was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

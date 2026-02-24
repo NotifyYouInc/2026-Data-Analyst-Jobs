@@ -1,16 +1,16 @@
-# Azure  Power BI Developer at Robert Bosch
+# Master Data Analyst_ Finance at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Karnataka, IN |
 | Category | Data Analyst |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109642834-azure-power-bi-developer) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Master-Data-Analyst--Finance_JR00016336-1) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-02-17.
+This data analyst position at ABB was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Satair - Supply Chain Analyst at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
+| Category | Operations |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Singapore-Area/Satair---Supply-Chain-Analyst_JR10391133) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This operations position at Airbus was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

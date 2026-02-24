@@ -1,16 +1,16 @@
-# Consultant(e) Data Analyst at SIA
+# Logistics Analyst at Solenis
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
+| Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Operations |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581945-consultante-data-analyst) |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Warsaw-Poland/Logistics-Analyst_R0027253) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-02-16.
+This operations position at Solenis was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

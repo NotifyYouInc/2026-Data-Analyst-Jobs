@@ -1,16 +1,16 @@
-# Consultant(e) Senior Data Analyst at SIA
+# Operations Analyst at Careers at Tide
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581865-consultante-senior-data-analyst) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7632851003) |
 
 ## About This Role
 
-This business analyst position at SIA was posted on 2026-02-16.
+This business analyst position at Careers at Tide was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

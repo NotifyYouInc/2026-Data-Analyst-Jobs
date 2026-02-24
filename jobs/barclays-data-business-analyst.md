@@ -1,12 +1,12 @@
-# Data Analyst at Barclays
+# Data Business Analyst at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-TEC-DLF-Downtown/Data-Analyst_JR-0000090376-1) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Business-Analyst_JR-0000083527) |
 
 ## About This Role
 
