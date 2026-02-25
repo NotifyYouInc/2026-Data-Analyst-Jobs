@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Berkeley, California, United States |
 | Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Associate-Supply-Chain-Management-Analyst_JR2026496107-2) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Supply-Chain-Management-Analyst_JR2026494652-1) |
 
 ## About This Role
 
-This operations position at Boeing was posted on 2026-02-12.
+This operations position at Boeing was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

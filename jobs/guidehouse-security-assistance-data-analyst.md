@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Security-Assistance-Data-Analyst_36048) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Security-Assistance-Data-Analyst_36583) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-02-05.
+This data analyst position at Guidehouse was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

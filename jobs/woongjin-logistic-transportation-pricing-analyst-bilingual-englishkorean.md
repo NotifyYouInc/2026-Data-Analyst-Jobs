@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109073565-logistic-transportation-pricing-analyst-bilingual-englishkorean) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109107430-logistic-transportation-pricing-analyst-bilingual-englishkorean) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-12.
+This operations position at Woongjin was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

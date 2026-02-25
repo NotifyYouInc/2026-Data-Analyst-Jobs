@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000108855041-telecom-it-project-manager-5-java-python-snowflake) |
+| Category | Project Manager |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000109292803-telecom-it-project-manager-5-java-python-snowflake) |
 
 ## About This Role
 
-This data engineer position at VTekis Consulting LLP was posted on 2026-02-11.
+This project manager position at VTekis Consulting LLP was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

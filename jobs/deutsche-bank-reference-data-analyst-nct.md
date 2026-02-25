@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Karnataka, IN |
 | Category | Data Analyst |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Reference-Data-Analyst--NCT_R0424274) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Reference-Data-Analyst--NCT_R0425634-1) |
 
 ## About This Role
 
-This data analyst position at Deutsche Bank was posted on 2026-02-08.
+This data analyst position at Deutsche Bank was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
