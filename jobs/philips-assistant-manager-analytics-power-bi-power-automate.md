@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Assistant-Manager---Analytics--Power-BI---Power-Automate-_573248-1) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chennai-ex-Madras/Assistant-Manager---Analytics--Power-BI---Power-Automate-_573255-1) |
 
 ## About This Role
 

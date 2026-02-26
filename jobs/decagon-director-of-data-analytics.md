@@ -1,0 +1,22 @@
+# Director of Data & Analytics at Decagon
+
+| Field | Details |
+|-------|---------|
+| Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/fe572ffa-cde6-4524-9a35-9d8e7796966d) |
+
+## About This Role
+
+This data analyst position at Decagon was posted on 2026-02-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

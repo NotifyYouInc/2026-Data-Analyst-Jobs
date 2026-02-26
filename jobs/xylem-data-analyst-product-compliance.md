@@ -5,12 +5,12 @@
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vadodara, Gujarat, India |
 | Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Vadodara/Data-Analyst---Product-Compliance_R46360) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Vadodara-73-East-Ave/Data-Analyst---Product-Compliance_R46523) |
 
 ## About This Role
 
-This data analyst position at Xylem was posted on 2026-02-04.
+This data analyst position at Xylem was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

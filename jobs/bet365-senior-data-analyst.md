@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000107624640-senior-data-analyst) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000109888814-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at bet365 was posted on 2026-02-05.
+This data analyst position at bet365 was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

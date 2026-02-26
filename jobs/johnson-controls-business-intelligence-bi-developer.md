@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Karnataka, IN |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Business-Intelligence--BI--Developer_WD30261381) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Business-Intelligence--BI--Developer_WD30261382) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-02-17.
+This software engineer position at Johnson Controls was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

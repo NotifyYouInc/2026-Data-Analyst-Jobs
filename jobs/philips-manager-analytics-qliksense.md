@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Manager---Analytics--Qliksense-_573235-1) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chennai-ex-Madras/Manager---Analytics--Qliksense-_573251-1) |
 
 ## About This Role
 
