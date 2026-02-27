@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Des Moines, Iowa, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000108577535-market-insights-analyst-open-to-hiring-at-senior-level) |
+| Category | Business Analyst |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000110184630-market-insights-analyst-open-to-hiring-at-senior-level) |
 
 ## About This Role
 
-This data analyst position at Wellmark, Inc. was posted on 2026-02-10.
+This business analyst position at Wellmark, Inc. was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

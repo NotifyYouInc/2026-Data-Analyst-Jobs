@@ -6,7 +6,7 @@
 | Location | India |
 | Category | Business Analyst |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R32711) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R32109-1) |
 
 ## About This Role
 

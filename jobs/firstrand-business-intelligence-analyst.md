@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Business-Intelligence-Analyst_R46153) |
+| Category | Data Analyst |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Business-Intelligence-Analyst_R46691) |
 
 ## About This Role
 
-This business analyst position at FirstRand was posted on 2026-02-12.
+This data analyst position at FirstRand was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

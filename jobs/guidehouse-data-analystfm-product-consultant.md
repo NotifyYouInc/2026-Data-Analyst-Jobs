@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Analyst-FM-Product-Consultant_36116) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Product Manager |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IN-Indianapolis/Data-Analyst-FM-Product-Consultant_36597) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-02-03.
+This product manager position at Guidehouse was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

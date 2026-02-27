@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Operations |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000106926288-security-operations-analyst-copperleaf) |
+| Category | SOC & Incident Response |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110236186-security-operations-analyst-copperleaf) |
 
 ## About This Role
 
-This operations position at IFS was posted on 2026-02-02.
+This soc & incident response position at IFS was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
