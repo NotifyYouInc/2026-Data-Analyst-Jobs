@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107459273-skywise-dashboard-developer-ontology-driven-data-modelling-all-gender) |
+| Category | Software Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110319155-skywise-dashboard-developer-ontology-driven-data-modelling-all-gender) |
 
 ## About This Role
 
-This data engineer position at ALTEN was posted on 2026-02-05.
+This software engineer position at ALTEN was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

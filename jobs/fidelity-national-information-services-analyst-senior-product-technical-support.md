@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Analyst-Senior--Product-Technical-Support_JR0304258) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Analyst-Senior--Product-Technical-Support_JR0304214) |
 
 ## About This Role
 
-This customer success position at Fidelity National Information Services was posted on 2026-02-17.
+This customer success position at Fidelity National Information Services was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

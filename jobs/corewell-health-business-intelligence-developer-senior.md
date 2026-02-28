@@ -5,12 +5,12 @@
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Business-Intelligence-Developer-Senior_R203931-1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Business-Intelligence-Developer-Senior_R204102) |
 
 ## About This Role
 
-This software engineer position at Corewell Health was posted on 2026-02-18.
+This software engineer position at Corewell Health was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
