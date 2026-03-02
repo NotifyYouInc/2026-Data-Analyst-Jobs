@@ -1,16 +1,16 @@
-# CDD E-commerce Data Analyst at Salomon
+# MIS Specialist at SURBANA
 
 | Field | Details |
 |-------|---------|
-| Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Assam, IN |
 | Category | Data Analyst |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000110557575-cdd-e-commerce-data-analyst) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/SMEC-India-Assam-Project-Office/MIS-Specialist_JR115079) |
 
 ## About This Role
 
-This data analyst position at Salomon was posted on 2026-02-22.
+This data analyst position at SURBANA was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

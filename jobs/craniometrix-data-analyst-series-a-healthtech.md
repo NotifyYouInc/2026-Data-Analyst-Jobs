@@ -1,16 +1,16 @@
-# CDD E-commerce Data Analyst at Salomon
+# Data Analyst (Series A Healthtech) at Craniometrix
 
 | Field | Details |
 |-------|---------|
-| Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Company | [Craniometrix](https://scoutify.ai/companies/craniometrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York, US |
 | Category | Data Analyst |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000110557575-cdd-e-commerce-data-analyst) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/craniometrix/jobs/BDTxn6Y-data-analyst-series-a-healthtech) |
 
 ## About This Role
 
-This data analyst position at Salomon was posted on 2026-02-22.
+This data analyst position at Craniometrix was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

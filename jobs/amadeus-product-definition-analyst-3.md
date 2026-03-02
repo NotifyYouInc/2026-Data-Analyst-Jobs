@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
+| Location | India |
+| Category | Product Manager |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R30412-2) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R33341-2) |
 
 ## About This Role
 
-This business analyst position at Amadeus was posted on 2026-02-19.
+This product manager position at Amadeus was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
