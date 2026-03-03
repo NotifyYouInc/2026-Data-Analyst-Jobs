@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000107716515-staff-business-planning-data-analyst) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000110995348-staff-business-planning-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Renesas Electronics was posted on 2026-02-06.
+This data analyst position at Renesas Electronics was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Strategy And Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4774837101) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Strategy & Operations |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4716774101) |
 
 ## About This Role
 
-This strategy and operations position at Fever was posted on 2026-02-04.
+This strategy & operations position at Fever was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

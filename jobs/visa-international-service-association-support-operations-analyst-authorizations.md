@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107281697-support-operations-analyst-authorizations) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000110892545-support-operations-analyst-authorizations) |
 
 ## About This Role
 
-This operations position at Visa International Service Association was posted on 2026-02-04.
+This customer success position at Visa International Service Association was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

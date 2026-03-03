@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107691078-sr-data-operations-analyst) |
+| Location | Vadodara, Gujarat, India |
+| Category | Data Analyst |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110757006-sr-data-operations-analyst) |
 
 ## About This Role
 
-This operations position at NielsenIQ was posted on 2026-02-06.
+This data analyst position at NielsenIQ was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

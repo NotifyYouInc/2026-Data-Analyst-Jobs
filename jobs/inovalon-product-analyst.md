@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pennsylvania, US |
-| Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7616167003) |
+| Category | UX Researcher |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7641657003) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-03.
+This ux researcher position at Inovalon was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

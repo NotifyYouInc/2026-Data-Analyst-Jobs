@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Data Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107795755-fraud-prevention-analyst) |
+| Category | Trust & Safety |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110739975-fraud-prevention-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-02-06.
+This trust & safety position at Delivery Hero was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

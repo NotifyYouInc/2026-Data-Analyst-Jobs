@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
-| Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000110218036-data-integrity-solutions-analyst-business-data-office-data-integrity-operations) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Data Analyst |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000110332015-data-integrity-solutions-analyst-business-data-office-data-integrity-operations) |
 
 ## About This Role
 
-This business analyst position at MUFG Investor Services was posted on 2026-02-19.
+This data analyst position at MUFG Investor Services was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Location | California, US |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Operations-Research-Analyst_R0234361) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Vandenberg-AFB-CA/Operations-Research-Analyst_R0233932-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-02-19.
+This strategy / management consulting position at Booz Allen was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

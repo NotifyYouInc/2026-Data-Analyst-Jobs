@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | British Columbia, CA |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Mill-Bay---Squlew/Data-Coordinator_R0316641-1) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Halifax---John-Savage/Data-Coordinator_R0316639-1) |
 
 ## About This Role
 
-This data analyst position at Thales was posted on 2026-02-19.
+This data analyst position at Thales was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
