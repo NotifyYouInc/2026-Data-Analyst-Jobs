@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Mexico-City---Paseo/Data-Analyst_R_337958) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Sioux-Falls---Cherapa/Data-Analyst_R_341212) |
 
 ## About This Role
 
-This data analyst position at Marsh was posted on 2026-02-18.
+This data analyst position at Marsh was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

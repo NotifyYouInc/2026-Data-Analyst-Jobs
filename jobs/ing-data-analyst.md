@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Data-Analyst_REQ-10108618-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Expo-Business-Park/Data-Analyst_REQ-10110290) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-02-18.
+This data analyst position at ING was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

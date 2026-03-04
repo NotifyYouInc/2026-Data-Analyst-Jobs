@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Canada |
-| Category | Technical Writer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-en-Assurance-qualit-Affaires_R2602667) |
+| Location | 2 locations |
+| Category | IT & Systems Administration |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-fonctionnel-ou-analyste-fonctionnelle_R2602348) |
 
 ## About This Role
 
-This technical writer position at Desjardins was posted on 2026-02-20.
+This it & systems administration position at Desjardins was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

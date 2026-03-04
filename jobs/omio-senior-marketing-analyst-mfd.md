@@ -5,12 +5,12 @@
 | Company | [Omio](https://scoutify.ai/companies/omio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Marketing |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Omio1/744000109910086-senior-marketing-analyst-mfd) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Omio1/744000111027531-senior-marketing-analyst-mfd) |
 
 ## About This Role
 
-This marketing position at Omio was posted on 2026-02-18.
+This marketing position at Omio was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

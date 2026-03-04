@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Program Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Business-Operations-Analyst_R145129) |
+| Category | Strategy & Operations |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/University-Hospital/Business-Operations-Analyst_R131213-1) |
 
 ## About This Role
 
-This program manager position at The Ohio State University was posted on 2026-02-17.
+This strategy & operations position at The Ohio State University was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

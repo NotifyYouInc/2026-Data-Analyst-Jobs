@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nairobi, Nairobi County, Kenya |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109925750-research-executive) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111119424-research-executive) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-18.
+This data analyst position at NielsenIQ was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
