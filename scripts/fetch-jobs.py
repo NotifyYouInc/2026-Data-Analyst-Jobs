@@ -96,8 +96,7 @@ def job_to_markdown(job: dict, campaign: str) -> str:
         f"*Data sourced from [Scoutify]({SCOUTIFY_BASE}) | Updated daily*",
     ])
 
-    return "
-".join(lines)
+    return "\n".join(lines)
 
 
 def clean_old_jobs(max_age_days: int = 30) -> int:
