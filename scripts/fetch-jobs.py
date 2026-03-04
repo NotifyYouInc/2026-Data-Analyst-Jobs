@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -19,6 +20,9 @@ import requests
 
 JOBS_DIR = Path(__file__).parent.parent / "jobs"
 SCOUTIFY_BASE = "https://scoutify.ai"
+
+MAX_RETRIES = 3
+RETRY_BACKOFF = [5, 15, 30]  # seconds between retries
 
 
 def slugify(text: str) -> str:
@@ -31,11 +35,22 @@ def slugify(text: str) -> str:
 
 
 def fetch_jobs(api_url: str, topic: str) -> list[dict]:
-    """Fetch delayed jobs from the API."""
+    """Fetch delayed jobs from the API with retry logic."""
     params = {"topic": topic, "limit": 500}
-    response = requests.get(api_url, params=params, timeout=30)
-    response.raise_for_status()
-    return response.json().get("jobs", [])
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = requests.get(api_url, params=params, timeout=30)
+            response.raise_for_status()
+            return response.json().get("jobs", [])
+        except requests.RequestException as e:
+            if attempt < MAX_RETRIES - 1:
+                wait = RETRY_BACKOFF[attempt]
+                print(f"  Attempt {attempt + 1} failed: {e}")
+                print(f"  Retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
 
 
 def job_to_markdown(job: dict, campaign: str) -> str:
@@ -81,7 +96,8 @@ def job_to_markdown(job: dict, campaign: str) -> str:
         f"*Data sourced from [Scoutify]({SCOUTIFY_BASE}) | Updated daily*",
     ])
 
-    return "\n".join(lines)
+    return "
+".join(lines)
 
 
 def clean_old_jobs(max_age_days: int = 30) -> int:
@@ -114,7 +130,7 @@ def main():
     try:
         jobs = fetch_jobs(api_url, topic)
     except requests.RequestException as e:
-        print(f"Error fetching jobs: {e}")
+        print(f"Error fetching jobs after {MAX_RETRIES} attempts: {e}")
         sys.exit(1)
 
     print(f"  Found {len(jobs)} jobs")
