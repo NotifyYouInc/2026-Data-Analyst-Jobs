@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Platform-Operations-Analyst-Intern_R0046589) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Platform-Operations-Analyst-Intern_R0047230) |
 
 ## About This Role
 
-This soc & incident response position at HCSC was posted on 2026-02-18.
+This soc & incident response position at HCSC was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

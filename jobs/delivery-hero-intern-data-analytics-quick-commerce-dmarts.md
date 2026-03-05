@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109920855-intern-data-analytics-quick-commerce-dmarts) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111410345-intern-data-analytics-quick-commerce-dmarts) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-02-18.
+This data analyst position at Delivery Hero was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/143074636102279878-publisher-intelligence-analyst?sort_by=date&page=1) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92966668925313734-publisher-intelligence-analyst?sort_by=date&page=1) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-02-17.
+This data analyst position at Google was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

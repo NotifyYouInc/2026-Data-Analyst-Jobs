@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110823025-analista-de-dados-em-credito-e-cobranca-pl-ou-sr-synap) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000111349294-analista-de-dados-em-credito-e-cobranca-pl-ou-sr-synap) |
 
 ## About This Role
 
-This data analyst position at Syngenta was posted on 2026-02-23.
+This data analyst position at Syngenta was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

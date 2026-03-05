@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/Senior-Customer-Intelligence-Analyst_R_047741) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Senior-Data-Analyst_R_050387) |
 
 ## About This Role
 
-This data analyst position at Just Eat Takeaway.com was posted on 2026-02-17.
+This data analyst position at Just Eat Takeaway.com was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

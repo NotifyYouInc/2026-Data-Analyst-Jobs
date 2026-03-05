@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Data-Analyst_R236386-2) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst_R236662-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-02-20.
+This data analyst position at Capital One was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000111038579-power-bi-developer-relocation-to-spain) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000111038975-power-bi-developer-relocation-to-spain) |
 
 ## About This Role
 

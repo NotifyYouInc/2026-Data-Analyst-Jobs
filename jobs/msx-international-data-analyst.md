@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Southfield, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011795796-data-analyst) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011860476-data-analyst) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-02-23.
+This data analyst position at MSX International was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

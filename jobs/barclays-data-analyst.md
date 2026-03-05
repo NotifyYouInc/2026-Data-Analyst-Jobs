@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000096512) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Analyst_JR-0000093494) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-02-23.
+This data analyst position at Barclays was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
