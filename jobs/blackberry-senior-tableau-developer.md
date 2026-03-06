@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BlackBerry](https://scoutify.ai/companies/blackberry?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Waterloo, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/Raleigh-North-Carolina/Senior-Tableau-Developer_20260095) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://bb.wd3.myworkdayjobs.com/blackberry/job/Waterloo-Ontario/Senior-Tableau-Developer_20260113) |
 
 ## About This Role
 
-This data analyst position at BlackBerry was posted on 2026-02-23.
+This data analyst position at BlackBerry was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

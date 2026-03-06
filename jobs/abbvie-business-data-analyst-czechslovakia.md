@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011509651-business-data-analyst-czechslovakia) |
+| Category | Business Analyst |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011869286-business-data-analyst-czechslovakia) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-02-04.
+This business analyst position at AbbVie was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

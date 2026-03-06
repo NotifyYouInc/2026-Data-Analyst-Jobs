@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Quebec, CA |
-| Category | IT & Systems Administration |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-fonctionnel-ou-analyste-fonctionnelle_R2602709) |
+| Category | Database Administration |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Administrateur-ou-administratrice-Systmes-Impression-Mouvement_R2602724) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-02-24.
+This database administration position at Desjardins was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

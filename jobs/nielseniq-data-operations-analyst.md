@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
+| Location | Porur, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111253886-data-operations-analyst) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111765786-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-25.
+This data analyst position at NielsenIQ was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

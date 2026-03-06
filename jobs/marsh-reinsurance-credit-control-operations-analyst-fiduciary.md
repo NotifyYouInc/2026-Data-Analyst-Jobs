@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Manila---SixNEO/Reinsurance-Credit-Control-Operations-Analyst--Fiduciary-_R_337134) |
+| Category | Corporate Finance |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Manila---SixNEO/Reinsurance-Credit-Control-Operations-Analyst--Fiduciary-_R_338169) |
 
 ## About This Role
 
-This operations position at Marsh was posted on 2026-02-05.
+This corporate finance position at Marsh was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

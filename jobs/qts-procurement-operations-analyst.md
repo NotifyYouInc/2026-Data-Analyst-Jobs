@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Duluth, Minnesota, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Procurement-Operations-Analyst_R2026-0200-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Business Analyst |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Atlanta-GA/Procurement-Operations-Analyst_R2026-0381-2) |
 
 ## About This Role
 
-This operations position at QTS was posted on 2026-02-06.
+This business analyst position at QTS was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

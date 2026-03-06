@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110855936-sr-data-analyst) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111656258-sr-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-02-23.
+This data analyst position at Delivery Hero was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

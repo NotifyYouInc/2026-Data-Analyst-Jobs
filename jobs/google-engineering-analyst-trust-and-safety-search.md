@@ -1,16 +1,16 @@
-# Engineering Analyst, Trust and Safety Search at Google
+# Engineering Analyst, Trust and Safety, Search at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93671628751151814-engineering-analyst-trust-and-safety-search?sort_by=date&page=1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90891375087624902-engineering-analyst-trust-and-safety-search?sort_by=date&page=1) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-02-19.
+This ai / llm engineer position at Google was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

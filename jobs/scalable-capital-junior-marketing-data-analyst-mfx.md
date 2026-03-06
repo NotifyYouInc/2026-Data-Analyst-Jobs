@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Marketing |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000111049089-junior-marketing-data-analyst-mfx) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000111398625-junior-marketing-data-analyst-mfx) |
 
 ## About This Role
 
-This marketing position at Scalable Capital was posted on 2026-02-24.
+This marketing position at Scalable Capital was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

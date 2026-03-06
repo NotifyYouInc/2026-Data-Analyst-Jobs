@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Operations-Analyst-Entry-Level_26939002) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Operations-Analyst-Entry-Level_26939748-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-02-18.
+This business analyst position at Citigroup was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

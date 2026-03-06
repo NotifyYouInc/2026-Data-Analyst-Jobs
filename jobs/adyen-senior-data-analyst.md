@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Brazil |
 | Category | Data Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7355733) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7657339) |
 
 ## About This Role
 
-This data analyst position at Adyen was posted on 2026-02-12.
+This data analyst position at Adyen was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

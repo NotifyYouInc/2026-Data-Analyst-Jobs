@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000107347833-construction-cost-data-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000111729405-construction-cost-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Turner & Townsend was posted on 2026-02-04.
+This business analyst position at Turner & Townsend was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

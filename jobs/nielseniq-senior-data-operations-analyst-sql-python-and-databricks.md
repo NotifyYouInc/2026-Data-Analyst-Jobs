@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110092906-senior-data-operations-analyst-sql-python-and-databricks) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111771661-senior-data-operations-analyst-sql-python-and-databricks) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-19.
+This data analyst position at NielsenIQ was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
