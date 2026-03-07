@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bois-Colombes, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000111026966-data-analyst-business-information) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000111791095-data-analyst-business-information) |
 
 ## About This Role
 
-This data analyst position at Coface was posted on 2026-02-24.
+This data analyst position at Coface was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

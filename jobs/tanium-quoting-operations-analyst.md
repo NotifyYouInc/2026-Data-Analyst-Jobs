@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.tanium.com/careers/7642976?gh_jid=7642976) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Operations |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.tanium.com/careers/7642479?gh_jid=7642479) |
 
 ## About This Role
 
-This business analyst position at Tanium was posted on 2026-02-20.
+This operations position at Tanium was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

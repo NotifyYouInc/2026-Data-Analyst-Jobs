@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | Independence, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/EBI-Analyst-II_331756) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Independence-Family-Health-Center/EBI-Analyst-I_324700) |
 
 ## About This Role
 
-This data analyst position at Cleveland Clinic was posted on 2026-02-25.
+This data analyst position at Cleveland Clinic was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

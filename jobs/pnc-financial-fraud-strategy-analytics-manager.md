@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Fraud-Strategy---Analytics-Manager_R202739-1) |
+| Location | 5 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Fraud-Strategy---Analytics-Manager_R203079) |
 
 ## About This Role
 
-This compliance & risk management position at PNC Financial was posted on 2026-02-18.
+This strategy & operations position at PNC Financial was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000108420838-procurement-operations-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111782025-procurement-operations-analyst) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-02-10.
+This data analyst position at Delivery Hero was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

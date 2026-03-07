@@ -5,12 +5,12 @@
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000111404755-senior-product-analyst) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000111640558-senior-product-analyst) |
 
 ## About This Role
 
-This data analyst position at StepStone was posted on 2026-02-25.
+This data analyst position at StepStone was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

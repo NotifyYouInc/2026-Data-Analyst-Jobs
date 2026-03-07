@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Budapest, Budapest, Hungary |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Punto-Polanco-Mexico/Analyst--People-Operations_R15664-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Budapest-Hungary/Analyst--People-Operations_R15658) |
 
 ## About This Role
 
-This human resources / people ops position at International Flavors & Fragrances was posted on 2026-02-25.
+This human resources / people ops position at International Flavors & Fragrances was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

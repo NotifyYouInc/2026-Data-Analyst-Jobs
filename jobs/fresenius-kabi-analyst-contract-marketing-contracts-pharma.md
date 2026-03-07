@@ -5,12 +5,12 @@
 | Company | [Fresenius Kabi](https://scoutify.ai/companies/fresenius-kabi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lake Zurich, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Analyst--Contract-Marketing--Contracts---Pharma-_R-10210447) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Analyst--Contract-Marketing--Contracts---Pharma-_R-10210797) |
 
 ## About This Role
 
-This business analyst position at Fresenius Kabi was posted on 2026-02-18.
+This business analyst position at Fresenius Kabi was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

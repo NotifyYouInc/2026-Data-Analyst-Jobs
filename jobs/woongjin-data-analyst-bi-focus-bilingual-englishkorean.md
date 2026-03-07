@@ -6,7 +6,7 @@
 | Location | New Jersey, US |
 | Category | Data Analyst |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111485335-data-analyst-bi-focus-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111670495-data-analyst-bi-focus-bilingual-englishkorean) |
 
 ## About This Role
 
