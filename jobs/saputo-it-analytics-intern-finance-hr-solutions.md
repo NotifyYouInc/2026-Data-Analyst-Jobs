@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# IT Analytics Intern – Finance & HR Solutions at Saputo
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Saputo](https://scoutify.ai/companies/saputo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Montral-QC/IT-Analytics-Intern---Finance---HR-Solutions_JR62566) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This data analyst position at Saputo was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

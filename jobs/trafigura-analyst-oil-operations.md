@@ -1,16 +1,16 @@
-# Product Definition Analyst 4 at Amadeus
+# Analyst - Oil Operations at Trafigura
 
 | Field | Details |
 |-------|---------|
-| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Company | [Trafigura](https://scoutify.ai/companies/trafigura?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-4_R33563) |
+| Apply | [View on company site](https://trafigura.wd3.myworkdayjobs.com/trafiguracareersite/job/Mumbai-India/Analyst---Oil-Operations_R-017531) |
 
 ## About This Role
 
-This business analyst position at Amadeus was posted on 2026-03-02.
+This business analyst position at Trafigura was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

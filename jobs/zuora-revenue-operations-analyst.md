@@ -1,16 +1,16 @@
-# Product Definition Analyst 4 at Amadeus
+# Revenue Operations Analyst at Zuora
 
 | Field | Details |
 |-------|---------|
-| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Business Analyst |
+| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
+| Category | Revenue / Sales Operations |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-4_R33563) |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7055295?gh_jid=7055295) |
 
 ## About This Role
 
-This business analyst position at Amadeus was posted on 2026-03-02.
+This revenue / sales operations position at Zuora was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

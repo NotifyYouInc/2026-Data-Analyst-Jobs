@@ -1,16 +1,16 @@
-# Product Definition Analyst 4 at Amadeus
+# Sr Cloud Operations Analyst at CDK
 
 | Field | Details |
 |-------|---------|
-| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Business Analyst |
+| Company | [CDK](https://scoutify.ai/companies/cdk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-4_R33563) |
+| Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Hyderabad-TG-IND/Sr-Cloud-Operations-Analyst_JR8693) |
 
 ## About This Role
 
-This business analyst position at Amadeus was posted on 2026-03-02.
+This devops engineer position at CDK was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

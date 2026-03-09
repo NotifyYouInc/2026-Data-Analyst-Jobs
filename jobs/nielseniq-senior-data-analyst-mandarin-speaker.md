@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# (Senior) Data Analyst, Mandarin Speaker at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112085747-senior-data-analyst-mandarin-speaker) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This data analyst position at NielsenIQ was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

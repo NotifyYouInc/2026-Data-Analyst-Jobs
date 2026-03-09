@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Senior Analyst, Dynamic Fulfillment at Kenvue
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Karnataka, IN |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Senior-Analyst--Dynamic-Fulfillment_2607042864W) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This data analyst position at Kenvue was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

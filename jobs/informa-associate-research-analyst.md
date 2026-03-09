@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Associate Research Analyst at Informa
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Myanmar |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000112078437-associate-research-analyst) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This data analyst position at Informa was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

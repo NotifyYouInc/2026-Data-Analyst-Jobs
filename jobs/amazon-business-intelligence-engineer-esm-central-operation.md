@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Business Intelligence Engineer , ESM Central Operation at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3192521/business-intelligence-engineer-esm-central-operation) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This data analyst position at Amazon was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

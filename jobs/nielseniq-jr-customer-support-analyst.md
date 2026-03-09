@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Jr. Customer Support Analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
+| Category | Customer Success |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112087607-jr-customer-support-analyst) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This customer success position at NielsenIQ was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

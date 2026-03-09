@@ -1,16 +1,16 @@
-# Analyst - Customer Success Generalist  at NielsenIQ
+# FX Operations Analyst - Markets at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112050967-analyst-customer-success-generalist) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Mumbai-One-World-Center/FX-Operations-Analyst---Markets_R0116890-1) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-03-01.
+This customer success position at LSEG was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

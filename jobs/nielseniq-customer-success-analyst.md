@@ -1,4 +1,4 @@
-# Analyst - Customer Success Generalist  at NielsenIQ
+# Customer Success Analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Budapest, Budapest, Hungary |
 | Category | Customer Success |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112050967-analyst-customer-success-generalist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112050301-customer-success-analyst) |
 
 ## About This Role
 

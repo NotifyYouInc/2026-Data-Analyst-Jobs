@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Senior DTC Growth Analytics Specialist - Singapore at Plaud
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Plaud](https://scoutify.ai/companies/plaud?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaud/d390b8dc-5d17-4e93-aa98-73d6f3568560) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This data analyst position at Plaud was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

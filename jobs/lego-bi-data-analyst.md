@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# BI - Data Analyst at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Vietnam |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000095020) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Tan-Uyen-Binh-Duong/BI---Data-Analyst_0000032345) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-03-02.
+This data analyst position at LEGO was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

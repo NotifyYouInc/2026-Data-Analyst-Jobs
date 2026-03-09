@@ -6,7 +6,7 @@
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Business Analyst |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011869676-allergan-aesthetics-business-intelligence-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011872236-allergan-aesthetics-business-intelligence-analyst) |
 
 ## About This Role
 

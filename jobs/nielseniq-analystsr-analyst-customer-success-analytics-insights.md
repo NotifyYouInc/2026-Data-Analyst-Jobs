@@ -1,16 +1,16 @@
-# Analyst - Customer Success Generalist  at NielsenIQ
+# Analyst/Sr Analyst - Customer Success (Analytics & Insights) at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112050967-analyst-customer-success-generalist) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112084667-analystsr-analyst-customer-success-analytics-insights) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-03-01.
+This customer success position at NielsenIQ was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
