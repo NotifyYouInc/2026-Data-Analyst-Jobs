@@ -5,12 +5,12 @@
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Intelligence-Analyst_R100283-1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Intelligence-Analyst_R100286-1) |
 
 ## About This Role
 
-This data analyst position at Regions Bank was posted on 2026-02-23.
+This data analyst position at Regions Bank was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

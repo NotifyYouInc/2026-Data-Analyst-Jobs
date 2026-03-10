@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Legal |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/06c50fb4-5fca-4486-936b-b5dd4c661525) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/175cb74d-4886-40a4-b22e-2d7a6ed5c95c) |
 
 ## About This Role
 
-This legal position at Jerry.ai was posted on 2026-02-24.
+This legal position at Jerry.ai was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

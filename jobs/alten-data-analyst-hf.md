@@ -1,16 +1,16 @@
-# Data Analyst H/F at ALTEN
+# Data Analyst (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Saint-Priest, Rhône-Alpes, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Data Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110340706-data-analyst-hf) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000112110331-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at ALTEN was posted on 2026-02-20.
+This data analyst position at ALTEN was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sales-Operations-Analyst_R27379) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Sydney/Sales-Operations-Analyst_R27609) |
 
 ## About This Role
 
-This operations position at CrowdStrike was posted on 2026-02-27.
+This revenue / sales operations position at CrowdStrike was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

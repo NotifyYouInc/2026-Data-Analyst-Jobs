@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111848505-analyst-supply-lead-operations-spain) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112174427-analyst-supply-lead-operations-spain) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-27.
+This business analyst position at Delivery Hero was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

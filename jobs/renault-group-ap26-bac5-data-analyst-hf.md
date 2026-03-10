@@ -1,16 +1,16 @@
-# AP26 BAC+5 - Data Analyst (H/F) at Renault Group
+# AP26 - BAC+5 - Data Analyst (H/F) at Renault Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | France |
+| Location | Guyancourt, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Flins/AP26-BAC-5---Data-Analyst--H-F-_JOBREQ_50249761) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/AP26---BAC-5---Data-Analyst--H-F-_JOBREQ_50248935) |
 
 ## About This Role
 
-This data analyst position at Renault Group was posted on 2026-02-26.
+This data analyst position at Renault Group was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

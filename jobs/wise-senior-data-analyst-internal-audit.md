@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109956265-senior-data-analyst-internal-audit) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112231217-senior-data-analyst-internal-audit) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-02-18.
+This accounting position at WISE was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

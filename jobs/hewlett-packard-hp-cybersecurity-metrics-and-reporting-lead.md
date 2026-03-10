@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cybersecurity-Metrics-and-Reporting-Lead_3156024-2) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Cybersecurity-Engineer_3147572-2) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard (HP) was posted on 2026-02-23.
+This data analyst position at Hewlett Packard (HP) was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

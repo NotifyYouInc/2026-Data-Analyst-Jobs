@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Eswatini |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/The-Offices-Complex-Corner-MR103-Road--Swaki-Street-Ezulwini-H103/Business-Intelligence-Analyst_R42088) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Business-Intelligence-Analyst_R46647) |
 
 ## About This Role
 
-This data analyst position at FirstRand was posted on 2026-02-27.
+This data analyst position at FirstRand was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

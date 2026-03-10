@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Financial-Planning---Analysis-Analyst---Controlling-Practice---Operations_R0116916) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/FP-A-Analytics-Specialist---CP-O_R0109834) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-02-27.
+This corporate finance position at Hitachi was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

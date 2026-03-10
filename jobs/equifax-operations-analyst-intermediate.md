@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Operations-Analyst---Intermediate_J00174925-1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Operations-Analyst---Intermediate_J00175050) |
 
 ## About This Role
 
-This business analyst position at Equifax was posted on 2026-02-24.
+This business analyst position at Equifax was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

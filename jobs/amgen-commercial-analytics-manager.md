@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Deerfield, Illinois, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---IL---Deerfield/Commercial-Analytics-Manager_R-232598-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Analyst |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Commercial-Analytics-Manager_R-237890) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-02-04.
+This data analyst position at Amgen was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sodexo](https://scoutify.ai/companies/sodexo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Western Australia, AU |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sodexo/744000111733205-data-analyst-part-time-max-term-balcatta-support-centre) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sodexo/744000112299597-data-analyst-part-time-max-term-balcatta-support-centre) |
 
 ## About This Role
 
-This data analyst position at Sodexo was posted on 2026-02-27.
+This data analyst position at Sodexo was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Alberta, CA |
+| Location | British Columbia, CA |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Operations-Analyst_R0016954) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Operations-Analyst_R0017048) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-02-24.
+This business analyst position at CLEAResult was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

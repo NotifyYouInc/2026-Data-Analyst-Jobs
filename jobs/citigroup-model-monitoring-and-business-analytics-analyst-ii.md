@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Model-Monitoring-and-Business-Analytics---Analyst-II_26941139) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Model-Monitoring-and-Business-Analytics---Analyst-II_26941232) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-02-27.
+This data analyst position at Citigroup was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

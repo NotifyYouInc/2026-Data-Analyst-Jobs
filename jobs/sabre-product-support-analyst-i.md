@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Product-Support-Analyst-I_JR107271) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Product-Support-Analyst-I_JR107321) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-02-24.
+This customer success position at Sabre was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

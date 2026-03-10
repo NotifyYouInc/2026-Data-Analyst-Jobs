@@ -5,12 +5,12 @@
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7650069?gh_jid=7650069) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](http://www.hioscar.com/careers/7671657?gh_jid=7671657) |
 
 ## About This Role
 
-This business analyst position at Oscar Health was posted on 2026-02-24.
+This business analyst position at Oscar Health was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

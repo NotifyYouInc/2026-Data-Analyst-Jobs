@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Quebec, CA |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--SAS_R2602927) |
+| Location | 2 locations |
+| Category | Technical Writer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--Automatisation-d-Infrastructure_R2603079) |
 
 ## About This Role
 
-This software engineer position at Desjardins was posted on 2026-02-26.
+This technical writer position at Desjardins was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Querétaro, MX |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-BACK-OFFICES-GLOB-QRO/MEX-HUB-SCIB-Operations-Analyst-II_Req1544615) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Business Analyst |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-BACK-OFFICES-GLOB-QRO/MEX-HUB-SCIB-Operations-Analyst-II_Req1550254) |
 
 ## About This Role
 
-This operations position at Santander was posted on 2026-02-11.
+This business analyst position at Santander was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

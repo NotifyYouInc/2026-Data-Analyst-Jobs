@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000108166243-digital-analytics-manager-app-mfd) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000112165140-digital-analytics-manager-app-mfd) |
 
 ## About This Role
 
-This data analyst position at Redcare Pharmacy was posted on 2026-02-09.
+This data analyst position at Redcare Pharmacy was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
