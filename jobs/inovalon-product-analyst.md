@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pennsylvania, US |
-| Category | UX Researcher |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7641657003) |
+| Category | Data Analyst |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7651130003) |
 
 ## About This Role
 
-This ux researcher position at Inovalon was posted on 2026-02-23.
+This data analyst position at Inovalon was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

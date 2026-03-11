@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Poznań, Greater Poland, Poland |
+| Location | Jacksonville, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/POL-POZN-Virtual/Analyst-Lead--Product-Technical-Support_JR0304250) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Analyst-Lead--Product-Technical-Support_JR0304979) |
 
 ## About This Role
 
-This customer success position at Fidelity National Information Services was posted on 2026-02-19.
+This customer success position at Fidelity National Information Services was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

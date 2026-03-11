@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Project Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000111908655-junior-project-manager-data-analyst) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000112526860-junior-project-manager-data-analyst) |
 
 ## About This Role
 
-This project manager position at Talan was posted on 2026-02-27.
+This technology / it consulting position at Talan was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

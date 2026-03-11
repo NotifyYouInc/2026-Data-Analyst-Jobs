@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107042537-senior-data-operations-analyst) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Data Analyst |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112536037-senior-data-operations-analyst) |
 
 ## About This Role
 
-This operations position at NielsenIQ was posted on 2026-02-03.
+This data analyst position at NielsenIQ was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

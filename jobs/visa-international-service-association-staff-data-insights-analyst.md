@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108259206-staff-data-insights-analyst) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112514317-staff-data-insights-analyst) |
 
 ## About This Role
 
-This machine learning engineer position at Visa International Service Association was posted on 2026-02-09.
+This machine learning engineer position at Visa International Service Association was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

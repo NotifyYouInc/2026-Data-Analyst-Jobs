@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Operations |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111575365-senior-sales-operations-analyst) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112466827-senior-sales-operations-analyst) |
 
 ## About This Role
 
-This operations position at ServiceNow was posted on 2026-02-26.
+This revenue / sales operations position at ServiceNow was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

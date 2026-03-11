@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pennsylvania, US |
-| Category | Operations |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-LB/Customer-Lifecycle-Analyst_R-26874) |
+| Category | Data Analyst |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-LB/Customer-Lifecycle-Analyst_R-27213) |
 
 ## About This Role
 
-This operations position at Varian was posted on 2026-02-16.
+This data analyst position at Varian was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

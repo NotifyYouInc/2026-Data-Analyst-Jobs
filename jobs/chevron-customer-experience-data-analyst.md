@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Marketing |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Customer-Experience-Data-Analyst_R000069224) |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Customer-Experience-Data-Analyst_R000069401) |
 
 ## About This Role
 
-This data analyst position at Chevron was posted on 2026-03-02.
+This marketing position at Chevron was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

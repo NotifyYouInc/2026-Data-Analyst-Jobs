@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581865-consultante-senior-data-analyst) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000112385777-consultante-senior-data-analyst) |
 
 ## About This Role
 
-This business analyst position at SIA was posted on 2026-02-16.
+This technology / it consulting position at SIA was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

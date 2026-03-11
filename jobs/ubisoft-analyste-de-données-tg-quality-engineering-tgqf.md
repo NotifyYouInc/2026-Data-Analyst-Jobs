@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110863585-analyste-de-donnees-tg-quality-engineering-tgqf) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112450847-analyste-de-donnees-tg-quality-engineering-tgqf) |
 
 ## About This Role
 
-This data analyst position at Ubisoft was posted on 2026-02-23.
+This data analyst position at Ubisoft was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

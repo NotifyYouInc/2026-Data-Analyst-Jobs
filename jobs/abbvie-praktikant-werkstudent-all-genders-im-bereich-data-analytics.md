@@ -6,7 +6,7 @@
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011912896-praktikant-werkstudent-all-genders-im-bereich-data-analytics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011917075-praktikant-werkstudent-all-genders-im-bereich-data-analytics) |
 
 ## About This Role
 

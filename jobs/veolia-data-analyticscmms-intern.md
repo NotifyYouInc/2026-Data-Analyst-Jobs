@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hackensack, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000109785876-data-analyticscmms-intern) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112465701-data-analyticscmms-intern) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-02-17.
+This data analyst position at Veolia was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

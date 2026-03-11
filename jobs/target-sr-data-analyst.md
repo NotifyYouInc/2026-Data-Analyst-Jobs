@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst_R0000430512-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Data-Analyst_R0000431223) |
 
 ## About This Role
 
-This data analyst position at Target was posted on 2026-02-26.
+This data analyst position at Target was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

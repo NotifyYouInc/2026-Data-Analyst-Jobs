@@ -1,16 +1,16 @@
-# Reference Data Analyst,  NCT at Deutsche Bank
+# Reference Data Analyst, NCT at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jaipur, Rajasthan, India |
-| Category | Business Analyst |
+| Location | Karnataka, IN |
+| Category | Data Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Reference-Data-Analyst---NCT_R0417850) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Reference-Data-Analyst--NCT_R0408049) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-03-02.
+This data analyst position at Deutsche Bank was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
