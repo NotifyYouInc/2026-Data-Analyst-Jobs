@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | San Diego, California, United States |
 | Category | Operations |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112209114-senior-partner-gtm-sales-operations-analyst) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112427787-senior-partner-gtm-sales-operations-analyst) |
 
 ## About This Role
 
-This operations position at ServiceNow was posted on 2026-03-02.
+This operations position at ServiceNow was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

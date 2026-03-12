@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111483125-skills-intelligence-analyst) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112838308-skills-intelligence-analyst) |
 
 ## About This Role
 
-This data analyst position at ServiceNow was posted on 2026-02-26.
+This data analyst position at ServiceNow was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

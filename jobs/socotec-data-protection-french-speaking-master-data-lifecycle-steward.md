@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ba Dinh, Hanoi, Vietnam |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000110720916-data-protection-french-speaking-master-data-lifecycle-steward) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000112822323-data-protection-french-speaking-master-data-lifecycle-steward) |
 
 ## About This Role
 
-This data analyst position at SOCOTEC was posted on 2026-02-23.
+This data analyst position at SOCOTEC was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

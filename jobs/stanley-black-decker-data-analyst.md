@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tamil Nadu, IN |
+| Location | Mississauga, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Oragadam-Sriperumbudur-Tamil-Nadu-India/Data-Analyst_REQ-1000044764) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Data-Analyst_REQ-1000046212) |
 
 ## About This Role
 
-This data analyst position at Stanley Black & Decker was posted on 2026-02-27.
+This data analyst position at Stanley Black & Decker was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

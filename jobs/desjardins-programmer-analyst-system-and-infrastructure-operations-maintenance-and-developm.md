@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Technical Writer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--Automatisation-d-Infrastructure_R2603079) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Tech-Lead--Infrastructure-progiciels--Gestion-de-risque-de-crdit_R2603324-1) |
 
 ## About This Role
 
-This technical writer position at Desjardins was posted on 2026-03-02.
+This technical writer position at Desjardins was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

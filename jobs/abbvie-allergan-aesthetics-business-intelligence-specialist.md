@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011927046-allergan-aesthetics-business-intelligence-specialist) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011939559-allergan-aesthetics-business-intelligence-specialist) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-03-02.
+This data analyst position at AbbVie was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

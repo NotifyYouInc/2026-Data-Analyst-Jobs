@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Senior-Data-Analyst--Senior-Consultant-_36960) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Senior-Data-Analyst--Senior-Consultant-_36996-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Guidehouse was posted on 2026-03-02.
+This strategy / management consulting position at Guidehouse was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

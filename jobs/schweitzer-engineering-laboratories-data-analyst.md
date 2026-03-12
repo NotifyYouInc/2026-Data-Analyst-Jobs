@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Campinas, São Paulo, Brazil |
+| Location | Pullman, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Brazil---Campinas/Data-Analyst_2026-19560) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst_2026-20184-1) |
 
 ## About This Role
 
-This data analyst position at Schweitzer Engineering Laboratories was posted on 2026-02-04.
+This data analyst position at Schweitzer Engineering Laboratories was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

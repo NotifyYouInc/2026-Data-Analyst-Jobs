@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Marketing |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Marketing-Audience-Management-Sr-Analyst_26940182-1) |
+| Category | Business Analyst |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Marketing-Audience-Management-Sr-Analyst_26944065) |
 
 ## About This Role
 
-This marketing position at Citigroup was posted on 2026-02-24.
+This business analyst position at Citigroup was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

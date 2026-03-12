@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jaipur, Rajasthan, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Regulatory-Operations-Analyst--NCT_R0418481) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Regulatory-Operations-Analyst--NCT_R0419370) |
 
 ## About This Role
 
-This compliance & risk management position at Deutsche Bank was posted on 2026-02-27.
+This compliance & risk management position at Deutsche Bank was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
