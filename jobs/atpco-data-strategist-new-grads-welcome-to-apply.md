@@ -5,12 +5,12 @@
 | Company | [ATPCO](https://scoutify.ai/companies/atpco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ATPCO1/744000112209457-data-strategist-new-grads-welcome-to-apply) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ATPCO1/744000113027323-data-strategist-new-grads-welcome-to-apply) |
 
 ## About This Role
 
-This data analyst position at ATPCO was posted on 2026-03-02.
+This data analyst position at ATPCO was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

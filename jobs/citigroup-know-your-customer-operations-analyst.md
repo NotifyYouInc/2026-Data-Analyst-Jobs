@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Know-Your-Customer-Operations-Analyst_26941739) |
+| Location | Heredia, Heredia Province, Costa Rica |
+| Category | Financial Crimes & AML |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Know-Your-Customer-Operations-Analyst_26942961) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-03-03.
+This financial crimes & aml position at Citigroup was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

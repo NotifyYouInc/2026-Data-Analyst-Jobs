@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5064169007) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5070929007) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at The Trade Desk was posted on 2026-02-26.
+This talent acquisition / recruiting position at The Trade Desk was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

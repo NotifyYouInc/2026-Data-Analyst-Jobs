@@ -5,12 +5,12 @@
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | QA Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Cebu-Philippines/Data-Quality-Analyst_349608-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Cebu-Philippines/Data-Quality-Analyst_351730-1) |
 
 ## About This Role
 
-This qa engineer position at QBE Insurance was posted on 2026-03-03.
+This qa engineer position at QBE Insurance was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

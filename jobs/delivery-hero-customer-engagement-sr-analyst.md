@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Growth Marketing |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112485187-customer-engagement-sr-analyst) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112756576-customer-engagement-sr-analyst) |
 
 ## About This Role
 
-This growth marketing position at Delivery Hero was posted on 2026-03-03.
+This growth marketing position at Delivery Hero was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

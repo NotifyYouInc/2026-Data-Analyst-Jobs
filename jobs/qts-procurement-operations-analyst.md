@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Atlanta-GA/Procurement-Operations-Analyst_R2026-0381-2) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Procurement-Operations-Analyst_R2026-0433-1) |
 
 ## About This Role
 
-This business analyst position at QTS was posted on 2026-02-26.
+This business analyst position at QTS was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
