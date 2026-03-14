@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109660323-data-analystconfiguration-engineer) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000113166436-data-analystconfiguration-engineer) |
 
 ## About This Role
 
-This implementation / professional services position at ALTEN was posted on 2026-02-17.
+This implementation / professional services position at ALTEN was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

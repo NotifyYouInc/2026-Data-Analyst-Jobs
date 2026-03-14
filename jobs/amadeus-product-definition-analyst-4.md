@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
-| Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-4_R33726-1) |
+| Category | Business Analyst |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-4_R32745-1) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-03-03.
+This business analyst position at Amadeus was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

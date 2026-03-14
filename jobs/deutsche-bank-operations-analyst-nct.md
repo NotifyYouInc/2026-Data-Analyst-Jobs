@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Operations-Analyst--NCT_R0416265) |
+| Location | Pune, Maharashtra, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Operations-Analyst--NCT_R0425271) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-02.
+This compliance & risk management position at Deutsche Bank was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

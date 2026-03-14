@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
+| Location | Mumbai, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/KYC-Operations-Analyst_26941686) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst-2---Mumbai_25883651) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-03-02.
+This compliance & risk management position at Citigroup was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

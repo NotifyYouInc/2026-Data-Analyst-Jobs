@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000110177417-data-analytics-specialist-eurofins-environment-testing-lancaster-pa) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113197277-data-analytics-specialist-eurofins-environment-testing-lancaster-pa) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-02-19.
+This data analyst position at Eurofins Scientific was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

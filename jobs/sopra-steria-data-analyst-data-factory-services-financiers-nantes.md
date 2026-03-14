@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Data Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110415455-data-analyst-data-factory-services-financiers-nantes) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113244697-data-analyst-data-factory-services-financiers-nantes) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-02-20.
+This data analyst position at Sopra Steria was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

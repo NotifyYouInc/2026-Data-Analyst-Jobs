@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Mumbai---Hiranandani/Senior-Analyst---Insurance-Operations_R_329158) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Noida---Sector-135/Senior-Analyst---Insurance-Operations_R_337471) |
 
 ## About This Role
 
-This business analyst position at Marsh was posted on 2026-02-17.
+This business analyst position at Marsh was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

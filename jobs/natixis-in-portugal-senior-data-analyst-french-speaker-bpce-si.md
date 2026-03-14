@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Portugal |
-| Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000109017600-senior-data-analyst-french-speaker-bpce-si) |
+| Category | Data Analyst |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000113193304-senior-data-analyst-french-speaker-bpce-si) |
 
 ## About This Role
 
-This data engineer position at natixis-in-portugal was posted on 2026-02-12.
+This data analyst position at natixis-in-portugal was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Jaipur, Rajasthan, India |
 | Category | Compliance & Risk Management |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Regulatory-Operations-Analyst--NCT_R0419370) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Regulatory-Operations-Analyst--NCT_R0409842) |
 
 ## About This Role
 

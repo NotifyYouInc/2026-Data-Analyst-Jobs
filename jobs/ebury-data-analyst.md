@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4786961101) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4798565101) |
 
 ## About This Role
 
-This machine learning engineer position at Ebury was posted on 2026-02-20.
+This machine learning engineer position at Ebury was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

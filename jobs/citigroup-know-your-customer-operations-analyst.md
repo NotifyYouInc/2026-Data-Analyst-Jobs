@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Know-Your-Customer-Operations-Analyst_26942961) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Know-Your-Customer-Operations-Analyst_26943804) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-04.
+This financial crimes & aml position at Citigroup was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

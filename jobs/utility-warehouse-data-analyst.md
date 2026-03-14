@@ -1,16 +1,16 @@
-# Data Analyst at Utility Warehouse
+# Data Analyst  at Utility Warehouse
 
 | Field | Details |
 |-------|---------|
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000109925606-data-analyst) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000113152437-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Utility Warehouse was posted on 2026-02-18.
+This data analyst position at Utility Warehouse was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

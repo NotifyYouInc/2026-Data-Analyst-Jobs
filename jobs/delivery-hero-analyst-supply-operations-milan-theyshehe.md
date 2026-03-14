@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112120897-analyst-supply-operations-milan-theyshehe) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113126295-analyst-supply-operations-milan-theyshehe) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-03-02.
+This business analyst position at Delivery Hero was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
