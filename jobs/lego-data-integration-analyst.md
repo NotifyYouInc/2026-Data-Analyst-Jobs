@@ -1,16 +1,16 @@
-# Product Growth Analyst at Meta
+# Data Integration Analyst at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
-| Category | Business Analyst |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Denmark |
+| Category | Data Analyst |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1809724276373034) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Data-Integration-Analyst_0000032143) |
 
 ## About This Role
 
-This business analyst position at Meta was posted on 2026-03-07.
+This data analyst position at LEGO was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
