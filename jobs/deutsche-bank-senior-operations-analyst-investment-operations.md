@@ -1,12 +1,12 @@
-# Operations Analyst at Deutsche Bank
+# Senior Operations Analyst Investment Operations at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Corporate Finance |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Seoul-Centropolis-Tower-A/Operations-Analyst_R0419867-2) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Japan-Tokyo-Azabudai-Hills-Mori-JP-Tower/Senior-Operations-Analyst-Investment-Operations_R0421139-2) |
 
 ## About This Role
 

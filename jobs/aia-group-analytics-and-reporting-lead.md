@@ -1,16 +1,16 @@
-# Data Analyst II at Astreya
+# Analytics and Reporting Lead at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Philippines |
 | Category | Data Analyst |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Bangalore-India/Data-Analyst-II_R0014896) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-MPI/Analytics-and-Reporting-Lead_JR-64805) |
 
 ## About This Role
 
-This data analyst position at Astreya was posted on 2026-03-08.
+This data analyst position at AIA Group was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

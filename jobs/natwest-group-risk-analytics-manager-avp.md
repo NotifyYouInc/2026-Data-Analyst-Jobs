@@ -1,16 +1,16 @@
-# Business Intelligence Engineer, Amazon at Amazon
+# Risk Analytics Manager, AVP at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3199101/business-intelligence-engineer-amazon) |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Risk-Analytics-Manager--AVP_R-00274533-1) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-03-09.
+This compliance & risk management position at NatWest Group was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

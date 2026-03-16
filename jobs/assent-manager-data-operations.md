@@ -1,16 +1,16 @@
-# Data Analyst 2 at Comcast
+# Manager, Data Operations at Assent
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Analyst-2_R427552) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000113403207-manager-data-operations) |
 
 ## About This Role
 
-This data analyst position at Comcast was posted on 2026-03-09.
+This data analyst position at Assent was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

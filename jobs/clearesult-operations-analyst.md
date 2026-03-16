@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | British Columbia, CA |
+| Location | Nashville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Operations-Analyst_R0017048) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Nashville-TN---828-Royal-Parkway/Operations-Analyst_R0016983) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-03-02.
+This business analyst position at CLEAResult was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

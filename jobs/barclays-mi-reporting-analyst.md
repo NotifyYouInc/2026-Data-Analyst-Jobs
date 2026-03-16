@@ -1,16 +1,16 @@
-# Data Analyst 2 at Comcast
+# MI & Reporting Analyst at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Analyst-2_R427552) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/MI---Reporting-Analyst_JR-0000097812-1) |
 
 ## About This Role
 
-This data analyst position at Comcast was posted on 2026-03-09.
+This data analyst position at Barclays was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

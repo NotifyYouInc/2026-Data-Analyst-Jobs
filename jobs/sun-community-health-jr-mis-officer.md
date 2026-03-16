@@ -1,16 +1,16 @@
-# Data Analyst II at Astreya
+# Jr. MIS Officer at Sun Community Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Company | [Sun Community Health](https://scoutify.ai/companies/suncommunityhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Yangon, Yangon, Myanmar |
 | Category | Data Analyst |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Bangalore-India/Data-Analyst-II_R0014896) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SunCommunityHealth/744000113363757-jr-mis-officer) |
 
 ## About This Role
 
-This data analyst position at Astreya was posted on 2026-03-08.
+This data analyst position at Sun Community Health was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

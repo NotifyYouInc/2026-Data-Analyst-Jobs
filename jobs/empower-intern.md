@@ -1,16 +1,16 @@
-# Data Analyst II at Astreya
+# Intern at Empower
 
 | Field | Details |
 |-------|---------|
-| Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Karnataka, IN |
 | Category | Data Analyst |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Bangalore-India/Data-Analyst-II_R0014896) |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Intern_R0057106) |
 
 ## About This Role
 
-This data analyst position at Astreya was posted on 2026-03-08.
+This data analyst position at Empower was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

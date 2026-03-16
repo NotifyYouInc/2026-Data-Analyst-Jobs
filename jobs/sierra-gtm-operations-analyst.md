@@ -1,16 +1,16 @@
-# Data Analyst II at Astreya
+# GTM Operations Analyst at Sierra
 
 | Field | Details |
 |-------|---------|
-| Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Data Analyst |
+| Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Operations |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Bangalore-India/Data-Analyst-II_R0014896) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/21a4df49-1b95-4fe9-b375-af6cf69c0812) |
 
 ## About This Role
 
-This data analyst position at Astreya was posted on 2026-03-08.
+This operations position at Sierra was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

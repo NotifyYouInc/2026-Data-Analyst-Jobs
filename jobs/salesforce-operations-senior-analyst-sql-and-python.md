@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Not specified |
 | Category | Business Analyst |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Operations-Senior-Analyst--SQL-and-Python-_JR331935-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Operations-Senior-Analyst--SQL-and-Python-_JR331742) |
 
 ## About This Role
 
