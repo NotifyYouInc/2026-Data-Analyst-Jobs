@@ -1,12 +1,12 @@
-# ALT 2026 - Apprenti(e)  Data analyst (ALL GENDER) at Airbus
+# ALT 2026 - Apprenti(e) Data Analyst (ALL GENDER) at Airbus
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Analyst |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/ALT-2026---Apprenti-e---Data-analyst--ALL-GENDER-_JR10395007) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/ALT-2026---Apprenti-e--Data-Analyst--ALL-GENDER-_JR10394643) |
 
 ## About This Role
 

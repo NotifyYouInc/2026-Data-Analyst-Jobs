@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Compliance & Risk Management |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst-2---Mumbai_25883651) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/KYC-Operations-Analyst_25928858) |
 
 ## About This Role
 

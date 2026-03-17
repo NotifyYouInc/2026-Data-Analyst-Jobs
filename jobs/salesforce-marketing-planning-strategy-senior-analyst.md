@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Chicago, Illinois, United States |
 | Category | Marketing |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Marketing-Planning---Strategy-Senior-Analyst_JR322006) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Marketing-Planning---Strategy-Senior-Analyst_JR332344) |
 
 ## About This Role
 
-This marketing position at Salesforce was posted on 2026-02-25.
+This marketing position at Salesforce was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

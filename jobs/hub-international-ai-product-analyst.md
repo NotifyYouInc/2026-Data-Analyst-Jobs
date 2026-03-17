@@ -5,12 +5,12 @@
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Product-Analyst_R0034770) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Product-Analyst_R0035034) |
 
 ## About This Role
 
-This business analyst position at HUB International was posted on 2026-03-02.
+This business analyst position at HUB International was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

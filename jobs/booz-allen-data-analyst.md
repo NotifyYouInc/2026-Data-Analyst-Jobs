@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Carolina, US |
-| Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0234850) |
+| Location | Beavercreek, Ohio, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Data-Analyst_R0235426) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-02-27.
+This technology / it consulting position at Booz Allen was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

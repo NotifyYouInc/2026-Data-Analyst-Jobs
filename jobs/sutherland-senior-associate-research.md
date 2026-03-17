@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000109694585-senior-associate-research) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000113638797-senior-associate-research) |
 
 ## About This Role
 
-This data analyst position at Sutherland was posted on 2026-02-17.
+This data analyst position at Sutherland was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

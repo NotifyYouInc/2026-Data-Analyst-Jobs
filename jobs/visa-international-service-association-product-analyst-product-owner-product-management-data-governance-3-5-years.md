@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Privacy & Data Protection |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112585317-product-analyst-product-owner-product-management-data-governance-3-5-years) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113631747-product-analyst-product-owner-product-management-data-governance-3-5-years) |
 
 ## About This Role
 
-This privacy & data protection position at Visa International Service Association was posted on 2026-03-04.
+This privacy & data protection position at Visa International Service Association was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

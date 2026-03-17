@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Vienna, Vienna, Austria |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112199132-senior-specialist-logistics-performance-rider-staffing) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113427572-senior-specialist-logistics-performance-rider-staffing) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Delivery Hero was posted on 2026-03-02.
+This talent acquisition / recruiting position at Delivery Hero was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

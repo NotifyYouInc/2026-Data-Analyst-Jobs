@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111885396-product-analyst-merchant-information) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113490012-product-analyst-merchant-information) |
 
 ## About This Role
 
-This business analyst position at Visa International Service Association was posted on 2026-02-27.
+This business analyst position at Visa International Service Association was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

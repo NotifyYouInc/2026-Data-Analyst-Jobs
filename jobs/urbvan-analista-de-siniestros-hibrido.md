@@ -5,12 +5,12 @@
 | Company | [Urbvan](https://scoutify.ai/companies/urbvan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Urbvan/744000113032018-analista-de-siniestros-hibrido) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Urbvan/744000113603438-analista-de-siniestros-hibrido) |
 
 ## About This Role
 
-This data analyst position at Urbvan was posted on 2026-03-05.
+This data analyst position at Urbvan was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

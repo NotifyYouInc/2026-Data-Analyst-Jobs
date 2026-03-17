@@ -5,12 +5,12 @@
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000112436909-analyste-experte-intelligence-daffaires-operations) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000113494036-analyste-experte-intelligence-daffaires-operations) |
 
 ## About This Role
 
-This data analyst position at Videotron was posted on 2026-03-03.
+This data analyst position at Videotron was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

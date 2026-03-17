@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kharkiv, Kharkivs’ka Oblast’, Ukraine |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Analyst |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000113105573-senior-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000113188732-senior-data-analyst) |
 
 ## About This Role
 

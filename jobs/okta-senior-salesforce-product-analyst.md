@@ -1,16 +1,16 @@
-# Senior Salesforce Product Analyst at Okta
+# Senior Salesforce Product Analyst  at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7645836?gh_jid=7645836) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7626012?gh_jid=7626012) |
 
 ## About This Role
 
-This business analyst position at Okta was posted on 2026-02-24.
+This business analyst position at Okta was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

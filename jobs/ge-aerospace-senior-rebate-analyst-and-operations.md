@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dubai/Senior-Rebate-Analyst-and-Operations_R5029673-1) |
+| Category | Operations |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dubai/Senior-Rebate-Analyst-and-Operations_R5030050-2) |
 
 ## About This Role
 
-This project manager position at GE Aerospace was posted on 2026-03-02.
+This operations position at GE Aerospace was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

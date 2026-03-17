@@ -5,12 +5,12 @@
 | Company | [Marie Curie](https://scoutify.ai/companies/mariecurie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MarieCurie1/3743990011995495-senior-performance-insight-analyst) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MarieCurie1/3743990012009716-senior-performance-insight-analyst) |
 
 ## About This Role
 
-This data analyst position at Marie Curie was posted on 2026-03-05.
+This data analyst position at Marie Curie was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

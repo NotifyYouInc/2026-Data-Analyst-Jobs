@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Haryana, IN |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/BI-Analyst_r20342) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Barcelona/BI-Analyst_r20390) |
 
 ## About This Role
 
-This data analyst position at Criteo was posted on 2026-03-03.
+This data analyst position at Criteo was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

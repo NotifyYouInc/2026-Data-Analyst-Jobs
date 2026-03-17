@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Product Manager |
+| Location | 3 locations |
+| Category | Business Analyst |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Reporting-and-Analytics-Manager_JR-158850) |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Reporting-and-Analytics-Manager_JR-158650-1) |
 
 ## About This Role
 
-This product manager position at Equinix was posted on 2026-03-06.
+This business analyst position at Equinix was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
