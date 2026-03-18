@@ -5,12 +5,12 @@
 | Company | [Nubank](https://scoutify.ai/companies/nubank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7672410) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7699041) |
 
 ## About This Role
 
-This data analyst position at Nubank was posted on 2026-03-03.
+This data analyst position at Nubank was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

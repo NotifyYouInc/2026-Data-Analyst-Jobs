@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Switzerland |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000112361554-customer-insights-intern) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000113647717-customer-insights-intern) |
 
 ## About This Role
 
-This data analyst position at Sika was posted on 2026-03-03.
+This data analyst position at Sika was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

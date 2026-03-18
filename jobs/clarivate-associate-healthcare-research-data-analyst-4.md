@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Associate-Healthcare-Research---Data-Analyst-4_JREQ135163-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Associate-Healthcare-Research---Data-Analyst-4_JREQ135164) |
 
 ## About This Role
 
-This data analyst position at Clarivate was posted on 2026-03-06.
+This data analyst position at Clarivate was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

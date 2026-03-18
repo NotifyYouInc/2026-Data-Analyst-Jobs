@@ -5,12 +5,12 @@
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000112961768-media-digital-data-analyst-hybrid) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000113777118-media-digital-data-analyst-hybrid) |
 
 ## About This Role
 
-This data analyst position at Greene King was posted on 2026-03-05.
+This data analyst position at Greene King was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

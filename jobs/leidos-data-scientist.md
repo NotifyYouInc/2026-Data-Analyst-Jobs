@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | McLean, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Houston-TX/Data-Scientist_R-00177577) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/9633-McLean-VA-Non-specific-Customer-Site/Data-Scientist_R-00177988) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-03-05.
+This data analyst position at Leidos was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110377781-lead-product-analyst-business-account-management) |
+| Category | Data Analyst |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000113662548-lead-product-analyst-business-account-management) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-02-20.
+This data analyst position at WISE was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

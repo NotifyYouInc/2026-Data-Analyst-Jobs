@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/Operations-Analyst_JR332425) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Operations-Analyst_JR332921) |
 
 ## About This Role
 
-This business analyst position at Salesforce was posted on 2026-03-06.
+This business analyst position at Salesforce was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

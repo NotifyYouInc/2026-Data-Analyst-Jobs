@@ -5,12 +5,12 @@
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000112947667-data-analyst-hf) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000113653453-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at SQLI was posted on 2026-03-05.
+This data analyst position at SQLI was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

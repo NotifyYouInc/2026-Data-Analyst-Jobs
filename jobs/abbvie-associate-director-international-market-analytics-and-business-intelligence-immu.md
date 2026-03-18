@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012017496-associate-director-international-market-analytics-and-business-intelligence-immunology-gastro) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012031356-associate-director-international-market-analytics-and-business-intelligence-immunology-gastro) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-03-06.
+This data analyst position at AbbVie was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Strategy & Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Data-Analyst---Data-Operations_322649-1) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---AHMEDABAD/Data-Analyst---Data-Operations_326039-2) |
 
 ## About This Role
 
-This strategy & operations position at S&P Global was posted on 2026-02-09.
+This data analyst position at S&P Global was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

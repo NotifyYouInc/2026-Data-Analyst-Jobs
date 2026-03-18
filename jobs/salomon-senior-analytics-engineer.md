@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Data Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000113414977-senior-analytics-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000113542257-senior-analytics-engineer) |
 
 ## About This Role
 

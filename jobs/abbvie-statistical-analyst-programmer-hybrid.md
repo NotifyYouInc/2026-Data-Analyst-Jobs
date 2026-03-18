@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011808906-statistical-analyst-programmer-hybrid) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012061146-statistical-analyst-programmer-hybrid) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-02-23.
+This software engineer position at AbbVie was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

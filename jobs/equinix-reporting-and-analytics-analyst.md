@@ -5,12 +5,12 @@
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Reporting-and-Analytics-Analyst_JR-158791) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Reporting-and-Analytics-Analyst_JR-158836) |
 
 ## About This Role
 
-This data analyst position at Equinix was posted on 2026-03-03.
+This data analyst position at Equinix was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

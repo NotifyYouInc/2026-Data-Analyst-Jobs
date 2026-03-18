@@ -1,16 +1,16 @@
-# Data Analyst H/F at Evoriel
+# Data analyst H/F at Evoriel
 
 | Field | Details |
 |-------|---------|
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Data Analyst |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000109580055-data-analyst-hf) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000113765607-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at Evoriel was posted on 2026-02-16.
+This data analyst position at Evoriel was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

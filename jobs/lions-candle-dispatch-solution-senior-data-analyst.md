@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000111337927-senior-data-analyst) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000113723557-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Lions Candle-Dispatch Solution was posted on 2026-02-25.
+This data analyst position at Lions Candle-Dispatch Solution was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

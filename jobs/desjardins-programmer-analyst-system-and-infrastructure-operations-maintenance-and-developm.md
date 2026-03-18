@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Technical Writer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Tech-Lead--Infrastructure-progiciels--Gestion-de-risque-de-crdit_R2603324-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--ETL-Datastage_R2603530-2) |
 
 ## About This Role
 
-This technical writer position at Desjardins was posted on 2026-03-04.
+This technical writer position at Desjardins was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

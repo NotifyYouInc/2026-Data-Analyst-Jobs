@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 5 locations |
-| Category | Qa Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Consumer---Business-Banking-Risk---Customer-Remediation-Quality-Control-Data-Analyst_2025-0022749) |
+| Category | Data Analyst |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Consumer---Business-Banking-Risk---Customer-Remediation-Quality-Control-Data-Analyst_2026-0005245) |
 
 ## About This Role
 
-This qa engineer position at U.S. Bank was posted on 2026-02-03.
+This data analyst position at U.S. Bank was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
