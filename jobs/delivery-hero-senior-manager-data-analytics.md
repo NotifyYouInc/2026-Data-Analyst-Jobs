@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112045687-senior-manager-data-analytics) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114298937-senior-manager-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-03-01.
+This data analyst position at Delivery Hero was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

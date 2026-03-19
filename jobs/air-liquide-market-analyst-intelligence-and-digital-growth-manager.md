@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Growth Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Malaysia-Petaling-Jaya/Market-Analyst--Intelligence-and-Digital-Growth-Manager_R10086897) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Singapore-SGP/Market-Analyst--Intelligence-and-Digital-Growth-Manager_R10087269) |
 
 ## About This Role
 
-This growth marketing position at Air Liquide was posted on 2026-03-09.
+This growth marketing position at Air Liquide was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

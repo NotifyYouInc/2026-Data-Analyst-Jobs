@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000113651928-data-analyst-mfd) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000114067257-data-analyst-mfd) |
 
 ## About This Role
 
-This data analyst position at INPOST was posted on 2026-03-10.
+This data analyst position at INPOST was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

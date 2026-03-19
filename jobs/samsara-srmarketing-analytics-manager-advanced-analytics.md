@@ -1,16 +1,16 @@
-#  Sr.Marketing Analytics Manager - Advanced Analytics at Samsara
+# Sr.Marketing Analytics Manager - Advanced Analytics at Samsara
 
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | California, US |
-| Category | Growth Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7656440?gh_jid=7656440) |
+| Location | Canada |
+| Category | Data Analyst |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7706374?gh_jid=7706374) |
 
 ## About This Role
 
-This growth marketing position at Samsara was posted on 2026-03-09.
+This data analyst position at Samsara was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

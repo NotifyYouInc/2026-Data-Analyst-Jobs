@@ -5,12 +5,12 @@
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Mumbai---Hiranandani/Lead-Specialist---Data-Analytics---Insight_R_339020-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Mumbai---Hiranandani/Lead-Specialist---Data-Analytics---Insight_R_340480-1) |
 
 ## About This Role
 
-This data analyst position at Marsh was posted on 2026-02-25.
+This data analyst position at Marsh was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

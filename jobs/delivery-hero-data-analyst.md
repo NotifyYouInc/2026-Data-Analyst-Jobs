@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110947055-data-analyst) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114296463-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-02-24.
+This data analyst position at Delivery Hero was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

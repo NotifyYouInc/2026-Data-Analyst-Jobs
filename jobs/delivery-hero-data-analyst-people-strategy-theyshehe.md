@@ -6,7 +6,7 @@
 | Location | Barcelona, Catalonia, Spain |
 | Category | Strategy & Operations |
 | Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113658287-data-analyst-people-strategy-theyshehe) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113658437-data-analyst-people-strategy-theyshehe) |
 
 ## About This Role
 

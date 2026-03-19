@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012032976-aa-marketing-analyst) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012092931-aa-marketing-analyst) |
 
 ## About This Role
 
-This marketing position at AbbVie was posted on 2026-03-09.
+This marketing position at AbbVie was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

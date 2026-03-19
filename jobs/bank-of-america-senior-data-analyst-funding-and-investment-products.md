@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Venture Capital |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Analyst--Funding-and-Investment-Products-_26003511) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Analyst--Funding-and-Investment-Products-_26009036) |
 
 ## About This Role
 
-This venture capital position at Bank of America was posted on 2026-02-05.
+This asset management / portfolio management position at Bank of America was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

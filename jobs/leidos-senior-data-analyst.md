@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Woodlawn, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Woodlawn-MD/Senior-Data-Analyst_R-00177007) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Woodlawn-MD/Senior-Data-Analyst_R-00178021) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-02-26.
+This data analyst position at Leidos was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colombia |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113582400-practicante-en-investigacion-de-mercados-analytics) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113739177-practicante-en-investigacion-de-mercados-analytics) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-09.
+This data analyst position at NielsenIQ was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

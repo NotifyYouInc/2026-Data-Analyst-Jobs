@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Senior-Operations-Analyst---Associate_R0428116) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Senior-Operations-Analyst---Associate_R0428115) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-03-09.
+This business analyst position at Deutsche Bank was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

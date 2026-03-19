@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Sao-Paulo/Data-Analyst-II_r20374) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Boston/Data-Analyst-II_r20392) |
 
 ## About This Role
 
-This data analyst position at Criteo was posted on 2026-03-04.
+This data analyst position at Criteo was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

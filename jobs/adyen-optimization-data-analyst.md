@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7571869) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7181026) |
 
 ## About This Role
 
-This data analyst position at Adyen was posted on 2026-02-25.
+This data analyst position at Adyen was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

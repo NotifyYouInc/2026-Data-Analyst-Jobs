@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110254681-kyc-operations-associate-analyst-business) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000114162576-kyc-operations-associate-analyst-business) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-02-19.
+This compliance & risk management position at WISE was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
