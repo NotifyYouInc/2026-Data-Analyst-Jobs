@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Slough, England, United Kingdom |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000108989449-customer-fulfilment-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000114367258-customer-fulfilment-analyst) |
 
 ## About This Role
 
-This operations position at Mattel was posted on 2026-02-12.
+This business analyst position at Mattel was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7616983) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7696633) |
 
 ## About This Role
 
-This data analyst position at MongoDB was posted on 2026-03-03.
+This data analyst position at MongoDB was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

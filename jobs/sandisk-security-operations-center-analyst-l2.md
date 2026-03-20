@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kedah, MY |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000112323803-security-operations-center-analyst-l2) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000114542142-security-operations-center-analyst-l2) |
 
 ## About This Role
 
-This soc & incident response position at SanDisk was posted on 2026-03-03.
+This soc & incident response position at SanDisk was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Product-Analyst_R_049046) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Product-Analyst_R_050384) |
 
 ## About This Role
 
-This data analyst position at Just Eat Takeaway.com was posted on 2026-02-25.
+This data analyst position at Just Eat Takeaway.com was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

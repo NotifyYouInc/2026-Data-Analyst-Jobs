@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Baltimore, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal---Sr-Principal-Data-Analyst-Electronic-Warfare-Systems-Engineer_R10223850) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal---Sr-Principal-Data-Analyst-Electronic-Warfare-Systems-Engineer_R10225747) |
 
 ## About This Role
 
-This data analyst position at Northrop Grumman was posted on 2026-02-24.
+This data analyst position at Northrop Grumman was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

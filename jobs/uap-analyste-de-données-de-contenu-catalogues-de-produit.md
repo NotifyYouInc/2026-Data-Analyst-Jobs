@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000113733292-analyste-de-donnees-de-contenu-catalogues-de-produit) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000114389057-analyste-de-donnees-de-contenu-catalogues-de-produit) |
 
 ## About This Role
 
-This data analyst position at UAP was posted on 2026-03-10.
+This data analyst position at UAP was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

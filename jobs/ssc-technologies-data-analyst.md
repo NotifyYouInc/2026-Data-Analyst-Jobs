@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Bangkok-Thailand/Data-Analyst_R41350) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Data-Scientist_R32997-1) |
 
 ## About This Role
 
-This data analyst position at SS&C Technologies was posted on 2026-02-16.
+This data analyst position at SS&C Technologies was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

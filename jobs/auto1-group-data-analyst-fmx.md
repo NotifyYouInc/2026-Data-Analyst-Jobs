@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000113721253-data-analyst-fmx) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000114390097-data-analyst-fmx) |
 
 ## About This Role
 
-This data analyst position at AUTO1 Group was posted on 2026-03-10.
+This data analyst position at AUTO1 Group was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

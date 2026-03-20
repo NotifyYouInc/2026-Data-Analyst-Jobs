@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Philippines |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000113091317-officer-3-data-analyst-asset-owner-solutions) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000114540907-officer-3-data-analyst-asset-owner-solutions) |
 
 ## About This Role
 
-This asset management / portfolio management position at IQ-EQ was posted on 2026-03-06.
+This asset management / portfolio management position at IQ-EQ was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

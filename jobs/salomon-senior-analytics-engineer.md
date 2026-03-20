@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | New York, US |
 | Category | Data Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000113542257-senior-analytics-engineer) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000114390007-senior-analytics-engineer) |
 
 ## About This Role
 
-This data engineer position at Salomon was posted on 2026-03-09.
+This data engineer position at Salomon was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

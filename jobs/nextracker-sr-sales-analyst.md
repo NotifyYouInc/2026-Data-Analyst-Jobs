@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fremont, California, United States |
-| Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/California---Remote---USA/Sr-Sales-Analyst_NX-3441) |
+| Category | Business Development |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Arizona---Remote---USA/Sr-Sales-Analyst_NX-3601) |
 
 ## About This Role
 
-This account executive position at Nextracker was posted on 2026-02-25.
+This business development position at Nextracker was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

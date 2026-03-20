@@ -5,12 +5,12 @@
 | Company | [Cboe](https://scoutify.ai/companies/cboe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/London-United-Kingdom/Intern---Data---Analytics_R-4313) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/London-United-Kingdom/Intern---Data---Analytics_R-4338) |
 
 ## About This Role
 
-This data analyst position at Cboe was posted on 2026-03-02.
+This data analyst position at Cboe was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

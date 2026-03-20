@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Diego, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113758889-director-of-people-analytics) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000114425628-director-of-people-analytics) |
 
 ## About This Role
 
-This human resources / people ops position at ServiceNow was posted on 2026-03-10.
+This human resources / people ops position at ServiceNow was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
