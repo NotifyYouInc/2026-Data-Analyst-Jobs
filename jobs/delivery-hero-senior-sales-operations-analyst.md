@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113671388-senior-sales-operations-analyst) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114695463-senior-sales-operations-analyst) |
 
 ## About This Role
 
-This revenue / sales operations position at Delivery Hero was posted on 2026-03-10.
+This revenue / sales operations position at Delivery Hero was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

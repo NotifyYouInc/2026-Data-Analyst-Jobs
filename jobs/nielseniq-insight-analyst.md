@@ -1,16 +1,16 @@
-# Insight Analyst at NielsenIQ
+# Insight analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110202270-insight-analyst) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114655180-insight-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-02-19.
+This business analyst position at NielsenIQ was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

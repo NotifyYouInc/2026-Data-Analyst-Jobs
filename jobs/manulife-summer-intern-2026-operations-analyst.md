@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Halifax-Nova-Scotia/Summer-Intern-2026---Operations-Analyst_JR25100200) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Summer-Intern-2026---Operations-Analyst_JR26030895) |
 
 ## About This Role
 
-This business analyst position at Manulife was posted on 2026-03-03.
+This business analyst position at Manulife was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

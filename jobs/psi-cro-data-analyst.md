@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Almaty, Almaty, Kazakhstan |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000112911457-data-analyst) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000114546867-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Psi Cro was posted on 2026-03-05.
+This data analyst position at Psi Cro was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

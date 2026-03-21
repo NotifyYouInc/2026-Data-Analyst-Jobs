@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114297827-senior-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114298987-senior-data-analyst) |
 
 ## About This Role
 

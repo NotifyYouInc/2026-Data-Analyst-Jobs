@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000113979715-support-operations-analyst) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114313868-support-operations-analyst) |
 
 ## About This Role
 
-This customer success position at Entain was posted on 2026-03-11.
+This customer success position at Entain was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

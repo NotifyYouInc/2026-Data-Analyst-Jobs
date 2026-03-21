@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4664275005?gh_jid=4664275005) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4652248005?gh_jid=4652248005) |
 
 ## About This Role
 
-This business analyst position at Inter Carreiras was posted on 2026-03-02.
+This compliance & risk management position at Inter Carreiras was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

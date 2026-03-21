@@ -6,7 +6,7 @@
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Account Manager |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/TH-Front-Office-Bangkok/SBA-Sales---Distribution--Analyst_JR-64913) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/TH-Front-Office-Bangkok/SBA-Sales---Distribution--Analyst_JR-64912) |
 
 ## About This Role
 

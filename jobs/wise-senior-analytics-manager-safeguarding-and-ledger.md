@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109925256-senior-analytics-manager-safeguarding-and-ledger) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000114557538-senior-analytics-manager-safeguarding-and-ledger) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-18.
+This data analyst position at WISE was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7615574794160457989/detail) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7616680007864731957/detail) |
 
 ## About This Role
 
-This data analyst position at TikTok was posted on 2026-03-10.
+This data analyst position at TikTok was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Marketing |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7601901/apply/?gh_jid=7601901) |
+| Location | 2 locations |
+| Category | Growth Marketing |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7701335/apply/?gh_jid=7701335) |
 
 ## About This Role
 
-This marketing position at Formlabs was posted on 2026-02-10.
+This growth marketing position at Formlabs was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

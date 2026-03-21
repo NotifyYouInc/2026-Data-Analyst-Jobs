@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Prague, Prague, Czechia |
 | Category | Data Analyst |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114296463-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114299157-data-analyst) |
 
 ## About This Role
 

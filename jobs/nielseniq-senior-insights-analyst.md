@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oxford, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114029553-senior-insights-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114613957-senior-insights-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-11.
+This business analyst position at NielsenIQ was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
