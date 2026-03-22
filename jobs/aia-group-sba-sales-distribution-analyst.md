@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Account Manager |
+| Category | Channel / Partner Sales |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/TH-Front-Office-Bangkok/SBA-Sales---Distribution--Analyst_JR-64912) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/TH-Front-Office-Bangkok/SBA-Sales---Distribution--Analyst_JR-64919) |
 
 ## About This Role
 
-This account manager position at AIA Group was posted on 2026-03-12.
+This channel / partner sales position at AIA Group was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

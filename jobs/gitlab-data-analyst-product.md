@@ -1,16 +1,16 @@
-# Intern, Data Science at Diageo
+# Data Analyst, Product at GitLab
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Intern--Data-Science_JR1123670) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8455464002) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-03-12.
+This data analyst position at GitLab was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
