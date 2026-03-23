@@ -1,16 +1,16 @@
-# Principal Data Operations Analyst at NielsenIQ
+# Analyst, Product at Standard Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Business Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114900257-principal-data-operations-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000114897767-analyst-product) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-03-16.
+This business analyst position at Standard Bank was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

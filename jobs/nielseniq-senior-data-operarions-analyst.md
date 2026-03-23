@@ -1,16 +1,16 @@
-# Internship Program, Digital Products at Red Bull
+# Senior Data Operarions Analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Data Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114877957-internship-program-digital-products) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114892184-senior-data-operarions-analyst) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-03-16.
+This data analyst position at NielsenIQ was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

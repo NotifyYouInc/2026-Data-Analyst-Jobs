@@ -1,4 +1,4 @@
-# Client reporting analyst at Invesco
+# Sr Client Reporting Analyst at Invesco
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Analyst--Reg-Reporting_R-11788) |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Sr-Client-Reporting-Analyst_R-12583) |
 
 ## About This Role
 

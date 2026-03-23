@@ -1,16 +1,16 @@
-# Client reporting analyst at Invesco
+# Data Analyst / Data Engineer at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Analyst--Reg-Reporting_R-11788) |
+| Category | Software Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/India-Hyderabad/Data-Analyst---Data-Engineer_R-102090-1) |
 
 ## About This Role
 
-This corporate finance position at Invesco was posted on 2026-03-15.
+This software engineer position at Eli Lilly was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

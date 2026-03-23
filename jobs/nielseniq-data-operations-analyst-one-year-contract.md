@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Subang Jaya, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113099297-data-operations-analyst-one-year-contract) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114882878-data-operations-analyst-one-year-contract) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-06.
+This data analyst position at NielsenIQ was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

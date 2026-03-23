@@ -1,16 +1,16 @@
-# Internship Program, Digital Products at Red Bull
+# Intern, Sales Excellence Data Analyst  at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114877957-internship-program-digital-products) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114893933-intern-sales-excellence-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-03-16.
+This data analyst position at Robert Bosch was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

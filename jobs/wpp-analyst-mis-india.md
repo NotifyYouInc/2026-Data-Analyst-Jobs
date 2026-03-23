@@ -1,16 +1,16 @@
-# Data Analyst at S&P Global
+# Analyst - MIS - India at WPP
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Data-Analyst_325521-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8441317002) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-03-15.
+This data analyst position at WPP was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Specialist-SAP BW HANA Analytics at IBM
+# Legal Operations Analyst at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Data Analyst |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Beijing, Beijing, China |
+| Category | Legal |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102740) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Beijing---Guang-Hua/Legal-Operations-Analyst_R_342904) |
 
 ## About This Role
 
-This data analyst position at IBM was posted on 2026-03-16.
+This legal position at Marsh was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

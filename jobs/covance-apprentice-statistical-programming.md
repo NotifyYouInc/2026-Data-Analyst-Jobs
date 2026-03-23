@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Apprentice---Statistical-Programming_26934) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Apprentice---Statistical-Programming_26837) |
 
 ## About This Role
 
-This data analyst position at Covance was posted on 2026-03-06.
+This data analyst position at Covance was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

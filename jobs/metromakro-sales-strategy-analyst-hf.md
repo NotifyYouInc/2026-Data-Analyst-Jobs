@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Strategy & Operations |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000114346787-sales-strategy-analyst-hf) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000114688998-sales-strategy-analyst-hf) |
 
 ## About This Role
 
-This strategy & operations position at METRO/MAKRO was posted on 2026-03-12.
+This strategy & operations position at METRO/MAKRO was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

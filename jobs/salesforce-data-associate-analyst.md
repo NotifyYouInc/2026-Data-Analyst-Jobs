@@ -1,16 +1,16 @@
-# Data Analyst at S&P Global
+# Data Associate Analyst at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Karnataka, IN |
 | Category | Data Analyst |
 | Posted | 2026-03-15 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Data-Analyst_325521-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Data-Associate-Analyst_JR333221) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-03-15.
+This data analyst position at Salesforce was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 
