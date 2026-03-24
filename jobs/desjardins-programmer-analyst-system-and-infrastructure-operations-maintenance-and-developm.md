@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--ETL-Datastage_R2603530-2) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--IaC_R2603598) |
 
 ## About This Role
 
-This technical writer position at Desjardins was posted on 2026-03-10.
+This software engineer position at Desjardins was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

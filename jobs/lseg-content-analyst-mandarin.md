@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuching, Sarawak, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Kuching-Malaysia/Content-Analyst---Mandarin_R0116929-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Kuching-Malaysia/Content-Analyst---Mandarin_R0116932-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-03-09.
+This data analyst position at LSEG was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

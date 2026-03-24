@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Argentina |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States-Illinois-Remote/Real-time-Visual-Analytics-Specialist_R0000039701) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Real-time-Visual-Analytics-Specialist_R0000039775) |
 
 ## About This Role
 
-This data analyst position at Parexel was posted on 2026-03-12.
+This data analyst position at Parexel was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

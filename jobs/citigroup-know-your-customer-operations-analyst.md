@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Know-Your-Customer-Operations-Analyst_26943804) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Know-Your-Customer-Operations-Analyst_26944905) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-05.
+This financial crimes & aml position at Citigroup was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

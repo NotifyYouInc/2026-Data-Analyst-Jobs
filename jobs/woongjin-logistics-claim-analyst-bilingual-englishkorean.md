@@ -6,7 +6,7 @@
 | Location | Plano, Texas, United States |
 | Category | Data Analyst |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114410807-logistics-claim-analyst-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114486587-logistics-claim-analyst-bilingual-englishkorean) |
 
 ## About This Role
 

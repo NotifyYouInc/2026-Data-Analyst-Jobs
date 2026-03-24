@@ -5,12 +5,12 @@
 | Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8450319002?gh_jid=8450319002) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8450337002?gh_jid=8450337002) |
 
 ## About This Role
 
-This business analyst position at Abacus Insights was posted on 2026-03-08.
+This business analyst position at Abacus Insights was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

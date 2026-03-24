@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Not specified |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Product-Support-Analyst-I---VIP_JR107332) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Product-Support-Analyst-I---VIP_JR107476) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-03-04.
+This customer success position at Sabre was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
