@@ -1,16 +1,16 @@
-# Analyst - Customer Success at NielsenIQ
+# Analyst, Customer Success at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Taiwan |
 | Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112153177-analyst-customer-success) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115370507-analyst-customer-success) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-03-02.
+This customer success position at NielsenIQ was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

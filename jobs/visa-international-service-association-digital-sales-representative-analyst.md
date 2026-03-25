@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113595272-digital-sales-representative-analyst) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115307757-digital-sales-representative-analyst) |
 
 ## About This Role
 
-This account executive position at Visa International Service Association was posted on 2026-03-09.
+This account executive position at Visa International Service Association was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

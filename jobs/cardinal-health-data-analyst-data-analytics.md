@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Data-Analyst--Data-Analytics_20175634) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Data-Analyst--Data-Analytics_20177203) |
 
 ## About This Role
 
-This data analyst position at Cardinal Health was posted on 2026-02-20.
+This data analyst position at Cardinal Health was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

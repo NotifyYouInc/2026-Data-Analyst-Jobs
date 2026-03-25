@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Findlay, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Data-Analyst_00020499) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Data-Analyst_00021070) |
 
 ## About This Role
 
-This data analyst position at Marathon Petroleum was posted on 2026-02-18.
+This data analyst position at Marathon Petroleum was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

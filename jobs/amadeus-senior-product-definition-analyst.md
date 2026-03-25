@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Madrid/Senior-Product-Definition-Analyst_R32600) |
+| Category | Product Manager |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Madrid-Head-Office/Senior-Product-Definition-Analyst_R33504-1) |
 
 ## About This Role
 
-This business analyst position at Amadeus was posted on 2026-03-10.
+This product manager position at Amadeus was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

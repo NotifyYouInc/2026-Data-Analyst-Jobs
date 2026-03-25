@@ -6,7 +6,7 @@
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Revenue / Sales Operations |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Lisbon-Portugal/Sales-Operations-Analyst--German-Speaker-_J000694032) |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Lisbon-Portugal/Sales-Operations-Analyst--German-Speaker-_J000695120-1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Growth Strategy Senior Analyst at Fever
+# Growth Strategy Senior Analyst  at Fever
 
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Strategy & Operations |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4802871101) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4813887101) |
 
 ## About This Role
 
-This strategy & operations position at Fever was posted on 2026-03-09.
+This strategy & operations position at Fever was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

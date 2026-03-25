@@ -5,12 +5,12 @@
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Porto, Porto, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000111360695-data-reporting-officer-sg) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000115198557-data-reporting-officer-sg) |
 
 ## About This Role
 
-This data analyst position at natixis-in-portugal was posted on 2026-02-25.
+This data analyst position at natixis-in-portugal was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

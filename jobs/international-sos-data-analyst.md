@@ -1,16 +1,16 @@
-# Data Analyst  at International SOS
+# Data Analyst at International SOS
 
 | Field | Details |
 |-------|---------|
 | Company | [International SOS](https://scoutify.ai/companies/internationalsos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hagerstown, Maryland, United States |
+| Location | El Paso, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InternationalSOSGovernmentMedicalServices/744000114355349-data-analyst) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InternationalSOSGovernmentMedicalServices/744000115198110-data-analyst) |
 
 ## About This Role
 
-This data analyst position at International SOS was posted on 2026-03-12.
+This data analyst position at International SOS was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

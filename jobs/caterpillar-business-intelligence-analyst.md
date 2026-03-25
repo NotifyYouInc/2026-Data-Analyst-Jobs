@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Karnataka, IN |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Business-Intelligence-Analyst_R0000354883) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Business-Intelligence-Analyst_R0000357107) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-03-03.
+This data analyst position at Caterpillar was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

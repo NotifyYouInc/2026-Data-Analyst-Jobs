@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Kennesaw-GA/Sales-Operations-Analyst_R0055409-1) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Operations |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Berlin/Sales-Operations-Analyst_R0055686) |
 
 ## About This Role
 
-This revenue / sales operations position at Wolters Kluwer was posted on 2026-03-12.
+This operations position at Wolters Kluwer was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

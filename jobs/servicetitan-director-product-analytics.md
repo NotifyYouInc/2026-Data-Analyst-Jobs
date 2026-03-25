@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Alberta, CA |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Product-Analytics_JR114135) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Toronto-ON/Director--Product-Analytics_JR114268) |
 
 ## About This Role
 
-This data analyst position at ServiceTitan was posted on 2026-03-13.
+This data analyst position at ServiceTitan was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

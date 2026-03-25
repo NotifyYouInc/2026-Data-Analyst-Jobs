@@ -1,16 +1,16 @@
-# Technology Product Management Senior Analyst Assistant Vice President at Citigroup
+# Technology Product Management Senior Analyst – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology-Product-Management-Senior-Analyst-Assistant-Vice-President_26940939) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Technology-Product-Management-Senior-Analyst---Assistant-Vice-President_26946397) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-03-04.
+This product manager position at Citigroup was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
