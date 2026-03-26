@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | India |
 | Category | Strategy & Operations |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dalian-Liaoning-China/Business-Operations-Analyst_2007575-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Business-Operations-Analyst_2010738) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-02-20.
+This strategy & operations position at Cisco was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

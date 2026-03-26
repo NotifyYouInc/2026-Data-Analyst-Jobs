@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Strategy & Operations |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8463681002) |
+| Location | Ontario, CA |
+| Category | Operations |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8466341002) |
 
 ## About This Role
 
-This strategy & operations position at OpenTable was posted on 2026-03-16.
+This operations position at OpenTable was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

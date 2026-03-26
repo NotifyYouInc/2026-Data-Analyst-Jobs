@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | France |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Data-Analyst---F-H_R0318947-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Moirans/ALTERNANCE---Data-Analyst---F-H_R0320867-1) |
 
 ## About This Role
 
-This data analyst position at Thales was posted on 2026-03-16.
+This data analyst position at Thales was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

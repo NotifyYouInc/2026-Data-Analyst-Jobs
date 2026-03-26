@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114762377-logistics-claim-analyst-bilingual-englishkorean) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115325142-logistics-claim-analyst-bilingual-englishkorean) |
 
 ## About This Role
 
-This data analyst position at Woongjin was posted on 2026-03-13.
+This data analyst position at Woongjin was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

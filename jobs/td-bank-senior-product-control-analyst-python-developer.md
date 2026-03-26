@@ -1,16 +1,16 @@
-# Senior Product Control Analyst ( Python Developer) at TD Bank
+# Senior Product Control Analyst (Python Developer) at TD Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York, US |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Product-Control-Analyst---Python-Developer-_R_1473856) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Product-Control-Analyst--Python-Developer-_R_1479436-1) |
 
 ## About This Role
 
-This software engineer position at TD Bank was posted on 2026-03-05.
+This software engineer position at TD Bank was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

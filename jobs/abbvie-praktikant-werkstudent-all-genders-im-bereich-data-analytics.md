@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012133256-praktikant-werkstudent-all-genders-im-bereich-data-analytics) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012206900-praktikant-werkstudent-all-genders-im-bereich-data-analytics) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-03-13.
+This data analyst position at AbbVie was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

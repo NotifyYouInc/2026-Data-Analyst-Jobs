@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000113284017-data-visualization-developer) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115497078-data-visualization-developer) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-03-06.
+This data analyst position at LinkedIn was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/Team-Leader---Data-Analytics---Visualization--DAV-_R00027919-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Bangalore-India/Team-Leader---Data-Analytics---Visualization--DAV-_R00027979-1) |
 
 ## About This Role
 
-This data analyst position at Environmental Resources Management (ERM) was posted on 2026-02-26.
+This data analyst position at Environmental Resources Management (ERM) was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

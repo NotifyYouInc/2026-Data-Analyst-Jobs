@@ -5,12 +5,12 @@
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/IT-Data-Analyst-II_1629050) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/IT-Data-Analyst-II_1634456) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-02-06.
+This data analyst position at Centene was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

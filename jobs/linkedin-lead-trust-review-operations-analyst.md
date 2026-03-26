@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Trust & Safety |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110009965-lead-trust-review-operations-analyst) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115545667-lead-trust-review-operations-analyst) |
 
 ## About This Role
 
-This trust & safety position at LinkedIn was posted on 2026-02-18.
+This trust & safety position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

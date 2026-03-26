@@ -5,12 +5,12 @@
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Business-Intelligence-Consultant_R2624194) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Business-Intelligence-Consultant_R2624466) |
 
 ## About This Role
 
-This technology / it consulting position at Hartford Financial Services was posted on 2026-02-20.
+This technology / it consulting position at Hartford Financial Services was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

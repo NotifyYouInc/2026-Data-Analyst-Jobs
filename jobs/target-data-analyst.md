@@ -1,16 +1,16 @@
-# Data Analyst at Target
+# data analyst at Target
 
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Data-Analyst_R0000431066) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/data-analyst_R0000432225) |
 
 ## About This Role
 
-This data analyst position at Target was posted on 2026-03-02.
+This data analyst position at Target was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

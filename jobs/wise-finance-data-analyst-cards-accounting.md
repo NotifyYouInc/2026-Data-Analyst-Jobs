@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | Accounting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115151377-finance-data-analyst-cards-accounting) |
+| Category | Corporate Finance |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115395467-finance-data-analyst-cards-accounting) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-03-17.
+This corporate finance position at WISE was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112433332-alternante-chargee-sirh-data-fh) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115578587-alternante-chargee-sirh-data-fh) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-03-03.
+This data analyst position at Veolia was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

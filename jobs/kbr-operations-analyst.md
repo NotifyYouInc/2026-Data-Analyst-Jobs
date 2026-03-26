@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ohio, US |
-| Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Operations-Analyst_R2120266) |
+| Location | Huntsville, Alabama, United States |
+| Category | Business Analyst |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Operations-Analyst_R2120639) |
 
 ## About This Role
 
-This project manager position at KBR was posted on 2026-03-11.
+This business analyst position at KBR was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

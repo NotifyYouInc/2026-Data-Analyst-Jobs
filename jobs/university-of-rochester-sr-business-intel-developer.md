@@ -5,12 +5,12 @@
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Strong-Memorial-Hospital/Sr-Business-Intel-Developer_R269009) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Strong-Memorial-Hospital/Sr-Business-Intel-Developer_R269624) |
 
 ## About This Role
 
-This data analyst position at University of Rochester was posted on 2026-02-25.
+This data analyst position at University of Rochester was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

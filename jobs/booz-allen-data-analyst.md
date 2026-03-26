@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beavercreek, Ohio, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Data-Analyst_R0235426) |
+| Location | McLean, Virginia, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Analyst_R0236169) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-09.
+This data analyst position at Booz Allen was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

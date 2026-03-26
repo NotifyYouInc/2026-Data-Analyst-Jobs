@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 7 locations |
+| Location | 13 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKY-CENTER-DR/Financial-Operations-Analyst-Lead_JR181362-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Financial-Operations-Analyst-Lead_JR185283) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-02-09.
+This corporate finance position at Elevance Health was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
