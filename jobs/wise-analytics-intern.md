@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000114373878-analytics-intern) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115601442-analytics-intern) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-03-12.
+This data analyst position at WISE was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000115328187-travel-program-analyst-ii-business-operations) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000115581877-travel-program-analyst-ii-business-operations) |
 
 ## About This Role
 
-This business analyst position at Western Digital was posted on 2026-03-18.
+This business analyst position at Western Digital was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

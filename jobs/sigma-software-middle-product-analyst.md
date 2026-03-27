@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000114400592-middle-product-analyst) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000115699987-middle-product-analyst) |
 
 ## About This Role
 
-This data analyst position at Sigma Software was posted on 2026-03-12.
+This data analyst position at Sigma Software was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

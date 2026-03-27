@@ -1,16 +1,16 @@
-# Manager, Data Analysis at Capital One
+# Manager -Data Analysis at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Data-Analysis_R236829-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Manager--Data-Analysis_R238325-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-02-26.
+This data analyst position at Capital One was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/KYC-Operations-Analyst_26947724) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/KYC-Operations-Analyst_26947874) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-17.
+This financial crimes & aml position at Citigroup was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

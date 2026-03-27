@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verisure Securitas Direct](https://scoutify.ai/companies/verisure-securitas-direct?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/London-Victoria/Sales-Performance-Analyst_r2026030478-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Brussels/Sales-Performance-Analyst_r2026030570) |
 
 ## About This Role
 
-This business analyst position at Verisure Securitas Direct was posted on 2026-03-17.
+This business analyst position at Verisure Securitas Direct was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

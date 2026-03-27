@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000115295851-analyst-customer-pricing) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000115755077-analyst-customer-pricing) |
 
 ## About This Role
 
-This corporate finance position at Pilot Flying J was posted on 2026-03-17.
+This corporate finance position at Pilot Flying J was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

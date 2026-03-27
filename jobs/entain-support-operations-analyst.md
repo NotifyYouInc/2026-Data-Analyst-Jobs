@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000115363727-support-operations-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000115370137-support-operations-analyst) |
 
 ## About This Role
 

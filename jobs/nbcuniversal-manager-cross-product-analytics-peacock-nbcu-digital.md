@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Universal City, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000112983058-manager-cross-product-analytics-peacock-nbcu-digital) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115754697-manager-cross-product-analytics-peacock-nbcu-digital) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-03-05.
+This data analyst position at NBCUniversal was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

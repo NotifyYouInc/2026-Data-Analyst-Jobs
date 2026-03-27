@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Washington, District of Columbia, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7675578?gh_jid=7675578) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7674785?gh_jid=7674785) |
 
 ## About This Role
 
-This ai / llm engineer position at Cloudflare was posted on 2026-03-13.
+This ai / llm engineer position at Cloudflare was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

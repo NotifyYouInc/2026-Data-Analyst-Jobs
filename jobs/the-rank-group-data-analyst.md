@@ -5,12 +5,12 @@
 | Company | [The Rank Group](https://scoutify.ai/companies/therankgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheRankGroup/744000114419795-data-analyst) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheRankGroup/744000115689347-data-analyst) |
 
 ## About This Role
 
-This data analyst position at The Rank Group was posted on 2026-03-12.
+This data analyst position at The Rank Group was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

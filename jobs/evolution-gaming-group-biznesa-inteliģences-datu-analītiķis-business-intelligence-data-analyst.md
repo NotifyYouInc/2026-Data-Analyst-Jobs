@@ -5,12 +5,12 @@
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Riga, Riga, Latvia |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000110748970-biznesa-inteligences-datu-analitikis-business-intelligence-data-analyst) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000115598724-biznesa-inteligences-datu-analitikis-business-intelligence-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Evolution Gaming Group was posted on 2026-02-23.
+This data analyst position at Evolution Gaming Group was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

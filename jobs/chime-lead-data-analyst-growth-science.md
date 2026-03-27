@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chime](https://scoutify.ai/companies/chime?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8445048002?gh_jid=8445048002) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002) |
 
 ## About This Role
 
-This data analyst position at Chime was posted on 2026-03-05.
+This data analyst position at Chime was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

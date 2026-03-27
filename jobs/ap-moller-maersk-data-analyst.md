@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/IN---Chennai/Data-Analyst_R174450) |
+| Location | Doncaster, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Great-Britain-Doncaster-DN3-3FT/Data-Analyst_R176252-1) |
 
 ## About This Role
 
-This machine learning engineer position at A.P. Moller - Maersk was posted on 2026-03-04.
+This data analyst position at A.P. Moller - Maersk was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

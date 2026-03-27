@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tunisia |
+| Location | Jacksonville, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/TUN-ARIA-150/Analyst-II---Product-Technical-Support_JR0305521) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Product-Technical-Support-Analyst-II_JR0305386) |
 
 ## About This Role
 
-This customer success position at Fidelity National Information Services was posted on 2026-03-12.
+This customer success position at Fidelity National Information Services was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

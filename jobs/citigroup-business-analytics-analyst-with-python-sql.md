@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Business-Analytics-Analyst-with-Python---SQL_26941620) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst-with-Python---SQL_26946451) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-03-03.
+This data analyst position at Citigroup was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

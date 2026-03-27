@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Leadership Development Program |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113733327-niq-early-career-program-stage-analyste-data-business-fh) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115803239-niq-early-career-program-stage-analyste-data-business-fh) |
 
 ## About This Role
 
-This leadership development program position at NielsenIQ was posted on 2026-03-10.
+This leadership development program position at NielsenIQ was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

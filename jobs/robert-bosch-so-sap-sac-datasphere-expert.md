@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114594078-so-sap-sac-datasphere-expert) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115796867-so-sap-sac-datasphere-expert) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-03-13.
+This data analyst position at Robert Bosch was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
