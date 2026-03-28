@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Senior-Technical-Operations-Analyst_R26_0088) |
+| Location | Gurugram, Haryana, India |
+| Category | Customer Success |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Senior-Technical-Operations-Analyst_R26_0988) |
 
 ## About This Role
 
-This software engineer position at Ameriprise Financial was posted on 2026-02-18.
+This customer success position at Ameriprise Financial was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

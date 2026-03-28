@@ -5,12 +5,12 @@
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New Orleans, Louisiana, United States |
 | Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000113160247-data-analyst-health-sciences) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000115903492-data-analyst-health-sciences) |
 
 ## About This Role
 
-This project manager position at J.S. Held was posted on 2026-03-06.
+This project manager position at J.S. Held was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000112442200-senior-data-analyst) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000115935938-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at DocPlanner was posted on 2026-03-03.
+This data analyst position at DocPlanner was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

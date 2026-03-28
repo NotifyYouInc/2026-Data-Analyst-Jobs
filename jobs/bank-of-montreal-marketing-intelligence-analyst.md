@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Marketing-Intelligence-Analyst_R260006280) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Marketing-Intelligence-Analyst_R260009029) |
 
 ## About This Role
 
-This data analyst position at Bank of Montreal was posted on 2026-03-13.
+This data analyst position at Bank of Montreal was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

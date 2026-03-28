@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mooresville, North Carolina, United States |
 | Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Sr-Analyst_JR-02377474) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Sr-Analyst_JR-02372822) |
 
 ## About This Role
 
-This project manager position at Lowe's was posted on 2026-02-20.
+This project manager position at Lowe's was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

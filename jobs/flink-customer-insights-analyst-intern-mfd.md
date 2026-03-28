@@ -5,12 +5,12 @@
 | Company | [Flink](https://scoutify.ai/companies/flink?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000113182478-customer-insights-analyst-intern-mfd) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000115853417-customer-insights-analyst-intern-mfd) |
 
 ## About This Role
 
-This data analyst position at Flink was posted on 2026-03-06.
+This data analyst position at Flink was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

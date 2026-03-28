@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Strategy & Operations |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7661776003) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7661778003) |
 
 ## About This Role
 
-This strategy & operations position at Affirm was posted on 2026-03-17.
+This strategy & operations position at Affirm was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

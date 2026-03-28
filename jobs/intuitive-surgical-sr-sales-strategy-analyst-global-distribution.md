@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Peachtree Corners, Georgia, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000113021297-sr-sales-strategy-analyst-global-distribution) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115908622-sr-sales-strategy-analyst-global-distribution) |
 
 ## About This Role
 
-This strategy & operations position at Intuitive Surgical was posted on 2026-03-05.
+This strategy & operations position at Intuitive Surgical was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

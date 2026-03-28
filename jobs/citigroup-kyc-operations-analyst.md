@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Haryana, IN |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/KYC-Operations-Analyst_26947874) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/KYC-Operations-Analyst_25915007) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-18.
+This financial crimes & aml position at Citigroup was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

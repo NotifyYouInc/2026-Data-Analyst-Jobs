@@ -5,12 +5,12 @@
 | Company | [Flink](https://scoutify.ai/companies/flink?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000115397381-working-student-operational-intelligence-automation) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000115854697-working-student-operational-intelligence-automation) |
 
 ## About This Role
 
-This data analyst position at Flink was posted on 2026-03-18.
+This data analyst position at Flink was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

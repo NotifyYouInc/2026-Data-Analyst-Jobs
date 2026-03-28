@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Senior-Data-Analyst_R-0000142862-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Data-Analyst_R-0000164337) |
 
 ## About This Role
 
-This data analyst position at Royal Bank of Canada was posted on 2026-02-12.
+This data analyst position at Royal Bank of Canada was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

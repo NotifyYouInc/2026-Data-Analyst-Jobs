@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Monterey, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Monterey-CA/Data-Visualization-Engineer_R0234836) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Monterey-CA/Data-Visualization-Engineer_R0236473) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-03-02.
+This data analyst position at Booz Allen was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
