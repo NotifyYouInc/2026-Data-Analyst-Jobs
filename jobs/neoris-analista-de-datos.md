@@ -5,12 +5,12 @@
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4805053101) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4814048101) |
 
 ## About This Role
 
-This data analyst position at Neoris was posted on 2026-03-18.
+This data analyst position at Neoris was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

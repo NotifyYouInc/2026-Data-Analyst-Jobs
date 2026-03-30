@@ -1,16 +1,16 @@
-# Power BI Developer at EVERSANA
+# Procurement Data Analytics & Reporting Specialist at Qnity
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116110537-power-bi-developer) |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hyderabad-Telangana/Procurement-Data-Analytics---Reporting-Specialist_250577W) |
 
 ## About This Role
 
-This data analyst position at EVERSANA was posted on 2026-03-23.
+This data analyst position at Qnity was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

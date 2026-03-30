@@ -1,16 +1,16 @@
-# Power BI Developer at EVERSANA
+# Data Management Specialist at ESAB
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [ESAB](https://scoutify.ai/companies/esab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116110537-power-bi-developer) |
+| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/India-Chennai-Ambattur/Data-Management-Specialist_R0023771) |
 
 ## About This Role
 
-This data analyst position at EVERSANA was posted on 2026-03-23.
+This data analyst position at ESAB was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

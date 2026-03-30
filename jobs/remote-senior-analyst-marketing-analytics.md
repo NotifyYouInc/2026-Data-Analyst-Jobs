@@ -1,16 +1,16 @@
-# Power BI Developer at EVERSANA
+# Senior Analyst, Marketing Analytics at Remote
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116110537-power-bi-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7675020003) |
 
 ## About This Role
 
-This data analyst position at EVERSANA was posted on 2026-03-23.
+This data analyst position at Remote was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

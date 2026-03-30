@@ -1,16 +1,16 @@
-# Power BI Developer at EVERSANA
+# Reporting Analyst at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
 | Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116110537-power-bi-developer) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Sydney---Barangaroo/Reporting-Analyst_R_339842) |
 
 ## About This Role
 
-This data analyst position at EVERSANA was posted on 2026-03-23.
+This data analyst position at Marsh was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Power BI Developer at EVERSANA
+# PowerBI at EVERSANA
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116110537-power-bi-developer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116110958-powerbi) |
 
 ## About This Role
 

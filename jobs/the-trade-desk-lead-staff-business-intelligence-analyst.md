@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irvine, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5044014007) |
+| Location | New York City, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5086371007) |
 
 ## About This Role
 
-This business analyst position at The Trade Desk was posted on 2026-02-05.
+This data analyst position at The Trade Desk was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
