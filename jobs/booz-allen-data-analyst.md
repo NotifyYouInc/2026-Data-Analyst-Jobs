@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Carolina, US |
+| Location | Lexington, Kentucky, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0236212) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Data-Analyst_R0235629) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-03-18.
+This data analyst position at Booz Allen was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

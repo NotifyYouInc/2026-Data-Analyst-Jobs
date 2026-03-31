@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Golden State](https://scoutify.ai/companies/golden-state?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/goldenstate/jobs/7604104) |
+| Category | Data Analyst |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/goldenstate/jobs/7743334) |
 
 ## About This Role
 
-This business development position at Golden State was posted on 2026-02-10.
+This data analyst position at Golden State was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

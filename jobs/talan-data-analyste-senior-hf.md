@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115715337-data-analyste-senior-hf) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000116231189-data-analyste-senior-hf) |
 
 ## About This Role
 
-This data analyst position at Talan was posted on 2026-03-19.
+This data analyst position at Talan was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

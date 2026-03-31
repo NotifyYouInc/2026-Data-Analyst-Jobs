@@ -5,12 +5,12 @@
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Analyst--Product-Innovation_R041746) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Analyst--Product-Innovation_R041745) |
 
 ## About This Role
 
-This business analyst position at Ensemble Health Partners was posted on 2026-03-09.
+This business analyst position at Ensemble Health Partners was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

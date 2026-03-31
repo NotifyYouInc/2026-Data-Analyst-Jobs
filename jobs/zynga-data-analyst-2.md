@@ -5,12 +5,12 @@
 | Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5805690004) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5814570004) |
 
 ## About This Role
 
-This machine learning engineer position at Zynga was posted on 2026-02-18.
+This machine learning engineer position at Zynga was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

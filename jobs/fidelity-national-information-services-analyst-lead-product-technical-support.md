@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Analyst-Lead--Product-Technical-Support_JR0305519) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-PIE-11601/Analyst-Lead--Product-Technical-Support_JR0305389) |
 
 ## About This Role
 
-This customer success position at Fidelity National Information Services was posted on 2026-03-19.
+This customer success position at Fidelity National Information Services was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

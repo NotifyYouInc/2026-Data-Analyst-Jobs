@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Quebec, CA |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-fonctionnel-ou-analyste-fonctionnelle_R2603881) |
+| Category | Technical Writer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-fonctionnel-ou-analyste-fonctionnelle_R2604137-1) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-03-19.
+This technical writer position at Desjardins was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

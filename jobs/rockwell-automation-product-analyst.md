@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Product-Analyst_R26-1797) |
+| Category | Software Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Product-Analyst_R25-10193) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-03-17.
+This software engineer position at Rockwell Automation was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

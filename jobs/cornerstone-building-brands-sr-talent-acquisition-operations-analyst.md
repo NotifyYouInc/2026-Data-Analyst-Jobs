@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cary, North Carolina, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990012011596-sr-talent-acquisition-operations-analyst) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990012263958-sr-talent-acquisition-operations-analyst) |
 
 ## About This Role
 
-This human resources / people ops position at Cornerstone Building Brands was posted on 2026-03-06.
+This human resources / people ops position at Cornerstone Building Brands was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

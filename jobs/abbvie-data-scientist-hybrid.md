@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012232591-data-scientist-hybrid) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012243611-data-scientist-hybrid) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-03-19.
+This data analyst position at AbbVie was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

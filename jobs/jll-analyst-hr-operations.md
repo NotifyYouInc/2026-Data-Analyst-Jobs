@@ -1,16 +1,16 @@
-# Analyst - HR Operations at JLL
+# Analyst- HR Operations at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Analyst---HR-Operations_REQ480929) |
+| Location | Gurugram, Haryana, India |
+| Category | Human Resources / People Ops |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst--HR-Operations_REQ489913) |
 
 ## About This Role
 
-This operations position at JLL was posted on 2026-02-04.
+This human resources / people ops position at JLL was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
