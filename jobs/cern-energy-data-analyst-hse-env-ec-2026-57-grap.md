@@ -5,12 +5,12 @@
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Switzerland |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000114570725-energy-data-analyst-hse-env-ec-2026-57-grap) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000116447427-energy-data-analyst-hse-env-ec-2026-57-grap) |
 
 ## About This Role
 
-This data analyst position at CERN was posted on 2026-03-13.
+This data analyst position at CERN was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

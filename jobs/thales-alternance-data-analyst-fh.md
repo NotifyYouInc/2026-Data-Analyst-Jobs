@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Élancourt, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse/ALTERNANCE---Data-Analyst---F-H_R0321206-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/ALTERNANCE---Data-Analyst---F-H_R0319979) |
 
 ## About This Role
 
-This data analyst position at Thales was posted on 2026-03-20.
+This data analyst position at Thales was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

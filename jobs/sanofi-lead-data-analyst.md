@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Lead-Data-Analyst_R2839934-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Lead-Data-Analyst_R2849526) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-02-05.
+This data analyst position at Sanofi was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

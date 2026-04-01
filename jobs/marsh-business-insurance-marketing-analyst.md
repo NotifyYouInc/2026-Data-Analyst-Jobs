@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 18 locations |
-| Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Alpharetta---2520-Northwinds/Business-Insurance-Marketing-Analyst_R_339269) |
+| Location | 5 locations |
+| Category | Marketing |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Orland-Park---Orland/Business-Insurance-Marketing-Analyst_R_345263-1) |
 
 ## About This Role
 
-This business analyst position at Marsh was posted on 2026-02-06.
+This marketing position at Marsh was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/Human-Capital-Data-Analyst_R0236708) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-02-18.
+This data analyst position at Booz Allen was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

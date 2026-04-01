@@ -5,12 +5,12 @@
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000109707806-senior-product-analyst-100-remote-friendly-within-spain) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000116395667-senior-product-analyst-100-remote-friendly-within-spain) |
 
 ## About This Role
 
-This data analyst position at DocPlanner was posted on 2026-02-17.
+This data analyst position at DocPlanner was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

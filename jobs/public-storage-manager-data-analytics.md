@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000109817371-manager-data-analytics) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000116504157-manager-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Public Storage was posted on 2026-02-17.
+This data analyst position at Public Storage was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

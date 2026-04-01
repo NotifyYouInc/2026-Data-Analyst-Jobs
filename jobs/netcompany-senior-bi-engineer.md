@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000111875272-senior-bi-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000116431822-senior-bi-engineer) |
 
 ## About This Role
 
-This data analyst position at Netcompany was posted on 2026-02-27.
+This data analyst position at Netcompany was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines---Makati/Senior-Analyst--Supply-Planning--New-Product-Development-_32431) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines---Makati/Senior-Analyst--Supply-Planning--New-Product-Development-_32481) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-03-13.
+This business analyst position at SC Johnson was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

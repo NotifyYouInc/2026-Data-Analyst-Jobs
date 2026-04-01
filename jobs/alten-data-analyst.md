@@ -1,16 +1,16 @@
-# DATA Analyst at ALTEN
+# Data Analyst at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fes, Fès-Meknès, Morocco |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115620622-data-analyst) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000116447986-data-analyst) |
 
 ## About This Role
 
-This data analyst position at ALTEN was posted on 2026-03-19.
+This data analyst position at ALTEN was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

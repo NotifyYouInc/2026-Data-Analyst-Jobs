@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
-| Category | Operations |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Customer-Supply-Chain-Sr-Analyst_JR30113-1) |
+| Category | Business Analyst |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Customer-Supply-Chain-Sr-Analyst_JR30495) |
 
 ## About This Role
 
-This operations position at Chamberlain Group was posted on 2026-02-02.
+This business analyst position at Chamberlain Group was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

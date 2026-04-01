@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kansas, US |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Leavenworth-KS/Operations-Warfighting-Analyst_R0235877) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Leavenworth-KS/Operations-Warfighting-Analyst_R0236640) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-03-11.
+This strategy / management consulting position at Booz Allen was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

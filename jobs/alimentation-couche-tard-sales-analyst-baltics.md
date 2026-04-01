@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Tallinn/Sales-Analyst-Baltics_R572809) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Vilnius/Sales-Analyst-Baltics_R574096) |
 
 ## About This Role
 
-This data analyst position at Alimentation Couche-Tard was posted on 2026-03-19.
+This data analyst position at Alimentation Couche-Tard was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
