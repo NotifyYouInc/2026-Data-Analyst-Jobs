@@ -2,13 +2,13 @@
 
 > Updated daily with the latest data analyst job postings from 8,800+ companies.
 
-This repository is automatically updated with data analyst job listings sourced from [Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs). Jobs shown here were posted 7+ days ago.
+This repository is automatically updated with data analyst job listings sourced from [Scoutify](https://scoutify.com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs). Jobs shown here were posted 7+ days ago.
 
-**Want real-time alerts?** [Get instant notifications on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) when new jobs are posted.
+**Want real-time alerts?** [Get instant notifications on Scoutify](https://scoutify.com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) when new jobs are posted.
 
 ## How It Works
 
-- Jobs are sourced from [Scoutify](https://scoutify.ai), which monitors 8,800+ company career pages
+- Jobs are sourced from [Scoutify](https://scoutify.com), which monitors 8,800+ company career pages
 - This repo is updated daily via GitHub Actions
 - Each job is stored as an individual markdown file in the `jobs/` directory
 - Jobs older than 30 days are automatically removed
@@ -25,7 +25,7 @@ All jobs are in the [`jobs/`](./jobs) directory. Each file contains:
 
 These jobs are 7+ days old. For immediate notifications when jobs are posted:
 
-**[Try Scoutify Risk-Free](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - 30-day money-back guarantee
+**[Get Free Alerts on Scoutify](https://scoutify.com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - completely free, no credit card needed
 
 ## Related Repositories
 
@@ -51,4 +51,4 @@ These jobs are 7+ days old. For immediate notifications when jobs are posted:
 
 ---
 
-*Data sourced from [Scoutify](https://scoutify.ai) | Jobs are 7+ days old | Updated daily*
+*Data sourced from [Scoutify](https://scoutify.com) | Jobs are 7+ days old | Updated daily*
