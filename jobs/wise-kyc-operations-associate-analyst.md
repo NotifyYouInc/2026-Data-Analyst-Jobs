@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115370570-kyc-operations-associate-analyst) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000116579747-kyc-operations-associate-analyst) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-03-18.
+This financial crimes & aml position at WISE was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

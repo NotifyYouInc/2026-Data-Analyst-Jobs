@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Miami, Florida, United States |
-| Category | Operations |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---Florida---Miami/Senior-Revenue-Operations-Analyst_R-102426) |
+| Location | 2 locations |
+| Category | Corporate Finance |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---Florida---Miami/Senior-Revenue-Operations-Analyst_R-104339) |
 
 ## About This Role
 
-This operations position at Expedia was posted on 2026-02-16.
+This corporate finance position at Expedia was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/Intern-2026---MTB-Operations-Improvement-Engineer_JR91324) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/Intern-2026---MTB-Operations-Improvement-Engineer_JR91340) |
 
 ## About This Role
 
-This data analyst position at Micron was posted on 2026-03-23.
+This data analyst position at Micron was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

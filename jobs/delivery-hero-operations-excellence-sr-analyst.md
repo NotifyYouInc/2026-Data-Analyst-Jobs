@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Miraflores, Lima region, Peru |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114742838-operations-excellence-sr-analyst) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000116706368-operations-excellence-sr-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-03-13.
+This business analyst position at Delivery Hero was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

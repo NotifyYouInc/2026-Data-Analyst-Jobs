@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SurveyMonkey](https://scoutify.ai/companies/surveymonkey?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Canada |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7612080) |
+| Location | 2 locations |
+| Category | Marketing |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7755137) |
 
 ## About This Role
 
-This operations position at SurveyMonkey was posted on 2026-02-12.
+This marketing position at SurveyMonkey was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
-| Category | Marketing |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Analyst_R261571-1) |
+| Location | 4 locations |
+| Category | Data Analyst |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Analyst_R262472-1) |
 
 ## About This Role
 
-This marketing position at Uline was posted on 2026-02-24.
+This data analyst position at Uline was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

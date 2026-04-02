@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ConvaTec Group](https://scoutify.ai/companies/convatec-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Deeside, Wales, United Kingdom |
+| Location | Michalovce, Košice Region, Slovakia |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Deeside-Wales/Integrated-Planning-and-Analytics-Lead_JR00018771) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Michalovce-Slovakia/Integrated-Planning-and-Analytics-Lead_JR00019561) |
 
 ## About This Role
 
-This business analyst position at ConvaTec Group was posted on 2026-03-23.
+This business analyst position at ConvaTec Group was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

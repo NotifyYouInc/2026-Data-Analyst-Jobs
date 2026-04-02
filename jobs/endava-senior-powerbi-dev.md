@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Data Analyst |
 | Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000116406559-senior-powerbi-dev) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000116412527-senior-powerbi-dev) |
 
 ## About This Role
 

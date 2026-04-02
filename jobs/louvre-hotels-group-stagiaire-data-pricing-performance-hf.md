@@ -5,12 +5,12 @@
 | Company | [Louvre Hotels Group](https://scoutify.ai/companies/louvrehotelsgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouvreHotelsGroup/744000116230940-stagiaire-data-pricing-performance-hf) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouvreHotelsGroup/744000116596267-stagiaire-data-pricing-performance-hf) |
 
 ## About This Role
 
-This data analyst position at Louvre Hotels Group was posted on 2026-03-23.
+This data analyst position at Louvre Hotels Group was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

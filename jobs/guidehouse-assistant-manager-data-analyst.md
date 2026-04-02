@@ -1,16 +1,16 @@
-# Assistant Manager Data Analyst at Guidehouse
+# Assistant Manager - Data Analyst at Guidehouse
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Program Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Assistant-Manager-Data-Analyst_33912-1) |
+| Category | Data Analyst |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Assistant-Manager---Data-Analyst_37505) |
 
 ## About This Role
 
-This program manager position at Guidehouse was posted on 2026-02-05.
+This data analyst position at Guidehouse was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Project Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Delivery-Analyst--AVP_R-00272709-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Delivery-Analyst--AVP_R-00275558) |
 
 ## About This Role
 
-This project manager position at NatWest Group was posted on 2026-03-17.
+This project manager position at NatWest Group was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

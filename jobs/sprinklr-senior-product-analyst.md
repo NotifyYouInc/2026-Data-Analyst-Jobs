@@ -5,12 +5,12 @@
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Haryana, IN |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Analyst_112719-JOB) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Analyst_112896-JOB-1) |
 
 ## About This Role
 
-This product manager position at Sprinklr was posted on 2026-02-05.
+This product manager position at Sprinklr was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
 | Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000116395123-senior-product-analyst-100-remote-friendly-within-poland) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000116500447-senior-product-analyst-100-remote-friendly-within-poland) |
 
 ## About This Role
 

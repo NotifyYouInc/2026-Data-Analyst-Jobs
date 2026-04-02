@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.payoneer.com/careers/position/7731601/?gh_jid=7731601) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/7699132/?gh_jid=7699132) |
 
 ## About This Role
 
-This software engineer position at Payoneer was posted on 2026-03-23.
+This data analyst position at Payoneer was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

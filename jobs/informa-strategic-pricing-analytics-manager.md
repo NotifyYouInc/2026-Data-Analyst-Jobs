@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Strategy & Operations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000113985035-strategic-pricing-analytics-manager) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000116591468-strategic-pricing-analytics-manager) |
 
 ## About This Role
 
-This strategy & operations position at Informa was posted on 2026-03-11.
+This strategy & operations position at Informa was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

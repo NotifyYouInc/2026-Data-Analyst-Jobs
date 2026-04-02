@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116295517-senior-product-analyst) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116473827-senior-product-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-03-23.
+This business analyst position at NielsenIQ was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
