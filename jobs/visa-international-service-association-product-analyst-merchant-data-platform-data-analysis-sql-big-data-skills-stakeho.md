@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112587007-product-analyst-merchant-data-platform-data-analysis-sql-big-data-skills-stakeholder-management) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117208317-product-analyst-merchant-data-platform-data-analysis-sql-big-data-skills-stakeholder-management) |
 
 ## About This Role
 
-This data analyst position at Visa International Service Association was posted on 2026-03-04.
+This data analyst position at Visa International Service Association was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

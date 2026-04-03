@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | Hampton, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Cocoa-Beach/Data-Analyst-Intern_R0156459) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Hampton/Data-Analyst-Intern_R0157490) |
 
 ## About This Role
 
-This data analyst position at Amentum was posted on 2026-03-13.
+This data analyst position at Amentum was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

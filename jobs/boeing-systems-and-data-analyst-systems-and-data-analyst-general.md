@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/NLD---Amsterdam-Netherlands/Systems-and-Data-Analyst--Systems-and-Data-Analyst-General-_JR2025475974-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/NLD---Amsterdam-Netherlands/Systems-and-Data-Analyst--Systems-and-Data-Analyst-General-_JR2026502848-1) |
 
 ## About This Role
 
-This customer success position at Boeing was posted on 2026-03-23.
+This customer success position at Boeing was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

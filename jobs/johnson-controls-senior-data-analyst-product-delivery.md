@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/Senior-Data-Analyst---Product-Delivery_WD30263864) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Senior-Data-Analyst---Product-Delivery_WD30265408) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-03-20.
+This data analyst position at Johnson Controls was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

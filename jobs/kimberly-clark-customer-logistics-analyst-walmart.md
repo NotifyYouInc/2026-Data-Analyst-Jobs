@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rogers, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-AR-Rogers/Customer-Logistics-Analyst---Walmart_884057-2) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-AR-Rogers/Customer-Logistics-Analyst---Walmart_884573) |
 
 ## About This Role
 
-This business analyst position at Kimberly-Clark was posted on 2026-03-06.
+This business analyst position at Kimberly-Clark was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

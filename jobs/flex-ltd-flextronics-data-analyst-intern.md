@@ -6,7 +6,7 @@
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Analyst |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Data-Analyst-Intern_WD217228) |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Data-Analyst-Intern_WD217226) |
 
 ## About This Role
 

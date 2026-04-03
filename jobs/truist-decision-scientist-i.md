@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Decision-Scientist-I_R0112675) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Decision-Scientist-I_R0112775-1) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-03-23.
+This data analyst position at Truist was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

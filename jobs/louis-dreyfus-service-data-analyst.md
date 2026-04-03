@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000114412715-service-data-analyst) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000116883870-service-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Louis Dreyfus was posted on 2026-03-12.
+This data analyst position at Louis Dreyfus was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

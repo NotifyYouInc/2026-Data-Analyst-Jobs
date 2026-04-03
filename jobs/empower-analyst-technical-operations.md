@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Karnataka, IN |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Analyst-Technical-Operations_R0056268) |
+| Category | Customer Success |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Analyst-Technical-Operations_R0057413) |
 
 ## About This Role
 
-This devops engineer position at Empower was posted on 2026-02-25.
+This customer success position at Empower was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

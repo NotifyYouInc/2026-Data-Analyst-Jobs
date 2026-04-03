@@ -1,16 +1,16 @@
-# Data Science and Analytics Undergraduate - Intern at Intel
+# Data Science and Analytics Undergraduate Intern at Intel
 
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Hillsboro, Oregon, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Taiwan-Taipei/Data-Science-and-Analytics-Undergraduate---Intern_JR0280981-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics-Undergraduate-Intern_JR0280974) |
 
 ## About This Role
 
-This data analyst position at Intel was posted on 2026-02-26.
+This data analyst position at Intel was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

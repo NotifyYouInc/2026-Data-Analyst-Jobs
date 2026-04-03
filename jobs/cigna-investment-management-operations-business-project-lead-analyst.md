@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Investment-Management-Operations---Business-Project-Lead-Analyst_26003102) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Investment-Management-Operations---Business-Project-Lead-Analyst_26003100) |
 
 ## About This Role
 
-This asset management / portfolio management position at Cigna was posted on 2026-03-23.
+This asset management / portfolio management position at Cigna was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

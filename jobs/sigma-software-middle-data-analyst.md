@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000116143022-middle-data-analyst) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000117022547-middle-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Sigma Software was posted on 2026-03-23.
+This data analyst position at Sigma Software was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

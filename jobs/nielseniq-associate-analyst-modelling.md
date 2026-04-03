@@ -1,16 +1,16 @@
-# Associate Analyst - Modelling at NielsenIQ
+# Associate Analyst, Modelling at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116330257-associate-analyst-modelling) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116874992-associate-analyst-modelling) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-24.
+This data analyst position at NielsenIQ was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

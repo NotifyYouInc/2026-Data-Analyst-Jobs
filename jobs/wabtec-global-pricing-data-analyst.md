@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tarragona, Catalonia, Spain |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012216526-global-pricing-data-analyst) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012324331-global-pricing-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Wabtec was posted on 2026-03-19.
+This data analyst position at Wabtec was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

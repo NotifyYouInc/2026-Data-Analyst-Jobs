@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116491437-analista-de-inteligencia-comercial-senior) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116942878-analista-de-inteligencia-comercial-senior) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-03-24.
+This data analyst position at Experian was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

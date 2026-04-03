@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Kuala-Lumpur-Menara-IMC/Cash-Operations-Analyst---NCT_R0430673) |
+| Category | Corporate Finance |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Kuala-Lumpur-Menara-IMC/Cash-Operations-Analyst---NCT_R0421373-1) |
 
 ## About This Role
 
-This compliance & risk management position at Deutsche Bank was posted on 2026-03-25.
+This corporate finance position at Deutsche Bank was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

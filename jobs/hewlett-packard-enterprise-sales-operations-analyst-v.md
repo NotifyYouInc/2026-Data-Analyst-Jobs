@@ -1,16 +1,16 @@
-# Sales Operations Analyst V at Hewlett Packard Enterprise
+# Sales Operations  Analyst V at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Houston-Texas-United-States-of-America/Sales-Operations-Analyst-V_1201537-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Sales-Operations--Analyst-V_1199181) |
 
 ## About This Role
 
-This operations position at Hewlett Packard Enterprise was posted on 2026-02-09.
+This operations position at Hewlett Packard Enterprise was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

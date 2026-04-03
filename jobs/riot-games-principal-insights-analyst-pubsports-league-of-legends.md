@@ -5,12 +5,12 @@
 | Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7737192?gh_jid=7737192) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7752926?gh_jid=7752926) |
 
 ## About This Role
 
-This data analyst position at Riot Games was posted on 2026-03-24.
+This data analyst position at Riot Games was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

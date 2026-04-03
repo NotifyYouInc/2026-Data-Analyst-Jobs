@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102740) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102737) |
 
 ## About This Role
 
-This data analyst position at IBM was posted on 2026-03-16.
+This data analyst position at IBM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

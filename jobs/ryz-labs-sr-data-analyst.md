@@ -1,16 +1,16 @@
-# Sr Data Analyst at RYZ Labs
+# Sr. Data Analyst at RYZ Labs
 
 | Field | Details |
 |-------|---------|
 | Company | [RYZ Labs](https://scoutify.ai/companies/ryz-labs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Argentina |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.lever.co/RyzLabs/5820c4f8-bd30-4f07-810e-92708d20bff2) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.lever.co/RyzLabs/b29f8ca9-0a55-4d8d-8d1d-9668f5c89fa3) |
 
 ## About This Role
 
-This data analyst position at RYZ Labs was posted on 2026-03-03.
+This data analyst position at RYZ Labs was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

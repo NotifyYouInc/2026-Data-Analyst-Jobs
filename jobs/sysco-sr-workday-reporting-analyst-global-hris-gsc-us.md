@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Workday-Reporting-Analyst--Global-HRIS--GSC---US_R232662) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Work-From-Home/Sr-Workday-Reporting-Analyst--Global-HRIS--GSC---US_R244434) |
 
 ## About This Role
 
-This business analyst position at Sysco was posted on 2026-02-09.
+This business analyst position at Sysco was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
