@@ -1,16 +1,16 @@
-# Consultant(e) - Data Analyst at SIA
+# Consultant(e) Data Analyst at SIA
 
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000115910667-consultante-data-analyst) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000117325867-consultante-data-analyst) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-03-20.
+This technology / it consulting position at SIA was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

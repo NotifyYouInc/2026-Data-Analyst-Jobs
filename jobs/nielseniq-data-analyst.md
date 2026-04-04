@@ -1,16 +1,16 @@
-# Data Analyst at NielsenIQ
+# DATA ANALYST at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113109328-data-analyst) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117283727-data-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-06.
+This data analyst position at NielsenIQ was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

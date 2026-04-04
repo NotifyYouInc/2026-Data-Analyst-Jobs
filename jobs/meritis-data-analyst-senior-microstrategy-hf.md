@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000113724618-data-analyst-senior-microstrategy-hf) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000117250526-data-analyst-senior-microstrategy-hf) |
 
 ## About This Role
 
-This data analyst position at Meritis was posted on 2026-03-10.
+This data analyst position at Meritis was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

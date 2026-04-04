@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 15 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Financial-Operations-Analyst_JR2026501558-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Financial-Operations-Analyst_JR2026503111-1) |
 
 ## About This Role
 
-This corporate finance position at Boeing was posted on 2026-03-18.
+This corporate finance position at Boeing was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

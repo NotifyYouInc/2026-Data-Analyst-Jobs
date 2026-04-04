@@ -5,12 +5,12 @@
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cyprus |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000112689821-platform-product-analyst-plg-mixpanel-expert) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000117309294-platform-product-analyst-plg-mixpanel-expert) |
 
 ## About This Role
 
-This data analyst position at Gcore was posted on 2026-03-04.
+This data analyst position at Gcore was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 6 locations |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://sofi.com/careers/job/7677692003?gh_jid=7677692003) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://sofi.com/careers/job/7679134003?gh_jid=7679134003) |
 
 ## About This Role
 
-This machine learning engineer position at SoFi was posted on 2026-03-25.
+This machine learning engineer position at SoFi was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

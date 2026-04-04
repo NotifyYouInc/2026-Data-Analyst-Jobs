@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wiesbaden, Hesse, Germany |
+| Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Data-Analyst_RQ214117-2) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Data-Analyst_RQ217400-1) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-02-03.
+This data analyst position at General Dynamics Information Technology was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

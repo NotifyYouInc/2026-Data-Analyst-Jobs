@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Troy, Michigan, United States |
+| Location | Sant Just Desvern, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011895917-data-analyst) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012350686-data-analyst) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-02-27.
+This data analyst position at MSX International was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

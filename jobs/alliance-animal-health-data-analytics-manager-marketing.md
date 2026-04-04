@@ -5,12 +5,12 @@
 | Company | [Alliance Animal Health](https://scoutify.ai/companies/allianceanimalhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York, US |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000115749678-data-analytics-manager-marketing) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000117366127-data-analytics-manager-marketing) |
 
 ## About This Role
 
-This data analyst position at Alliance Animal Health was posted on 2026-03-19.
+This data analyst position at Alliance Animal Health was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

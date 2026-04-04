@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Analyst-II--Business-Intelligence_R030772) |
+| Category | Data Analyst |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Analyst--Business-Intelligence_R041300) |
 
 ## About This Role
 
-This business analyst position at Ensemble Health Partners was posted on 2026-03-04.
+This data analyst position at Ensemble Health Partners was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

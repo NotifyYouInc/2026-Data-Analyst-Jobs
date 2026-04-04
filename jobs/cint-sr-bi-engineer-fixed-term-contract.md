@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Spain |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000116716847-sr-bi-engineer-fixed-term-contract) |
+| Category | Data Analyst |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000117046626-sr-bi-engineer-fixed-term-contract) |
 
 ## About This Role
 
-This software engineer position at Cint was posted on 2026-03-25.
+This data analyst position at Cint was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

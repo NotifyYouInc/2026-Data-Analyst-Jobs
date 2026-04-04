@@ -5,12 +5,12 @@
 | Company | [voyage prive.com](https://scoutify.ai/companies/voyageprivecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000114560038-data-partner-data-analyst-full-remote-or-hybrid-mfd) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000117245377-data-partner-data-analyst-full-remote-or-hybrid-mfd) |
 
 ## About This Role
 
-This data analyst position at voyage prive.com was posted on 2026-03-13.
+This data analyst position at voyage prive.com was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

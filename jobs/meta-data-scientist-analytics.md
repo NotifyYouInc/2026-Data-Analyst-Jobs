@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Menlo Park, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082033789247908) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/825203213221900) |
 
 ## About This Role
 
-This data analyst position at Meta was posted on 2026-02-27.
+This data analyst position at Meta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

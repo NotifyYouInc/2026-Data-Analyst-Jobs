@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
-| Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000113443375-praktikum-ai-analytics-ref7449m) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000117226738-praktikum-ai-analytics-ref7449m) |
 
 ## About This Role
 
-This data analyst position at Aumovio was posted on 2026-03-09.
+This ai / llm engineer position at Aumovio was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
