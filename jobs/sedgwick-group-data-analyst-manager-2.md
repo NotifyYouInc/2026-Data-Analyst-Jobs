@@ -1,16 +1,16 @@
-# Data Specialist at Caterpillar
+# Data Analyst Manager-2 at Sedgwick Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | East Peoria, Illinois, United States |
+| Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Tennessee, US |
 | Category | Data Analyst |
 | Posted | 2026-03-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Data-Specialist_R0000360456) |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TN/Data-Analyst-Manager-2_R71937) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-03-28.
+This data analyst position at Sedgwick Group was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 
