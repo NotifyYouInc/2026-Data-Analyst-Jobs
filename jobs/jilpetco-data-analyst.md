@@ -1,16 +1,16 @@
-# Senior Data Analyst at H&M Group
+# Data Analyst at Jilpetco
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000117493177-senior-data-analyst) |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/NSC/Data-Analyst_R350651) |
 
 ## About This Role
 
-This data analyst position at H&M Group was posted on 2026-03-29.
+This data analyst position at Jilpetco was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst - Data Operations at S&P Global
+# Data and Analytics Assistant at Conde Nast
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Company | [Conde Nast](https://scoutify.ai/companies/conde-nast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Data Analyst |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Data-Analyst---Data-Operations_326050-1) |
+| Apply | [View on company site](https://condenast.wd5.myworkdayjobs.com/condecareers/job/Keelung-Road-Taipei-TW/Data-and-Analytics-Assistant_R-23490) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-03-30.
+This data analyst position at Conde Nast was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

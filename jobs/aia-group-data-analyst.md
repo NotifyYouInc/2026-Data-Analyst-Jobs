@@ -1,16 +1,16 @@
-# Senior Data Analyst at H&M Group
+# Data Analyst at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000117493177-senior-data-analyst) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Jakarta-ID-AIA-Indonesia/Data-Analyst_JR-65290) |
 
 ## About This Role
 
-This data analyst position at H&M Group was posted on 2026-03-29.
+This data analyst position at AIA Group was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

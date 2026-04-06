@@ -6,7 +6,7 @@
 | Location | Deventer, Overijssel, The Netherlands |
 | Category | Data Analyst |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116936317-bi-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000117060117-bi-specialist) |
 
 ## About This Role
 

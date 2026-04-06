@@ -1,16 +1,16 @@
-# Data & Analytics Manager - DA, VP at NatWest Group
+# Workday Finance Reporting Analyst 1 at RSM
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Project Manager |
+| Category | Technology / IT Consulting |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data---Analytics-Manager---DA--VP_R-00272659) |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Workday-Finance-Reporting-Analyst-1_JR118837) |
 
 ## About This Role
 
-This project manager position at NatWest Group was posted on 2026-03-30.
+This technology / it consulting position at RSM was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Analyst at H&M Group
+# Analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000117493177-senior-data-analyst) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117547039-analyst) |
 
 ## About This Role
 
-This data analyst position at H&M Group was posted on 2026-03-29.
+This data analyst position at NielsenIQ was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
