@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Management-Lead-Analyst---HIH---Evernorth_26002865) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Management-Lead-Analyst---HIH---Evernorth_26003284) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-03-12.
+This product manager position at Cigna was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

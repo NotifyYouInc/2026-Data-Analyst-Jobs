@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Hyderabad, Telangana, India |
 | Category | Strategy & Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Sales-Strategy-Analyst_JR334554) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sales-Strategy-Analyst_JR332728) |
 
 ## About This Role
 
-This strategy & operations position at Salesforce was posted on 2026-03-24.
+This strategy & operations position at Salesforce was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Data Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000107001095-data-analyst-roads-om) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000117649572-data-analyst-roads-om) |
 
 ## About This Role
 
-This data analyst position at Egis was posted on 2026-02-03.
+This data analyst position at Egis was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

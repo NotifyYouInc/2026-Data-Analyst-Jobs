@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guatemala |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012328006-internship-en-data-analysis) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012379016-internship-en-data-analysis) |
 
 ## About This Role
 
-This data analyst position at Grupo Mariposa was posted on 2026-03-26.
+This data analyst position at Grupo Mariposa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

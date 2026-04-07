@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-115-South-Jefferson-Rd-Campus-Whippany/Tax-Operations-Analyst_JR-0000095124) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Tax-Operations-Analyst_JR-0000104551) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-03-09.
+This corporate finance position at Barclays was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

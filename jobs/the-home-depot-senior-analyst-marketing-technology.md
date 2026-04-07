@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Marketing |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Analyst--Marketing-Technology_Req169409-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Analyst--Marketing-Technology_Req174342) |
 
 ## About This Role
 
-This marketing position at The Home Depot was posted on 2026-03-03.
+This marketing position at The Home Depot was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

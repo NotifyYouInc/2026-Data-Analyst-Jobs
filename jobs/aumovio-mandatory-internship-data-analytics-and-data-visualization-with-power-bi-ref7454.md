@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000113447317-mandatory-internship-data-analytics-and-data-visualization-with-power-bi-ref7454z) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000117667863-mandatory-internship-data-analytics-and-data-visualization-with-power-bi-ref7454z) |
 
 ## About This Role
 
-This data analyst position at Aumovio was posted on 2026-03-09.
+This data analyst position at Aumovio was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

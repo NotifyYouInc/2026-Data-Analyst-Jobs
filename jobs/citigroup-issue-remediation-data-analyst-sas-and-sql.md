@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Data-Analytics-Analyst--SAS-SQL_26940689) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Issue-Remediation-Data-Analyst---SAS-and-SQL_26947100) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-03-02.
+This data analyst position at Citigroup was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

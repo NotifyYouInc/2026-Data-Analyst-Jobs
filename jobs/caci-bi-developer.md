@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OK-Oklahoma-City/BI-Developer_323409) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-OK-Oklahoma-City/BI-Developer_323783) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-03-19.
+This data analyst position at CACI was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# FP Prácticas - Análisis de Datos y Sostenibilidad at Acciona
+# FP PRÁCTICAS Análisis de Datos y Sostenibilidad at Acciona
 
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Madrid/FP-Prcticas---Anlisis-de-Datos-y-Sostenibilidad_20091816-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Madrid/FP-PRCTICAS-Anlisis-de-Datos-y-Sostenibilidad_20094608) |
 
 ## About This Role
 
-This data analyst position at Acciona was posted on 2026-02-18.
+This data analyst position at Acciona was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

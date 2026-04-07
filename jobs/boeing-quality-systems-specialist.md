@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Auburn, Washington, United States |
-| Category | QA Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Quality-Systems-Specialist_JR2026493627-2) |
+| Location | North Charleston, South Carolina, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Quality-Systems-Specialist_JR2026502951-2) |
 
 ## About This Role
 
-This qa engineer position at Boeing was posted on 2026-02-10.
+This data analyst position at Boeing was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
