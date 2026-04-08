@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Morristown, Tennessee, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Strategy & Operations |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Digital-R-D-Strategy-and-Operations-Analyst_R2848811) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Digital-R-D-Strategy-and-Operations-Analyst_R2848814) |
 
 ## About This Role
 
-This strategy & operations position at Sanofi was posted on 2026-03-26.
+This strategy & operations position at Sanofi was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Data---Analytics-Analyst---APAC---MEA_540729) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Data---Analytics-Analyst---APAC---MEA_541189) |
 
 ## About This Role
 
-This data analyst position at Haleon was posted on 2026-03-26.
+This data analyst position at Haleon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

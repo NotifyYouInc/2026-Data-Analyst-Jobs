@@ -5,12 +5,12 @@
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Singapore-SGP/Intern_R10087738) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Singapore-SGP/Intern_R10087712) |
 
 ## About This Role
 
-This data analyst position at Air Liquide was posted on 2026-03-24.
+This data analyst position at Air Liquide was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

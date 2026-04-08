@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Data-Analyst_320212) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Riverside/Data-Analyst_324138-1) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-03-26.
+This data analyst position at CACI was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

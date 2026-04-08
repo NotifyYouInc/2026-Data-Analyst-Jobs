@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000113510387-data-analyst-base44-marketing) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000117981997-data-analyst-base44-marketing) |
 
 ## About This Role
 
-This data analyst position at Wix.com was posted on 2026-03-09.
+This data analyst position at Wix.com was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

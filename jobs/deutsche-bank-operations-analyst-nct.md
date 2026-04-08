@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Operations-Analyst--NCT_R0425271) |
+| Category | Business Analyst |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Operations-Analyst--NCT_R0429258) |
 
 ## About This Role
 
-This compliance & risk management position at Deutsche Bank was posted on 2026-03-06.
+This business analyst position at Deutsche Bank was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Accounting---Reporting-Analyst---Account_JR00027247) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst---Account_JR00029214) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-19.
+This corporate finance position at ABB was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

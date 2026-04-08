@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Quebec, CA |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-ou-conseillre-en-valorisation-des-donnes_R2603322) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-en-gouvernance-de-donnes--Assurances-de-dommages_R2604148) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-03-05.
+This data analyst position at Desjardins was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

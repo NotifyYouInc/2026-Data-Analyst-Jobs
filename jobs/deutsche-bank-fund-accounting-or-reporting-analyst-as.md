@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai/Fund-Accounting---or-Reporting-Analyst--AS_R0415258) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Fund-Accounting---or-Reporting-Analyst--AS_R0423532) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-04.
+This corporate finance position at Deutsche Bank was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/825203213221900) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/932816735897786) |
 
 ## About This Role
 
-This data analyst position at Meta was posted on 2026-03-27.
+This machine learning engineer position at Meta was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

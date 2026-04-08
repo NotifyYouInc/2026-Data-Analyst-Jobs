@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Financial Crimes & AML |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000111444095-fincrime-operations-analyst-sanctions-japanese-speaker) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000117988334-fincrime-operations-analyst-sanctions-japanese-speaker) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-02-25.
+This financial crimes & aml position at WISE was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
