@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000107302930-data-analyst-ii) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000118318597-data-analyst-ii) |
 
 ## About This Role
 
-This data analyst position at Carousell was posted on 2026-02-04.
+This data analyst position at Carousell was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

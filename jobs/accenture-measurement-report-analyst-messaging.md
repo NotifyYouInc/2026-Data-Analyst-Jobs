@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Product Marketing |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Measurement---Report-Analyst-Messaging_AIOC-S01634778-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Measurement---Report-Analyst-Messaging_AIOC-S01634735-1) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117593633-data-operations-analyst) |
+| Location | Subang Jaya, Selangor, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118113928-data-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-03-30.
+This data analyst position at NielsenIQ was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

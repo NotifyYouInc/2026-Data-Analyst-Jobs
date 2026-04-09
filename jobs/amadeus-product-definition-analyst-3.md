@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
-| Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R33724) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R32048) |
 
 ## About This Role
 
-This business analyst position at Amadeus was posted on 2026-03-25.
+This strategy / management consulting position at Amadeus was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Lead-Cyber-Operations-Analyst_JR-0000087321) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Lead-Cyber-Operations-Analyst_JR-0000102032-1) |
 
 ## About This Role
 
-This soc & incident response position at Barclays was posted on 2026-03-02.
+This soc & incident response position at Barclays was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

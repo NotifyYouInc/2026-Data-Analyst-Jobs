@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Data-Analyst_R26_0530) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Data-Analyst_R26_0333) |
 
 ## About This Role
 
-This data analyst position at Ameriprise Financial was posted on 2026-02-18.
+This data analyst position at Ameriprise Financial was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

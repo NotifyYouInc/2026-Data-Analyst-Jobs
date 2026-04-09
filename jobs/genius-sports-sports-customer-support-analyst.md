@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genius Sports](https://scoutify.ai/companies/genius-sports?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Antioquia, CO |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7658211003?gh_jid=7658211003) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7686267003?gh_jid=7686267003) |
 
 ## About This Role
 
-This customer success position at Genius Sports was posted on 2026-03-09.
+This customer success position at Genius Sports was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

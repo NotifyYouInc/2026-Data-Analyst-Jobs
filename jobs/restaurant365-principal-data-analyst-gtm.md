@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Restaurant365](https://scoutify.ai/companies/restaurant365?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | 3 locations |
 | Category | Product Marketing |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.lever.co/restaurant365/4223d89d-f694-4158-878d-03c2a8c6ec7a) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.lever.co/restaurant365/ecd5bff3-7bf9-48e7-b685-572c2c4fd1a7) |
 
 ## About This Role
 
-This product marketing position at Restaurant365 was posted on 2026-03-03.
+This product marketing position at Restaurant365 was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113668037-senior-research-executive) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118105047-senior-research-executive) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-10.
+This data analyst position at NielsenIQ was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

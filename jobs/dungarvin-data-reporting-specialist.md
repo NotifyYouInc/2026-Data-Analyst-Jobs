@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Minnesota, US |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000116454889-data-reporting-specialist) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000118194935-data-reporting-specialist) |
 
 ## About This Role
 
-This data analyst position at Dungarvin was posted on 2026-03-24.
+This data analyst position at Dungarvin was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

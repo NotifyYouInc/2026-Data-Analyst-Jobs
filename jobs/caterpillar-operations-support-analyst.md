@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Atlanta-Georgia/Operations-Support-Analyst_R0000353451) |
+| Location | Piracicaba, São Paulo, Brazil |
+| Category | Data Analyst |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Operations-Support-Analyst_R0000346126) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-02.
+This data analyst position at Caterpillar was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

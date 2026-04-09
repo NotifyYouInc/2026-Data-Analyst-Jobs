@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111791612-senior-data-analyst) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000118323877-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-02-27.
+This data analyst position at Grab was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

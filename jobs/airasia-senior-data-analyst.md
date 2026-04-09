@@ -5,12 +5,12 @@
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Senior-Data-Analyst_JR0033368) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/KL-Sentral---Redstation/Senior-Data-Analyst_JR0034447) |
 
 ## About This Role
 
-This data analyst position at Airasia was posted on 2026-02-04.
+This data analyst position at Airasia was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

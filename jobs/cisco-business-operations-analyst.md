@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Strategy & Operations |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Business-Operations-Analyst_2010738) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kuala-Lumpur-Malaysia/Business-Operations-Analyst_2011282) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-03-18.
+This strategy & operations position at Cisco was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

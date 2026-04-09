@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000116449776-senior-product-analyst) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000118262919-senior-product-analyst) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-03-24.
+This business analyst position at WISE was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

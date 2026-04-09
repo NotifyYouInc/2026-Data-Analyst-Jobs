@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000108534535-sales-operations-analyst-planning-performance-team-mwd) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000118104484-sales-operations-analyst-planning-performance-team-mwd) |
 
 ## About This Role
 
-This operations position at AUTO1 Group was posted on 2026-02-10.
+This operations position at AUTO1 Group was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
