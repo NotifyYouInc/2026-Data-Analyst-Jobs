@@ -1,16 +1,16 @@
-# Applied AI & Analytics Associate, Office of the CEO  at SharkNinja
+# Applied AI & Analytics Associate - Office of the CEO  at SharkNinja
 
 | Field | Details |
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4666139006) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669439006) |
 
 ## About This Role
 
-This data analyst position at SharkNinja was posted on 2026-03-24.
+This data analyst position at SharkNinja was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

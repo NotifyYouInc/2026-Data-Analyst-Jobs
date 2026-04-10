@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000115136087-lead-data-analyst-fmd) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000118547577-lead-data-analyst-fmd) |
 
 ## About This Role
 
-This data analyst position at Ignitis Grupe was posted on 2026-03-17.
+This data analyst position at Ignitis Grupe was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

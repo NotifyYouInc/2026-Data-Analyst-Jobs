@@ -5,12 +5,12 @@
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Marketing |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Overton/Commercial-Insurance-Marketing-Analyst_R_333780) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Overton/Commercial-Insurance-Marketing-Analyst_R_346206) |
 
 ## About This Role
 
-This marketing position at Marsh was posted on 2026-03-31.
+This marketing position at Marsh was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

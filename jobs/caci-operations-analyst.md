@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Georgia, US |
-| Category | Project Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-GA-Fort-Moore/Operations-Analyst_324053) |
+| Location | Virginia, US |
+| Category | Business Analyst |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Fort-Belvoir/Operations-Analyst_324226) |
 
 ## About This Role
 
-This project manager position at CACI was posted on 2026-03-30.
+This business analyst position at CACI was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

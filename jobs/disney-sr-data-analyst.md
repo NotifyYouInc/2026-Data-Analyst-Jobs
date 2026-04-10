@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | New York, US |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Analyst_10142881-2) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Data-Analyst_10146985) |
 
 ## About This Role
 
-This data analyst position at Disney was posted on 2026-02-23.
+This data analyst position at Disney was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

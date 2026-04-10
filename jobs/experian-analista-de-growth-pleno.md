@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117049077-analista-de-growth-pleno) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118475121-analista-de-growth-pleno) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-03-26.
+This data analyst position at Experian was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

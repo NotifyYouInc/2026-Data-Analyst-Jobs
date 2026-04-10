@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New Jersey, US |
 | Category | Data Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118010025-data-analyst-bi-focus-bilingual-englishkorean) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118276640-data-analyst-bi-focus-bilingual-englishkorean) |
 
 ## About This Role
 
-This data analyst position at Woongjin was posted on 2026-03-31.
+This data analyst position at Woongjin was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

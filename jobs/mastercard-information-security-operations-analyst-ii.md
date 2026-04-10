@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Information-Security-Operations-Analyst-II_R-272766) |
+| Location | Pune, Maharashtra, India |
+| Category | Security Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Information-Security-Operations-Analyst-II_R-274133) |
 
 ## About This Role
 
-This soc & incident response position at Mastercard was posted on 2026-03-25.
+This security engineer position at Mastercard was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

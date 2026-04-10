@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Virginia, US |
+| Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-VA/Data-Analyst-III-Healthcare-Analytics_1631071) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Analyst-III-Healthcare-Analytics_1636120) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-03-02.
+This data analyst position at Centene was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

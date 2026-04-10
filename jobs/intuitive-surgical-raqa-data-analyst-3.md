@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000112993408-raqa-data-analyst-3) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000118415242-raqa-data-analyst-3) |
 
 ## About This Role
 
-This data analyst position at Intuitive Surgical was posted on 2026-03-05.
+This data analyst position at Intuitive Surgical was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

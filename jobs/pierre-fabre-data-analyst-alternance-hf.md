@@ -5,12 +5,12 @@
 | Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Castres, Occitanie, France |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/Tarn-81/Data-Analyst---Alternance---H-F_JR112200) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/Tarn-81/Data-Analyst---Alternance---H-F_JR112486) |
 
 ## About This Role
 
-This data analyst position at Pierre Fabre was posted on 2026-03-18.
+This data analyst position at Pierre Fabre was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

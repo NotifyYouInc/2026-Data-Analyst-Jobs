@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113241717-analyste-livraison-aux-clients-detaillants-analyst-retail) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118496637-analyste-livraison-aux-clients-detaillants-analyst-retail) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-06.
+This data analyst position at NielsenIQ was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

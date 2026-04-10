@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012331636-data-analyst-ii-data-processing) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012428141-data-analyst-ii-data-processing) |
 
 ## About This Role
 
-This data analyst position at The Nielsen Company was posted on 2026-03-26.
+This data analyst position at The Nielsen Company was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

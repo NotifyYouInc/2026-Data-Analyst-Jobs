@@ -5,12 +5,12 @@
 | Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/BI-Data-Analyst_JR102536-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/London/BI-Data-Analyst_JR102567-1) |
 
 ## About This Role
 
-This data analyst position at Gunvor was posted on 2026-03-17.
+This data analyst position at Gunvor was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

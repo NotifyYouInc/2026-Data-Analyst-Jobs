@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avetta](https://scoutify.ai/companies/avetta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Dallas, Texas, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7679593003) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7688142003) |
 
 ## About This Role
 
-This technology / it consulting position at Avetta was posted on 2026-03-25.
+This technology / it consulting position at Avetta was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
