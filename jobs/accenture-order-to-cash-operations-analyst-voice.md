@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Order-to-Cash-Operations-Analyst-Voice_AIOC-S01635218-1) |
+| Category | Corporate Finance |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Order-to-Cash-Operations-Analyst-Voice_AIOC-S01635692-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-03-31.
+This corporate finance position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

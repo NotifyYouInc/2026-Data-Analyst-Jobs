@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Dallas, Texas, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7685134?gh_jid=7685134) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](http://www.hioscar.com/careers/7778597?gh_jid=7778597) |
 
 ## About This Role
 
-This compliance & risk management position at Oscar Health was posted on 2026-03-05.
+This compliance & risk management position at Oscar Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

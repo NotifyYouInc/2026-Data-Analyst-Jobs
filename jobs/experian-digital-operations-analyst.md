@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118216952-digital-operations-analyst) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118376877-digital-operations-analyst) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-04-01.
+This devops engineer position at Experian was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

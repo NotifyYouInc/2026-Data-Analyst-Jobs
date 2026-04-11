@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | Katowice, Silesia, Poland |
 | Category | Privacy & Data Protection |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/LCS-Business-Intelligence---Data-Governance-Manager_R26-2349) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/LCS-Business-Intelligence---Data-Governance-Manager_R26-2348-1) |
 
 ## About This Role
 
-This privacy & data protection position at Rockwell Automation was posted on 2026-04-01.
+This privacy & data protection position at Rockwell Automation was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
