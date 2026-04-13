@@ -1,16 +1,16 @@
-# eFront Report Writer at Apex Fund Services
+# Content Operations Editor I at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Analyst |
+| Category | Content Marketing |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Mumbai-Nargis-Dutta-Road/eFront-Report-Writer_JR-0021523-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012461545-content-operations-editor-i) |
 
 ## About This Role
 
-This data analyst position at Apex Fund Services was posted on 2026-04-06.
+This content marketing position at The Nielsen Company was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

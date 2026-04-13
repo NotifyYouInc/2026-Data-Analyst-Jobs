@@ -1,16 +1,16 @@
-# Data Analyst at BP
+# Reporting Specialist at Morningstar
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Analyst_RQ107657) |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Reporting-Specialist_AP-23762209-1) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-04-06.
+This data analyst position at Morningstar was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

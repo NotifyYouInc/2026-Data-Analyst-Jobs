@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Lead-Data-Analyst_320313-2) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | ESG / Sustainability |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/PH---MANILA-AYALA-TOWER-ONE/Lead-Data-Analyst_327259-2) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-03-05.
+This esg / sustainability position at S&P Global was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst at BP
+# Research Analyst at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Analyst_RQ107657) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Research-Analyst_326792-2) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-04-06.
+This data analyst position at S&P Global was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

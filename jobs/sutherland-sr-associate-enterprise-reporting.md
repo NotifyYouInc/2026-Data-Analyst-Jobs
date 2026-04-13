@@ -1,16 +1,16 @@
-# Data Analyst at BP
+# Sr. Associate - Enterprise Reporting at Sutherland
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Analyst_RQ107657) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000118829597-sr-associate-enterprise-reporting) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-04-06.
+This data analyst position at Sutherland was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

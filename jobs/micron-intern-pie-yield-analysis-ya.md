@@ -1,16 +1,16 @@
-# Data Analyst at BP
+# Intern - PIE Yield Analysis (YA) at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Analyst_RQ107657) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PIE-Yield-Analysis--YA-_JR96845) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-04-06.
+This data analyst position at Micron was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
