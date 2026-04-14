@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Chicago, Illinois, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bogota-Colombia-ZCL04/Business-Operations-Analyst_R63412) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Operations-Analyst_R62796) |
 
 ## About This Role
 
-This strategy & operations position at Motorola Solutions was posted on 2026-03-27.
+This strategy & operations position at Motorola Solutions was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Laurel, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000112472237-mail-list-analyst-2) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000118857938-mail-list-analyst-2) |
 
 ## About This Role
 
-This data analyst position at R R Donnelley & Sons was posted on 2026-03-03.
+This data analyst position at R R Donnelley & Sons was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

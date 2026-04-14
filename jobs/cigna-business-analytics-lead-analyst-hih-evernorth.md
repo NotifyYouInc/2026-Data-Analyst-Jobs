@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Analytics-Lead-Analyst---HIH---Evernorth_25012487) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Analytics-Lead-Analyst---HIH---Evernorth_25017221) |
 
 ## About This Role
 
-This business analyst position at Cigna was posted on 2026-02-12.
+This business analyst position at Cigna was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Business-Intelligence-Analyst_R0000357107) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Sao-Paulo-So-Paulo/Business-Intelligence-Analyst_R0000360316) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-03-17.
+This data analyst position at Caterpillar was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

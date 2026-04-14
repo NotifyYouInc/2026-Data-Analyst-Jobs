@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taichung, Taiwan, Taiwan |
+| Location | Boise, Idaho, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Yield-Analysis-Engineer_JR92827) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Yield-Analysis-Engineer_JR97009-1) |
 
 ## About This Role
 
-This data analyst position at Micron was posted on 2026-03-05.
+This data analyst position at Micron was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice_324607-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice_324920-2) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-04-02.
+This data analyst position at S&P Global was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

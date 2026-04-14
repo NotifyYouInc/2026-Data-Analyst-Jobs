@@ -5,12 +5,12 @@
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Quantitative-Analytics-Manager---Model-Risk-Management_R2602-49737) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Quantitative-Analytics-Manager---Model-Risk-Management_R2604-50296) |
 
 ## About This Role
 
-This compliance & risk management position at OneMain Financial was posted on 2026-02-19.
+This compliance & risk management position at OneMain Financial was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

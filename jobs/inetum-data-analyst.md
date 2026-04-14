@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108208302-data-analyst) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000118862227-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Inetum was posted on 2026-02-09.
+This data analyst position at Inetum was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
