@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Madrid, Madrid, Spain |
 | Category | Strategy & Operations |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Fraud-Strategic-Data-Analyst_2025-0023070-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Madrid-Spain/Fraud-Strategic-Data-Analyst_2026-0008227) |
 
 ## About This Role
 
-This strategy & operations position at U.S. Bank was posted on 2026-03-30.
+This strategy & operations position at U.S. Bank was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

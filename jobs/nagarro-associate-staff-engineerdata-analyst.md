@@ -1,16 +1,16 @@
-# Associate Staff Engineer(Data Analyst) at Nagarro
+# Associate Staff Engineer(DATA-ANALYST) at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108676869-associate-staff-engineerdata-analyst) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000119014727-associate-staff-engineerdata-analyst) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-11.
+This software engineer position at Nagarro was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

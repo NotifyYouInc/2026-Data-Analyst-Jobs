@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hoboken, New Jersey, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-221-River-St-NJ-HOBOKEN-Home-Office/Senior--Data-Analyst---Market-Research_R-2408750) |
+| Category | Product Marketing |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-221-River-St-NJ-HOBOKEN-Home-Office/Senior--Data-Analyst---Market-Research_R-2408748) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-02-10.
+This product marketing position at Walmart was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

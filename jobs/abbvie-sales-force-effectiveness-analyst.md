@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | Project Manager |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012443476-sales-force-effectiveness-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012445287-sales-force-effectiveness-analyst) |
 
 ## About This Role
 
