@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117662448-senior-customer-marketing-data-analyst) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000119348747-senior-customer-marketing-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Utility Warehouse was posted on 2026-03-30.
+This data analyst position at Utility Warehouse was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

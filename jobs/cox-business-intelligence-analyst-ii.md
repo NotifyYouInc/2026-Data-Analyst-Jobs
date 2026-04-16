@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Intelligence-Analyst-II_R202674721) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Vermont/Business-Intelligence-Analyst-II_R202675358) |
 
 ## About This Role
 
-This data analyst position at Cox was posted on 2026-03-24.
+This data analyst position at Cox was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

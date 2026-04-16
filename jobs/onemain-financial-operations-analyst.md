@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Operations-Analyst_R2602-49775) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Evansville-IN/Operations-Analyst_R2602-49776) |
 
 ## About This Role
 
-This business analyst position at OneMain Financial was posted on 2026-02-25.
+This business analyst position at OneMain Financial was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Lead_R212641) |
+| Location | Lakewood, Colorado, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Business-Analytics-Lead_R217497) |
 
 ## About This Role
 
-This data analyst position at PNC Financial was posted on 2026-02-24.
+This business analyst position at PNC Financial was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

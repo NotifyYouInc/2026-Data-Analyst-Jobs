@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/129781354765132486-digital-marketing-analyst?sort_by=date&page=1) |
+| Category | Growth Marketing |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckfi5yAiAqDMZl4pizU1iIL2-zGpxPy8gXG3qUrOGQ8gPEjsACxwdTCsCL7msiriDVk0A8WjqU7Tstbfv26umiakYxQfMaoX3fhsxmWRPlYurfBnG4k9q2drmeEeRCA%3D%3D_V2&loc=LT&title=Digital+Marketing+Analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Google was posted on 2026-02-20.
+This growth marketing position at Google was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

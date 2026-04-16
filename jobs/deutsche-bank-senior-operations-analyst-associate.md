@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Senior-Operations-Analyst---Associate_R0428115) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Operations-Analyst---Associate_R0431768) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-03-10.
+This business analyst position at Deutsche Bank was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York, US |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118899187-associate-manager-pharmaceutical-data-management-must-have-personnel-management-experience) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000119426347-associate-manager-pharmaceutical-data-management-must-have-personnel-management-experience) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-04-06.
+This data analyst position at Eurofins Scientific was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

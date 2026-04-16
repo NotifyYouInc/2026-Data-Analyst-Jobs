@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Privacy & Data Protection |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Master-Data-Governance-Analyst_324212) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Master-Data-Governance-Analyst_324609) |
 
 ## About This Role
 
-This privacy & data protection position at CACI was posted on 2026-04-01.
+This privacy & data protection position at CACI was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

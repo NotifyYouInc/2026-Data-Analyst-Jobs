@@ -1,16 +1,16 @@
-# Product Marketing Analyst / Associate  at iCapital Network
+# Product Marketing - Analyst / Associate at iCapital Network
 
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Salt Lake City, Utah, United States |
 | Category | Marketing |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8485015002) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8485053002) |
 
 ## About This Role
 
-This marketing position at iCapital Network was posted on 2026-03-30.
+This marketing position at iCapital Network was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

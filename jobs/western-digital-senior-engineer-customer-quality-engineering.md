@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117989527-senior-engineer-customer-quality-engineering) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000119449187-senior-engineer-customer-quality-engineering) |
 
 ## About This Role
 
-This data analyst position at Western Digital was posted on 2026-03-31.
+This data analyst position at Western Digital was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

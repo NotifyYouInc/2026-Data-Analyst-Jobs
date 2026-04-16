@@ -5,12 +5,12 @@
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Singapore-Office/AI-Data-Associate_JR106953-2) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Singapore-Office/AI-Data-Associate_JR106985-1) |
 
 ## About This Role
 
-This data analyst position at Centific was posted on 2026-04-06.
+This data analyst position at Centific was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

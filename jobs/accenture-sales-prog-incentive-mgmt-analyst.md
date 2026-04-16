@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Sales-Prog---Incentive-Mgmt-Analyst_AIOC-S01618817-1) |
+| Category | Data Analyst |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Sales-Prog---Incentive-Mgmt-Sr-Analyst_AIOC-S01626004-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-03-31.
+This data analyst position at Accenture was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

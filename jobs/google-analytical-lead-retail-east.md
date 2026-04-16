@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/98872996281623238-analytical-lead-retail-east?sort_by=date&page=1) |
+| Category | Business Analyst |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSEPRqVNZ_3ygUibEIs8d4A-cLkKfrVuSD4f7nOUe1hCEjsACxwdTGs49vxEJO1sUn6kZzrJgqv81WSav8EAunXIphSh_npEcxr08Fnc8IoYho0qKhTaW_R-5FB8ag%3D%3D_V2&loc=US&title=Analytical+Lead) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-03-03.
+This business analyst position at Google was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
