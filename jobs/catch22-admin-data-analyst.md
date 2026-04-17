@@ -5,12 +5,12 @@
 | Company | [Catch22](https://scoutify.ai/companies/catch22?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oxford, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Catch22/744000115700267-admin-data-analyst) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Catch22/744000119589972-admin-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Catch22 was posted on 2026-03-19.
+This data analyst position at Catch22 was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

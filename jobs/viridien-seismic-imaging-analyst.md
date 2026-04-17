@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viridien](https://scoutify.ai/companies/cgg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Houston, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Calgary-Canada/Seismic-Imaging-Analyst_JR101104-2) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101239-2) |
 
 ## About This Role
 
-This data analyst position at Viridien was posted on 2026-04-09.
+This data analyst position at Viridien was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

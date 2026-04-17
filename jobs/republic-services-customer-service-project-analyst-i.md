@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Customer-Service-Project-Analyst-I_R-171859) |
+| Location | 5 locations |
+| Category | Data Analyst |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/Customer-Service-Project-Analyst-I_R-172564-1) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-03-26.
+This data analyst position at Republic Services was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

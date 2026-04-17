@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [US Foods](https://scoutify.ai/companies/usfoods?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Plymouth, Minnesota, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Plymouth-MN/Sales-Analyst--Area_R277975-1) |
+| Location | Garland, Texas, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Garland-TX/Sales-Analyst--Area_R277984-1) |
 
 ## About This Role
 
-This data analyst position at US Foods was posted on 2026-04-08.
+This business analyst position at US Foods was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

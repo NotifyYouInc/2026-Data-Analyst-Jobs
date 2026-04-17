@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7684360003) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7695526003) |
 
 ## About This Role
 
-This customer success position at Inovalon was posted on 2026-04-06.
+This customer success position at Inovalon was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

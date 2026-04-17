@@ -5,12 +5,12 @@
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | ESG / Sustainability |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Sydney-Australia/Data-Analyst---ESG_R00029919) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Sydney-Australia/Data-Analyst---ESG_R00030036-1) |
 
 ## About This Role
 
-This esg / sustainability position at Environmental Resources Management (ERM) was posted on 2026-03-30.
+This esg / sustainability position at Environmental Resources Management (ERM) was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
