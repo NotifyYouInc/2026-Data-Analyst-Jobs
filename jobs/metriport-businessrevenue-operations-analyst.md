@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/34bedf36-532f-4333-a9b5-2e22b0c5b8e4) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/32dd4d27-f769-436e-8acc-33779ad9cc41) |
 
 ## About This Role
 
-This corporate finance position at Metriport was posted on 2026-03-19.
+This revenue / sales operations position at Metriport was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

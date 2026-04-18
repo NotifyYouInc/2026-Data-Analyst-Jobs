@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000109206100-customer-protection-analyst-german-speaking) |
+| Category | Trust & Safety |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000120011847-customer-protection-analyst-german-speaking) |
 
 ## About This Role
 
-This operations position at Entain was posted on 2026-02-13.
+This trust & safety position at Entain was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

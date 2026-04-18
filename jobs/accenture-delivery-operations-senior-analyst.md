@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01635768-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Trust & Safety |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Delivery-Operations-Senior-Analyst_AIOC-S01637701-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-06.
+This trust & safety position at Accenture was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

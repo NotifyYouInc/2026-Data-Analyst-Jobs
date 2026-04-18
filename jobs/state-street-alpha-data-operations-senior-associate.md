@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Alpha-Data-Operations---Senior-Associate_R-786247) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Alpha-Data-Operations---Senior-Associate_R-786543) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-03-18.
+This data analyst position at State Street was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Customer-Service-Senior-Analyst_AIOC-S01635309-1) |
+| Category | Customer Success |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Customer-Service-Analyst_AIOC-S01626398-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-01.
+This customer success position at Accenture was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mexico |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC-Operations-Analyst-2---Ciudad-De-Mexico_26944191) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC-Operations-Analyst-2---Ciudad-De-Mexico_26952190) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-17.
+This financial crimes & aml position at Citigroup was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

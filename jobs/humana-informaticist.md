@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Informaticist_R-409390) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Informaticist_R-412671) |
 
 ## About This Role
 
-This data analyst position at Humana was posted on 2026-03-25.
+This data analyst position at Humana was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

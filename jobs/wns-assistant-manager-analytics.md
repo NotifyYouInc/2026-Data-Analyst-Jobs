@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Haryana, IN |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000118854107-assistant-manager-analytics) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000119944217-assistant-manager-analytics) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-04-06.
+This data analyst position at WNS was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

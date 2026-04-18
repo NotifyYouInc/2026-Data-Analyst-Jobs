@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 8 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000115824057-global-web-analyst) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000119974437-global-web-analyst) |
 
 ## About This Role
 
-This data analyst position at DocPlanner was posted on 2026-03-20.
+This data analyst position at DocPlanner was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

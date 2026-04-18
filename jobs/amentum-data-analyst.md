@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Arlington/Data-Analyst_R0155476) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Bristol/Data-Analyst_R0158930-1) |
 
 ## About This Role
 
-This data analyst position at Amentum was posted on 2026-03-04.
+This data analyst position at Amentum was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
