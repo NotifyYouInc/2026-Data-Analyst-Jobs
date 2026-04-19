@@ -1,16 +1,16 @@
-# Lead Analyst - Programmatic Buying at InMobi
+# Senior analyst- Global Business Operations at InMobi
 
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
-| Category | Digital / Performance Marketing |
+| Category | Business Analyst |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7709442) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7795224) |
 
 ## About This Role
 
-This digital / performance marketing position at InMobi was posted on 2026-04-11.
+This business analyst position at InMobi was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

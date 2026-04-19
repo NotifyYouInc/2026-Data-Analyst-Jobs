@@ -1,16 +1,16 @@
-# Lead Analyst - Programmatic Buying at InMobi
+# Manager - Data & Analytics at Nium
 
 | Field | Details |
 |-------|---------|
-| Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Digital / Performance Marketing |
+| Company | [Nium](https://scoutify.ai/companies/nium?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Analyst |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7709442) |
+| Apply | [View on company site](https://jobs.lever.co/nium/35aa3ff3-8eae-40f5-b1c5-09440e039400) |
 
 ## About This Role
 
-This digital / performance marketing position at InMobi was posted on 2026-04-11.
+This data analyst position at Nium was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

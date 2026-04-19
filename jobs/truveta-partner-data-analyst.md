@@ -1,16 +1,16 @@
-# Lead Analyst - Programmatic Buying at InMobi
+# Partner Data Analyst at Truveta
 
 | Field | Details |
 |-------|---------|
-| Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Digital / Performance Marketing |
+| Company | [Truveta](https://scoutify.ai/companies/truveta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Seattle, Washington, United States |
+| Category | Data Analyst |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7709442) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truveta/jobs/5841941004) |
 
 ## About This Role
 
-This digital / performance marketing position at InMobi was posted on 2026-04-11.
+This data analyst position at Truveta was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 
