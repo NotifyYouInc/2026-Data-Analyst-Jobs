@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110755906-senior-people-reporting-analyst-power-bi-workday-tableau) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120309867-senior-people-reporting-analyst-power-bi-workday-tableau) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-02-23.
+This data analyst position at AECOM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

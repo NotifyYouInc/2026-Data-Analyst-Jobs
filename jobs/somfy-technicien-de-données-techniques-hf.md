@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Technicien de Données Techniques (H/F) at Somfy
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Somfy](https://scoutify.ai/companies/somfy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000120263727-technicien-de-donnees-techniques-hf) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Somfy was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

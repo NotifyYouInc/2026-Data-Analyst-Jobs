@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Senior Data Analyst (Marketing) at Delivery Hero
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120302567-senior-data-analyst-marketing) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Delivery Hero was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

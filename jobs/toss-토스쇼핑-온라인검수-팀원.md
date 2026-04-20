@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# 토스쇼핑 온라인검수 (팀원) at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | South Korea |
 | Category | Data Analyst |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7467202003) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Toss was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

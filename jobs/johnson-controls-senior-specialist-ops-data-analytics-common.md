@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Senior Specialist Ops Data Analytics - Common at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | India |
 | Category | Data Analyst |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gurgaon-Sector-India/Senior-Specialist-Ops-Data-Analytics---Common_WD30265485) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Johnson Controls was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

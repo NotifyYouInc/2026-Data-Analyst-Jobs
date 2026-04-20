@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Analyst I - Data (IN) at Cencora
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Analyst-I---Data--IN-_R26970) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Cencora was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

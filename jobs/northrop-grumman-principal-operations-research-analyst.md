@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Maryland, US |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Operations-Research-Analyst_R10226916) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Operations-Research-Analyst_R10229239) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-03-24.
+This business analyst position at Northrop Grumman was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

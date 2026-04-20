@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santos, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000119687698-estagiarioa-logistica-analise-de-dados) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000119983407-estagiarioa-logistica-analise-de-dados) |
 
 ## About This Role
 
-This data analyst position at Louis Dreyfus was posted on 2026-04-09.
+This data analyst position at Louis Dreyfus was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

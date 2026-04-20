@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Insights Analyst at Hub24management
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Insights-Analyst_JR100659-1) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Hub24management was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

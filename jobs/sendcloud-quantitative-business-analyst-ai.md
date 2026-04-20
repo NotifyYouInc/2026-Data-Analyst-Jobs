@@ -1,16 +1,16 @@
-# Data/Business Analyst - Wix Marketing at Wix.com
+# Quantitative Business Analyst (AI) at Sendcloud
 
 | Field | Details |
 |-------|---------|
-| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Sendcloud](https://scoutify.ai/companies/sendcloud?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Eindhoven, North Brabant, The Netherlands |
 | Category | Business Analyst |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000120264327-databusiness-analyst-wix-marketing) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sendcloud/jobs/8450818002) |
 
 ## About This Role
 
-This business analyst position at Wix.com was posted on 2026-04-12.
+This business analyst position at Sendcloud was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

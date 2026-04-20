@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Data Management Analyst at Deputy
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Deputy](https://scoutify.ai/companies/deputy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Apply | [View on company site](https://jobs.lever.co/deputy/dca0e5d8-9de3-41d2-abb0-b6736d8bc562) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Deputy was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

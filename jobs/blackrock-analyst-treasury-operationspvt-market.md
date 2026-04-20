@@ -1,16 +1,16 @@
-# Analyst, Data Management at Blackrock
+# Analyst, Treasury Operations(Pvt Market) at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Treasury & Capital Markets |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Analyst--Data-Management_R260696) |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Analyst--Treasury-Operations-Pvt-Market-_R261271-1) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-04-13.
+This treasury & capital markets position at Blackrock was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data/Business Analyst - Wix Marketing at Wix.com
+# ALTERNANCE – Cellule Data, KPIs & Reportings - F/H at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | France |
 | Category | Business Analyst |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000120264327-databusiness-analyst-wix-marketing) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Cellule-Data--KPIs---Reportings---F-H_R0324936-1) |
 
 ## About This Role
 
-This business analyst position at Wix.com was posted on 2026-04-12.
+This business analyst position at Thales was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

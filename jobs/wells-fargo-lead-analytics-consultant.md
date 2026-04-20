@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Analytics-Consultant_R-533756) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Analytics-Consultant_R-535317) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-03-31.
+This technology / it consulting position at Wells Fargo was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

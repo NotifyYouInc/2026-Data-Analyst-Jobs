@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Reservoir Data Analyst Intern at Shell
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Shell-Business-Operations-DOT/Reservoir-Data-Analyst-Intern_R199880) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Shell was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

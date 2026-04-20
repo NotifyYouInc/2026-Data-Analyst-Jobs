@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118319669-data-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120311187-data-analyst) |
 
 ## About This Role
 
-This business analyst position at Renesas Electronics was posted on 2026-04-02.
+This data analyst position at Renesas Electronics was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

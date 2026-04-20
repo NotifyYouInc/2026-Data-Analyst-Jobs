@@ -1,16 +1,16 @@
-# Data Analyst at CAI
+# Data Annotator at Centific
 
 | Field | Details |
 |-------|---------|
-| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Analyst_R7500) |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Data-Annotator_JR107007-2) |
 
 ## About This Role
 
-This data analyst position at CAI was posted on 2026-04-13.
+This data analyst position at Centific was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
