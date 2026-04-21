@@ -1,16 +1,16 @@
-# Summer Intern - PHS Biostatistics at Advocate Health
+# summer Intern, PHS-Biostatistics at Advocate Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | North Carolina, US |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Winston-Salem-NC---525-Vine-St/Summer-Intern---PHS-Biostatistics_R224636) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Winston-Salem-NC---525-Vine-St/summer-Intern--PHS-Biostatistics_R224649) |
 
 ## About This Role
 
-This data analyst position at Advocate Health was posted on 2026-03-23.
+This data analyst position at Advocate Health was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Cairo-Egypt/Senior-Customer-Experience-and-Engagement-Analyst_R-264374) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Cairo-Egypt/Senior-Customer-Experience-and-Engagement-Analyst_R-272634) |
 
 ## About This Role
 
-This customer success position at Mastercard was posted on 2026-03-04.
+This customer success position at Mastercard was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

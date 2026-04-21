@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Data-Analyst_R1115440) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/India---Maharashtra--Pune---Baner---Amar-Madhuban-Tech-Park/Data-Analyst_R1119643) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-03-30.
+This data analyst position at Dentsu was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

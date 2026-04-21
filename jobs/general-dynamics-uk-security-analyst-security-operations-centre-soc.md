@@ -1,16 +1,16 @@
-# Security Analyst, Security Operations Centre (SOC) at General Dynamics UK
+#  Security Analyst, Security Operations Centre (SOC) at General Dynamics UK
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ottawa, Ontario, Canada |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000118503728-security-analyst-security-operations-centre-soc) |
+| Location | Calgary, Alberta, Canada |
+| Category | Security Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000120466137-security-analyst-security-operations-centre-soc) |
 
 ## About This Role
 
-This soc & incident response position at General Dynamics UK was posted on 2026-04-02.
+This security engineer position at General Dynamics UK was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rennes, Brittany, France |
-| Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000119979407-consultant-data-analytics-hf) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120326774-consultant-data-analytics-hf) |
 
 ## About This Role
 
-This data analyst position at Talan was posted on 2026-04-10.
+This technology / it consulting position at Talan was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

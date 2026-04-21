@@ -5,12 +5,12 @@
 | Company | [IPG DXTRA](https://scoutify.ai/companies/dxacirca?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dxacirca/jobs/8399022002) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dxacirca/jobs/8399114002) |
 
 ## About This Role
 
-This data analyst position at IPG DXTRA was posted on 2026-02-19.
+This data analyst position at IPG DXTRA was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

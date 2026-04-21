@@ -1,16 +1,16 @@
-# Senior Associate, Analytics at VaynerMedia LLC
+# Senior Associate, Analytics  at VaynerMedia LLC
 
 | Field | Details |
 |-------|---------|
 | Company | [VaynerMedia LLC](https://scoutify.ai/companies/vaynermedia-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://vaynermedia.com/careers?gh_jid=7792464) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://vaynermedia.com/careers?gh_jid=7812468) |
 
 ## About This Role
 
-This data analyst position at VaynerMedia LLC was posted on 2026-04-08.
+This data analyst position at VaynerMedia LLC was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

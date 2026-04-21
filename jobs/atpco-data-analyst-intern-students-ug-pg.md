@@ -5,12 +5,12 @@
 | Company | [ATPCO](https://scoutify.ai/companies/atpco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ATPCO1/744000119683157-data-analyst-intern-students-ug-pg) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ATPCO1/744000120507588-data-analyst-intern-students-ug-pg) |
 
 ## About This Role
 
-This data analyst position at ATPCO was posted on 2026-04-09.
+This data analyst position at ATPCO was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

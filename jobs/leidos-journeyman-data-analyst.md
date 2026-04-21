@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Journeyman-Data-Analyst_R-00175743) |
+| Category | Data Analyst |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Journeyman-Data-Analyst_R-00180663-1) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-02-10.
+This data analyst position at Leidos was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

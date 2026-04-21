@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000118359313-senior-backend-engineer-mfd-bi-app-onsite-in-hamburg-or-berlin) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120318163-senior-backend-engineer-mfd-bi-app-onsite-in-hamburg-or-berlin) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-04-02.
+This software engineer position at About You was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

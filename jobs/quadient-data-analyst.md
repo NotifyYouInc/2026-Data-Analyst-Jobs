@@ -5,12 +5,12 @@
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000107691375-data-analyst) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000120330932-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Quadient was posted on 2026-02-06.
+This data analyst position at Quadient was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

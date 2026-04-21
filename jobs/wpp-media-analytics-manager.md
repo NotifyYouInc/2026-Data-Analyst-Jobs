@@ -1,16 +1,16 @@
-# Analytics Manager at WPP Media
+# Analytics, Manager at WPP Media
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Leeds, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5131598008) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5174383008) |
 
 ## About This Role
 
-This data analyst position at WPP Media was posted on 2026-03-18.
+This data analyst position at WPP Media was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

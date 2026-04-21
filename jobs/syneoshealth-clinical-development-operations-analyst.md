@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
-| Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/SRB-Belgrade-Hybrid/Clinical-Development-Operations-Analyst_25104881) |
+| Category | Business Analyst |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/SRB-Belgrade-Hybrid/Clinical-Development-Operations-Analyst_25106041) |
 
 ## About This Role
 
-This operations position at Syneoshealth was posted on 2026-02-09.
+This business analyst position at Syneoshealth was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

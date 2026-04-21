@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Cali, Valle del Cauca Department, Colombia |
 | Category | QA Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/AI-Data-Quality-Analyst_R_2603_3760) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Cali-Colombia---Remote/AI-Data-Quality-Analyst_R_2603_3524) |
 
 ## About This Role
 
-This qa engineer position at TaskUs was posted on 2026-03-11.
+This qa engineer position at TaskUs was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

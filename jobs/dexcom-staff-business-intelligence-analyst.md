@@ -5,12 +5,12 @@
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Diego, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Staff-Business-Intelligence-Analyst_JR117439) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Staff-Business-Intelligence-Analyst_JR117913) |
 
 ## About This Role
 
-This data analyst position at Dexcom was posted on 2026-03-24.
+This data analyst position at Dexcom was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

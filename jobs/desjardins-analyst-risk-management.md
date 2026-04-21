@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Quebec, CA |
-| Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Encadrement-et-Suivi-des-activits-de-march_R2601606) |
+| Location | Brossard, Quebec, Canada |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-post-octroi--Comptes-nationaux_R2605006-1) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-02-03.
+This compliance & risk management position at Desjardins was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113803073-qc-insights-specialist) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120490847-qc-insights-specialist) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-03-10.
+This data analyst position at Delivery Hero was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

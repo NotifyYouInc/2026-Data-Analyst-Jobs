@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Manchester, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBLondonNova-North/Reporting-Data-Analyst_R-151507) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBManchesterPiccadilly/Reporting-Data-Analyst_R-153215) |
 
 ## About This Role
 
-This data analyst position at AtkinsRéalis was posted on 2026-03-26.
+This data analyst position at AtkinsRéalis was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

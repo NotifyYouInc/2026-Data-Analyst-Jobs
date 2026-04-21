@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Legal |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/4e297e3c-043f-4e0d-bbba-d0bd5e3e4021) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/66eb2072-30bc-4adb-899f-36d86d01ae57) |
 
 ## About This Role
 
-This legal position at Jerry.ai was posted on 2026-03-23.
+This compliance & risk management position at Jerry.ai was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

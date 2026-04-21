@@ -1,16 +1,16 @@
-# Data Analyst-Technical-Staff at Intermountain Health
+# Data Analyst Technical Staff at Intermountain Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Murray, Utah, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Transformation-Center/Data-Analyst-Technical-Staff_R165811) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Key-Bank-Tower/Data-Analyst-Technical-Staff_R166418) |
 
 ## About This Role
 
-This data analyst position at Intermountain Health was posted on 2026-04-03.
+This data analyst position at Intermountain Health was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

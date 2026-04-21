@@ -5,12 +5,12 @@
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000116249159-associate-campaign-insights-analyst-remote) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000120461967-associate-campaign-insights-analyst-remote) |
 
 ## About This Role
 
-This data analyst position at Vericast was posted on 2026-03-23.
+This data analyst position at Vericast was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
