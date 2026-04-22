@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012125516-analista-de-dados-sr) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012605196-analista-de-dados-sr) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-03-12.
+This data analyst position at MSX International was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

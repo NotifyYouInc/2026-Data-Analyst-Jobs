@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | California, US |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Vandenberg-AFB-CA/Operations-Research-Analyst_R0233932-1) |
+| Location | Virginia, US |
+| Category | Business Analyst |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Langley-AFB-VA/Operations-Research-Analyst_R0237748) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-02-20.
+This business analyst position at Booz Allen was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

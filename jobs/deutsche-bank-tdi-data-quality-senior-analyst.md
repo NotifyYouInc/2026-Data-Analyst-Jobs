@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Manila/TDI---Data-Quality-Senior-Analyst_R0424804) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Manila-Net-Quad-Center/TDI---Data-Quality-Senior-Analyst_R0431152) |
 
 ## About This Role
 
-This data analyst position at Deutsche Bank was posted on 2026-02-18.
+This data analyst position at Deutsche Bank was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

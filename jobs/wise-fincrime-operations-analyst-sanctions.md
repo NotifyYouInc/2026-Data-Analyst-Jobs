@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Hyderabad, Telangana, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000116575964-fincrime-operations-analyst-sanctions) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000120864627-fincrime-operations-analyst-sanctions) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-03-25.
+This financial crimes & aml position at WISE was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

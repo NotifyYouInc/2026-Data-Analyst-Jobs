@@ -1,16 +1,16 @@
-# Product Analyst, Professional at Freddie Mac
+# Product Analyst Professional at Freddie Mac
 
 | Field | Details |
 |-------|---------|
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | McLean, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Product-Analyst-Professional_JR15727) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Product-Analyst-Professional_JR16917) |
 
 ## About This Role
 
-This business analyst position at Freddie Mac was posted on 2026-02-19.
+This business analyst position at Freddie Mac was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

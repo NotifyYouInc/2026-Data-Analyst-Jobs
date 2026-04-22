@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Data-Analyst_R-01340006) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Data-Analyst_R-01332535-1) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-03-05.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

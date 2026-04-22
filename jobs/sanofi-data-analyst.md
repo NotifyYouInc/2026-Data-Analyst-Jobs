@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Italy |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Data-Analyst_R2847466) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Data-Analyst_R2848445) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-03-19.
+This data analyst position at Sanofi was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

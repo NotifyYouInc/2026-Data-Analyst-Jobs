@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---London-Bishopsgate/Fraud-Data-Analyst_R110909) |
+| Location | Georgia, US |
+| Category | Financial Crimes & AML |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Georgia/Fraud-Data-Analyst_R111608) |
 
 ## About This Role
 
-This data analyst position at ChoicePoint was posted on 2026-03-24.
+This financial crimes & aml position at ChoicePoint was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

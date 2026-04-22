@@ -5,12 +5,12 @@
 | Company | [Vetoquinol](https://scoutify.ai/companies/vetoquinol?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | France |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vetoquinol/744000118187363-alternance-analyste-de-donnees-oriente-controle-de-gestion-fh) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vetoquinol/744000120741566-alternance-analyste-de-donnees-oriente-controle-de-gestion-fh) |
 
 ## About This Role
 
-This data analyst position at Vetoquinol was posted on 2026-04-01.
+This data analyst position at Vetoquinol was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

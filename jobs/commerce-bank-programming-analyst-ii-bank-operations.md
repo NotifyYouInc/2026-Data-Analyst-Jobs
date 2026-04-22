@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Largo, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Programming-Analyst-II---Bank-Operations_37751) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/Remote-Largo-FL/Programming-Analyst-II---Bank-Operations_37831) |
 
 ## About This Role
 
-This business analyst position at Commerce Bank was posted on 2026-03-27.
+This business analyst position at Commerce Bank was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

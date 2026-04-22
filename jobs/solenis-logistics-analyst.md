@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Operations |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Warsaw-Poland/Logistics-Analyst_R0027253) |
+| Category | Data Analyst |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Warsaw-Poland/Logistics-Analyst_R0027518) |
 
 ## About This Role
 
-This operations position at Solenis was posted on 2026-02-16.
+This data analyst position at Solenis was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

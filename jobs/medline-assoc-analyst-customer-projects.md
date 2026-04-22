@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Northfield, Minnesota, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Assoc-Analyst-Customer-Projects_R2602252) |
+| Category | Business Analyst |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Assoc-Analyst-Customer-Projects_R2607381) |
 
 ## About This Role
 
-This cybersecurity engineer position at Medline was posted on 2026-02-06.
+This business analyst position at Medline was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

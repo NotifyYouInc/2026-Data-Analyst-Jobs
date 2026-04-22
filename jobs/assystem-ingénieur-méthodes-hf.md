@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000118452298-ingenieur-methodes-hf) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000120652071-ingenieur-methodes-hf) |
 
 ## About This Role
 
-This data analyst position at Assystem was posted on 2026-04-02.
+This data analyst position at Assystem was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Analyst_R-00275418-1) |
+| Category | Business Analyst |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Analyst_R-00276707) |
 
 ## About This Role
 
-This customer success position at NatWest Group was posted on 2026-04-06.
+This business analyst position at NatWest Group was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

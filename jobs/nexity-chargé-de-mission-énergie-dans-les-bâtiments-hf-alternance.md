@@ -5,12 +5,12 @@
 | Company | [Nexity](https://scoutify.ai/companies/nexity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | France |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nexity/744000116645172-charge-de-mission-energie-dans-les-batiments-hf-alternance) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nexity/744000120640687-charge-de-mission-energie-dans-les-batiments-hf-alternance) |
 
 ## About This Role
 
-This data analyst position at Nexity was posted on 2026-03-25.
+This data analyst position at Nexity was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Analyst_435802) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Analyst_438971) |
 
 ## About This Role
 
-This data analyst position at GSK was posted on 2026-03-05.
+This data analyst position at GSK was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

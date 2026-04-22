@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000116431611-junior-business-intelligence-manager-mwd-mobilfunk) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000120605156-junior-business-intelligence-manager-mwd-mobilfunk) |
 
 ## About This Role
 
-This data analyst position at CHECK24 was posted on 2026-03-24.
+This data analyst position at CHECK24 was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

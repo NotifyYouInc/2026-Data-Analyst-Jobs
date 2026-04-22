@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112706847-kyc-operations-senior-analyst-sma-night-shifts) |
+| Category | Financial Crimes & AML |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000120693012-kyc-operations-senior-analyst-sma-night-shifts) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-03-04.
+This financial crimes & aml position at WISE was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

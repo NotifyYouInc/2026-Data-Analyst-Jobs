@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berkeley, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Manufacturing-Operations-Analyst--Experienced-Electrical-Workplace-Coach_JR2026500497-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Manufacturing-Operations-Analyst--Experienced-Electrical-Workplace-Coach_JR2026505402-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-03-17.
+This electrical / hardware engineer position at Boeing was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

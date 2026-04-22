@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Arlington, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Data-Analyst_37317) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Analyst_38439) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-03-17.
+This data analyst position at Guidehouse was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

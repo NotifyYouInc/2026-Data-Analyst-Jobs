@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000118089012-analyst) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120838828-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-01.
+This data analyst position at NielsenIQ was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

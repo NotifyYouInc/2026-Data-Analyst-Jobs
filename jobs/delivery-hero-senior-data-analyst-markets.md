@@ -1,16 +1,16 @@
-# Senior Data Analyst (Markets)  at Delivery Hero
+# Senior Data Analyst (Markets) at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Karachi, Sindh, Pakistan |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000115594314-senior-data-analyst-markets) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120859682-senior-data-analyst-markets) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-03-19.
+This data analyst position at Delivery Hero was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

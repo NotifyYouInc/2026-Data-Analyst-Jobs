@@ -5,12 +5,12 @@
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/cf79c92a-3895-4c8d-97a7-984dffc3222c) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Crusoe was posted on 2026-03-02.
+This talent acquisition / recruiting position at Crusoe was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

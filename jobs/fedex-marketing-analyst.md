@@ -1,16 +1,16 @@
-# Marketing analyst at FedEx
+# Marketing Analyst at FedEx
 
 | Field | Details |
 |-------|---------|
 | Company | [FedEx](https://scoutify.ai/companies/fedex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUPOLKRKAKRKAKrakow/Marketing-analyst_RC770008) |
+| Location | Poland |
+| Category | Data Analyst |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUPOLKRKDKKRKDKKrakw/ACE-Assignment-Marketing-Analyst_RC768793-1) |
 
 ## About This Role
 
-This marketing position at FedEx was posted on 2026-03-19.
+This data analyst position at FedEx was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

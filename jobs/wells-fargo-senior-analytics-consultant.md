@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Analytics-Consultant_R-533411-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Analytics-Consultant_R-524376-1) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-03-31.
+This technology / it consulting position at Wells Fargo was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
