@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Project Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Customer-Service-Analyst_26942679) |
+| Location | Olsztyn, Warmia-Masuria, Poland |
+| Category | Customer Success |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Customer-Service-Analyst_26952038) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-03-04.
+This customer success position at Citigroup was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

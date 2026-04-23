@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Reference-Data-Analyst--NCT_R0416319) |
+| Location | India |
+| Category | Data Analyst |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Reference-Data-Analyst--NCT_R0427156) |
 
 ## About This Role
 
-This compliance & risk management position at Deutsche Bank was posted on 2026-03-04.
+This data analyst position at Deutsche Bank was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Argentina |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Real-time-Visual-Analytics-Specialist_R0000039775) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Real-time-Visual-Analytics-Specialist_R0000040857) |
 
 ## About This Role
 
-This data analyst position at Parexel was posted on 2026-03-16.
+This data analyst position at Parexel was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Dalian, Liaoning, China |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Measurement---Report-Analyst_AIOC-S01635829-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Measurement---Report-Analyst_14296383) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-06.
+This data analyst position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

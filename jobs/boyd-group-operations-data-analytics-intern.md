@@ -5,12 +5,12 @@
 | Company | [Boyd Group](https://scoutify.ai/companies/boyd-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Elmhurst, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/Operations-Data---Analytics-Intern_R058926) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/IL-Elmhurst---114106/Operations-Data---Analytics-Intern_R059083) |
 
 ## About This Role
 
-This data analyst position at Boyd Group was posted on 2026-04-13.
+This data analyst position at Boyd Group was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

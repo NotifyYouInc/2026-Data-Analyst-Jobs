@@ -1,16 +1,16 @@
-# Data Analyst III Healthcare Analytics at Centene
+# Data Analyst III (Healthcare Analytics) at Centene
 
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Analyst-III-Healthcare-Analytics_1636120) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-III--Healthcare-Analytics-_1637093) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-04-03.
+This data analyst position at Centene was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

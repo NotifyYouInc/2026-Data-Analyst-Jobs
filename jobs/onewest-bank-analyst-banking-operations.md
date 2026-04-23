@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
-| Category | Legal |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Analyst---Banking-Operations_24366-2) |
+| Category | Business Analyst |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Analyst---Banking-Operations_24331-1) |
 
 ## About This Role
 
-This legal position at OneWest Bank was posted on 2026-02-26.
+This business analyst position at OneWest Bank was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

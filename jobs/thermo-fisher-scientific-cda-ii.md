@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/CDA-II_R-01346698) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/CDA-II_R-01348959) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-04-14.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

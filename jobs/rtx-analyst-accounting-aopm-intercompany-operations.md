@@ -1,16 +1,16 @@
-# Analyst, Accounting AOPM Intercompany Operations at RTX
+# Analyst, Accounting (AOPM Intercompany Operations) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Farmington, New Mexico, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Analyst--Accounting-AOPM-Intercompany-Operations_01824834) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-FARMINGTON-0001--1-Farm-Springs-Rd--1-FARM-SPRINGS/Analyst--Accounting--AOPM-Intercompany-Operations-_01837891-1) |
 
 ## About This Role
 
-This corporate finance position at RTX was posted on 2026-02-17.
+This corporate finance position at RTX was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

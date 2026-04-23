@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lehi, Utah, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000109826225-revenue-data-insights-analyst) |
+| Category | Operations |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000121095687-revenue-data-insights-analyst) |
 
 ## About This Role
 
-This business analyst position at Nearmap was posted on 2026-02-17.
+This operations position at Nearmap was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

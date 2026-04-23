@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Operations-Analyst_AIOC-S01635639-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Operations |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Delivery-Operations-Team-Lead-Messaging_AIOC-S01618849-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-03.
+This operations position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

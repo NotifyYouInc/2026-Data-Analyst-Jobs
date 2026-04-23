@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/alternance-12-mois---analyse-de-donnes_R2849568) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/alternance-12-mois---analyse-de-donnes_R2851547) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-04-02.
+This data analyst position at Sanofi was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

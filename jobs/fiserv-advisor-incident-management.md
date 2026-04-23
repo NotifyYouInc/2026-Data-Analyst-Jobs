@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Advisor--Incident-Management_R-10385081) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Major-Incident-Manager-II_R-10385138) |
 
 ## About This Role
 
-This data analyst position at Fiserv was posted on 2026-04-07.
+This data analyst position at Fiserv was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

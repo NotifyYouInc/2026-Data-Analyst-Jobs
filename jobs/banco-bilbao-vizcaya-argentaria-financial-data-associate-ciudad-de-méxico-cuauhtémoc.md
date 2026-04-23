@@ -1,16 +1,16 @@
-# Financial Data Associate (Ciudad de México, Cuauhtémoc) at Banco Bilbao Vizcaya Argentaria
+# FINANCIAL DATA ASSOCIATE (Ciudad de México, Cuauhtémoc) at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Financial-Data-Associate--Ciudad-de-Mxico--Cuauhtmoc-_JR00098319) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/FINANCIAL-DATA-ASSOCIATE--Ciudad-de-Mxico--Cuauhtmoc-_JR00095617) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-27.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

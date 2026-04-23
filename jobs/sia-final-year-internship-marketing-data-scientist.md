@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000119162725-final-year-internship-marketing-data-scientist) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000120992878-final-year-internship-marketing-data-scientist) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-04-07.
+This data analyst position at SIA was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

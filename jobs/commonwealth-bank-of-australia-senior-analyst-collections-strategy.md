@@ -5,12 +5,12 @@
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Strategy & Operations |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Analyst-Collections-Strategy_REQ253054) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Analyst-Collections-Strategy_REQ256302) |
 
 ## About This Role
 
-This strategy & operations position at Commonwealth Bank of Australia was posted on 2026-02-18.
+This strategy & operations position at Commonwealth Bank of Australia was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

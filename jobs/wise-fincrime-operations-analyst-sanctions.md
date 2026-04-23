@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Financial Crimes & AML |
 | Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000120864627-fincrime-operations-analyst-sanctions) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000120875457-fincrime-operations-analyst-sanctions) |
 
 ## About This Role
 

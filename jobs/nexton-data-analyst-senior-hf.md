@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000112148014-data-analyst-senior-hf) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000120963352-data-analyst-senior-hf) |
 
 ## About This Role
 
-This data analyst position at Nexton was posted on 2026-03-02.
+This data analyst position at Nexton was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

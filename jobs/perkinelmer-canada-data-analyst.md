@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New Haven, Connecticut, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Pune/Data-Analyst_REQ-056506) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Alexion-New-Haven---Customer-Site-CT/Data-Analyst_REQ-057174) |
 
 ## About This Role
 
-This data analyst position at PerkinElmer Canada was posted on 2026-02-17.
+This data analyst position at PerkinElmer Canada was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

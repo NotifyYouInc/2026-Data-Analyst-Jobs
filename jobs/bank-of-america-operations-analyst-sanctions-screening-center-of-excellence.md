@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Operations-Analyst---Sanctions-Screening-Center-of-Excellence_26012343) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Operations-Analyst---Sanctions-Screening-Center-of-Excellence_26013424) |
 
 ## About This Role
 
-This financial crimes & aml position at Bank of America was posted on 2026-04-03.
+This compliance & risk management position at Bank of America was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

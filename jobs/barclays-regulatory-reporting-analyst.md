@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Jersey, US |
-| Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/115-South-Jefferson-Rd-Campus-Whippany/Regulatory-Reporting-Analyst_JR-0000058259) |
+| Location | Pune, Maharashtra, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Regulatory-Reporting-Analyst_JR-0000061537) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-02-06.
+This compliance & risk management position at Barclays was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

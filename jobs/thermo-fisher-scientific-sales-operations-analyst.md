@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Fishers, Indiana, United States |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Fishers-Indiana-USA/Sales-Operations-Analyst_R-01345026) |
+| Location | Paisley, Scotland, United Kingdom |
+| Category | Operations |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Paisley-United-Kingdom/Sales-Operations-Analyst_R-01347946) |
 
 ## About This Role
 
-This revenue / sales operations position at Thermo Fisher Scientific was posted on 2026-03-24.
+This operations position at Thermo Fisher Scientific was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

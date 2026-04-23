@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Operations-Senior-Analyst_AIOC-S01636550-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Operations-Senior-Analyst_AIOC-S01638721-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-07.
+This business analyst position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

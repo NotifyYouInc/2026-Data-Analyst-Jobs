@@ -5,12 +5,12 @@
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Sao-Paulo-Brazil/Consultor-de-Dados---Business-Intelligence_R00029566-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/Belo-Horizonte-Brazil/Consultor-de-Dados---Business-Intelligence_R00029569) |
 
 ## About This Role
 
-This data analyst position at Environmental Resources Management (ERM) was posted on 2026-03-27.
+This data analyst position at Environmental Resources Management (ERM) was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

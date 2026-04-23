@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000111037875-sales-operations-analyst) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120886908-sales-operations-analyst) |
 
 ## About This Role
 
-This revenue / sales operations position at Renesas Electronics was posted on 2026-02-24.
+This revenue / sales operations position at Renesas Electronics was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

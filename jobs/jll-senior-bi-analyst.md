@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-BI-Analyst_REQ490544) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Senior-BI-Analyst_REQ500866-1) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-03-05.
+This data analyst position at JLL was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

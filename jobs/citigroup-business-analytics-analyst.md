@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Haryana, IN |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst_26950828-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Business-Analytics-Analyst_26936410-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-01.
+This business analyst position at Citigroup was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
