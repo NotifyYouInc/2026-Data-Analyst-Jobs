@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Analyst_26936975) |
+| Location | Haryana, IN |
+| Category | Data Analyst |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Data-Analyst_26944664) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-02-24.
+This data analyst position at Citigroup was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

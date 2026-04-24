@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Randburg, Gauteng, South Africa |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Business-Intelligence-Developer-II_R48862) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Business-Intelligence-Developer-II_R45077) |
 
 ## About This Role
 
-This data engineer position at FirstRand was posted on 2026-04-14.
+This data engineer position at FirstRand was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

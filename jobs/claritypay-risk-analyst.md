@@ -5,12 +5,12 @@
 | Company | [Claritypay](https://scoutify.ai/companies/claritypay?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Financial Analyst |
-| Posted | 2025-11-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/claritypay/01a274e8-793c-47f7-97db-06ead813e16a) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/claritypay/48c6680d-f2bb-4756-b8b7-1662fea7f729) |
 
 ## About This Role
 
-This financial analyst position at Claritypay was posted on 2025-11-17.
+This financial analyst position at Claritypay was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

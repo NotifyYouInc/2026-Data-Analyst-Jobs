@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Thematic-Risk-Analytics-Lead-Analyst---Vice-President_26953234) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Thematic-Risk-Analytics-Lead-Analyst---Vice-President_26953237-1) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-04-10.
+This compliance & risk management position at Citigroup was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

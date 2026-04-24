@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Customer-Contact-Management-Senior-Analyst_R2845529) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Customer-Contact-Management-Senior-Analyst_R2853455) |
 
 ## About This Role
 
-This customer success position at Sanofi was posted on 2026-04-14.
+This customer success position at Sanofi was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

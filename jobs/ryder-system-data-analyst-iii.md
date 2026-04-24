@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Warren-MI-48093/Data-Analyst-III_R169626) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Warren-MI-48093/Data-Analyst-III_R169709) |
 
 ## About This Role
 
-This data analyst position at Ryder System was posted on 2026-04-15.
+This data analyst position at Ryder System was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

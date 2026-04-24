@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012589377-senior-analyst-marketing-business-intelligence-allergan-aesthetics-irvine-ca) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012646076-senior-analyst-marketing-business-intelligence-allergan-aesthetics-irvine-ca) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-04-14.
+This data analyst position at AbbVie was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

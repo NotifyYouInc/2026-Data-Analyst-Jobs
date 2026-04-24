@@ -5,12 +5,12 @@
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/bc545f0d-e59b-4746-ae78-2ec0c459adc2) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/e3f638ee-9874-49f2-8c4f-01367f08f67e) |
 
 ## About This Role
 
-This data analyst position at Airapps was posted on 2026-02-17.
+This data analyst position at Airapps was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

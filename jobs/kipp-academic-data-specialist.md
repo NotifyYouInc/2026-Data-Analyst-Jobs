@@ -5,12 +5,12 @@
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000111718996-academic-data-specialist) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000121231738-academic-data-specialist) |
 
 ## About This Role
 
-This data analyst position at KIPP was posted on 2026-02-26.
+This data analyst position at KIPP was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

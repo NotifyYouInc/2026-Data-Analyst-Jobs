@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IL-CHICAGO-8600-W-BRYN-MAWR-AVE-10th--11th-FL/Business-Information-Consultant_JR187900) |
+| Location | Mason, Ohio, United States |
+| Category | Data Analyst |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Business-Information-Consultant_JR189173) |
 
 ## About This Role
 
-This machine learning engineer position at Elevance Health was posted on 2026-04-03.
+This data analyst position at Elevance Health was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

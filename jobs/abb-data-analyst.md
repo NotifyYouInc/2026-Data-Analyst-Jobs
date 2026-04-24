@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Brno, South Moravian, Czechia |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Data-Analyst_JR00025935) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Data-Analyst_JR00031930) |
 
 ## About This Role
 
-This data analyst position at ABB was posted on 2026-02-26.
+This data analyst position at ABB was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

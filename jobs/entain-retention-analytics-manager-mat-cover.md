@@ -1,16 +1,16 @@
-# Retention Analytics Manager - Mat Cover  at Entain
+# Retention Analytics Manager - Mat Cover at Entain
 
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gibraltar, Gibraltar |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000118378535-retention-analytics-manager-mat-cover) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000121142087-retention-analytics-manager-mat-cover) |
 
 ## About This Role
 
-This data analyst position at Entain was posted on 2026-04-02.
+This data analyst position at Entain was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

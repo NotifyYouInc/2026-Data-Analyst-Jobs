@@ -1,16 +1,16 @@
-# Non-Party Reference Data, NCT at Deutsche Bank
+# Non Party Reference Data, NCT at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Non-Party-Reference-Data--NCT_R0424476) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Non-Party-Reference-Data--NCT_R0429109) |
 
 ## About This Role
 
-This data analyst position at Deutsche Bank was posted on 2026-03-02.
+This data analyst position at Deutsche Bank was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

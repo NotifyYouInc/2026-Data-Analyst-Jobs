@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-London/Power-BI-Developer_R0155806) |
+| Location | Bristol, England, United Kingdom |
+| Category | Data Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Bristol/Power-BI-Developer_R0159344) |
 
 ## About This Role
 
-This data analyst position at Amentum was posted on 2026-03-05.
+This data engineer position at Amentum was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

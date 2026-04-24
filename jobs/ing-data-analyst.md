@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Data-Analyst_REQ-10112720) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Va-de-los-Poblados/Data-Analyst_REQ-10112336) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-04-03.
+This data analyst position at ING was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

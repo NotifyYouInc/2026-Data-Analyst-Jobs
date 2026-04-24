@@ -5,12 +5,12 @@
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000119179077-data-consulting-specialist) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000121226976-data-consulting-specialist) |
 
 ## About This Role
 
-This technology / it consulting position at Assent was posted on 2026-04-07.
+This technology / it consulting position at Assent was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

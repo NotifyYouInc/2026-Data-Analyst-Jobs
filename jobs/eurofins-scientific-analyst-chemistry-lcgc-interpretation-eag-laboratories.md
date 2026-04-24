@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000120777337-analyst-chemistry-lcgc-interpretation-eag-laboratories) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000121260172-analyst-chemistry-lcgc-interpretation-eag-laboratories) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-04-14.
+This data analyst position at Eurofins Scientific was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

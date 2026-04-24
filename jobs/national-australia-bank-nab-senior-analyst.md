@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Haryana, IN |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Associate-Vice-President_JR111625) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Senior-Analyst_JR115963) |
 
 ## About This Role
 
-This data analyst position at National Australia Bank (NAB) was posted on 2026-03-25.
+This data analyst position at National Australia Bank (NAB) was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
