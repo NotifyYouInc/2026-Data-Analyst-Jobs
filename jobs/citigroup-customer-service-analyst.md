@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Customer-Service-Analyst_26952038) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Izmir--Turkey/Customer-Service-Analyst_26956390-1) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-04-15.
+This customer success position at Citigroup was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

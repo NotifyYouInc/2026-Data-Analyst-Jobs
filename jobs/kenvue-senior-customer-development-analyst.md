@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Rogers, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-Rhode-Island-Cumberland/Senior-Customer-Development-Analyst_2607045088W) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-Arkansas-Rogers/Senior-Customer-Development-Analyst_2607045239W-1) |
 
 ## About This Role
 
-This business analyst position at Kenvue was posted on 2026-04-14.
+This business analyst position at Kenvue was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

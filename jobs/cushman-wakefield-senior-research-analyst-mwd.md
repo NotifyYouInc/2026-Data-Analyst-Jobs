@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---DEU---Frankfurt---Bleidenstrasse-6/XMLNAME--Senior--Research-Analyst--m-w-d-_R306951) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---DEU---Berlin---Budapester-Str-35/XMLNAME--Senior--Research-Analyst--m-w-d-_R315998) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-02-21.
+This data analyst position at Cushman & Wakefield was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000117191524-senior-data-analyst) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000121369657-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at SEEK was posted on 2026-03-27.
+This data analyst position at SEEK was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

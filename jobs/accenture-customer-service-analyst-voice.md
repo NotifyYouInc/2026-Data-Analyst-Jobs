@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Customer-Service-Analyst-Voice_AIOC-S01637734-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Customer-Service-Analyst-Voice_AIOC-S01636365-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-04-10.
+This customer success position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

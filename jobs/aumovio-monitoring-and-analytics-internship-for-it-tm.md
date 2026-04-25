@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Timişoara, Timiș County, Romania |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000121103574-monitoring-and-analytics-internship-for-it-tm) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000121366078-monitoring-and-analytics-internship-for-it-tm) |
 
 ## About This Role
 
-This data analyst position at Aumovio was posted on 2026-04-16.
+This data analyst position at Aumovio was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

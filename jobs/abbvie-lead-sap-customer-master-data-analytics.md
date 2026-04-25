@@ -1,16 +1,16 @@
-# Lead SAP Customer Master Data & Analytics  at AbbVie
+# Lead SAP Customer Master Data & Analytics at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012624977-lead-sap-customer-master-data-analytics) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012661987-lead-sap-customer-master-data-analytics) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-04-15.
+This business analyst position at AbbVie was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

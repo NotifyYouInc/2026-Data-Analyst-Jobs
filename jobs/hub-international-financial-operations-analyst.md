@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Winter Park, Florida, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Winter-Park-FL/Financial-Operations-Analyst_R0035881) |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/Financial-Operations-Analyst_R0035717) |
 
 ## About This Role
 

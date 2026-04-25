@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bugcrowd](https://scoutify.ai/companies/bugcrowd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | India |
 | Category | Operations |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/bugcrowd/jobs/7813106?gh_jid=7813106) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/bugcrowd/jobs/7825387?gh_jid=7825387) |
 
 ## About This Role
 
-This operations position at Bugcrowd was posted on 2026-04-16.
+This operations position at Bugcrowd was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

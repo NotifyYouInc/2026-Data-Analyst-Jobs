@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7510645) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7823911) |
 
 ## About This Role
 
-This business analyst position at Coupang was posted on 2026-04-13.
+This business analyst position at Coupang was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

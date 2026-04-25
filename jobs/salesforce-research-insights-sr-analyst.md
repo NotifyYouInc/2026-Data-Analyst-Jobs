@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Remote/Research---Insights-Sr-Analyst_JR338012) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Remote/Research---Insights-Sr-Analyst_JR338965) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-04-14.
+This data analyst position at Salesforce was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

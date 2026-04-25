@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Italy |
+| Location | Morristown, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Data-Analyst_R2848445) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Data-Analyst_R2844414-1) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-04-14.
+This data analyst position at Sanofi was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

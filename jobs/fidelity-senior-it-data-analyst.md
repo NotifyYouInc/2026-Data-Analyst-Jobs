@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Smithfield, Rhode Island, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-IT-Data-Analyst_2121043-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-IT-Data-Analyst_2126501-2) |
 
 ## About This Role
 
-This data analyst position at Fidelity was posted on 2026-02-24.
+This data analyst position at Fidelity was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Alphonsus-Regional-Medical-Center---Boise-Idaho/Gift-Processor-Database-Analyst_00659808) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Alphonsus-Regional-Medical-Center---Boise-Idaho/Gift-Processor-Database-Analyst_00661534) |
 
 ## About This Role
 
-This data analyst position at Trinity Health was posted on 2026-04-10.
+This data analyst position at Trinity Health was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
