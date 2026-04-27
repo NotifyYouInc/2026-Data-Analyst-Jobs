@@ -1,16 +1,16 @@
-# Analyst, Data Management at Blackrock
+# GBS EHS Data Validator at SGS
 
 | Field | Details |
 |-------|---------|
-| Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Philippines |
 | Category | Data Analyst |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Analyst--Data-Management_R262323-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121651040-gbs-ehs-data-validator) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-04-20.
+This data analyst position at SGS was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

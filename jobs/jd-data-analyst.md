@@ -1,16 +1,16 @@
-# Analyst, Data Management at Blackrock
+# Data Analyst at Jd
 
 | Field | Details |
 |-------|---------|
-| Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Analyst |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Analyst--Data-Management_R262323-1) |
+| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/SAU-Riyadh-Province-Riyadh/Data-Analyst_JR102235) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-04-20.
+This data analyst position at Jd was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

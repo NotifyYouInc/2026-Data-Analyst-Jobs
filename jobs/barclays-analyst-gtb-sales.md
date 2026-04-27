@@ -1,16 +1,16 @@
-# Data Governance and Sales Support Analyst at Russell
+# Analyst GTB Sales at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Russell](https://scoutify.ai/companies/russell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Privacy & Data Protection |
+| Category | Business Analyst |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Mumbai/Data-Governance-and-Sales-Support-Analyst_R-03989) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Altimus/Analyst-GTB-Sales_JR-0000107797-1) |
 
 ## About This Role
 
-This privacy & data protection position at Russell was posted on 2026-04-20.
+This business analyst position at Barclays was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

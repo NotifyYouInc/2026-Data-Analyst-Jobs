@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wellington, Wellington Region, New Zealand |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Product-Analyst_JR106516) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Product-Analyst_JR107052-1) |
 
 ## About This Role
 
-This business analyst position at Westpac New Zealand was posted on 2026-02-03.
+This business analyst position at Westpac New Zealand was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Order Processing Analyst at Dyson
+# Sales Analyst at Sensata
 
 | Field | Details |
 |-------|---------|
-| Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dalian, Liaoning, China |
+| Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Dalian-Office/Sales-Order-Processing-Analyst_JR36059) |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Sofia-Bulgaria/Sales-Analyst_IRC97325) |
 
 ## About This Role
 
-This business analyst position at Dyson was posted on 2026-04-20.
+This business analyst position at Sensata was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

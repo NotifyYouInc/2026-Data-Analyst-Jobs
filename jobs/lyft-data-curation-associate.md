@@ -1,16 +1,16 @@
-# Analyst, Data Management at Blackrock
+# Data Curation Associate at Lyft
 
 | Field | Details |
 |-------|---------|
-| Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Ukraine |
 | Category | Data Analyst |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Analyst--Data-Management_R262323-1) |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8513768002?gh_jid=8513768002) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-04-20.
+This data analyst position at Lyft was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

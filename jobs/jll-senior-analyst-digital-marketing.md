@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Gurugram, Haryana, India |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Senior-Analyst--Digital-Marketing_REQ492861) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Analyst--Digital-Marketing_REQ500464) |
 
 ## About This Role
 
-This digital / performance marketing position at JLL was posted on 2026-03-25.
+This digital / performance marketing position at JLL was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

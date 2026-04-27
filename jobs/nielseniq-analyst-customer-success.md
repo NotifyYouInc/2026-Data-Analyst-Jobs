@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taiwan |
-| Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115370507-analyst-customer-success) |
+| Category | Customer Success Manager |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121674927-analyst-customer-success) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-03-18.
+This customer success manager position at NielsenIQ was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
