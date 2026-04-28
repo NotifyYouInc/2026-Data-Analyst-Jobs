@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115449313-werkstudent-automatisierung-der-kapazitatsplanung-im-fertigungsbereich-wmdiv) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121769678-werkstudent-automatisierung-der-kapazitatsplanung-im-fertigungsbereich-wmdiv) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-03-18.
+This data analyst position at Robert Bosch was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

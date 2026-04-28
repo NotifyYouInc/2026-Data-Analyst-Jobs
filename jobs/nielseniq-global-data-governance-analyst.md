@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bulgaria |
 | Category | Privacy & Data Protection |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000119159850-global-data-governance-analyst) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121776237-global-data-governance-analyst) |
 
 ## About This Role
 
-This privacy & data protection position at NielsenIQ was posted on 2026-04-07.
+This privacy & data protection position at NielsenIQ was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

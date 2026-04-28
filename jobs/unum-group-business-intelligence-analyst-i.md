@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unum Group](https://scoutify.ai/companies/unum-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Portland-Maine-USA/Business-Intelligence-Analyst-I_834625) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Business-Intelligence-Analyst-I_835144) |
 
 ## About This Role
 
-This data analyst position at Unum Group was posted on 2026-03-16.
+This data analyst position at Unum Group was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/MYS-Kuala-Lumpur-Menara-Prestige-Level-31/Senior-Analyst---Customer-Support_R0117824-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst---Customer-Support_R0112780-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-04-02.
+This customer success position at LSEG was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

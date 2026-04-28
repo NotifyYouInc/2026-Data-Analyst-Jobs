@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, California, United States |
+| Location | United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Senior-Analyst--Finance-Operations_20176581-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Analyst--Finance-Operations_20179133) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-03-16.
+This corporate finance position at Cardinal Health was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vetoquinol](https://scoutify.ai/companies/vetoquinol?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | France |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vetoquinol/744000115852407-alternance-data-analyst-relations-sociales-fh) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vetoquinol/744000121689857-alternance-data-analyst-relations-sociales-fh) |
 
 ## About This Role
 
-This data analyst position at Vetoquinol was posted on 2026-03-20.
+This data analyst position at Vetoquinol was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

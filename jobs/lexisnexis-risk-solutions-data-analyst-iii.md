@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Johannesburg/Data-Analyst-III_R110049) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Bengaluru/Data-Analyst-III_R111834) |
 
 ## About This Role
 
-This data analyst position at LexisNexis Risk Solutions was posted on 2026-04-17.
+This data analyst position at LexisNexis Risk Solutions was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

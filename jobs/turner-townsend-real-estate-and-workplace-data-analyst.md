@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000113526011-real-estate-and-workplace-data-analyst) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000121799048-real-estate-and-workplace-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Turner & Townsend was posted on 2026-03-09.
+This data analyst position at Turner & Townsend was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

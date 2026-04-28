@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pennsylvania, US |
+| Location | Glenview, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Warrendale-PA/Scientist--R-D---Descriptive-Sensory-Panel-Leader_R-101987) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Glenview-IL/Scientist--R-D---Descriptive-Sensory-Panel-Leader_R-102142) |
 
 ## About This Role
 
-This data analyst position at Heinz was posted on 2026-04-15.
+This data analyst position at Heinz was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

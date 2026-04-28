@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Castle, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Customer-Service-Intermediate-Associate-Analyst_26953960) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Customer-Service-Intermediate-Associate-Analyst_26954563-1) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-04-14.
+This customer success position at Citigroup was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

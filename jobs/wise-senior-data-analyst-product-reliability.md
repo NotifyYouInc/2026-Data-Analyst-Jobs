@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000121208907-senior-data-analyst-product-reliability) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000121717760-senior-data-analyst-product-reliability) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-04-16.
+This data analyst position at WISE was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

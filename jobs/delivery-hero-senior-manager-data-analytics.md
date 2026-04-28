@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Karachi, Sindh, Pakistan |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120859177-senior-manager-data-analytics) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121931207-senior-manager-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-04-15.
+This data analyst position at Delivery Hero was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Collections Operations Intermediate  Analyst at Equifax
+# Collections Operations Intermediate Analyst at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Collections-Operations-Intermediate--Analyst_J00174918-1) |
+| Category | Corporate Finance |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Collections-Operations-Intermediate-Analyst_J00176616) |
 
 ## About This Role
 
-This business analyst position at Equifax was posted on 2026-02-20.
+This corporate finance position at Equifax was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

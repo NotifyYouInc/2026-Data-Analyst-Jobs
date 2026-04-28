@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Delivery-Operations-Team-Lead-Messaging_AIOC-S01618849-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Business Analyst |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Delivery-Operations-Analyst_AIOC-S01639790-1) |
 
 ## About This Role
 
-This operations position at Accenture was posted on 2026-04-15.
+This business analyst position at Accenture was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
-| Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Systems-and-Data-Analyst_JR2026497228-1) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Systems-and-Data-Analyst_JR2026505310-1) |
 
 ## About This Role
 
-This data analyst position at Boeing was posted on 2026-03-30.
+This customer success position at Boeing was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

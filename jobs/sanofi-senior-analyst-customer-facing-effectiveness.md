@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Customer-Facing-Effectiveness_R2848691) |
+| Location | Hyderabad, Telangana, India |
+| Category | Operations |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Customer-Facing-Effectiveness_R2853884) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-03-25.
+This operations position at Sanofi was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

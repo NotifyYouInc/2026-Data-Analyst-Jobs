@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cali, Valle del Cauca Department, Colombia |
+| Location | Chennai, Tamil Nadu, India |
 | Category | QA Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Cali-Colombia---Remote/AI-Data-Quality-Analyst_R_2603_3524) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Chennai-India/AI-Data-Quality-Analyst_R_2603_3634) |
 
 ## About This Role
 
-This qa engineer position at TaskUs was posted on 2026-04-13.
+This qa engineer position at TaskUs was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

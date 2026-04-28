@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Regulatory-Reporting-Analyst_JR-0000061537) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Regulatory-Reporting-Analyst_JR-0000108406-3) |
 
 ## About This Role
 
-This compliance & risk management position at Barclays was posted on 2026-04-15.
+This compliance & risk management position at Barclays was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

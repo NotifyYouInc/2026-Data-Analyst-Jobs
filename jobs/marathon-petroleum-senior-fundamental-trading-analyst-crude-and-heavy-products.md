@@ -5,12 +5,12 @@
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Senior-Fundamental-Trading-Analyst--Crude-and-Heavy-Products-_00020445) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Senior-Fundamental-Trading-Analyst--Crude-and-Heavy-Products-_00021280) |
 
 ## About This Role
 
-This data analyst position at Marathon Petroleum was posted on 2026-02-13.
+This data analyst position at Marathon Petroleum was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

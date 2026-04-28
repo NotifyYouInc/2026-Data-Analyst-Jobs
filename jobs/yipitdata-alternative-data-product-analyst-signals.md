@@ -5,12 +5,12 @@
 | Company | [YipitData (Alternative)](https://scoutify.ai/companies/yipitdata-alternative?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7823007) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yipitdatajobs/jobs/7834768) |
 
 ## About This Role
 
-This data analyst position at YipitData (Alternative) was posted on 2026-04-17.
+This data analyst position at YipitData (Alternative) was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

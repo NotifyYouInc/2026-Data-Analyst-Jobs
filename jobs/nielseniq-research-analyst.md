@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120352919-research-analyst) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121781319-research-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-13.
+This data analyst position at NielsenIQ was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

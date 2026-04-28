@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Measurement---Report-Analyst_AIOC-S01639589-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Measurement---Report-Analyst_AIOC-S01608619-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-17.
+This data analyst position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
