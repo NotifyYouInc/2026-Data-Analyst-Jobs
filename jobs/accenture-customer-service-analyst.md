@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Customer-Service-Senior-Analyst_AIOC-S01601633-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Customer-Service-Analyst_AIOC-S01640101-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-10.
+This customer success position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

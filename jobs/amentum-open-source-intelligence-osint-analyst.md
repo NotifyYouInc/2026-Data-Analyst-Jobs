@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Virginia, US |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Open-Source-Intelligence--OSINT--Analyst_R0159330-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Quantico/Open-Source-Intelligence--OSINT--Analyst_R0159713-1) |
 
 ## About This Role
 
-This data analyst position at Amentum was posted on 2026-04-15.
+This data analyst position at Amentum was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

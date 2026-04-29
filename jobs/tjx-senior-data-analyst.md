@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Watford, England, United Kingdom |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Senior-Data-Analyst_REQ95699) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/Senior-Data-Analyst_REQ108356) |
 
 ## About This Role
 
-This data analyst position at TJX was posted on 2026-04-17.
+This data analyst position at TJX was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Not specified |
 | Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000121772995-power-bi-engineer-tieto-tech-consulting-mfd) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122044392-power-bi-engineer-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This data engineer position at Tietoevry was posted on 2026-04-20.
+This data engineer position at Tietoevry was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

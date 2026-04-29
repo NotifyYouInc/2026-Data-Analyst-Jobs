@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Third-Party-Risk-Management-Data-and-Reporting-Specialist_2025-0016646) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Third-Party-Risk-Management-Data-and-Reporting-Specialist_2025-0016645) |
 
 ## About This Role
 
-This compliance & risk management position at U.S. Bank was posted on 2026-02-25.
+This compliance & risk management position at U.S. Bank was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

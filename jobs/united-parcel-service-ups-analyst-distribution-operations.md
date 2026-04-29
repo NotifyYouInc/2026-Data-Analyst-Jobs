@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PRATT--WHITNEY-DLO--10449-CTEHD/Analyst--Distribution-Operations_R26006465) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---NELC-PRATT--WHITNEY-10364-NHLDR/Analyst--Distribution-Operations_R26003919) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-02-26.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

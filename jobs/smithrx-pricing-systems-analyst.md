@@ -5,12 +5,12 @@
 | Company | [SmithRx](https://scoutify.ai/companies/smithrx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8498006002) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8517146002) |
 
 ## About This Role
 
-This business analyst position at SmithRx was posted on 2026-04-08.
+This business analyst position at SmithRx was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000116068462-lead-associate-analytics) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000122007287-lead-associate-analytics) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-03-22.
+This data analyst position at WNS was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

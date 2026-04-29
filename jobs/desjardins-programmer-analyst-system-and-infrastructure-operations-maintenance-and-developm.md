@@ -1,16 +1,16 @@
-# Programmer Analyst, System and infrastructure operations, maintenance and development at Desjardins
+# Programmer analyst, System and infrastructure operations, maintenance and development at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Canada |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-intgrateur-ou-analyste-intgratrice-de-systmes_R2604672) |
+| Location | Montréal, Quebec, Canada |
+| Category | Software Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--Java_R2605590) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-04-10.
+This software engineer position at Desjardins was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vereeniging, Gauteng, South Africa |
-| Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Vereeniging/Specialist---Credit-Analyst-Growth-Business_R-15983466-1) |
+| Location | Pietermaritzburg, KwaZulu-Natal, South Africa |
+| Category | Corporate Finance |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Jetmart-Pietermaritzburg/Specialist---Credit-Analyst-Growth-Business_R-15986055) |
 
 ## About This Role
 
-This data analyst position at Absa was posted on 2026-02-17.
+This corporate finance position at Absa was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

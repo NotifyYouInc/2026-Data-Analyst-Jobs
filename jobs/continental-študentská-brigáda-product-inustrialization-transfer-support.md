@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Slovakia |
+| Location | Púchov, Trenčín Region, Slovakia |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000121419707-studentska-brigada-product-inustrialization-transfer-support) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000122027889-studentska-brigada-product-inustrialization-transfer-support) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-04-17.
+This data analyst position at Continental was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

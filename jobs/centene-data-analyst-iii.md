@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wisconsin, US |
+| Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Analyst-III_1631771-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Analyst-III_1634216-1) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-02-19.
+This data analyst position at Centene was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

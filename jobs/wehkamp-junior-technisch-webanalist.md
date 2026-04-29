@@ -5,12 +5,12 @@
 | Company | [wehkamp](https://scoutify.ai/companies/wehkamp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Zwolle, Overijssel, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/wehkamp/744000117816528-junior-technisch-webanalist) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/wehkamp/744000121962093-junior-technisch-webanalist) |
 
 ## About This Role
 
-This data analyst position at wehkamp was posted on 2026-03-31.
+This data analyst position at wehkamp was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

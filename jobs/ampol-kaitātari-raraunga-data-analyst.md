@@ -5,12 +5,12 @@
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wellington, Wellington Region, New Zealand |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001007936-kaitatari-raraunga-data-analyst) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001012528-kaitatari-raraunga-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Ampol was posted on 2026-04-20.
+This data analyst position at Ampol was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

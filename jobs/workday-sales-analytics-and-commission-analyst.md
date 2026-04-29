@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Costa Rica |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sales-Analytics-and-Commission-Analyst_JR-0105024) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sales-Analytics-and-Commission-Analyst_JR-0103294) |
 
 ## About This Role
 
-This corporate finance position at Workday was posted on 2026-03-17.
+This corporate finance position at Workday was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

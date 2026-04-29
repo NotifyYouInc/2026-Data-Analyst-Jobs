@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Portugal |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000121833457-pharmaceutical-industry-data-analyst) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000121968487-pharmaceutical-industry-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Devoteam was posted on 2026-04-20.
+This data analyst position at Devoteam was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

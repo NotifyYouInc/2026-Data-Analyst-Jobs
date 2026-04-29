@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112090313-research-associate) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121969469-research-associate) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-02.
+This data analyst position at NielsenIQ was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

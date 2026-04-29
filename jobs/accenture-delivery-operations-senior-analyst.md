@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Delivery-Operations-Senior-Analyst_AIOC-S01639789-1) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Trust & Safety |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Senior-Analyst_AIOC-S01640020-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-20.
+This trust & safety position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
