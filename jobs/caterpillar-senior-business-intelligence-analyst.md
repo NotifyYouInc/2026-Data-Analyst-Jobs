@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Business-Intelligence-Analyst_R0000349209) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Business-Intelligence-Analyst_R0000364162) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-02-18.
+This data analyst position at Caterpillar was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

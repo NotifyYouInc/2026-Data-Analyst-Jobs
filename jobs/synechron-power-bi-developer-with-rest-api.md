@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Data Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mississauga-ON/Power-BI-Developer-with-Rest-API_JR1037235) |
+| Category | Data Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mississauga-ON/Power-BI-Developer-with-Rest-API_JR1039029) |
 
 ## About This Role
 
-This data analyst position at Synechron was posted on 2026-03-31.
+This data engineer position at Synechron was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

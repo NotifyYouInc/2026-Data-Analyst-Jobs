@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000120013607-consultant-data-analyst-lyon) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000122226230-consultant-data-analyst-lyon) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-04-10.
+This data analyst position at SIA was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

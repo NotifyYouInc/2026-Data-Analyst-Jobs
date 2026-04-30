@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012131136-data-analyst-ii) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012783906-data-analyst-ii) |
 
 ## About This Role
 
-This data analyst position at The Nielsen Company was posted on 2026-03-13.
+This data analyst position at The Nielsen Company was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

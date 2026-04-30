@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | New Braunfels, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior--Data-Analyst_R-2441057) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-TX-NEW-BRAUNFELS-06016-REGIONAL/XMLNAME--USA--Senior--Data-Analyst_R-2469190) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-04-15.
+This data analyst position at Walmart was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

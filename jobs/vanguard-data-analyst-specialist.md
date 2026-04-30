@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_176661-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Toronto-Canada/Data-Analyst--Specialist_177086) |
 
 ## About This Role
 
-This data analyst position at Vanguard was posted on 2026-04-15.
+This data analyst position at Vanguard was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

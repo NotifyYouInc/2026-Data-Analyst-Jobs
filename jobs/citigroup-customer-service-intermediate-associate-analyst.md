@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Newark, New Jersey, United States |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Customer-Service-Intermediate-Associate-Analyst_26954563-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Newark-Delaware-United-States/Customer-Service-Intermediate-Associate-Analyst_26944092) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-04-20.
+This customer success position at Citigroup was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

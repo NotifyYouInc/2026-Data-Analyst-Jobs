@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://sofi.com/careers/job/7692724003?gh_jid=7692724003) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://sofi.com/careers/job/7704498003?gh_jid=7704498003) |
 
 ## About This Role
 
-This strategy & operations position at SoFi was posted on 2026-04-07.
+This strategy & operations position at SoFi was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

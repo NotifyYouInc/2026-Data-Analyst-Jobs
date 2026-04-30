@@ -5,12 +5,12 @@
 | Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | France |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/Tarn-81/Data-Analyst-Supply-Chain---Stage---H-F_JR112159) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/Tarn-81/Data-Analyst-Supply-Chain---Stage---H-F_JR112705) |
 
 ## About This Role
 
-This data analyst position at Pierre Fabre was posted on 2026-04-13.
+This data analyst position at Pierre Fabre was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

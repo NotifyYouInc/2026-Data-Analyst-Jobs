@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colorado, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Computer-Operations-Analyst---Regional-COSA--26-118-_R10226664) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Computer-Operations-Analyst---Regional-COSA--26-118-_R10230641) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-03-20.
+This it & systems administration position at Northrop Grumman was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

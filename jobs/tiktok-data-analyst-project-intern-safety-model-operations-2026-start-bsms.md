@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7504596715490019592/detail) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7602516488839334197/detail) |
 
 ## About This Role
 
-This data analyst position at TikTok was posted on 2026-04-16.
+This data analyst position at TikTok was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

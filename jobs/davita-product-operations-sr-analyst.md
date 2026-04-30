@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Product-Operations-Sr-Analyst_R0437867) |
+| Category | Product Manager |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Product-Operations-Sr-Analyst_R0446590) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-02-04.
+This product manager position at DaVita was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

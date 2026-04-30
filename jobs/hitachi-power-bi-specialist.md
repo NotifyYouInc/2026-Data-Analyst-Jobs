@@ -1,16 +1,16 @@
-# Power Bi Specialist at Hitachi
+# Power BI Specialist at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Power-Bi-Specialist_R0116698) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Power-BI-Specialist_R0126808) |
 
 ## About This Role
 
-This data analyst position at Hitachi was posted on 2026-02-26.
+This data analyst position at Hitachi was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

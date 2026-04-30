@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Learning & Development |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Learning-Exp-Design---Dev-Analyst_AIOC-S01621582-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Customer Success |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Customer-Contact-Comms-Senior-Analyst-Voice_AIOC-S01609843-1) |
 
 ## About This Role
 
-This learning & development position at Accenture was posted on 2026-04-01.
+This customer success position at Accenture was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

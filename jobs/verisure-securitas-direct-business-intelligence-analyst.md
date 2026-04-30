@@ -5,12 +5,12 @@
 | Company | [Verisure Securitas Direct](https://scoutify.ai/companies/verisure-securitas-direct?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pozuelo de Alarcón, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Pozuelo-de-Alarcon/Business-Intelligence-Analyst_r2025120420) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Pozuelo-de-Alarcon/Business-Intelligence-Analyst_r2025090676) |
 
 ## About This Role
 
-This data analyst position at Verisure Securitas Direct was posted on 2026-04-17.
+This data analyst position at Verisure Securitas Direct was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

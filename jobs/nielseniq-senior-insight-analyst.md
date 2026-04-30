@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121449221-senior-insight-analyst) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122243452-senior-insight-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-17.
+This data analyst position at NielsenIQ was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

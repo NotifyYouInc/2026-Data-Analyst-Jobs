@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7610132) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=6282403) |
 
 ## About This Role
 
-This data analyst position at Stripe was posted on 2026-02-13.
+This data analyst position at Stripe was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

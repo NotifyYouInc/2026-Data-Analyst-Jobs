@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Hyderabad-Telangana-India/Data-Center-Operations-Analyst_R26_0883-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Data-Center-Operations-Analyst_R26_1560) |
 
 ## About This Role
 
-This it & systems administration position at Ameriprise Financial was posted on 2026-03-12.
+This it & systems administration position at Ameriprise Financial was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
