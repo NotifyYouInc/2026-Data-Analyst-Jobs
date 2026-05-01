@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2K](https://scoutify.ai/companies/2k?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7568081003) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7712645003) |
 
 ## About This Role
 
-This data analyst position at 2K was posted on 2026-04-21.
+This data analyst position at 2K was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

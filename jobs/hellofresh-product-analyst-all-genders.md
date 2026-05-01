@@ -1,16 +1,16 @@
-# Product Analyst (all genders)  at HelloFresh
+# Product Analyst (All Genders) at HelloFresh
 
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Capital Region, DK |
-| Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7795996?gh_jid=7795996) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Data Analyst |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7721611?gh_jid=7721611) |
 
 ## About This Role
 
-This business analyst position at HelloFresh was posted on 2026-04-13.
+This data analyst position at HelloFresh was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | North Carolina, US |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/Data-Analyst_R0238370) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0238468-1) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-04-22.
+This data analyst position at Booz Allen was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

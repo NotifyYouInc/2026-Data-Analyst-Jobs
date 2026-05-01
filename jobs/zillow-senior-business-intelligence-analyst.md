@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-Business-Intelligence-Analyst_P749745) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P749151-1) |
 
 ## About This Role
 
-This data analyst position at Zillow was posted on 2026-03-24.
+This data analyst position at Zillow was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

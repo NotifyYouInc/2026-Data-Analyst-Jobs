@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120453537-senior-backend-engineer-bi-app-all-genders) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000122419230-senior-backend-engineer-bi-app-all-genders) |
 
 ## About This Role
 
-This software engineer position at About You was posted on 2026-04-13.
+This software engineer position at About You was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

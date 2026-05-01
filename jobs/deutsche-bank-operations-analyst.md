@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Seoul-Centropolis-Tower-A/Operations-Analyst_R0419867-2) |
+| Location | Poland |
+| Category | Business Analyst |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Warszawa-Focus/Operations-Analyst_R0422389-1) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-09.
+This business analyst position at Deutsche Bank was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

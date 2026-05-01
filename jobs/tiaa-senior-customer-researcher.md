@@ -5,12 +5,12 @@
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | UX Researcher |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/3965-Dallas-Parkway--Frisco-TX-75034/Senior-Customer-Researcher_R251200352-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Senior-Customer-Researcher_R260400158-1) |
 
 ## About This Role
 
-This ux researcher position at TIAA was posted on 2026-04-01.
+This ux researcher position at TIAA was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

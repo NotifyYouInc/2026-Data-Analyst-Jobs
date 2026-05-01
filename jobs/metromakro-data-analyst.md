@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000110758768-data-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000122470162-data-analyst) |
 
 ## About This Role
 
-This software engineer position at METRO/MAKRO was posted on 2026-02-23.
+This data analyst position at METRO/MAKRO was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

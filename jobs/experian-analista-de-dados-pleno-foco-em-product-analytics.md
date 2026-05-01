@@ -1,16 +1,16 @@
-# Analista de Dados Pleno - Foco em Product Analytics at Experian
+# Analista de Dados Pleno - (Foco em Product Analytics) at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118862757-analista-de-dados-pleno-foco-em-product-analytics) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122441289-analista-de-dados-pleno-foco-em-product-analytics) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-04-06.
+This data analyst position at Experian was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

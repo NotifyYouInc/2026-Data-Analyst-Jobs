@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Software-Engineer-II--PDS-BI-T_R1601427) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Software-Engineer-II--PDS-BI-T_R1601565) |
 
 ## About This Role
 
-This software engineer position at Bristol-Myers Squibb was posted on 2026-04-21.
+This software engineer position at Bristol-Myers Squibb was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

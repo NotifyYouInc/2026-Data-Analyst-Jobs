@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karachi, Sindh, Pakistan |
+| Location | Lahore, Punjab, Pakistan |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121409067-senior-research-executive) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122431109-senior-research-executive) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-17.
+This data analyst position at NielsenIQ was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

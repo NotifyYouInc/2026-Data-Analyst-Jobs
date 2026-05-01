@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000107495516-senior-economics-data-analyst) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000122368839-senior-economics-data-analyst) |
 
 ## About This Role
 
-This data analyst position at SEEK was posted on 2026-02-05.
+This data analyst position at SEEK was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

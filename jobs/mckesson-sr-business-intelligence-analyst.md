@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Fort-Worth-TX-USA---13501-Park-Vista-Blvd-E016/Sr-Business-Intelligence-Analyst_JR0142709) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Data Analyst |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Mississauga-ON-CAN---2300-Meadowvale-Blvd-MC74/Sr-Business-Intelligence-Analyst_JR0146086) |
 
 ## About This Role
 
-This business analyst position at McKesson was posted on 2026-02-06.
+This data analyst position at McKesson was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

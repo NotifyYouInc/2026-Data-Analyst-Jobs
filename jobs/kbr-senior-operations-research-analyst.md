@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Antonio-Texas/Senior-Operations-Research-Analyst_R2122085) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Operations-Research-Analyst_R2122546) |
 
 ## About This Role
 
-This data analyst position at KBR was posted on 2026-04-16.
+This data analyst position at KBR was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

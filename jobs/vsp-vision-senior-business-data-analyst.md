@@ -5,12 +5,12 @@
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Business-Data-Analyst_R-9079) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Business-Data-Analyst_R-9409-1) |
 
 ## About This Role
 
-This data analyst position at VSP Vision was posted on 2026-02-06.
+This data analyst position at VSP Vision was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
