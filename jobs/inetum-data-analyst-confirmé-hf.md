@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122396238-data-analyst-confirme-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122618599-data-analyst-confirme-hf) |
 
 ## About This Role
 
-This data analyst position at Inetum was posted on 2026-04-23.
+This data analyst position at Inetum was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

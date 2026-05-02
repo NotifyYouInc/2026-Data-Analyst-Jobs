@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000122449464-senior-performance-analyst) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000122608527-senior-performance-analyst) |
 
 ## About This Role
 
-This data analyst position at Netcompany was posted on 2026-04-23.
+This data analyst position at Netcompany was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Premier](https://scoutify.ai/companies/premierinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/NYC-H--H-4-daysweek/Analyst--Data-Integrity_R0008165) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/NYC-H--H-4-daysweek/Analyst--Data-Integrity_R0008166) |
 
 ## About This Role
 
-This data analyst position at Premier was posted on 2026-04-03.
+This data analyst position at Premier was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Operations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Sales-Operations-Analyst_JR331725) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Sales-Operations-Analyst_JR331418) |
 
 ## About This Role
 
-This operations position at Salesforce was posted on 2026-03-11.
+This operations position at Salesforce was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

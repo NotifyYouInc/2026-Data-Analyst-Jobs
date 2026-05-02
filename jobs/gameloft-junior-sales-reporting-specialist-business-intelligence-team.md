@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000111074277-junior-sales-reporting-specialist-business-intelligence-team) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000122635104-junior-sales-reporting-specialist-business-intelligence-team) |
 
 ## About This Role
 
-This data analyst position at Gameloft was posted on 2026-02-24.
+This data analyst position at Gameloft was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

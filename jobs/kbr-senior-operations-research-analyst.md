@@ -6,7 +6,7 @@
 | Location | Colorado Springs, Colorado, United States |
 | Category | Data Analyst |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Operations-Research-Analyst_R2122546) |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Operations-Research-Analyst_R2122579) |
 
 ## About This Role
 

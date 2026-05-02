@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Fund---Investment-Operations-Analyst--Senior-Associate_176147-1) |
+| Location | 2 locations |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Fund---Investment-Operations-Analyst--Senior-Associate_177092-1) |
 
 ## About This Role
 
-This corporate finance position at Vanguard was posted on 2026-03-12.
+This asset management / portfolio management position at Vanguard was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Accounting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000121374212-senior-product-analyst-accounting-integrations-reporting) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000122727639-senior-product-analyst-accounting-integrations-reporting) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-04-17.
+This accounting position at WISE was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

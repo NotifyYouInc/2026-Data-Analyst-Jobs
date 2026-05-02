@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst---HR-Operations_REQ494970) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Analyst---HR-Operations_REQ501838) |
 
 ## About This Role
 
-This human resources / people ops position at JLL was posted on 2026-03-30.
+This human resources / people ops position at JLL was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

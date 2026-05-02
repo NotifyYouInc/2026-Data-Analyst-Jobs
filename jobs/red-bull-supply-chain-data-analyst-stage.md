@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000112128308-supply-chain-data-analyst-stage) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000122659989-supply-chain-data-analyst-stage) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-03-02.
+This data analyst position at Red Bull was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

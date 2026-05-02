@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Senior-Analyst--Insurance-Operations_R_338026) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Senior-Analyst--Insurance-Operations_R_338019) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-23.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

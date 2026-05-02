@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastly](https://scoutify.ai/companies/fastly?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7771679) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.fastly.com/about/jobs/apply?gh_jid=7851750) |
 
 ## About This Role
 
-This data analyst position at Fastly was posted on 2026-04-01.
+This data analyst position at Fastly was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

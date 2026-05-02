@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000121961549-senior-analyst-marketing-insights) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000122629924-senior-analyst-marketing-insights) |
 
 ## About This Role
 
-This data analyst position at Primark was posted on 2026-04-21.
+This data analyst position at Primark was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

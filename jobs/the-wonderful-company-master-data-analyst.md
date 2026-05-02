@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shafter, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000120118809-master-data-analyst) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000122744123-master-data-analyst) |
 
 ## About This Role
 
-This data analyst position at The Wonderful Company was posted on 2026-04-11.
+This data analyst position at The Wonderful Company was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

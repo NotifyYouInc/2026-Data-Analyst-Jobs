@@ -5,12 +5,12 @@
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712) |
 
 ## About This Role
 
-This business analyst position at Copart was posted on 2026-03-23.
+This business analyst position at Copart was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

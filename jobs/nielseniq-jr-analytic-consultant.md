@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000119238712-jr-analytic-consultant) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122735199-jr-analytic-consultant) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-07.
+This data analyst position at NielsenIQ was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

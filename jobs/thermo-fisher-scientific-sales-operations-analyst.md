@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paisley, Scotland, United Kingdom |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Operations |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Paisley-United-Kingdom/Sales-Operations-Analyst_R-01347946) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Barcelona-Spain/Sales-Operations-Analyst_R-01350152) |
 
 ## About This Role
 
-This operations position at Thermo Fisher Scientific was posted on 2026-04-15.
+This operations position at Thermo Fisher Scientific was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

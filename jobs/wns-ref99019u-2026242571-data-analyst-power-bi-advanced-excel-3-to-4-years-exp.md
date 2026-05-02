@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000120334592-ref99019u-2026242571-data-analyst-power-bi-advanced-excel-3-to-4-years-exp) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000122609325-ref99019u-2026242571-data-analyst-power-bi-advanced-excel-3-to-4-years-exp) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-04-13.
+This data analyst position at WNS was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

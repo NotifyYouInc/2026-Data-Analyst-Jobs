@@ -1,16 +1,16 @@
-# Consulting Services  Marketing Solutions Senior Analyst at TransUnion
+# Consulting Services Marketing Solutions Senior Analyst at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/New-York-New-York/Consulting-Services--Marketing-Solutions-Senior-Analyst_19039467) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Consulting-Services-Marketing-Solutions-Senior-Analyst_19039077) |
 
 ## About This Role
 
-This strategy / management consulting position at TransUnion was posted on 2026-02-18.
+This strategy / management consulting position at TransUnion was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

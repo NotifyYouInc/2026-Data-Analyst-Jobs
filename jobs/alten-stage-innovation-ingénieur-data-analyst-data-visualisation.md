@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000122037724-stage-innovation-ingenieur-data-analyst-data-visualisation) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000122683513-stage-innovation-ingenieur-data-analyst-data-visualisation) |
 
 ## About This Role
 
-This data analyst position at ALTEN was posted on 2026-04-21.
+This data analyst position at ALTEN was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

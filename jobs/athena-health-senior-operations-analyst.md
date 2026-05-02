@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Operations-Analyst_R14840) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Operations-Analyst_R14937) |
 
 ## About This Role
 
-This business analyst position at Athena Health was posted on 2026-04-23.
+This business analyst position at Athena Health was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

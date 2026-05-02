@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Privacy & Data Protection |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Analyst-DSARS_R-00273525) |
+| Category | Business Analyst |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Analyst-DSARS_R-00277010) |
 
 ## About This Role
 
-This privacy & data protection position at NatWest Group was posted on 2026-02-18.
+This business analyst position at NatWest Group was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

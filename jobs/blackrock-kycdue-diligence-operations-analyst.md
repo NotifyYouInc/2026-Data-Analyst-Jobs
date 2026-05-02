@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Corporate Development & M&A |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/BU3-Budapest-GTC-White-House-Vaci-ut-47-District-XIII-Budapest/KYC-Due-Diligence-Operations--Analyst_R262356) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/BU3-Budapest-GTC-White-House-Vaci-ut-47-District-XIII-Budapest/KYC-Due-Diligence-Operations--Analyst_R263682) |
 
 ## About This Role
 
-This corporate development & m&a position at Blackrock was posted on 2026-04-21.
+This corporate development & m&a position at Blackrock was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

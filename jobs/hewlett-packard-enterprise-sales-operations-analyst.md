@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karntaka-India/Sales-Operations--Analyst_1204177) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Sales-Operations--Analyst_1204110) |
 
 ## About This Role
 
-This revenue / sales operations position at Hewlett Packard Enterprise was posted on 2026-03-24.
+This revenue / sales operations position at Hewlett Packard Enterprise was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
