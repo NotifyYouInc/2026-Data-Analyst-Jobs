@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Specialist, Global Workforce Analytics at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
+| Category | Human Resources / People Ops |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000097562) |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Pune-India/Specialist--Global-Workforce-Analytics_R250800000-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-04-27.
+This human resources / people ops position at TIAA was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

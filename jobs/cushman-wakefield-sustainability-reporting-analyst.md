@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Melbourne, Victoria, Australia |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Sustainability-Reporting-Analyst_R315056) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Melbourne-Australia/Sustainability-Reporting-Analyst_R313911) |
 
 ## About This Role
 
-This esg / sustainability position at Cushman & Wakefield was posted on 2026-04-14.
+This esg / sustainability position at Cushman & Wakefield was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

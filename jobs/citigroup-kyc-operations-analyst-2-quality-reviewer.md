@@ -1,16 +1,16 @@
-# Sales & Trading Program Analyst - C11 - TOKYO at Citigroup
+# KYC Operations Analyst 2 - Quality Reviewer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Japan |
-| Category | Corporate Finance |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Financial Crimes & AML |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Sales---Trading-Program-Analyst---C11---TOKYO_25927322) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/KYC-Operations-Analyst-2---Quality-Reviewer_26957055) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This financial crimes & aml position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

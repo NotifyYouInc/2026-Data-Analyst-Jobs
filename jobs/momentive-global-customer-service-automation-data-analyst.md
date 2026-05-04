@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Global Customer Service Automation & Data Analyst at Momentive
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Momentive](https://scoutify.ai/companies/momentive?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000097562) |
+| Apply | [View on company site](https://momentive.wd1.myworkdayjobs.com/MC/job/IN-Chennai/Global-Customer-Service-Automation---Data-Analyst_R9377) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-04-27.
+This data analyst position at Momentive was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

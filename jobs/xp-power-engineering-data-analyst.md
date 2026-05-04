@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Engineering Data Analyst at XP Power
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [XP Power](https://scoutify.ai/companies/xp-power?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000097562) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/xppower2/744000123116979-engineering-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-04-27.
+This data analyst position at XP Power was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

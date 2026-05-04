@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Texas, US |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Business-Intelligence-Analyst_P749151-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-TX/Senior-Business-Intelligence-Analyst_P750075-2) |
 
 ## About This Role
 
-This data analyst position at Zillow was posted on 2026-04-23.
+This data analyst position at Zillow was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

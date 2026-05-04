@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
-| Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Singapore/Business-Intelligence-Analyst_R1113696) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Analyst |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Business-Intelligence-Analyst_R1100896-1) |
 
 ## About This Role
 
-This business analyst position at Dentsu was posted on 2026-02-03.
+This data analyst position at Dentsu was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Analyst at Lowe's
+# Associate at Sama
 
 | Field | Details |
 |-------|---------|
-| Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Sama](https://scoutify.ai/companies/sama?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Senior-Analyst_JR-02495638) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/samainc/jobs/5816384004) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-04-27.
+This data analyst position at Sama was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

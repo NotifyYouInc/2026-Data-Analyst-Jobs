@@ -1,16 +1,16 @@
-# Component Engineer – Data Analytics (Based in Singapore) at XP Power
+# Transaction Cost Analyst, Specialist at Vanguard
 
 | Field | Details |
 |-------|---------|
-| Company | [XP Power](https://scoutify.ai/companies/xp-power?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Financial Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/xppower2/744000123116984-component-engineer-data-analytics-based-in-singapore) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Melbourne-Australia/Transaction-Cost-Analyst--Specialist_177273-1) |
 
 ## About This Role
 
-This data engineer position at XP Power was posted on 2026-04-27.
+This financial analyst position at Vanguard was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

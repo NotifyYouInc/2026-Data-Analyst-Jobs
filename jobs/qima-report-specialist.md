@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# Report Specialist at QIMA
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Data Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000097562) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000123122239-report-specialist) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-04-27.
+This data analyst position at QIMA was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

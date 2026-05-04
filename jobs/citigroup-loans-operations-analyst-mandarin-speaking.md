@@ -1,16 +1,16 @@
-# Sales & Trading Program Analyst - C11 - TOKYO at Citigroup
+# Loans Operations Analyst, Mandarin Speaking at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Japan |
-| Category | Corporate Finance |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Business Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Sales---Trading-Program-Analyst---C11---TOKYO_25927322) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Loans-Operations-Analyst-1--Mandarin-Speaking_25921301) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This business analyst position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

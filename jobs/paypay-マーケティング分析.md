@@ -1,16 +1,16 @@
-# Business Intelligence Developer at NCS
+# マーケティング分析 at PayPay
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Company | [PayPay](https://scoutify.ai/companies/paypay?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Japan |
+| Category | Business Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025699-business-intelligence-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/paypay/jobs/5977611004) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-04-27.
+This business analyst position at PayPay was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

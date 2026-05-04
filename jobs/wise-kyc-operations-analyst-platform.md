@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | Singapore, Singapore |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000111401560-kyc-operations-analyst-platform) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123111718-kyc-operations-analyst-platform) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-02-25.
+This compliance & risk management position at WISE was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

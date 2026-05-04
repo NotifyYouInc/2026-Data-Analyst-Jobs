@@ -1,16 +1,16 @@
-# Business Intelligence Developer at NCS
+# Senior Data Analyst - Strategic Business Intelligence at ExpressVPN
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [ExpressVPN](https://scoutify.ai/companies/expressvpn?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Category | Strategy & Operations |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025699-business-intelligence-developer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/expressvpn/jobs/8524433002) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-04-27.
+This strategy & operations position at ExpressVPN was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Risk Analytics Consultant at Wells Fargo
+# Senior:Data Analyst at Referrals Only
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
+| Category | Data Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Risk-Analytics-Consultant_R-539887) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7840245) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-04-27.
+This data analyst position at Referrals Only was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

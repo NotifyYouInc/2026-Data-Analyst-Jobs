@@ -1,16 +1,16 @@
-# Business Intelligence Developer at NCS
+# Intern, Commercial Sales Analyst at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Engineer |
+| Category | Business Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025699-business-intelligence-developer) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/APAC-Enterprise-Account-Intern--Aug---Dec-_WD30180850) |
 
 ## About This Role
 
-This data engineer position at NCS was posted on 2026-04-27.
+This business analyst position at Johnson Controls was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

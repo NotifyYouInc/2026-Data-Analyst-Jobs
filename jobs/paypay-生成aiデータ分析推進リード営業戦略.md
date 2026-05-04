@@ -1,16 +1,16 @@
-# Data Analyst at Barclays
+# 生成AI×データ分析推進リード（営業戦略） at PayPay
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [PayPay](https://scoutify.ai/companies/paypay?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Japan |
 | Category | Data Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000097562) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/paypay/jobs/5741219004) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-04-27.
+This data analyst position at PayPay was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales & Trading Program Analyst - C11 - TOKYO at Citigroup
+# Mortgage Servicing-Credit Risk Strategy & Analytics - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Japan |
-| Category | Corporate Finance |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Sales---Trading-Program-Analyst---C11---TOKYO_25927322) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Mortgage-Servicing-Credit-Risk-Strategy---Analytics---Vice-President_26946079) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This data analyst position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
