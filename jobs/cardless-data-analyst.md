@@ -5,12 +5,12 @@
 | Company | [Cardless](https://scoutify.ai/companies/cardless?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Analyst |
-| Posted | 2025-12-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cardless/5b6e6ff4-3e6d-4571-8e6c-9740fafea5f7) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cardless/91940d95-ee52-42c9-8844-46d6c10567f3) |
 
 ## About This Role
 
-This data analyst position at Cardless was posted on 2025-12-04.
+This data analyst position at Cardless was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

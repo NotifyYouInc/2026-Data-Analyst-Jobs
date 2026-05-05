@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122421499-data-review-specialist-stability-protocol-study-build-review) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000123136787-data-review-specialist-stability-protocol-study-build-review) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-04-23.
+This data analyst position at Eurofins Scientific was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

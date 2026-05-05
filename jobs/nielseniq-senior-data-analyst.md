@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111982045-senior-data-analyst) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123167109-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-28.
+This data analyst position at NielsenIQ was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

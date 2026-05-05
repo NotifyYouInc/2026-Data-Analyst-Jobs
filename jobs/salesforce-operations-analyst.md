@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Operations-Analyst_JR332921) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Operations-Analyst_JR329042) |
 
 ## About This Role
 
-This business analyst position at Salesforce was posted on 2026-03-10.
+This business analyst position at Salesforce was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

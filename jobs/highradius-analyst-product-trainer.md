@@ -5,12 +5,12 @@
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7598898003) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7690559003) |
 
 ## About This Role
 
-This customer success position at HighRadius was posted on 2026-03-23.
+This customer success position at HighRadius was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

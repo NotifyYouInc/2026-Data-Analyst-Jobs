@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4811812101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4847113101) |
 
 ## About This Role
 
-This data analyst position at Nebius was posted on 2026-03-17.
+This data analyst position at Nebius was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

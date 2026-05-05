@@ -5,12 +5,12 @@
 | Company | [Latitude AI](https://scoutify.ai/companies/latitude-ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/7852122) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/7857878) |
 
 ## About This Role
 
-This human resources / people ops position at Latitude AI was posted on 2026-04-24.
+This human resources / people ops position at Latitude AI was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

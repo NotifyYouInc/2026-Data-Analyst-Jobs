@@ -1,16 +1,16 @@
-# Business Intelligence Data Analyst at Binance
+# Business Intelligence/ Data Analyst at Binance
 
 | Field | Details |
 |-------|---------|
 | Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.lever.co/binance/9dfd297d-d877-43b3-81b4-86c6d807cbcf) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.lever.co/binance/f664ce6d-6fe8-4a7d-b2a3-1fa4d22dcd42) |
 
 ## About This Role
 
-This data analyst position at Binance was posted on 2026-03-26.
+This data analyst position at Binance was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

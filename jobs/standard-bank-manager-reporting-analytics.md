@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000121974453-manager-reporting-analytics) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000123359080-manager-reporting-analytics) |
 
 ## About This Role
 
-This data analyst position at Standard Bank was posted on 2026-04-21.
+This data analyst position at Standard Bank was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000121233492-analyst-data-operations-and-audience-management) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000123281279-analyst-data-operations-and-audience-management) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-04-16.
+This data analyst position at NBCUniversal was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

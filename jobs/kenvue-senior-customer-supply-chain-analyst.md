@@ -5,12 +5,12 @@
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buffalo Grove, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-Illinois-Buffalo-Grove/Senior-Customer-Supply-Chain-Analyst_2607043228W) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-Illinois-Buffalo-Grove/Senior-Customer-Supply-Chain-Analyst_2607045191W) |
 
 ## About This Role
 
-This business analyst position at Kenvue was posted on 2026-02-19.
+This business analyst position at Kenvue was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

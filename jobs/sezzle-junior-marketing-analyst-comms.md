@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | Argentina |
 | Category | Marketing |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7712620003) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7712621003) |
 
 ## About This Role
 
-This marketing position at Sezzle was posted on 2026-04-23.
+This marketing position at Sezzle was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

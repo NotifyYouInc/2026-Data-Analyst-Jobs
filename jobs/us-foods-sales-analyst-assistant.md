@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [US Foods](https://scoutify.ai/companies/usfoods?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Perth Amboy, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Oklahoma-City-OK/Sales-Analyst-Assistant_R277910-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Perth-Amboy-NJ/Sales-Analyst-Assistant_R278702) |
 
 ## About This Role
 
-This business analyst position at US Foods was posted on 2026-04-14.
+This business analyst position at US Foods was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

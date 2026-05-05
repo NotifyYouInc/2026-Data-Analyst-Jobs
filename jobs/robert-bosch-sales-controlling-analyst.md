@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Lincolnshire, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111931135-sales-controlling-analyst) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123201679-sales-controlling-analyst) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-02-27.
+This corporate finance position at Robert Bosch was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

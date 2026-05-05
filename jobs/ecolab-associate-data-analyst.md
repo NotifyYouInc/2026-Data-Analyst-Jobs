@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Data-Analyst_R00286376) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Data-Analyst_R00289996) |
 
 ## About This Role
 
-This data analyst position at Ecolab was posted on 2026-03-06.
+This data analyst position at Ecolab was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

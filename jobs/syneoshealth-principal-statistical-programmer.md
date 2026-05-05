@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | China |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Remote/Principal-Statistical-Programmer_25105430) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Remote/Principal-Statistical-Programmer_25108263) |
 
 ## About This Role
 
-This software engineer position at Syneoshealth was posted on 2026-04-22.
+This software engineer position at Syneoshealth was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

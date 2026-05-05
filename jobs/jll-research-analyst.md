@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ho-Chi-Minh-City-Vietnam/Research-Analyst_REQ497182) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kansas-City-MO/Research-Analyst_REQ500102) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-16.
+This data analyst position at JLL was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

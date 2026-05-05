@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Costanera-Piso-30/Data-Analyst_J00174652) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Data-Analyst_J00174613) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-04-07.
+This data analyst position at Equifax was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

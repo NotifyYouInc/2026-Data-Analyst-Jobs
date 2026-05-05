@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/IB-F-PRODUCT-SENIOR-ANALYST_JR00101155-2) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/IB-F-PRODUCT-SENIOR-ANALYST_JR00102054) |
 
 ## About This Role
 
-This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-20.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

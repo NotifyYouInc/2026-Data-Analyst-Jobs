@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Culver City, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Toronto-ON-Canada/Hospitality-and-Merchandise-Insights-Intern_R100120701) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Culver-City-CA/Hospitality-and-Merchandise-Insights-Intern_R100122329) |
 
 ## About This Role
 
-This data analyst position at ASM Global was posted on 2026-03-03.
+This data analyst position at ASM Global was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

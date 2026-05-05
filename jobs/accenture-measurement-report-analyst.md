@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Measurement---Report-Analyst_AIOC-S01640160-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Measurement---Report-Analyst_AIOC-S01641692-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-22.
+This data analyst position at Accenture was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

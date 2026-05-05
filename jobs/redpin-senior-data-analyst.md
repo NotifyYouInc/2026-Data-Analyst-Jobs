@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redpin](https://scoutify.ai/companies/redpin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4850056101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4850881101) |
 
 ## About This Role
 
-This data analyst position at Redpin was posted on 2026-04-24.
+This data analyst position at Redpin was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

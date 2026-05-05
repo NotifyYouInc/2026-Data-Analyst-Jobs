@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | River Falls, Wisconsin, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118989267-associate-scientist-l) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000123314537-associate-scientist-l) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-04-07.
+This data analyst position at Eurofins Scientific was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

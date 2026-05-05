@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Everett, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Manufacturing-Operations-Analyst_JR2026507349-2) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Manufacturing-Operations-Analyst_JR2026506867-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-04-23.
+This business analyst position at Boeing was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

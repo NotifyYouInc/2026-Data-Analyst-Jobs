@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lahore, Punjab, Pakistan |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122431109-senior-research-executive) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123223939-senior-research-executive) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-23.
+This data analyst position at NielsenIQ was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
