@@ -5,12 +5,12 @@
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/efc8ec2d-e452-4a55-9095-db098b05aaa0) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/a5db28c9-7b34-49ff-bbdc-f231f51b41b4) |
 
 ## About This Role
 
-This data analyst position at Ciandt was posted on 2026-03-04.
+This data analyst position at Ciandt was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

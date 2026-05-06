@@ -1,16 +1,16 @@
-# Sr Principal Analyst, Statistical Programming at Biogen
+# Sr. Principal Analyst, Statistical Programming at Biogen
 
 | Field | Details |
 |-------|---------|
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Sr-Principal-Analyst--Statistical-Programming_REQ23084) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Principal-Analyst--Statistical-Programming_REQ23139) |
 
 ## About This Role
 
-This data analyst position at Biogen was posted on 2026-04-21.
+This data analyst position at Biogen was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mirakl](https://scoutify.ai/companies/mirakl?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mirakl/jobs/5970745004) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mirakl/jobs/5681520004) |
 
 ## About This Role
 
-This data analyst position at Mirakl was posted on 2026-04-15.
+This data analyst position at Mirakl was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121781630-sales-bi-and-analytics-expert) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123478509-sales-bi-and-analytics-expert) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-04-20.
+This business analyst position at Robert Bosch was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Goodlettsville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Pittsburgh-PA/Analyst--Customer-Supply-Chain_R-101663) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Goodlettsville-TN/Analyst--Customer-Supply-Chain_R-102378) |
 
 ## About This Role
 
-This business analyst position at Heinz was posted on 2026-04-03.
+This business analyst position at Heinz was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

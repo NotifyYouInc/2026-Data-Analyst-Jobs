@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Octus](https://scoutify.ai/companies/octus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/octus/jobs/5108702007) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/octus/jobs/5122370007) |
 
 ## About This Role
 
-This data analyst position at Octus was posted on 2026-04-22.
+This data analyst position at Octus was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

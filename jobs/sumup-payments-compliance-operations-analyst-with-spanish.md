@@ -5,12 +5,12 @@
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8421715002?gh_jid=8421715002) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://sumup.com/careers/positions/8526216002?gh_jid=8526216002) |
 
 ## About This Role
 
-This compliance & risk management position at SumUp Payments was posted on 2026-02-17.
+This compliance & risk management position at SumUp Payments was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

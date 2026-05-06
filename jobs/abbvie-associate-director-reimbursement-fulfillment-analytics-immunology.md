@@ -1,16 +1,16 @@
-# Associate Director, Reimbursement & Fulfillment Analytics - Immunology  at AbbVie
+# Associate Director, Reimbursement & Fulfillment Analytics - Immunology at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012162647-associate-director-reimbursement-fulfillment-analytics-immunology) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012862977-associate-director-reimbursement-fulfillment-analytics-immunology) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-03-16.
+This data analyst position at AbbVie was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

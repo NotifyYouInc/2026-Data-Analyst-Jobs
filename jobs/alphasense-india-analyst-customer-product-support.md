@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense India](https://scoutify.ai/companies/alphasense-india?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasenseindia/jobs/8245893002) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasenseindia/jobs/8527744002) |
 
 ## About This Role
 
-This customer success position at AlphaSense India was posted on 2026-04-09.
+This customer success position at AlphaSense India was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

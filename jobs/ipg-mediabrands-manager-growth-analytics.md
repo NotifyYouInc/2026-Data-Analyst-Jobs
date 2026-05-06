@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IPG Mediabrands](https://scoutify.ai/companies/ipg-mediabrands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Growth Marketing |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/5092818007) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/5082455007) |
 
 ## About This Role
 
-This growth marketing position at IPG Mediabrands was posted on 2026-04-14.
+This growth marketing position at IPG Mediabrands was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

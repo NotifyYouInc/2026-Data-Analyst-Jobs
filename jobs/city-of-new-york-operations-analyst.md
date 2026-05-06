@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012744191-operations-analyst) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012854756-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at City of New York was posted on 2026-04-21.
+This business analyst position at City of New York was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Analytics Lead Analyst (Vice President) at Citigroup
+# Business Analytics Lead Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Business-Analytics-Lead-Analyst--Vice-President-_26947428) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Business-Analytics-Lead-Analyst---Vice-President_26958125) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-03-24.
+This business analyst position at Citigroup was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

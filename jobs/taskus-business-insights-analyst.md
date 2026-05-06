@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
-| Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/Business-Insights-Analyst_R_2603_3549) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Gurugram-India/Business-Insights-Analyst_R_2512_16984) |
 
 ## About This Role
 
-This business analyst position at TaskUs was posted on 2026-03-06.
+This data analyst position at TaskUs was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Analyst, Business Intelligence at Ensemble Health Partners
+# Sr. Analyst, Business Intelligence at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Analyst--Business-Intelligence_R041300) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Sr-Analyst--Business-Intelligence_R044404) |
 
 ## About This Role
 
-This data analyst position at Ensemble Health Partners was posted on 2026-03-27.
+This data analyst position at Ensemble Health Partners was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

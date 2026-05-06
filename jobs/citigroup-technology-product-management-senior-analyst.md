@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology-Product-Management-Senior-Analyst_26954722) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology-Product-Management-Senior-Analyst_26958564) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-04-20.
+This product manager position at Citigroup was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

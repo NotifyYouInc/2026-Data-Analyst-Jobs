@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Signifyd](https://scoutify.ai/companies/signifyd95?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/signifyd95/jobs/7722315) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/signifyd95/jobs/7863001) |
 
 ## About This Role
 
-This data analyst position at Signifyd was posted on 2026-03-18.
+This data analyst position at Signifyd was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

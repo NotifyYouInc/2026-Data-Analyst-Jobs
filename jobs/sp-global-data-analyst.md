@@ -5,12 +5,12 @@
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Data-Analyst_326391-2) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Data-Analyst_326280-1) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-04-24.
+This data analyst position at S&P Global was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Delivery-Operations-Senior-Analyst_AIOC-S01641681-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Trust & Safety |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Delivery-Operations-Team-Lead_AIOC-S01635206-1) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Accenture was posted on 2026-04-27.
+This trust & safety position at Accenture was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Valorisation-des-donnes--Entreprises_R2605005) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Donnes-et-Analytique-Marketing_R2605836) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-04-14.
+This data analyst position at Desjardins was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

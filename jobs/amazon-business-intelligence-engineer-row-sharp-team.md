@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10375511/business-intelligence-engineer-row-sharp-team) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406336/business-intelligence-engineer-row-sharp-team) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-03-25.
+This data engineer position at Amazon was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | London, England, United Kingdom |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Dublin-Ireland/Investment-Data-Analyst_175719) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/Investment-Data-Analyst_177525-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Vanguard was posted on 2026-02-25.
+This asset management / portfolio management position at Vanguard was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

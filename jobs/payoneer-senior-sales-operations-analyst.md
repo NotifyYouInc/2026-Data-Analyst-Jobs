@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.payoneer.com/careers/position/7672381/?gh_jid=7672381) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/7864483/?gh_jid=7864483) |
 
 ## About This Role
 
-This operations position at Payoneer was posted on 2026-03-24.
+This operations position at Payoneer was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
