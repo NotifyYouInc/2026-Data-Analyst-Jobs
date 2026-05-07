@@ -1,0 +1,22 @@
+# Procurement & Purchasing Data Analyst at PerkinElmer Canada
+
+| Field | Details |
+|-------|---------|
+| Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/United-Kingdom---OneSource-Remote/Procurement---Purchasing-Data-Analyst_REQ-057242-1) |
+
+## About This Role
+
+This data analyst position at PerkinElmer Canada was posted on 2026-04-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

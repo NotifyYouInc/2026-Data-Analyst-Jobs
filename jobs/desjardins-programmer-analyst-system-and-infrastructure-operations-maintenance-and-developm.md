@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--Datastage_R2605633) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--Java_R2605326-1) |
 
 ## About This Role
 
-This software engineer position at Desjardins was posted on 2026-04-24.
+This software engineer position at Desjardins was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [kayak](https://scoutify.ai/companies/kayak-kayak?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/a4df62af-5e33-4a96-b815-b69530e3161f) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/18c43506-645b-4ec1-8027-9f22bf379415) |
 
 ## About This Role
 
-This data analyst position at kayak was posted on 2026-03-11.
+This data analyst position at kayak was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

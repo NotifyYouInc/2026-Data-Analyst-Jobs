@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jacksonville, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Analyst-II---Product-Technical-Support_JR0304918) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Analyst-II---Product-Technical-Support_JR0306704) |
 
 ## About This Role
 
-This customer success position at Fidelity National Information Services was posted on 2026-04-17.
+This customer success position at Fidelity National Information Services was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

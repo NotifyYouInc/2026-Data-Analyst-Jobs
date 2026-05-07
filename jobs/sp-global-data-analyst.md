@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Data-Analyst_326280-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Data-Analyst_326293-1) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-04-28.
+This data analyst position at S&P Global was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

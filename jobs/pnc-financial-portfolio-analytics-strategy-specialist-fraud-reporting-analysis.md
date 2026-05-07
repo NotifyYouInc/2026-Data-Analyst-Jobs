@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AL---Birmingham-35233/Portfolio-Analytics---Strategy-Specialist--Fraud-Reporting-Analysis-_R217892-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AL---Birmingham-35233/Portfolio-Analytics---Strategy-Specialist--Fraud-Reporting-Analysis-_R221010-1) |
 
 ## About This Role
 
-This data analyst position at PNC Financial was posted on 2026-04-15.
+This data analyst position at PNC Financial was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

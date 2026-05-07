@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000121836387-it-operations-business-intelligence-bi-analyst) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000123701551-it-operations-business-intelligence-bi-analyst) |
 
 ## About This Role
 
-This data analyst position at Endava was posted on 2026-04-20.
+This data analyst position at Endava was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

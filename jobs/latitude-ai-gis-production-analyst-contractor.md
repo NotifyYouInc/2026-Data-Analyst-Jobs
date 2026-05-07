@@ -5,12 +5,12 @@
 | Company | [Latitude AI](https://scoutify.ai/companies/latitude-ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/7854215) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/7868899) |
 
 ## About This Role
 
-This data analyst position at Latitude AI was posted on 2026-04-25.
+This data analyst position at Latitude AI was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

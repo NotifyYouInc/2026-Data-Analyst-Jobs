@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/GIS-Analyst_20095191) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/GIS-Analyst_20095473) |
 
 ## About This Role
 
-This data analyst position at Acciona was posted on 2026-04-15.
+This data analyst position at Acciona was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

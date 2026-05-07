@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tennessee, US |
+| Location | Poland |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-OH/Fraud-Operations-Analyst_2026-0010135) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/FieldHome-Based-Poland/Fraud-Operations-Analyst_2026-0010302) |
 
 ## About This Role
 
-This financial crimes & aml position at U.S. Bank was posted on 2026-04-23.
+This financial crimes & aml position at U.S. Bank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

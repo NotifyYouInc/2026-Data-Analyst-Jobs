@@ -5,12 +5,12 @@
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/Data-Analyst--Performance-Media---EMEA_r20353) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/Data-Analyst--Performance-Media---EMEA_r20572) |
 
 ## About This Role
 
-This data analyst position at Criteo was posted on 2026-02-27.
+This data analyst position at Criteo was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Liverpool, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000123431396-operational-insights-analyst) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000123658174-operational-insights-analyst) |
 
 ## About This Role
 
-This data analyst position at Believe was posted on 2026-04-28.
+This data analyst position at Believe was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

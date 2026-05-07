@@ -5,12 +5,12 @@
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | SOC & Incident Response |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Security-Operations-Analyst_R-28217) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Security-Operations-Analyst_R-28453) |
 
 ## About This Role
 
-This soc & incident response position at Iberdrola Group was posted on 2026-04-03.
+This soc & incident response position at Iberdrola Group was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

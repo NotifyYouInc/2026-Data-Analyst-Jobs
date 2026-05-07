@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Insights---Visualization-Practition_ATCI-5378179-S1958475-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Insights---Visualization-Practition_ATCI-5399838-S2019371-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-21.
+This data analyst position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

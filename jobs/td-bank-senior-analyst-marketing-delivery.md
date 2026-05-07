@@ -5,12 +5,12 @@
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Growth Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Analyst--Marketing-Delivery_R_1482119) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Analyst--Marketing-Delivery_R_1455507) |
 
 ## About This Role
 
-This growth marketing position at TD Bank was posted on 2026-04-20.
+This growth marketing position at TD Bank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

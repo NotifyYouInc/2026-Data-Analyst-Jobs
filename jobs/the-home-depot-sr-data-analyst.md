@@ -1,16 +1,16 @@
-# Sr. Data Analyst at The Home Depot
+# Sr Data Analyst at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Data-Analyst_Req167731-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Data-Analyst_Req178712) |
 
 ## About This Role
 
-This data analyst position at The Home Depot was posted on 2026-02-20.
+This data analyst position at The Home Depot was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

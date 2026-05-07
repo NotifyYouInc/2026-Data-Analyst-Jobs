@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lehi, Utah, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Sr-Business-Intelligence-Analyst_R2956) |
+| Category | Data Analyst |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Sr-Business-Intelligence-Analyst_R3028) |
 
 ## About This Role
 
-This business analyst position at Waystar was posted on 2026-02-04.
+This data analyst position at Waystar was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

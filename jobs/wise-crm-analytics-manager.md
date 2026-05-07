@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Marketing |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000116231608-crm-analytics-manager) |
+| Category | Data Analyst |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123635249-crm-analytics-manager) |
 
 ## About This Role
 
-This marketing position at WISE was posted on 2026-03-23.
+This data analyst position at WISE was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

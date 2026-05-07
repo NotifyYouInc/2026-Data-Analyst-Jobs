@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Digital-Content-Data-Analyst_Req171253) |
+| Category | Data Analyst |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Digital-Content-Data-Analyst_Req176792) |
 
 ## About This Role
 
-This project manager position at The Home Depot was posted on 2026-03-06.
+This data analyst position at The Home Depot was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000122653212-data-analyst-supply-chain-fh-cdd-jusquau-300926-et-renouvelable) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000123786398-data-analyst-supply-chain-fh-cdd-jusquau-300926-et-renouvelable) |
 
 ## About This Role
 
-This data analyst position at METRO/MAKRO was posted on 2026-04-24.
+This data analyst position at METRO/MAKRO was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

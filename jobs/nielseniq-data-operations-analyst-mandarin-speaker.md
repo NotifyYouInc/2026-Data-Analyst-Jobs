@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Subang Jaya, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120596378-data-operations-analyst-mandarin-speaker) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123850463-data-operations-analyst-mandarin-speaker) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-14.
+This data analyst position at NielsenIQ was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate, Reporting & Analytics at JLL
+# Associate – Reporting & Analytics at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Associate--Reporting---Analytics_REQ494809) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Associate---Reporting---Analytics_REQ484579) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-04.
+This data analyst position at JLL was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
