@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Cheadle, England, United Kingdom |
 | Category | Leadership Development Program |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000120992691-graduate-programme-datadigital-analyst) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000123961420-graduate-programme-datadigital-analyst) |
 
 ## About This Role
 
-This leadership development program position at Together Money was posted on 2026-04-15.
+This leadership development program position at Together Money was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

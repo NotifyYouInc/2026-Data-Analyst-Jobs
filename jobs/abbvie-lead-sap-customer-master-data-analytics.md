@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | North Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012661987-lead-sap-customer-master-data-analytics) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012905172-lead-sap-customer-master-data-analytics) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-04-17.
+This business analyst position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

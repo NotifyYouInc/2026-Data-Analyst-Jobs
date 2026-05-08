@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Connecticut, US |
+| Location | Greenwich, Connecticut, United States |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8439414002) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8531139002) |
 
 ## About This Role
 
-This customer success position at iCapital Network was posted on 2026-02-26.
+This customer success position at iCapital Network was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

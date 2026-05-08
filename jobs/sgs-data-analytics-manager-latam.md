@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colombia |
-| Category | Program Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000118247408-data-analytics-manager-latam) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Data Analyst |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000124016329-data-analytics-manager-latam) |
 
 ## About This Role
 
-This program manager position at SGS was posted on 2026-04-01.
+This data analyst position at SGS was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

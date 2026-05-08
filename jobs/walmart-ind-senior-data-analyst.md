@@ -1,16 +1,16 @@
-# (IND) SENIOR, DATA ANALYST at Walmart
+# (IND) Senior, Data Analyst at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/XMLNAME--IND--SENIOR--DATA-ANALYST_R-2424855) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--Senior--Data-Analyst_R-2485463) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-04-06.
+This data analyst position at Walmart was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

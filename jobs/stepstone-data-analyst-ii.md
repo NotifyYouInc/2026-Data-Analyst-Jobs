@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lebanon, Tennessee, United States |
+| Location | Denver, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000123707689-data-analyst-ii) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000123975869-data-analyst-ii) |
 
 ## About This Role
 
-This data analyst position at StepStone was posted on 2026-04-29.
+This data analyst position at StepStone was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

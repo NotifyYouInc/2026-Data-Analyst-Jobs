@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rogers, Arkansas, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Rogers-AR/Customer-Sales-Analyst_R-101863) |
+| Location | United States |
+| Category | Business Development |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/Customer-Sales-Analyst_R-102446) |
 
 ## About This Role
 
-This business analyst position at Heinz was posted on 2026-04-10.
+This business development position at Heinz was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

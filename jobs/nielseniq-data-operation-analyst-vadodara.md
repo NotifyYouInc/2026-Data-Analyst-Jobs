@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vadodara, Gujarat, India |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122637932-data-operation-analyst-vadodara) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124075799-data-operation-analyst-vadodara) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-24.
+This data analyst position at NielsenIQ was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

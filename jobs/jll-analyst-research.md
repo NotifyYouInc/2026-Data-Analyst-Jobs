@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Analyst--Research_REQ499161) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Analyst--Research_REQ503804) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-23.
+This data analyst position at JLL was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Contagem, Minas Gerais, Brazil |
-| Category | Strategy And Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011513326-hr-operations-analytics-analyst) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012900362-hr-operations-analytics-analyst) |
 
 ## About This Role
 
-This strategy and operations position at Wabtec was posted on 2026-02-04.
+This human resources / people ops position at Wabtec was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

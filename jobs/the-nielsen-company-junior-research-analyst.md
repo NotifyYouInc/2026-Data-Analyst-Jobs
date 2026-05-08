@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012630916-junior-research-analyst) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012890276-junior-research-analyst) |
 
 ## About This Role
 
-This data analyst position at The Nielsen Company was posted on 2026-04-16.
+This data analyst position at The Nielsen Company was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

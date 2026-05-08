@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Export-Sales-Order-Management-Senior-Analyst_R2847084) |
+| Category | Customer Success |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Export-Sales-Order-Management-Senior-Analyst_R2855122-1) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-03-09.
+This customer success position at Sanofi was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

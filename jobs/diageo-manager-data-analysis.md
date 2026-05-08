@@ -5,12 +5,12 @@
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Manager---Data-Analysis_JR1125444) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Manager---Data-Analysis_JR1125579) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-04-27.
+This data analyst position at Diageo was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

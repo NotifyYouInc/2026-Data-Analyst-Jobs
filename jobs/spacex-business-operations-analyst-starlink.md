@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Bastrop, Louisiana, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8511086002?gh_jid=8511086002) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8519655002?gh_jid=8519655002) |
 
 ## About This Role
 
-This strategy & operations position at SpaceX was posted on 2026-04-22.
+This strategy & operations position at SpaceX was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

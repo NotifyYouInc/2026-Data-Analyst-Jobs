@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Maryland, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/ac523cbf-8c16-4222-b4bc-7cf20230edac) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/764a0b1d-cd4e-4001-bc52-07ffb167b0ab) |
 
 ## About This Role
 
-This it & systems administration position at Wyetech was posted on 2026-04-14.
+This it & systems administration position at Wyetech was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

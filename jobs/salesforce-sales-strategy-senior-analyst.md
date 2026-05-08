@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Operations |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Sales-Strategy-Senior-Analyst_JR338938) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Sales-Strategy-Senior-Analyst_JR340404) |
 
 ## About This Role
 
-This operations position at Salesforce was posted on 2026-04-17.
+This operations position at Salesforce was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

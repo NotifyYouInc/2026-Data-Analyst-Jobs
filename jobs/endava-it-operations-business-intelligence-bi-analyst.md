@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000123701551-it-operations-business-intelligence-bi-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000123760355-it-operations-business-intelligence-bi-analyst) |
 
 ## About This Role
 

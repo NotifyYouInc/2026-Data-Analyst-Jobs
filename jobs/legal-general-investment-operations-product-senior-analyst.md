@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000122665539-investment-operations-product-senior-analyst) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000123935214-investment-operations-product-senior-analyst) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-04-24.
+This corporate finance position at Legal & General was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

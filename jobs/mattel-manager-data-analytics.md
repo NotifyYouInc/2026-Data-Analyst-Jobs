@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000115497587-manager-data-analytics) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000124026429-manager-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Mattel was posted on 2026-03-18.
+This data analyst position at Mattel was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

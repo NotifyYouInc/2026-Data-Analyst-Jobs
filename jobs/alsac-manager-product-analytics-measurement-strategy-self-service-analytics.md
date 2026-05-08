@@ -5,12 +5,12 @@
 | Company | [ALSAC](https://scoutify.ai/companies/alsacstjude?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Memphis, Tennessee, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Manager--Product-Analytics---Measurement-Strategy---Self-Service-Analytics_R0010695) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Manager--Product-Analytics---Measurement-Strategy---Self-Service-Analytics_R0010720) |
 
 ## About This Role
 
-This strategy & operations position at ALSAC was posted on 2026-04-03.
+This strategy & operations position at ALSAC was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012811756-market-analytics-and-business-intelligence-mabi-analyst) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012907014-market-analytics-and-business-intelligence-mabi-analyst) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-04-24.
+This data analyst position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

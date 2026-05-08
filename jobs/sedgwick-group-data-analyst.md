@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-VA/Data-Analyst_R71755) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/US-Telecommuter/Data-Analyst_R73077) |
 
 ## About This Role
 
-This data analyst position at Sedgwick Group was posted on 2026-03-19.
+This data analyst position at Sedgwick Group was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Analyst, Field Planning & Analytics  at AbbVie
+# Senior Analyst, Field Planning & Analytics at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012831187-senior-analyst-field-planning-analytics) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012916621-senior-analyst-field-planning-analytics) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-04-27.
+This data analyst position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

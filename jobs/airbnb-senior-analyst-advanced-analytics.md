@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7602172?gh_jid=7602172) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7867052?gh_jid=7867052) |
 
 ## About This Role
 
-This data analyst position at Airbnb was posted on 2026-04-09.
+This data analyst position at Airbnb was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
