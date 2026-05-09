@@ -5,12 +5,12 @@
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bowie, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7705615003) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7720278003) |
 
 ## About This Role
 
-This data analyst position at Inovalon was posted on 2026-04-20.
+This data analyst position at Inovalon was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

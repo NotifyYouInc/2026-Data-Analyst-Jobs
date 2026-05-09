@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Alexandria/Data-Systems---Policy-Analyst_320286) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Alexandria/Data-Systems---Policy-Analyst_325527) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-02-20.
+This data analyst position at CACI was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

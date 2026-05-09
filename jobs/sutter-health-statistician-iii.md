@@ -5,12 +5,12 @@
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Walnut-Creek/Statistician-III_R-126880) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Walnut-Creek/Statistician-III_R-129252-1) |
 
 ## About This Role
 
-This data analyst position at Sutter Health was posted on 2026-04-06.
+This data analyst position at Sutter Health was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

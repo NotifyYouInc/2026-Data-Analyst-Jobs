@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Chicago, Illinois, United States |
 | Category | Operations |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Sales-Strategy-Analyst_JR338198) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Sales-Strategy-Analyst_JR340568) |
 
 ## About This Role
 

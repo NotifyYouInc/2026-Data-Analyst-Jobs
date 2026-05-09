@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-AUSTIN-01185-WM-SUPERCENTER/Manager--Advanced-Analytics_R-2474676) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Advanced-Analytics_R-2492382-1) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-04-27.
+This data analyst position at Walmart was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

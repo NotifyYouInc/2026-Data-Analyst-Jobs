@@ -1,16 +1,16 @@
-# Data Analyst - Spain at Delivery Hero
+# Data Analyst Spain at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000123917699-data-analyst-spain) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000124108529-data-analyst-spain) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-04-30.
+This data analyst position at Delivery Hero was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

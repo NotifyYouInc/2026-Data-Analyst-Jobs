@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | L'Hospitalet de Llobregat, Catalonia, Spain |
+| Location | 2 locations |
 | Category | Data Analyst |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/LHospitalet-de-Llobregat-Spain/Senior-Business-Intelligence---Data-Analyst_R1308098) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Prague-Czechia/Senior-Business-Intelligence---Data-Analyst_R1310359-1) |
 
 ## About This Role
 

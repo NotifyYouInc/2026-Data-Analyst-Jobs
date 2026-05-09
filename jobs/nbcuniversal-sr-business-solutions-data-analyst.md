@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Universal City, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113794176-sr-business-solutions-data-analyst) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000124162130-sr-business-solutions-data-analyst) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-03-10.
+This data analyst position at NBCUniversal was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

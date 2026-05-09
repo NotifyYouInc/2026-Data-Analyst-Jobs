@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | Virginia, US |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Operations-Analyst-Technician_RQ217156-2) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fort-Eustis/Operations-Analyst-Technician_RQ219152-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-04-03.
+This business analyst position at General Dynamics Information Technology was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 
