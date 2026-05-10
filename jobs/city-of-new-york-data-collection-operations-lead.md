@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012854737-data-collection-operations-lead) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012943891-data-collection-operations-lead) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-04-28.
+This data analyst position at City of New York was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7709442) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7805436) |
 
 ## About This Role
 
-This digital / performance marketing position at InMobi was posted on 2026-04-11.
+This digital / performance marketing position at InMobi was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

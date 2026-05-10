@@ -1,16 +1,16 @@
-# Specialist - Corrigo Service Team at JLL
+# Consultant - Analytics at TTEC Digital
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [TTEC Digital](https://scoutify.ai/companies/ttec-digital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Specialist---Corrigo-Service-Team_REQ502075) |
+| Apply | [View on company site](https://jobs.lever.co/ttecdigital/6add4677-d188-49ea-b32f-3b42f2d1093b) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-05-02.
+This data analyst position at TTEC Digital was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

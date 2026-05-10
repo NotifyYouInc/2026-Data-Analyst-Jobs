@@ -1,16 +1,16 @@
-# Specialist - Corrigo Service Team at JLL
+# Sales Data Analyst at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Data Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Specialist---Corrigo-Service-Team_REQ502075) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012944356-sales-data-analyst) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-05-02.
+This data analyst position at AbbVie was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

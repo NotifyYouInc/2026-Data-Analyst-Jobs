@@ -1,16 +1,16 @@
-# Specialist - Corrigo Service Team at JLL
+# Lead Product Analyst - Operations at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Specialist---Corrigo-Service-Team_REQ502075) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124245879-lead-product-analyst-operations) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-05-02.
+This data analyst position at WISE was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 
