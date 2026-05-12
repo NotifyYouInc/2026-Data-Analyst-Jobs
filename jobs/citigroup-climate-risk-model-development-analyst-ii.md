@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Climate-Risk-Model-Development---Analyst-II_26958162) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Climate-Risk-Model-Development---Analyst-II_26957616) |
 
 ## About This Role
 
-This esg / sustainability position at Citigroup was posted on 2026-04-29.
+This esg / sustainability position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

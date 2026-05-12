@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012900120-manager-analytics-solutions) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012911761-manager-analytics-solutions) |
 
 ## About This Role
 

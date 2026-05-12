@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Credit-Analyst_R-00270803) |
+| Category | Business Analyst |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Credit-Analyst_R-00275279) |
 
 ## About This Role
 
-This customer success position at NatWest Group was posted on 2026-04-13.
+This business analyst position at NatWest Group was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

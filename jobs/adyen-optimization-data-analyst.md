@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7181026) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7681249) |
 
 ## About This Role
 
-This data analyst position at Adyen was posted on 2026-03-11.
+This data analyst position at Adyen was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

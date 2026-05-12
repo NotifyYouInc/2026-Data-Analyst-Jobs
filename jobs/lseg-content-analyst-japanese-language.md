@@ -1,16 +1,16 @@
-# Content Analyst- Japanese Language at LSEG
+# Content Analyst - Japanese Language at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Content-Analyst--Japanese-Language_R0117728-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Content-Analyst---Japanese-Language_R0118698-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-04-16.
+This data analyst position at LSEG was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Universal City, California, United States |
 | Category | Data Analyst |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124004759-analyst-consumer-insights-marketplace-intelligence) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124029660-analyst-consumer-insights-marketplace-intelligence) |
 
 ## About This Role
 

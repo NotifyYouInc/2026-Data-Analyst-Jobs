@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012900906-pricing-strategy-analytics-manager-irvine-ca) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922130-pricing-strategy-analytics-manager-irvine-ca) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-04-30.
+This strategy & operations position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

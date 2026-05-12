@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Mumbai-One-World-Center/FX-Operations-Analyst---Markets_R0116971-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Mumbai-One-World-Center/FX-Operations-Analyst---Markets_R0118936) |
 
 ## About This Role
 
-This customer success position at LSEG was posted on 2026-03-10.
+This customer success position at LSEG was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
