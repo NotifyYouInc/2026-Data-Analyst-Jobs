@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Specialist---Corrigo-Service-Team_REQ502075) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Specialist---Corrigo-Service-Team_REQ502044) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-05-02.
+This data analyst position at JLL was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

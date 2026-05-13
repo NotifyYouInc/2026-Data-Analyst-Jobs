@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Marketing |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121295382-media-marketing-effectiveness-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124710051-media-marketing-effectiveness-analyst) |
 
 ## About This Role
 
-This marketing position at NielsenIQ was posted on 2026-04-16.
+This data analyst position at NielsenIQ was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Houston, Texas, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Security-Operations-Center-Analyst-III_R236181) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Security-Operations-Center-Analyst-III_R246746) |
 
 ## About This Role
 
-This soc & incident response position at Sysco was posted on 2026-03-13.
+This soc & incident response position at Sysco was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARRODS CORPORATE MANAGEMENT](https://scoutify.ai/companies/harrods-corporate-management?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Hammersmith, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://harrods.wd3.myworkdayjobs.com/harrods_external1/job/Hammersmith/Insights-Analyst_VAC-51848-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://harrods.wd3.myworkdayjobs.com/harrods_external1/job/Hammersmith/Insights-Analyst_VAC-52982) |
 
 ## About This Role
 
-This data analyst position at HARRODS CORPORATE MANAGEMENT was posted on 2026-03-06.
+This data analyst position at HARRODS CORPORATE MANAGEMENT was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

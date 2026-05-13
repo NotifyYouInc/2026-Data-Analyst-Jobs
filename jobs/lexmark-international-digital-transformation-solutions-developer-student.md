@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lexmark International](https://scoutify.ai/companies/lexmark-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
-| Category | Strategy And Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://lexmark.wd1.myworkdayjobs.com/lexmark/job/Cebu-Philippines-RD/Digital-Transformation-Solutions-Developer--Student-_R5501) |
+| Category | Data Analyst |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://lexmark.wd1.myworkdayjobs.com/lexmark/job/Cebu-Philippines-RD/Digital-Transformation-Solutions-Developer--Student-_R2776) |
 
 ## About This Role
 
-This strategy and operations position at Lexmark International was posted on 2026-02-05.
+This data analyst position at Lexmark International was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

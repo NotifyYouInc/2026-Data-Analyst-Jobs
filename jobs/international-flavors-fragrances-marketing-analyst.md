@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Tlalnepantla, México, Mexico |
 | Category | Marketing |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Tlalnepantla-Mexico/Marketing-Analyst_R15851) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Tlalnepantla-Mexico/Marketing-Analyst_R15935-1) |
 
 ## About This Role
 
-This marketing position at International Flavors & Fragrances was posted on 2026-03-05.
+This marketing position at International Flavors & Fragrances was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

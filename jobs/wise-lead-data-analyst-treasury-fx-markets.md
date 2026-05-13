@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124099149-lead-data-analyst-treasury-fx-markets) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124589830-lead-data-analyst-treasury-fx-markets) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-05-01.
+This data analyst position at WISE was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

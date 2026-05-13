@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Growth Marketing |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123636669-lead-growth-analyst-marketing-analytics) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124590184-lead-growth-analyst-marketing-analytics) |
 
 ## About This Role
 
-This growth marketing position at WISE was posted on 2026-04-29.
+This growth marketing position at WISE was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

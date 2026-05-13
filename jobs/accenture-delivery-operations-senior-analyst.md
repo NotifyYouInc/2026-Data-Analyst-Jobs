@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Delivery-Operations-Senior-Analyst_AIOC-S01642514-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01642969-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-30.
+This compliance & risk management position at Accenture was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

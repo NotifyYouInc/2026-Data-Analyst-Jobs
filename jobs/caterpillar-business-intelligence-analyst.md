@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Geneva, CH |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Sao-Paulo-So-Paulo/Business-Intelligence-Analyst_R0000360316) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Geneva-6-Geneva/Business-Intelligence-Analyst_R0000367475) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-04-06.
+This data analyst position at Caterpillar was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

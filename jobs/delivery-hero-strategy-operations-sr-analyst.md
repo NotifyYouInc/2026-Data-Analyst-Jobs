@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Not specified |
 | Category | Operations |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118421797-strategy-operations-sr-analyst) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000124661738-strategy-operations-sr-analyst) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-04-02.
+This operations position at Delivery Hero was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---BANGALORE/Power-BI-Developer_JR-2600434) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Power-BI-Developer_JR-2601526) |
 
 ## About This Role
 
-This data engineer position at GlobalFoundries was posted on 2026-02-05.
+This data engineer position at GlobalFoundries was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

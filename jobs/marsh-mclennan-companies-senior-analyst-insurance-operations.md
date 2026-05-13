@@ -1,16 +1,16 @@
-# Senior Analyst– Insurance Operations at Marsh & McLennan Companies
+# Senior Analyst - Insurance Operations at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Senior-Analyst--Insurance-Operations_R_338019) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Senior-Analyst---Insurance-Operations_R_344748) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-24.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

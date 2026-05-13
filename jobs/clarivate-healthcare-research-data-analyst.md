@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Healthcare-Research---Data-Analyst_JREQ134959) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Healthcare-Research---Data-Analyst_JREQ135502) |
 
 ## About This Role
 
-This data analyst position at Clarivate was posted on 2026-02-26.
+This data analyst position at Clarivate was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

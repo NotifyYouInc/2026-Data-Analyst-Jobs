@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000118053150-quality-data-analyst) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124610040-quality-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Intuitive Surgical was posted on 2026-04-01.
+This data analyst position at Intuitive Surgical was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

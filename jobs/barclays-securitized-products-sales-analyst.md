@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Account Executive |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Four-Embarcadero-Center-San-Francsico/Securitized-Products-Sales-Analyst_JR-0000094062) |
+| Location | New York City, New York, United States |
+| Category | Corporate Finance |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Securitized-Products-Sales-Analyst_JR-0000106830-1) |
 
 ## About This Role
 
-This account executive position at Barclays was posted on 2026-02-19.
+This corporate finance position at Barclays was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

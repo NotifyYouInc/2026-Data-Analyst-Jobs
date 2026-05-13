@@ -1,16 +1,16 @@
-# Intel Analyst at Two Six Technologies
+# Intel Analyst  at Two Six Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Carolina, US |
+| Location | Laurel, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5807084004) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5988538004) |
 
 ## About This Role
 
-This data analyst position at Two Six Technologies was posted on 2026-02-18.
+This data analyst position at Two Six Technologies was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

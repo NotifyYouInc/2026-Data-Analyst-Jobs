@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000119436397-kyc-operations-senior-analyst) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124704881-kyc-operations-senior-analyst) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-04-08.
+This financial crimes & aml position at WISE was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

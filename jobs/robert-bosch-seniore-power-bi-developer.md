@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120511136-seniore-power-bi-developer) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124628518-seniore-power-bi-developer) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-04-13.
+This data engineer position at Robert Bosch was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

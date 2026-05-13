@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123898059-jr-customer-support-analyst) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124591517-jr-customer-support-analyst) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-04-30.
+This customer success position at NielsenIQ was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Analysis---Retail-Bank_R238783-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Analysis---Retail-Bank_R241969-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-03-24.
+This data analyst position at Capital One was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

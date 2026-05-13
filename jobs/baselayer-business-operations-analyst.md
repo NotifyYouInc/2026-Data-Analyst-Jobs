@@ -5,12 +5,12 @@
 | Company | [Baselayer](https://scoutify.ai/companies/baselayer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5175928008) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5209282008) |
 
 ## About This Role
 
-This strategy & operations position at Baselayer was posted on 2026-04-03.
+This strategy & operations position at Baselayer was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

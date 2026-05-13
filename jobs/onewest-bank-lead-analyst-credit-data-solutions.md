@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Lead-Analyst---Credit-Data-Solutions_24321-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Lead-Analyst---Credit-Data-Solutions_23867) |
 
 ## About This Role
 
-This data analyst position at OneWest Bank was posted on 2026-02-26.
+This data analyst position at OneWest Bank was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

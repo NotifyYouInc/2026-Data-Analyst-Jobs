@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Privacy & Data Protection |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Business-Data-Steward_R0113284) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Business-Data-Steward_R0114125) |
 
 ## About This Role
 
-This privacy & data protection position at Truist was posted on 2026-04-14.
+This privacy & data protection position at Truist was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

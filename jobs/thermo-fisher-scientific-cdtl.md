@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/CDTL_R-01349025) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/CDTL_R-01352114) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-04-15.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
