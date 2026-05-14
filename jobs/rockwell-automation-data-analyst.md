@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/Data-Analyst_R25-8568) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Data-Analyst_R26-2881) |
 
 ## About This Role
 
-This data analyst position at Rockwell Automation was posted on 2026-04-03.
+This data analyst position at Rockwell Automation was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

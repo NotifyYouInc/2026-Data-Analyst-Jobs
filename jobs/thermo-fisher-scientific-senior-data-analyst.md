@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Scoresby, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/So-Paulo-Brazil/Senior-Data-Analyst_R-01349601) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Scoresby-Australia/Senior-Data-Analyst_R-01350270) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-04-24.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

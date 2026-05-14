@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Security-Operations-Center-Analyst_R0234173-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Security-Operations-Center-Analyst_R0239420-1) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-02-18.
+This soc & incident response position at Booz Allen was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

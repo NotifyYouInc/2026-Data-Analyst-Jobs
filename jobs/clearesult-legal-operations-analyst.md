@@ -5,12 +5,12 @@
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oregon, US |
 | Category | Legal |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Oregon/Legal-Operations-Analyst_R0017394) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Oregon/Legal-Operations-Analyst_R0017395) |
 
 ## About This Role
 
-This legal position at CLEAResult was posted on 2026-04-20.
+This legal position at CLEAResult was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

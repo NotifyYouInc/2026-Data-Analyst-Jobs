@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | QA Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7602957848444553525/detail) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7602595758466795829/detail) |
 
 ## About This Role
 
-This qa engineer position at TikTok was posted on 2026-04-22.
+This qa engineer position at TikTok was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

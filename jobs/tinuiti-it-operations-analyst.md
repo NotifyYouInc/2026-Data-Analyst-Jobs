@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/IT-Operations-Analyst_R26_65-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/Mexico-City/IT-Operations-Analyst_R26_365) |
 
 ## About This Role
 
-This it & systems administration position at Tinuiti was posted on 2026-02-23.
+This it & systems administration position at Tinuiti was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

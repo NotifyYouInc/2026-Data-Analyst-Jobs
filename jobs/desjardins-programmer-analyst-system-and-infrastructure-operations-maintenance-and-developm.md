@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Lévis, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--Java_R2605326-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Tech-lead-Java_R2606117) |
 
 ## About This Role
 
-This software engineer position at Desjardins was posted on 2026-04-29.
+This software engineer position at Desjardins was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

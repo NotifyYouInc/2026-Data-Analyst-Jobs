@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Edmonton, Alberta, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kansas-City-MO/Research-Analyst_REQ500102) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Edmonton-AB/Research-Analyst_REQ477467) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-27.
+This data analyst position at JLL was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

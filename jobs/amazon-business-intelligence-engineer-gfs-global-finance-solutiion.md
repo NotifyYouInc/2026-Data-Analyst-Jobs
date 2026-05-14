@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412081/business-intelligence-engineer-gfs-global-finance-solutiion) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412202/business-intelligence-engineer-gfs-global-finance-solutiion) |
 
 ## About This Role
 

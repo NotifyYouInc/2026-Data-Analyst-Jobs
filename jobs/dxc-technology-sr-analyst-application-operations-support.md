@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Sr-Analyst---Application-Operations-Support_51575454) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Sr-Analyst---Application-Operations-Support_51580047) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-13.
+This software engineer position at DXC Technology was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

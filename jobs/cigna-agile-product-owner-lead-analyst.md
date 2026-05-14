@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Agile-Product-Owner-Lead-Analyst_26003351) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Agile-Product-Owner-Lead-Analyst_26004389) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-04-16.
+This product manager position at Cigna was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

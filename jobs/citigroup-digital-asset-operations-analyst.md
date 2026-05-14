@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Digital-Asset-Operations---Analyst_26958798) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Digital-Asset-Operations---Analyst_26958601) |
 
 ## About This Role
 
-This asset management / portfolio management position at Citigroup was posted on 2026-04-30.
+This asset management / portfolio management position at Citigroup was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

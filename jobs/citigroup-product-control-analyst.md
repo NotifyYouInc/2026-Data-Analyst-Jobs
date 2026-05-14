@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Product-Control-Analyst_26959655) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Product-Control-Analyst_26961214) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-05.
+This corporate finance position at Citigroup was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst, Customer Loyalty at Bank of Montreal
+# Analyst Customer Loyalty at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Customer-Loyalty_R260008295-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst-Customer-Loyalty_R260014023) |
 
 ## About This Role
 
-This data analyst position at Bank of Montreal was posted on 2026-03-30.
+This data analyst position at Bank of Montreal was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

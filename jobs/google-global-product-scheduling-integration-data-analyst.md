@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Program Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/81774362109059782-global-product-scheduling-integration-data-analyst?sort_by=date&page=1) |
+| Location | 9 locations |
+| Category | Data Analyst |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTCwXoDypS6mnKl8PFE2dS-hPxZ_BXFgjt9eSV-9lNmvEjsACxwdTDfMQppxHZv1KBkDYN1365GxDIazSzvCYYyXi3oU5EqVStr4Yu5taJvW1C8_bMtHUf3W3Jzb5w%3D%3D_V2&loc=US&title=Global+Product+Scheduling+Integration+Data+Analyst) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-02-26.
+This data analyst position at Google was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

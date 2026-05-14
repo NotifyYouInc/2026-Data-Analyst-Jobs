@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Information-Security-Operations-Analyst_R-268906-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Security Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Information-Security-Operations-Analyst_R-277482) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-02-05.
+This security engineer position at Mastercard was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/UT-Lehi/Sr-Data-Analyst--Financial-Analytics_R58815) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-San-Francisco/Sr-Data-Analyst--Financial-Analytics_R63101) |
 
 ## About This Role
 
-This data analyst position at Sunrun was posted on 2026-02-28.
+This data analyst position at Sunrun was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

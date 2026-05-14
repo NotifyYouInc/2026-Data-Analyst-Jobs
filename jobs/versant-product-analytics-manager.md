@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Hollywood, California, United States |
+| Location | Universal City, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124713813-product-analytics-manager) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124939932-product-analytics-manager) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-05-05.
+This product manager position at Versant was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

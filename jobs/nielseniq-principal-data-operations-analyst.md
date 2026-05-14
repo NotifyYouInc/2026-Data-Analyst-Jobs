@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114900257-principal-data-operations-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125028649-principal-data-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-03-16.
+This data analyst position at NielsenIQ was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

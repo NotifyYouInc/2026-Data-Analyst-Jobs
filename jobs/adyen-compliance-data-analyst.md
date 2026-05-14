@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7686492) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7899128) |
 
 ## About This Role
 
-This data analyst position at Adyen was posted on 2026-03-26.
+This compliance & risk management position at Adyen was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

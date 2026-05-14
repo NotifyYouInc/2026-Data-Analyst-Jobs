@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst_26950243) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/PROSTA-36/KYC-Operations-Analyst_26959674) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-26.
+This financial crimes & aml position at Citigroup was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

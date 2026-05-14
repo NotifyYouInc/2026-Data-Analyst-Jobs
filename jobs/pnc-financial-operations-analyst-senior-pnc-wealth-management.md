@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Operations-Analyst-Senior---PNC-Wealth-Management_R215693-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Operations-Analyst-Senior---PNC-Wealth-Management_R221858-1) |
 
 ## About This Role
 
-This wealth management / private banking position at PNC Financial was posted on 2026-03-31.
+This wealth management / private banking position at PNC Financial was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

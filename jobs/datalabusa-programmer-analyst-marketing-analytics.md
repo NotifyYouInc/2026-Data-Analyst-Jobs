@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datalabusa](https://scoutify.ai/companies/datalabusa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Germantown, Maryland, United States |
+| Location | Westminster, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.lever.co/datalabusa/1550eada-3bd9-4699-b3da-a165295d27a1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.lever.co/datalabusa/a776f9e3-87de-4332-a5a0-94fcfda3d746) |
 
 ## About This Role
 
-This software engineer position at Datalabusa was posted on 2026-04-10.
+This software engineer position at Datalabusa was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
