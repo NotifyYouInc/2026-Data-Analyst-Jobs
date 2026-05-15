@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 6 locations |
+| Location | Tampa, Florida, United States |
 | Category | Project Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Operations-Core-Project-Lead-Analyst-Vice-President_26942448) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Operations-Core-Project-Lead-Analyst-Vice-President_26954731) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-03-03.
+This project manager position at Citigroup was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

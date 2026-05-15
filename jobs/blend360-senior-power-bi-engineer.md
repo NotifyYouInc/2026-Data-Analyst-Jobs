@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000122210724-senior-power-bi-engineer) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000125153849-senior-power-bi-engineer) |
 
 ## About This Role
 
-This data engineer position at Blend360 was posted on 2026-04-22.
+This data engineer position at Blend360 was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Business-Analytics-Lead-Analyst---Vice-President_26958125) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Business-Analytics-Lead-Analyst---Vice-President_26958019) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-29.
+This business analyst position at Citigroup was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

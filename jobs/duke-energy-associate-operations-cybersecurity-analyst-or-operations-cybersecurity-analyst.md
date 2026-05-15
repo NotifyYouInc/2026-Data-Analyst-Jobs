@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | South Carolina, US |
+| Location | Huntersville, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Associate-Operations-Cybersecurity-Analyst-OR-Operations-Cybersecurity-Analyst_R38904-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Huntersville-NC/Associate-Operations-Cybersecurity-Analyst-OR-Operations-Cybersecurity-Analyst_R39595) |
 
 ## About This Role
 
-This security engineer position at Duke Energy was posted on 2026-03-18.
+This security engineer position at Duke Energy was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

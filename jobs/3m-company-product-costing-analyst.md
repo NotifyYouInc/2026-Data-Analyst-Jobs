@@ -5,12 +5,12 @@
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/PH-Taguig/Product-Costing-Analyst_R01161507) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/PH-Taguig/Product-Costing-Analyst_R01164925) |
 
 ## About This Role
 
-This corporate finance position at 3M Company was posted on 2026-02-23.
+This corporate finance position at 3M Company was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

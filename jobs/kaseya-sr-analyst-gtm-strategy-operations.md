@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Operations |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5973451004/?gh_jid=5973451004) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5981784004/?gh_jid=5981784004) |
 
 ## About This Role
 
-This operations position at Kaseya was posted on 2026-04-24.
+This operations position at Kaseya was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

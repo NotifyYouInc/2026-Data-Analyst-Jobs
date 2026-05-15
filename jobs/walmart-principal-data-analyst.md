@@ -1,16 +1,16 @@
-# Principal Data Analyst at Walmart
+# Principal, Data Analyst at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Principal-Data-Analyst_R-2470531-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Principal--Data-Analyst_R-2490148-1) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-04-17.
+This data analyst position at Walmart was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

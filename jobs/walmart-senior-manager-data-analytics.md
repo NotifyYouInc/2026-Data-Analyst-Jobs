@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Mississauga-ON/Senior-Manager--Data-Analytics_R-2491899) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Manager--Data-Analytics_R-2493172-1) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-05-01.
+This data analyst position at Walmart was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

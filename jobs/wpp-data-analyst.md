@@ -1,16 +1,16 @@
-# Data Analyst  at WPP
+# Data Analyst at WPP
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Haryana, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8181713002) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8516382002) |
 
 ## About This Role
 
-This data analyst position at WPP was posted on 2026-03-06.
+This data analyst position at WPP was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

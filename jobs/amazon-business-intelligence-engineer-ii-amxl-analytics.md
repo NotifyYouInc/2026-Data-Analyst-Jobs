@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3183569/business-intelligence-engineer-ii-amxl-analytics) |
+| Category | Data Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413324/business-intelligence-engineer-ii-amxl-analytics) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-02-18.
+This data engineer position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

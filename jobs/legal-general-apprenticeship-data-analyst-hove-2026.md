@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Hove, England, United Kingdom |
 | Category | Leadership Development Program |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000115860917-apprenticeship-data-analyst-hove-2026) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000125134013-apprenticeship-data-analyst-hove-2026) |
 
 ## About This Role
 
-This leadership development program position at Legal & General was posted on 2026-03-20.
+This leadership development program position at Legal & General was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

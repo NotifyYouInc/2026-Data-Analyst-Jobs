@@ -5,12 +5,12 @@
 | Company | [Lloyd's of London](https://scoutify.ai/companies/lloyd-s-of-london?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Senior-Analyst--Catastrophe-Risk---Reinsurance-Analytics_R4860) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Senior-Analyst--Catastrophe-Risk---Reinsurance-Analytics_R5023) |
 
 ## About This Role
 
-This data analyst position at Lloyd's of London was posted on 2026-03-11.
+This data analyst position at Lloyd's of London was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

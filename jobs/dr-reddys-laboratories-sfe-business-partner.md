@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000118828116-sfe-business-partner) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000125047850-sfe-business-partner) |
 
 ## About This Role
 
-This data analyst position at Dr. Reddy's Laboratories was posted on 2026-04-06.
+This data analyst position at Dr. Reddy's Laboratories was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

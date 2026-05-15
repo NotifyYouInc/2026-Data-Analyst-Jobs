@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/External-SEC-Financial-Reporting-Analyst_R-528162) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/External-SEC-Financial-Reporting-Analyst_R-544282) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-03-17.
+This corporate finance position at Wells Fargo was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

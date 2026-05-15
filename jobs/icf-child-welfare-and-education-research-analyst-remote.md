@@ -5,12 +5,12 @@
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Child-Welfare-and-Education-Research-Analyst--REMOTE_R2601002) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Child-Welfare-and-Education-Research-Analyst--REMOTE_R2601665) |
 
 ## About This Role
 
-This data analyst position at ICF was posted on 2026-04-24.
+This data analyst position at ICF was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

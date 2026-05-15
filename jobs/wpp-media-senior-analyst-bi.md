@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5183935008) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5199198008) |
 
 ## About This Role
 
-This data analyst position at WPP Media was posted on 2026-04-30.
+This data analyst position at WPP Media was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

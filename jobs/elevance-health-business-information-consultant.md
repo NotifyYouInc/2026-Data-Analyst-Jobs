@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Location | 6 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Business-Information-Consultant_JR189173) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Business-Information-Consultant_JR189149) |
 
 ## About This Role
 
-This data analyst position at Elevance Health was posted on 2026-04-16.
+This data analyst position at Elevance Health was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

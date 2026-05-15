@@ -5,12 +5,12 @@
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4661669006) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4679449006) |
 
 ## About This Role
 
-This business analyst position at SharkNinja was posted on 2026-03-23.
+This business analyst position at SharkNinja was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

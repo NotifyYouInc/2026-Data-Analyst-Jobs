@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000107126855-lead-product-analyst) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Data Analyst |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125204294-lead-product-analyst) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-02-03.
+This data analyst position at WISE was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

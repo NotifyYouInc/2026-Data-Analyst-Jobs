@@ -1,16 +1,16 @@
-# Senior Business Analytics Analyst - Marketing at Transamerica
+# Senior Business Analytics Analyst (Marketing) at Transamerica
 
 | Field | Details |
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Senior-Business-Analytics-Analyst---Marketing_R20060866) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Senior-Business-Analytics-Analyst--Marketing-_R20061123) |
 
 ## About This Role
 
-This business analyst position at Transamerica was posted on 2026-02-27.
+This business analyst position at Transamerica was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

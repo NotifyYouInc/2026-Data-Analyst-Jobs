@@ -6,7 +6,7 @@
 | Location | Bucharest, București, Romania |
 | Category | QA Engineer |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7602956142480115973/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7602594731931388213/detail) |
 
 ## About This Role
 

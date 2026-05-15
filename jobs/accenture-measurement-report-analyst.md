@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Measurement---Report-Analyst_AIOC-S01637124-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Measurement---Report-Analyst_AIOC-S01643710-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-05-06.
+This data analyst position at Accenture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Power-BI-Data-and-Analytics-Advisory-Bangalore_726575WD-1) |
+| Category | Data Analyst |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Power-BI-Data-and-Analytics-Advisory-Bangalore_726947WD-1) |
 
 ## About This Role
 
-This business analyst position at PwC was posted on 2026-05-06.
+This data analyst position at PwC was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

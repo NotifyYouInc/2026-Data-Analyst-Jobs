@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000124915675-regulatory-reporting-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000125132322-regulatory-reporting-analyst) |
 
 ## About This Role
 
-This compliance & risk management position at Inetum was posted on 2026-05-06.
+This corporate finance position at Inetum was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

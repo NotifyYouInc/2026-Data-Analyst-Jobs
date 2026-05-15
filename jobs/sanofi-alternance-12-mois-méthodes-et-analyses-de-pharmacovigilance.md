@@ -1,0 +1,22 @@
+# alternance 12 mois – méthodes et analyses de pharmacovigilance at Sanofi
+
+| Field | Details |
+|-------|---------|
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Data Analyst |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/alternance-12-mois---mthodes-et-analyses-de-pharmacovigilance_R2855652) |
+
+## About This Role
+
+This data analyst position at Sanofi was posted on 2026-05-07.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
