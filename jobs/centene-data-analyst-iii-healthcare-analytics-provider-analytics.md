@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Missouri, US |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-III-Healthcare-Analytics--Provider-Analytics_1637001) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-III-Healthcare-Analytics--Provider-Analytics_1636874-1) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-04-08.
+This data analyst position at Centene was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125025649-data-operations-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125215922-data-operations-analyst) |
 
 ## About This Role
 

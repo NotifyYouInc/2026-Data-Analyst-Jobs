@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Principal-Statistical-Programmer_REQ-10075745) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Principal-Statistical-Programmer_REQ-10077538) |
 
 ## About This Role
 
-This software engineer position at Novartis was posted on 2026-04-14.
+This software engineer position at Novartis was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

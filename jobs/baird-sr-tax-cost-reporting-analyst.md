@@ -5,12 +5,12 @@
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Sr-Tax---Cost-Reporting-Analyst_R2026414-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Sr-Tax---Cost-Reporting-Analyst_R2026569-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-04-01.
+This corporate finance position at Baird was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

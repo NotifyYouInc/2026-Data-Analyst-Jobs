@@ -5,12 +5,12 @@
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Data-Analytics-Senior-Consultant-I_R24455-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Data-Analytics-Senior-Consultant-I_R29853) |
 
 ## About This Role
 
-This strategy / management consulting position at Allstate was posted on 2026-04-10.
+This strategy / management consulting position at Allstate was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Accounting & Reporting Analyst-Intercompany at ABB
+# Accounting & Reporting Analyst- Intercompany at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst-Intercompany_JR00026052-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst--Intercompany_JR00033089) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-27.
+This corporate finance position at ABB was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

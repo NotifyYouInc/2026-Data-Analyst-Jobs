@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DotDash Meredith](https://scoutify.ai/companies/meredith?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Strategy & Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://meredith.wd5.myworkdayjobs.com/EXT/job/New-York-NY---225-Liberty-Street/Revenue-Operations-Analyst_JR15240) |
+| Location | New York City, New York, United States |
+| Category | Operations |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://meredith.wd5.myworkdayjobs.com/EXT/job/New-York-NY---225-Liberty-Street/Revenue-Operations-Analyst_JR15426) |
 
 ## About This Role
 
-This strategy & operations position at DotDash Meredith was posted on 2026-02-13.
+This operations position at DotDash Meredith was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wilmington, North Carolina, United States |
-| Category | Operations |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Wilmington-DE/Know-Your-Customer--KYC--Analyst_2026-0001980) |
+| Category | Financial Crimes & AML |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Wilmington-DE/Know-Your-Customer--KYC--Analyst_2026-0010740) |
 
 ## About This Role
 
-This operations position at U.S. Bank was posted on 2026-02-02.
+This financial crimes & aml position at U.S. Bank was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

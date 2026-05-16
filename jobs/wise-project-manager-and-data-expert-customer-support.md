@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Project Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000122427605-project-manager-and-data-expert-customer-support) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125341389-project-manager-and-data-expert-customer-support) |
 
 ## About This Role
 
-This project manager position at WISE was posted on 2026-04-23.
+This project manager position at WISE was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

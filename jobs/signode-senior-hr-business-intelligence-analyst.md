@@ -5,12 +5,12 @@
 | Company | [Signode](https://scoutify.ai/companies/signode?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/signode/3743990013012133-senior-hr-business-intelligence-analyst) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/signode/3743990013043106-senior-hr-business-intelligence-analyst) |
 
 ## About This Role
 
-This human resources / people ops position at Signode was posted on 2026-05-06.
+This human resources / people ops position at Signode was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

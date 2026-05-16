@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Hamburg/Werkstudent-Digitalisierung-in-der-Produktionsplanung-und--steuerung--all-genders-_577845-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Hamburg/Werkstudent-Digitalisierung-in-der-Produktionsplanung-und--steuerung--all-genders-_582768-1) |
 
 ## About This Role
 
-This data analyst position at Philips was posted on 2026-03-11.
+This data analyst position at Philips was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Customer Service & Operations Analyst (12 months) at NatWest Group
+# Customer Service & Operations Analyst, (12 Months) at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Douglas-IOM/Customer-Service---Operations-Analyst--12-months-_R-00273212) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Customer-Service---Operations-Analyst---12-Months-_R-00278109) |
 
 ## About This Role
 
-This business analyst position at NatWest Group was posted on 2026-03-13.
+This business analyst position at NatWest Group was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Export Sales Order Management Senior Analyst at Sanofi
+# Export Sales Order Management Senior analyst at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Export-Sales-Order-Management-Senior-Analyst_R2855122-1) |
+| Category | Business Analyst |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Export-Sales-Order-Management-Senior-analyst_R2856128) |
 
 ## About This Role
 
-This customer success position at Sanofi was posted on 2026-04-30.
+This business analyst position at Sanofi was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

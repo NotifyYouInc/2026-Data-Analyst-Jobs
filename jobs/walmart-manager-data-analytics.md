@@ -6,7 +6,7 @@
 | Location | Bentonville, Arkansas, United States |
 | Category | Data Analyst |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Data-Analytics_R-2495532) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Data-Analytics_R-2493166) |
 
 ## About This Role
 

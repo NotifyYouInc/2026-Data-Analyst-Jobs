@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Treasury-Sales-Analyst_R0113847-1) |
+| Location | 5 locations |
+| Category | Account Manager |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Treasury-Sales-Analyst_R0114392) |
 
 ## About This Role
 
-This corporate finance position at Truist was posted on 2026-04-27.
+This account manager position at Truist was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

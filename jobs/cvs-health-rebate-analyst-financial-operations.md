@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Rebate-Analyst--Financial-Operations_R0882891) |
+| Category | Corporate Finance |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Northbrook-3100-Sanders-Road/Rebate-Analyst--Financial-Operations_R0898957-1) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-04-13.
+This corporate finance position at CVS Health was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

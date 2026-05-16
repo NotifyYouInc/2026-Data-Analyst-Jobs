@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8448671002?gh_jid=8448671002) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8541576002?gh_jid=8541576002) |
 
 ## About This Role
 
-This data analyst position at Faire was posted on 2026-03-04.
+This data analyst position at Faire was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

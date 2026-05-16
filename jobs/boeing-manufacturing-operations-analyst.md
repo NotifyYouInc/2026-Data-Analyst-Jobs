@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Everett, Washington, United States |
+| Location | North Charleston, South Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Manufacturing-Operations-Analyst_JR2026508197-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Manufacturing-Operations-Analyst_JR2026508053-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-05-06.
+This business analyst position at Boeing was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

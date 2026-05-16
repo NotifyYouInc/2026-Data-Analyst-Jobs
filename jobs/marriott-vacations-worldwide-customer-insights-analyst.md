@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVC-Mexico-City-Marketing--Sales/Customer-Insights-Analyst_JR90364) |
+| Location | Costa Rica |
+| Category | Business Analyst |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Vacation-Club-at-Los-Suenos/Customer-Insights-Analyst_JR90418) |
 
 ## About This Role
 
-This data analyst position at Marriott Vacations Worldwide was posted on 2026-05-06.
+This business analyst position at Marriott Vacations Worldwide was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
