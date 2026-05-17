@@ -1,12 +1,12 @@
-# Data Analyst at City of New York
+# Summer Intern (Surveys, Research & Analytics) at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | East Elmhurst, New York, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056326-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056161-summer-intern-surveys-research-analytics) |
 
 ## About This Role
 

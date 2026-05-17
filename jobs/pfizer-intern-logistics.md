@@ -1,16 +1,16 @@
-# Business Intelligence Analyst at Cermati
+# Intern - Logistics at Pfizer
 
 | Field | Details |
 |-------|---------|
-| Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000125451899-business-intelligence-analyst) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern---Logistics_4955811) |
 
 ## About This Role
 
-This data analyst position at Cermati was posted on 2026-05-09.
+This data analyst position at Pfizer was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

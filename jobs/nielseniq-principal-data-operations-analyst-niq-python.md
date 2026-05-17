@@ -1,16 +1,16 @@
-# Data Analyst at City of New York
+# Principal Data Operations Analyst - NIQ - Python at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | East Elmhurst, New York, United States |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056326-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125449799-principal-data-operations-analyst-niq-python) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-05-09.
+This data analyst position at NielsenIQ was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

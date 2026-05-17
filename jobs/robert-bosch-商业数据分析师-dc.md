@@ -1,16 +1,16 @@
-# Data Analyst at City of New York
+# 商业数据分析师_DC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | East Elmhurst, New York, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056326-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125449329-dc) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-05-09.
+This data analyst position at Robert Bosch was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

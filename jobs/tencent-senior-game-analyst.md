@@ -1,16 +1,16 @@
-# Data Analyst at City of New York
+# Senior Game Analyst at Tencent
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | East Elmhurst, New York, United States |
+| Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056326-data-analyst) |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Senior-Game-Analyst_R107414-1) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-05-09.
+This data analyst position at Tencent was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
