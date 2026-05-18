@@ -1,16 +1,16 @@
-# Content Analyst at LSEG
+# Manager, Advanced Analytics-2 at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Content-Analyst_R0119148-1) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Manager--Advanced-Analytics-2_R_1486789-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-05-11.
+This data analyst position at TD Bank was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

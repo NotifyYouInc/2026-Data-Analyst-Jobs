@@ -1,16 +1,16 @@
-# Data Controller at Toll Group
+# Analytics Lead - Data, Measurement & Impact  at Karya
 
 | Field | Details |
 |-------|---------|
-| Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Accounting |
+| Company | [Karya](https://scoutify.ai/companies/karya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bac-Ninh/Data-Controller_R000076337) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/karya/jobs/5215538008) |
 
 ## About This Role
 
-This accounting position at Toll Group was posted on 2026-05-11.
+This data analyst position at Karya was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

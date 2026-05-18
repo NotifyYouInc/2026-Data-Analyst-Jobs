@@ -1,16 +1,16 @@
-# Content Analyst at LSEG
+# 個金_債權AI流程設計規劃人員 at CTBC Financial Holding
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Content-Analyst_R0119148-1) |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-AI_JR7509-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-05-11.
+This data analyst position at CTBC Financial Holding was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

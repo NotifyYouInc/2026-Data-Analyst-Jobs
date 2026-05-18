@@ -1,16 +1,16 @@
-# Data Controller at Toll Group
+# Data Analyst (Recommendation) at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Accounting |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bac-Ninh/Data-Controller_R000076337) |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7728018003) |
 
 ## About This Role
 
-This accounting position at Toll Group was posted on 2026-05-11.
+This data analyst position at Toss was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

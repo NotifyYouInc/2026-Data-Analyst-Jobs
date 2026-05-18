@@ -1,16 +1,16 @@
-# Data Operations Analyst at NielsenIQ
+# Regional Data Quality Leader - SA&I (Survey Based Research) - P7 at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125402699-data-operations-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125758772-regional-data-quality-leader-sai-survey-based-research-p7) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-05-08.
+This data analyst position at NielsenIQ was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

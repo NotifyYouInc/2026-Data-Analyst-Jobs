@@ -1,16 +1,16 @@
-# Content Analyst at LSEG
+# Senior Data Analyst (Temporary position) at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Content-Analyst_R0119148-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000125755839-senior-data-analyst-temporary-position) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-05-11.
+This data analyst position at H&M Group was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

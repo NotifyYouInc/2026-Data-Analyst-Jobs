@@ -1,16 +1,16 @@
-# Content Analyst at LSEG
+# Commercial Data Analyst (Retail)  at Ampol
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Alexandria, New South Wales, Australia |
 | Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Content-Analyst_R0119148-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001060684-commercial-data-analyst-retail) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-05-11.
+This data analyst position at Ampol was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

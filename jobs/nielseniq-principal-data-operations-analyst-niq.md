@@ -1,16 +1,16 @@
-# Content Analyst at LSEG
+# Principal Data Operations Analyst - NIQ at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Content-Analyst_R0119148-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125748572-principal-data-operations-analyst-niq) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-05-11.
+This data analyst position at NielsenIQ was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

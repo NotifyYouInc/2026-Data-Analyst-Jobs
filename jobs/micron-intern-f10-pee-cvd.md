@@ -1,16 +1,16 @@
-# Data Controller at Toll Group
+# Intern - F10 PEE CVD at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Accounting |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
+| Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bac-Ninh/Data-Controller_R000076337) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-PEE-CVD_JR99381) |
 
 ## About This Role
 
-This accounting position at Toll Group was posted on 2026-05-11.
+This data analyst position at Micron was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

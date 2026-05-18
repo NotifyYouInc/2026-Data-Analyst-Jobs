@@ -1,16 +1,16 @@
-# Campaign Data Analyst at ING
+# IT Operations Analyst, Sydney at Mako
 
 | Field | Details |
 |-------|---------|
-| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Mako](https://scoutify.ai/companies/mako?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/Campaign-Data-Analyst_REQ-10110468-1) |
+| Apply | [View on company site](https://www.mako.com/opportunities/job-listing/8542421002?gh_jid=8542421002) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-05-11.
+This it & systems administration position at Mako was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

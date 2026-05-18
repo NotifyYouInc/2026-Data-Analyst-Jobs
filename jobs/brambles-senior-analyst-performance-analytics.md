@@ -1,16 +1,16 @@
-# Data Operations Analyst at NielsenIQ
+# Senior Analyst Performance & Analytics at Brambles
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Brambles](https://scoutify.ai/companies/brambles?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125402699-data-operations-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://brambles.wd5.myworkdayjobs.com/brambles_careers/job/Mexico-City-Mexico-City-Mexico/Senior-Analyst-Performance---Analytics_JR23738) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-05-08.
+This data analyst position at Brambles was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

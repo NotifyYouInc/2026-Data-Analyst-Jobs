@@ -1,16 +1,16 @@
-# Data Controller at Toll Group
+# Analyst I at Haleon
 
 | Field | Details |
 |-------|---------|
-| Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Accounting |
+| Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Suzhou, Jiangsu, China |
+| Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bac-Ninh/Data-Controller_R000076337) |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Suzhou-Plant-Tech-Industry-Park/Analyst-I_543317-1) |
 
 ## About This Role
 
-This accounting position at Toll Group was posted on 2026-05-11.
+This data analyst position at Haleon was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

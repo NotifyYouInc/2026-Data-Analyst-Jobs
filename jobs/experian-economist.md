@@ -1,16 +1,16 @@
-# Data Controller at Toll Group
+# Economist at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Accounting |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Business Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bac-Ninh/Data-Controller_R000076337) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125754149-economist) |
 
 ## About This Role
 
-This accounting position at Toll Group was posted on 2026-05-11.
+This business analyst position at Experian was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

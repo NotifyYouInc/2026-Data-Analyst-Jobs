@@ -1,16 +1,16 @@
-# Content Analyst at LSEG
+# Senior, Data Analyst(eCommerce Product Analytics)[L5] at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Content-Analyst_R0119148-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7912131?gh_jid=7912131) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-05-11.
+This data analyst position at Coupang Internal was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
