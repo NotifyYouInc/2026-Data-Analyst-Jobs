@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greenhouse](https://scoutify.ai/companies/greenhouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Growth Marketing |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/7891846?gh_jid=7891846) |
+| Location | British Columbia, CA |
+| Category | Marketing |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/7909444?gh_jid=7909444) |
 
 ## About This Role
 
-This growth marketing position at Greenhouse was posted on 2026-05-07.
+This marketing position at Greenhouse was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

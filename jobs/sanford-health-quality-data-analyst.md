@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Minnesota, US |
+| Location | 5 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-City---Remote-SD/Quality-Data-Analyst_R-0250476) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Quality-Data-Analyst_R-0260634) |
 
 ## About This Role
 
-This data analyst position at Sanford Health was posted on 2026-03-03.
+This data analyst position at Sanford Health was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

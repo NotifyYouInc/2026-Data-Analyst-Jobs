@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Toronto/Data-Research-Analyst_AP-24150125-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Madrid/Data-Research-Analyst_REQ-056264) |
 
 ## About This Role
 
-This data analyst position at Morningstar was posted on 2026-05-08.
+This data analyst position at Morningstar was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

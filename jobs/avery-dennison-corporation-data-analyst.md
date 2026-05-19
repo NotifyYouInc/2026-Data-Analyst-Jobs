@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tây Ninh, Tay Ninh, Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000116529757-data-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000125884724-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Avery Dennison Corporation was posted on 2026-03-25.
+This data analyst position at Avery Dennison Corporation was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

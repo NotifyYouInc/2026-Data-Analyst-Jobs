@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Analytics-Consultant_R-538002) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Analytics-Consultant_R-544376-1) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-04-27.
+This technology / it consulting position at Wells Fargo was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

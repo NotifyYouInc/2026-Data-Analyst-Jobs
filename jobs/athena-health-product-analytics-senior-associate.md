@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Product-Analytics--Senior-Associate_R14689) |
+| Location | Austin, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Austin-TX/Product-Analytics--Senior-Associate_R15017) |
 
 ## About This Role
 
-This ai / llm engineer position at Athena Health was posted on 2026-03-27.
+This data analyst position at Athena Health was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

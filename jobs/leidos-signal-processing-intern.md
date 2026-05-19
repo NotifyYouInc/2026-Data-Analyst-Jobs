@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Diego, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Signal-Processing-Intern_R-00181765) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Signal-Processing-Intern_R-00182996) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-04-24.
+This data analyst position at Leidos was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

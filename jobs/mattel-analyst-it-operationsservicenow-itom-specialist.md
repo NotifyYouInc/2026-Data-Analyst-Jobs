@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000124072359-analyst-it-operationsservicenow-itom-specialist) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000125996179-analyst-it-operationsservicenow-itom-specialist) |
 
 ## About This Role
 
-This it & systems administration position at Mattel was posted on 2026-05-01.
+This it & systems administration position at Mattel was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

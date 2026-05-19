@@ -5,12 +5,12 @@
 | Company | [Tinuiti](https://scoutify.ai/companies/tinuiti?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Insights-Lead-Analyst_R26_288) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://tinuiti.wd12.myworkdayjobs.com/Tinuiti/job/USA---Remote/Insights-Lead-Analyst_R26_316) |
 
 ## About This Role
 
-This data analyst position at Tinuiti was posted on 2026-04-23.
+This data analyst position at Tinuiti was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

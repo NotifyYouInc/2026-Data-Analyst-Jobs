@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kenosha, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kenosha-WI/Operations-Analyst---Customer-Service_R263049-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kenosha-WI/Operations-Analyst---Customer-Service_R263856-1) |
 
 ## About This Role
 
-This business analyst position at Uline was posted on 2026-04-15.
+This business analyst position at Uline was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Operations |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000121016842-sales-ops-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000125887143-sales-ops-analyst) |
 
 ## About This Role
 
-This operations position at Flywire was posted on 2026-04-15.
+This operations position at Flywire was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

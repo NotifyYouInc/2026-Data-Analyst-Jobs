@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Remote-Central-Region-IN/Analyst--Model-Monitoring--L08-_2600531) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Analyst--Model-Monitoring--L08-_2601393) |
 
 ## About This Role
 
-This data analyst position at Synchrony Financial was posted on 2026-02-26.
+This data analyst position at Synchrony Financial was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

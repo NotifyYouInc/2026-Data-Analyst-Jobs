@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Mexico-City---Antara-Tower-A---5th-Floor---Local-Office/Senior-Analyst--GBS---Area-Sales-Forecast_R-101762) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Mexico-City---Antara-Tower-A---5th-Floor---Local-Office/Senior-Analyst--GBS---Area-Sales-Forecast_R-102773) |
 
 ## About This Role
 
-This corporate finance position at Heinz was posted on 2026-04-08.
+This corporate finance position at Heinz was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

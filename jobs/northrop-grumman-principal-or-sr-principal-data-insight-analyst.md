@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-or-Sr-Principal-Data-Insight-Analyst_R10232235) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-or-Sr-Principal-Data-Insight-Analyst_R10232475) |
 
 ## About This Role
 
-This data analyst position at Northrop Grumman was posted on 2026-05-07.
+This data analyst position at Northrop Grumman was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

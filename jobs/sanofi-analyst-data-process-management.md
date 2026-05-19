@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst---Data---Process-Management_R2845037-2) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst---Data---Process-Management_R2856171) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-03-13.
+This data analyst position at Sanofi was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

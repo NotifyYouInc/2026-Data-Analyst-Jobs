@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/So-Paulo-Brazil/Customer-Service-Analyst_R1308135) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Ciudad-de-Mexico-Mexico/Customer-Service-Analyst_R1310743) |
 
 ## About This Role
 
-This customer success position at Danaher was posted on 2026-04-24.
+This customer success position at Danaher was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

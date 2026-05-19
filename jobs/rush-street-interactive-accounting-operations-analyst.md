@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rush Street Interactive](https://scoutify.ai/companies/rush-street-interactive?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/5979270004) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/5991960004) |
 
 ## About This Role
 
-This corporate finance position at Rush Street Interactive was posted on 2026-04-28.
+This corporate finance position at Rush Street Interactive was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

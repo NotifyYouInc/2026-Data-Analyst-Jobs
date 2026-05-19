@@ -5,12 +5,12 @@
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Sr-Analyst-Digital-Marketing_R-171360) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Sr-Analyst-Digital-Marketing_R-174234) |
 
 ## About This Role
 
-This digital / performance marketing position at Republic Services was posted on 2026-03-20.
+This digital / performance marketing position at Republic Services was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124511442-analista-de-inteligencia-comercial-jr-crop) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000125949579-analista-de-inteligencia-comercial-jr-crop) |
 
 ## About This Role
 
-This data analyst position at Syngenta was posted on 2026-05-04.
+This data analyst position at Syngenta was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

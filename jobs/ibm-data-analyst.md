@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109771) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113774) |
 
 ## About This Role
 
-This data analyst position at IBM was posted on 2026-04-22.
+This data analyst position at IBM was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

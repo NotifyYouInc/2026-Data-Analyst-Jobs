@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Va-de-los-Poblados/Data-Analyst_REQ-10112336) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Data-Analyst_REQ-10114552) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-04-16.
+This data analyst position at ING was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

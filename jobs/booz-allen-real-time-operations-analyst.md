@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colorado, US |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Real-Time-Operations-Analyst_R0238587) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Real-Time-Operations-Analyst_R0239822) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-04-24.
+This business analyst position at Booz Allen was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
