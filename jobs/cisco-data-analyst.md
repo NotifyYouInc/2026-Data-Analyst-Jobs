@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Oeiras, Lisbon, Portugal |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Oeiras-Portugal/Data-Analyst_2012651-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Data-Analyst_2013255) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-04-23.
+This data analyst position at Cisco was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

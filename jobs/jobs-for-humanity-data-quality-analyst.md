@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Beirut, Beyrouth, Lebanon |
 | Category | QA Engineer |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000125973619-data-quality-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000126164869-data-quality-analyst) |
 
 ## About This Role
 

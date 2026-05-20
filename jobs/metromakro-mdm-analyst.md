@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000124876934-mdm-analyst) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000126043399-mdm-analyst) |
 
 ## About This Role
 
-This data analyst position at METRO/MAKRO was posted on 2026-05-06.
+This data analyst position at METRO/MAKRO was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

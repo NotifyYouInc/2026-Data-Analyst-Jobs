@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Noida-India/Senior-Sales-Operations-Analyst_R0011779) |
+| Category | Operations |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/India_Noida/Senior-Sales-Operations-Analyst_R0011707-1) |
 
 ## About This Role
 
-This revenue / sales operations position at Cognex was posted on 2026-03-19.
+This operations position at Cognex was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Gurugram-India/Business-Insights-Analyst_R_2512_16984) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Gurugram-India/Business-Insights-Analyst_R_2605_6338) |
 
 ## About This Role
 
-This data analyst position at TaskUs was posted on 2026-04-29.
+This data analyst position at TaskUs was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

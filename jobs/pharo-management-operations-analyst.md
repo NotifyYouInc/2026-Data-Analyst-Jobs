@@ -1,16 +1,16 @@
-# Operations Analyst at Pharo Management
+# Operations Analyst  at Pharo Management
 
 | Field | Details |
 |-------|---------|
 | Company | [Pharo Management](https://scoutify.ai/companies/pharo-management?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pharomanagement/jobs/7572158003) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pharomanagement/jobs/7721661003) |
 
 ## About This Role
 
-This business analyst position at Pharo Management was posted on 2026-04-13.
+This business analyst position at Pharo Management was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

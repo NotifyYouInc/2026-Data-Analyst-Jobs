@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Lincolnshire, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000120752378-analyst-ii-chemistry-laboratory-chromatography) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000126183969-analyst-ii-chemistry-laboratory-chromatography) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-04-14.
+This data analyst position at SGS was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

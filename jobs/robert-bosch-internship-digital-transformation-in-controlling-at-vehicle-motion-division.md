@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Japan |
-| Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125952119-internship-digital-transformation-in-controlling-at-vehicle-motion-division) |
+| Location | Yokohama, Kanagawa, Japan |
+| Category | Data Analyst |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126005630-internship-digital-transformation-in-controlling-at-vehicle-motion-division) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-05-11.
+This data analyst position at Robert Bosch was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

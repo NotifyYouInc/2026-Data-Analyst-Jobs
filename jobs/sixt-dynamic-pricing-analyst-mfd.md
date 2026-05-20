@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000120475695-dynamic-pricing-analyst-mfd) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126127640-dynamic-pricing-analyst-mfd) |
 
 ## About This Role
 
-This data analyst position at Sixt was posted on 2026-04-13.
+This data analyst position at Sixt was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

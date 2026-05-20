@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411026/catalog-specialist-wwrr-science-annotation-team) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416709/catalog-specialist-wwrr-science-annotation-team) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-05-05.
+This data analyst position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

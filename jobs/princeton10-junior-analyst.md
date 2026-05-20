@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Princeton10](https://scoutify.ai/companies/princeton10?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montclair, New Jersey, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/princeton10/cf8b276f-64d7-4750-be55-7c04b3a1f3a0) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.lever.co/princeton10/f23e76b3-1b48-4877-bf63-10a247ad1a56) |
 
 ## About This Role
 
-This data analyst position at Princeton10 was posted on 2026-05-05.
+This data analyst position at Princeton10 was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

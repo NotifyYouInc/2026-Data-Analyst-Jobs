@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Assago, Lombardy, Italy |
 | Category | Product Marketing |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012858621-market-research-specialist-sports) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013081306-market-research-specialist-sports) |
 
 ## About This Role
 
-This product marketing position at The Nielsen Company was posted on 2026-04-28.
+This product marketing position at The Nielsen Company was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

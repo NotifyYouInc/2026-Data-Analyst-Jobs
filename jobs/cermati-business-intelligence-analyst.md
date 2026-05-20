@@ -5,12 +5,12 @@
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000125451899-business-intelligence-analyst) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000125989489-business-intelligence-analyst) |
 
 ## About This Role
 
-This data analyst position at Cermati was posted on 2026-05-09.
+This data analyst position at Cermati was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

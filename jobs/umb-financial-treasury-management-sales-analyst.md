@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Mexico, US |
-| Category | Account Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/NM-REMOTE/Treasury-Management-Sales-Analyst_R-8596) |
+| Location | Kansas City, Missouri, United States |
+| Category | Account Executive |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Treasury-Management-Sales-Analyst_R-8730-1) |
 
 ## About This Role
 
-This account manager position at UMB Financial was posted on 2026-04-23.
+This account executive position at UMB Financial was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

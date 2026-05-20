@@ -5,12 +5,12 @@
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Chennai---Cross-Border/Variable-Sales---Compensation-Analyst_R07782-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Chennai---Cross-Border/Variable-Sales---Compensation-Analyst_R07783) |
 
 ## About This Role
 
-This corporate finance position at Corpay was posted on 2026-02-12.
+This corporate finance position at Corpay was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Analyst_R-00277352) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Customer-Service---Operations-Analyst_R-00278271) |
 
 ## About This Role
 
-This customer success position at NatWest Group was posted on 2026-04-30.
+This customer success position at NatWest Group was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

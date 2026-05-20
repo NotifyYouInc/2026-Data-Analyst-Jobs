@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Environmental-Reporting-Analyst--TP-E-HSE---SJV-_R000070075) |
+| Category | ESG / Sustainability |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Environmental-Reporting-Analyst--TP-E-HSE---SJV-_R000071337) |
 
 ## About This Role
 
-This data analyst position at Chevron was posted on 2026-03-26.
+This esg / sustainability position at Chevron was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

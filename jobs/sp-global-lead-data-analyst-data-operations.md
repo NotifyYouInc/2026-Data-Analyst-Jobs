@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Strategy & Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Lead-Data-Analyst---Data-Operations_323649-2) |
+| Category | Data Analyst |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Islamabad-PK/Lead-Data-Analyst---Data-Operations_328354-1) |
 
 ## About This Role
 
-This strategy & operations position at S&P Global was posted on 2026-02-12.
+This data analyst position at S&P Global was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

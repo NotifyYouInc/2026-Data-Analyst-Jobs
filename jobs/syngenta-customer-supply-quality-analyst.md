@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124004413-customer-supply-quality-analyst) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126164453-customer-supply-quality-analyst) |
 
 ## About This Role
 
-This customer success position at Syngenta was posted on 2026-04-30.
+This customer success position at Syngenta was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

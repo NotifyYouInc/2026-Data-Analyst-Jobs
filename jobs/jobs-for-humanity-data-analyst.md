@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Analyst |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000121584977-data-analyst) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000126072130-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Jobs for Humanity was posted on 2026-04-18.
+This data analyst position at Jobs for Humanity was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

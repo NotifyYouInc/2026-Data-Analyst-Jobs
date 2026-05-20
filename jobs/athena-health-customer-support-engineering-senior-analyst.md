@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Customer-Support-Engineering-Senior-Analyst_R14916-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Customer-Support-Engineering-Senior-Analyst_R15023) |
 
 ## About This Role
 
-This customer success position at Athena Health was posted on 2026-04-24.
+This customer success position at Athena Health was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Sales-Operations-Analyst_JR0282139) |
+| Location | Malaysia |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Sales-Operations-Analyst_JR0283785) |
 
 ## About This Role
 
-This operations position at Intel was posted on 2026-03-19.
+This revenue / sales operations position at Intel was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

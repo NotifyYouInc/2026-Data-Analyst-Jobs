@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000125887569-analyste-principale-en-donnees-intelligence-daffaires) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000126106185-analyste-principale-en-donnees-intelligence-daffaires) |
 
 ## About This Role
 
-This business analyst position at UAP was posted on 2026-05-11.
+This business analyst position at UAP was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

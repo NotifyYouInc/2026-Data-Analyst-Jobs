@@ -1,16 +1,16 @@
-# Sr. Analyst GTM Strategy & Operations  at Kaseya
+# Sr. Analyst GTM Strategy & Operations at Kaseya
 
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Medellín, Antioquia, Colombia |
+| Location | Miami, Florida, United States |
 | Category | Operations |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5981784004/?gh_jid=5981784004) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5981464004/?gh_jid=5981464004) |
 
 ## About This Role
 
-This operations position at Kaseya was posted on 2026-05-07.
+This operations position at Kaseya was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

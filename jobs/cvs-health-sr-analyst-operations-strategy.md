@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Illinois, US |
-| Category | Strategy & Operations |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Sr-Analyst--Operations-Strategy_R0872379) |
+| Location | Texas, US |
+| Category | Operations |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Sr-Analyst--Operations-Strategy_R0900451-1) |
 
 ## About This Role
 
-This strategy & operations position at CVS Health was posted on 2026-04-03.
+This operations position at CVS Health was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

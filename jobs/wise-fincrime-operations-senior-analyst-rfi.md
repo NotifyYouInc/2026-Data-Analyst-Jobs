@@ -6,7 +6,7 @@
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Crimes & AML |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125989958-fincrime-operations-senior-analyst-rfi) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126031944-fincrime-operations-senior-analyst-rfi) |
 
 ## About This Role
 

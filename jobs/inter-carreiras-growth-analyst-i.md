@@ -1,16 +1,16 @@
-# GROWTH ANALYST I  at Inter Carreiras
+# GROWTH ANALYST I at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Growth Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4674568005?gh_jid=4674568005) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4670364005?gh_jid=4670364005) |
 
 ## About This Role
 
-This growth marketing position at Inter Carreiras was posted on 2026-04-20.
+This growth marketing position at Inter Carreiras was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

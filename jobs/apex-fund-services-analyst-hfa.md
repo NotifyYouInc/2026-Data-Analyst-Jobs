@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Analyst---HFA_JR-0021091) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Analyst---HFA_JR-0022821) |
 
 ## About This Role
 
-This data analyst position at Apex Fund Services was posted on 2026-04-30.
+This data analyst position at Apex Fund Services was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

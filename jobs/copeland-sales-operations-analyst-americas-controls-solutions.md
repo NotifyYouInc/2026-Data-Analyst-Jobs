@@ -5,12 +5,12 @@
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Operations |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/Sales-Operations-Analyst--Americas---Controls-Solutions_JR114208) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/Sales-Operations-Analyst--Americas---Controls-Solutions_JR114227) |
 
 ## About This Role
 
-This operations position at Copeland was posted on 2026-04-15.
+This operations position at Copeland was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

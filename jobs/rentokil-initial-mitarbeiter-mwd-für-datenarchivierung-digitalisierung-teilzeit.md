@@ -5,12 +5,12 @@
 | Company | [Rentokil Initial](https://scoutify.ai/companies/rentokil-initial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dreieich, Hesse, Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rentokilinitial1/744000120619657-mitarbeiter-mwd-fur-datenarchivierung-digitalisierung-teilzeit) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rentokilinitial1/744000126231994-mitarbeiter-mwd-fur-datenarchivierung-digitalisierung-teilzeit) |
 
 ## About This Role
 
-This data analyst position at Rentokil Initial was posted on 2026-04-14.
+This data analyst position at Rentokil Initial was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

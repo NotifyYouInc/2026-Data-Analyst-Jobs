@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Credit-Analyst_R-00277773) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Credit-Analyst_R-00278154-1) |
 
 ## About This Role
 
-This customer success position at NatWest Group was posted on 2026-05-06.
+This customer success position at NatWest Group was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

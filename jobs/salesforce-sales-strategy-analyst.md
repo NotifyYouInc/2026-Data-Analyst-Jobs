@@ -1,16 +1,16 @@
-# Sales Strategy, Analyst at Salesforce
+# Sales Strategy Analyst at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Operations |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Sales-Strategy--Analyst_JR340560) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Sales-Strategy-Analyst_JR342030) |
 
 ## About This Role
 
-This operations position at Salesforce was posted on 2026-05-05.
+This operations position at Salesforce was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
