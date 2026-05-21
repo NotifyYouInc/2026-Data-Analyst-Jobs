@@ -5,12 +5,12 @@
 | Company | [Drillbit](https://scoutify.ai/companies/drillbit?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-02-17 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/drillbit/jobs/PZYk15f-business-operations-analyst) |
 
 ## About This Role
 
-This strategy & operations position at Drillbit was posted on 2026-02-17.
+This strategy & operations position at Drillbit was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lincolnshire, Illinois, United States |
-| Category | Operations |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124452350-sales-operations-analyst) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126347176-sales-operations-analyst) |
 
 ## About This Role
 
-This operations position at Robert Bosch was posted on 2026-05-04.
+This revenue / sales operations position at Robert Bosch was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

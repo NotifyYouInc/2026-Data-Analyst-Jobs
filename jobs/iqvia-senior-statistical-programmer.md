@@ -1,16 +1,16 @@
-# Senior Statistical programmer at IQVIA
+# Senior Statistical Programmer at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Senior-Statistical-programmer_R1534982) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manila-Philippines/Senior-Statistical-Programmer_R1539312-1) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-04-06.
+This software engineer position at IQVIA was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000126160070-business-operations-analyst-defensive-line) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000126369048-business-operations-analyst-defensive-line) |
 
 ## About This Role
 
-This strategy & operations position at Red Bull was posted on 2026-05-12.
+This strategy & operations position at Red Bull was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

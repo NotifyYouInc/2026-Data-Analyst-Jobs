@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Analyst---Item-Master-Services_33258R) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Analyst---Item-Master-Services_33369R) |
 
 ## About This Role
 
-This data analyst position at Vizient was posted on 2026-04-09.
+This data analyst position at Vizient was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

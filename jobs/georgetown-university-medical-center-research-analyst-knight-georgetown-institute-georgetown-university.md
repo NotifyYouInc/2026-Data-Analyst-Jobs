@@ -5,12 +5,12 @@
 | Company | [Georgetown University Medical Center](https://scoutify.ai/companies/georgetown-university-medical-center?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/Main-Campus/Research-Analyst--Knight-Georgetown-Institute---Georgetown-University_JR25423) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/Main-Campus/Research-Analyst--Knight-Georgetown-Institute---Georgetown-University_JR25747) |
 
 ## About This Role
 
-This data analyst position at Georgetown University Medical Center was posted on 2026-04-15.
+This data analyst position at Georgetown University Medical Center was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

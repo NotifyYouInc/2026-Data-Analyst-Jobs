@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7801457) |
+| Category | Data Analyst |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7921649) |
 
 ## About This Role
 
-This data engineer position at Stripe was posted on 2026-04-10.
+This data analyst position at Stripe was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

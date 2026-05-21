@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000122406618-analyst-it-operations) |
+| Category | Business Analyst |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126284589-analyst-it-operations) |
 
 ## About This Role
 
-This it & systems administration position at Mattel was posted on 2026-04-23.
+This business analyst position at Mattel was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

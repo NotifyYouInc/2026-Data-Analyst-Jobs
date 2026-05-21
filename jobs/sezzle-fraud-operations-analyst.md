@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/6297931003) |
+| Location | Mexico |
+| Category | Trust & Safety |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7499878003) |
 
 ## About This Role
 
-This financial crimes & aml position at Sezzle was posted on 2026-04-21.
+This trust & safety position at Sezzle was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

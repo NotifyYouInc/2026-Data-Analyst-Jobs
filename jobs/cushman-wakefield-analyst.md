@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Analyst_R-AOP-0242) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Hyderabad-India/Analyst_R319874) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-05-06.
+This data analyst position at Cushman & Wakefield was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

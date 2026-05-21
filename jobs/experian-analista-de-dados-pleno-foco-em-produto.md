@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123270331-analista-de-dados-pleno-foco-em-produto) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126311050-analista-de-dados-pleno-foco-em-produto) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-04-27.
+This data analyst position at Experian was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

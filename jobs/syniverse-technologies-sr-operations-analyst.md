@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syniverse Technologies](https://scoutify.ai/companies/syniverse-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/India-Bangalore/Sr-Operations-Analyst_R0007276-2) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/India-Hyderabad/Sr-Operations-Analyst_R0007352) |
 
 ## About This Role
 
-This customer success position at Syniverse Technologies was posted on 2026-02-23.
+This customer success position at Syniverse Technologies was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

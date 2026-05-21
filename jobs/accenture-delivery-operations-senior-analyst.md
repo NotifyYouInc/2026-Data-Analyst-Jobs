@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01644877-1) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Senior-Analyst_AIOC-S01645350-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-12.
+This talent acquisition / recruiting position at Accenture was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125204294-lead-product-analyst) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126367934-lead-product-analyst) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-05-07.
+This data analyst position at WISE was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

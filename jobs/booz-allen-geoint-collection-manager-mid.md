@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/GEOINT-Collection-Manager--Mid_R0239756-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/GEOINT-Collection-Manager--Mid_R0239993-1) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-05-11.
+This data analyst position at Booz Allen was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

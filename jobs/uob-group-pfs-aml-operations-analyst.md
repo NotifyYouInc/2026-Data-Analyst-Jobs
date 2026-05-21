@@ -5,12 +5,12 @@
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/PFS-AML-Operations-Analyst_JR80273) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Kuala-Lumpur-City-Area/PFS-AML-Operations-Analyst_JR86419) |
 
 ## About This Role
 
-This financial crimes & aml position at UOB Group was posted on 2026-03-03.
+This financial crimes & aml position at UOB Group was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

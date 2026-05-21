@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000121741874-research-analyst) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000126354094-research-analyst) |
 
 ## About This Role
 
-This data analyst position at Fastmarkets was posted on 2026-04-20.
+This data analyst position at Fastmarkets was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

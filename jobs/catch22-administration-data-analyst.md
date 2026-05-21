@@ -5,12 +5,12 @@
 | Company | [Catch22](https://scoutify.ai/companies/catch22?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poole, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Catch22/744000120431648-administration-data-analyst) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Catch22/744000126251089-administration-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Catch22 was posted on 2026-04-13.
+This data analyst position at Catch22 was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

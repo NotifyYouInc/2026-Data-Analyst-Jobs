@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Columbia-SC/Energy-Data-Analyst_REQ506171) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Energy-Data-Analyst_REQ507081) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-05-11.
+This data analyst position at JLL was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

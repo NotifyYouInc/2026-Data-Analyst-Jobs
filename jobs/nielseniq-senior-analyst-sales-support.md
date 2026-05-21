@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Operations |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125612299-senior-analyst-sales-support) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126259925-senior-analyst-sales-support) |
 
 ## About This Role
 
-This operations position at NielsenIQ was posted on 2026-05-10.
+This operations position at NielsenIQ was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

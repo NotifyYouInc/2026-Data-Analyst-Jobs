@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013087237-football-live-data-operator) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013105236-football-live-data-operator) |
 
 ## About This Role
 
-This data analyst position at The Nielsen Company was posted on 2026-05-12.
+This data analyst position at The Nielsen Company was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

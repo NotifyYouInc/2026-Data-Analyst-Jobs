@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Settlement-Operations_R-273888) |
+| Category | Business Analyst |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Settlement-Operations_R-277471) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-24.
+This business analyst position at Mastercard was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

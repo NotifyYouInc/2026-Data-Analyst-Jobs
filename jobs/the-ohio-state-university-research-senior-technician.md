@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Research-Senior-Technician_R150508-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Research-Senior-Technician_R150797-1) |
 
 ## About This Role
 
-This data analyst position at The Ohio State University was posted on 2026-05-05.
+This data analyst position at The Ohio State University was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
