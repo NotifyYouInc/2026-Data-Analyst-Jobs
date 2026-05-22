@@ -5,12 +5,12 @@
 | Company | [Mercy](https://scoutify.ai/companies/mercy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Remote/Lead-Data-Analyst---EPIC---Mercy-Enterprise-Analytics_JR209449-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Remote/AI-Healthcare---Lead-Data-Analyst_JR247699) |
 
 ## About This Role
 
-This data analyst position at Mercy was posted on 2026-04-09.
+This data analyst position at Mercy was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

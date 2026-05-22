@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Williamsville, New York, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Williamsville-NY/Business-Analytics---Reporting-Analyst-I_R85822) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Business-Analytics---Reporting-Analyst-I_R85790-2) |
 
 ## About This Role
 
-This business analyst position at M&T Bank was posted on 2026-05-08.
+This business analyst position at M&T Bank was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

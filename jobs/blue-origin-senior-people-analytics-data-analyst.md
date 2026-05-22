@@ -5,12 +5,12 @@
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-People-Analytics-Data-Analyst_R61536) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-People-Analytics-Data-Analyst_R64231) |
 
 ## About This Role
 
-This data analyst position at Blue Origin was posted on 2026-03-18.
+This data analyst position at Blue Origin was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

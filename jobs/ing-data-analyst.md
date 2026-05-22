@@ -1,16 +1,16 @@
-# Data Analyst at ING
+# Data Analyst  at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Belgium |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Data-Analyst_REQ-10114552) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Data-Analyst-_REQ-10107591-1) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-05-12.
+This data analyst position at ING was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lexington, Kentucky, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125905509-scientist-in-process-analytics) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126499079-scientist-in-process-analytics) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-05-11.
+This data analyst position at Eurofins Scientific was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

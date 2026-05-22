@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Marketing |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Senior-Marketing-Analyst--Multiple-Positions-_R-101989) |
+| Category | Data Analyst |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Senior-Marketing-Analyst--Multiple-Positions-_R-102921) |
 
 ## About This Role
 
-This marketing position at Heinz was posted on 2026-04-15.
+This data analyst position at Heinz was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

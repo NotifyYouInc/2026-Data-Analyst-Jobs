@@ -1,16 +1,16 @@
-# Analyst, System and Infrastructure Operations, Maintenance and Development at Desjardins
+# Analyst, System and infrastructure operations, maintenance and development at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-de-solutions-d-infrastructure-Azure-DevOps_R2605719) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-fonctionnel-ou-analyste-fonctionnelle_R2606624-2) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-04-29.
+This it & systems administration position at Desjardins was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

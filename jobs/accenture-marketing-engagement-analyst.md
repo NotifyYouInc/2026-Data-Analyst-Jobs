@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Marketing-Engagement-Analyst_AIOC-S01642480-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Marketing-Engagement-Analyst_AIOC-S01645590) |
 
 ## About This Role
 
-This marketing position at Accenture was posted on 2026-04-30.
+This marketing position at Accenture was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

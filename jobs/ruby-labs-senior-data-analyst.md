@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ukraine |
+| Location | Serbia |
 | Category | Data Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/b68e1d50-9649-48ca-80c6-d500f2cbcbfd) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/02eda1b4-c84a-4ee8-8a3d-0fdcc93cf0a9) |
 
 ## About This Role
 
-This data analyst position at Ruby Labs was posted on 2026-02-13.
+This data analyst position at Ruby Labs was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

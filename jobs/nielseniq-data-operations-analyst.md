@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Karachi, Sindh, Pakistan |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125402699-data-operations-analyst) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126496410-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-05-08.
+This data analyst position at NielsenIQ was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

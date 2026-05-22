@@ -5,12 +5,12 @@
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bristol, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/MI-Analyst_JR_10038863-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Bristol-CEC/MI-Analyst_JR_10038867-2) |
 
 ## About This Role
 
-This data analyst position at Ayvens was posted on 2026-04-07.
+This data analyst position at Ayvens was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

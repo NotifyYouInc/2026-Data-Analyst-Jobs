@@ -5,12 +5,12 @@
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pullman, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst_2026-20902) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pullman---2545/Data-Analyst_2026-21112-1) |
 
 ## About This Role
 
-This data analyst position at Schweitzer Engineering Laboratories was posted on 2026-04-21.
+This data analyst position at Schweitzer Engineering Laboratories was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/IT-Operations-Analyst-I_JR107569) |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/IT-Operations-Analyst-I_JR107968) |
 
 ## About This Role
 
-This devops engineer position at Sabre was posted on 2026-04-02.
+This it & systems administration position at Sabre was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hemel Hempstead, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000122212667-data-team-leader) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000126522339-data-team-leader) |
 
 ## About This Role
 
-This data analyst position at Northgate Information Solutions was posted on 2026-04-22.
+This data analyst position at Northgate Information Solutions was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

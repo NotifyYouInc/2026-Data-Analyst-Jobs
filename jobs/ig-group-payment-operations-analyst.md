@@ -5,12 +5,12 @@
 | Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Bangalore-India/Payment-Operations-Analyst_R_16617) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Bangalore-India/Payment-Operations-Analyst_R_17056) |
 
 ## About This Role
 
-This financial crimes & aml position at IG Group was posted on 2026-04-29.
+This financial crimes & aml position at IG Group was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

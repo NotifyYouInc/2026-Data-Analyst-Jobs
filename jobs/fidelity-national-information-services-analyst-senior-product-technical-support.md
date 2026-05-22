@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Analyst-Senior--Product-Technical-Support_JR0305231) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MANI-2305/Analyst-Senior--Product-Technical-Support_JR0306344) |
 
 ## About This Role
 
-This customer success position at Fidelity National Information Services was posted on 2026-03-12.
+This customer success position at Fidelity National Information Services was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Analyst----Automation_R0114527) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Analyst----Automation_R0114587) |
 
 ## About This Role
 
-This business analyst position at Truist was posted on 2026-05-12.
+This business analyst position at Truist was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000123438481-data-analyst-mfd) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000126487370-data-analyst-mfd) |
 
 ## About This Role
 
-This data analyst position at INPOST was posted on 2026-04-28.
+This data analyst position at INPOST was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

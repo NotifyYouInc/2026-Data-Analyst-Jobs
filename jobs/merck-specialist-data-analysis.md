@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Data-Analysis_R396702-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Specialist--Data-Analysis_R396380-1) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-05-06.
+This data analyst position at Merck was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

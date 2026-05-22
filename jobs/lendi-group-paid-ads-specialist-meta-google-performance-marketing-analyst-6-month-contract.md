@@ -5,12 +5,12 @@
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000125995029-paid-ads-specialist-meta-google-performance-marketing-analyst-6-month-contract) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000126596059-paid-ads-specialist-meta-google-performance-marketing-analyst-6-month-contract) |
 
 ## About This Role
 
-This digital / performance marketing position at Lendi Group was posted on 2026-05-12.
+This digital / performance marketing position at Lendi Group was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

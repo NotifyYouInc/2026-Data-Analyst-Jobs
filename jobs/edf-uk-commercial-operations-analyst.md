@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000126317735-commercial-operations-analyst) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000126486666-commercial-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at EDF UK was posted on 2026-05-13.
+This business analyst position at EDF UK was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

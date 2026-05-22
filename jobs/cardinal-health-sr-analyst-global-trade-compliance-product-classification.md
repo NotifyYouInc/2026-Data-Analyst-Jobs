@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Sr-Analyst---Global-Trade-Compliance---Product-Classification_20177572) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Sr-Analyst---Global-Trade-Compliance---Product-Classification_20180695) |
 
 ## About This Role
 
-This compliance & risk management position at Cardinal Health was posted on 2026-03-24.
+This compliance & risk management position at Cardinal Health was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

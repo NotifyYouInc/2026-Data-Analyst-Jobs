@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Smithfield, Rhode Island, United States |
+| Location | Durham, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-IT-Data-Analyst_2126501-2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Senior-IT-Data-Analyst_2125707-2) |
 
 ## About This Role
 
-This data analyst position at Fidelity was posted on 2026-04-17.
+This data analyst position at Fidelity was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

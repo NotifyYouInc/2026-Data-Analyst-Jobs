@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000124686209-digital-analytics-manager) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000126480599-digital-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Primark was posted on 2026-05-05.
+This data analyst position at Primark was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

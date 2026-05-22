@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | New York, US |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Lead-Analyst_26956487) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Data-Analytics-Lead-Analyst_26936169) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-04-28.
+This data analyst position at Citigroup was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

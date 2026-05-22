@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000120965129-data-and-analytics-developer) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000126540709-data-and-analytics-developer) |
 
 ## About This Role
 
-This data engineer position at Entain was posted on 2026-04-15.
+This data engineer position at Entain was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

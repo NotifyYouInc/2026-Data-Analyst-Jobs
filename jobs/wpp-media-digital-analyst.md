@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5100969008) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5219177008) |
 
 ## About This Role
 
-This data analyst position at WPP Media was posted on 2026-03-18.
+This data analyst position at WPP Media was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

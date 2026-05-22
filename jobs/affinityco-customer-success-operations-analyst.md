@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affinity.co](https://scoutify.ai/companies/affinity-co?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Canada |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7696684003) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7734511003) |
 
 ## About This Role
 
-This customer success position at Affinity.co was posted on 2026-04-10.
+This customer success position at Affinity.co was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

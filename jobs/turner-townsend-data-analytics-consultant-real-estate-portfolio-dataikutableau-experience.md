@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000125053060-data-analytics-consultant-real-estate-portfolio-dataikutableau-experience) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000126637749-data-analytics-consultant-real-estate-portfolio-dataikutableau-experience) |
 
 ## About This Role
 
-This technology / it consulting position at Turner & Townsend was posted on 2026-05-07.
+This technology / it consulting position at Turner & Townsend was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114095984-sales-analyst-intern-summer-2026-diablo-tools) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126573179-sales-analyst-intern-summer-2026-diablo-tools) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-03-11.
+This data analyst position at Robert Bosch was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
