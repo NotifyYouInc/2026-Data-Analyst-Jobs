@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Data-Analyst---GPSC_JR-202607319) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Data-Analyst---GPSC_JR-202610962) |
 
 ## About This Role
 
-This data analyst position at General Motors was posted on 2026-04-08.
+This data analyst position at General Motors was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

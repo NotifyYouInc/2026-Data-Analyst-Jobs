@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/So-Paulo-Brazil/Sr-Centralized-Monitoring-Analyst-I_R-01345669-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Sr-Centralized-Monitoring-Analyst-I_R-01352699) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-03-19.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

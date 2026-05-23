@@ -5,12 +5,12 @@
 | Company | [Swedish Orphan Biovitrum AB (Sobi)](https://scoutify.ai/companies/swedishorphanbiovitrumabsobi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000124657329-associate-director-market-access-analytics) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000126704473-associate-director-market-access-analytics) |
 
 ## About This Role
 
-This data analyst position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-05-05.
+This data analyst position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

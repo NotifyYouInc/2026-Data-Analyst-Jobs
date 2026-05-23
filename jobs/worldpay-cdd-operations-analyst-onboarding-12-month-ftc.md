@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gateshead, England, United Kingdom |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/GATESHEAD--UNITED-KINGDOM/CDD-Operations-Analyst---Onboarding-12-Month-FTC_JR0609315-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/AMSTERDAM--NETHERLANDS/CDD-Operations-Analyst---Onboarding-12-Month-FTC_JR0610017) |
 
 ## About This Role
 
-This financial crimes & aml position at Worldpay was posted on 2026-04-22.
+This financial crimes & aml position at Worldpay was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

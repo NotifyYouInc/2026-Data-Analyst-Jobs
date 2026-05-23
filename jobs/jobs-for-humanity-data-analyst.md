@@ -6,7 +6,7 @@
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Analyst |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000126511939-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000126586210-data-analyst) |
 
 ## About This Role
 

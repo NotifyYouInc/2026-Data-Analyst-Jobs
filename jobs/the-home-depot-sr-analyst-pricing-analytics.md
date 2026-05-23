@@ -1,16 +1,16 @@
-# Sr Analyst, Pricing Analytics at The Home Depot
+# Sr. Analyst, Pricing Analytics at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Analyst--Pricing-Analytics_Req170025) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Analyst--Pricing-Analytics_Req180579) |
 
 ## About This Role
 
-This data analyst position at The Home Depot was posted on 2026-02-27.
+This data analyst position at The Home Depot was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

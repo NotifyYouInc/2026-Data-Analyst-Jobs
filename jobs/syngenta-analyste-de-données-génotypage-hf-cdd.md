@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint-Sauveur, Bourgogne, France |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126255901-analyste-de-donnees-genotypage-hf-cdd) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126652279-analyste-de-donnees-genotypage-hf-cdd) |
 
 ## About This Role
 
-This data analyst position at Syngenta was posted on 2026-05-13.
+This data analyst position at Syngenta was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

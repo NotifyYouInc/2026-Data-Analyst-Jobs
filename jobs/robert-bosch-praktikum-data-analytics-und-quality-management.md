@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kusterdingen, Baden-Wurttemberg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125345893-praktikum-data-analytics-und-quality-management) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126696940-praktikum-data-analytics-und-quality-management) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-05-08.
+This data analyst position at Robert Bosch was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

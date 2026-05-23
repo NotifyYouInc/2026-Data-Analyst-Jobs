@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tryjeeves](https://scoutify.ai/companies/tryjeeves?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Argentina |
 | Category | Operations |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.lever.co/tryjeeves/14deb4f2-c0f6-497d-b55c-ab52a72557a2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.lever.co/tryjeeves/235bc52e-08f1-4f93-af11-f4cb394538cb) |
 
 ## About This Role
 
-This operations position at Tryjeeves was posted on 2026-05-11.
+This operations position at Tryjeeves was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

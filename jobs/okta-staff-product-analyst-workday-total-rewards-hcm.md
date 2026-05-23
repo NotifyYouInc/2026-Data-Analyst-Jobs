@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7786209?gh_jid=7786209) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7917359?gh_jid=7917359) |
 
 ## About This Role
 
-This business analyst position at Okta was posted on 2026-04-08.
+This business analyst position at Okta was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

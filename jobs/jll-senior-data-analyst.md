@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boulder-CO/Senior-Data-Analyst_REQ487726-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mumbai-MH/Senior-Data-Analyst_REQ498722) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-24.
+This data analyst position at JLL was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

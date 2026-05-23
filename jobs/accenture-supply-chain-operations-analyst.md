@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
-| Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Supply-Chain-Operations-Analyst_14311736) |
+| Location | Kolkata, West Bengal, India |
+| Category | Business Analyst |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Supply-Chain-Operations-Analyst_AIOC-S01645757-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-29.
+This business analyst position at Accenture was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

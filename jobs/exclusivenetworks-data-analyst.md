@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/UK/Data-Analyst_JR1386-1) |
+| Category | Data Analyst |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Mansfield/Data-Analyst_JR1913-1) |
 
 ## About This Role
 
-This business analyst position at Exclusivenetworks was posted on 2026-02-06.
+This data analyst position at Exclusivenetworks was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

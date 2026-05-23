@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Germany |
+| Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000120955542-junior-business-intelligence-ai-manager-mwd-mobilfunk) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000126635169-junior-business-intelligence-ai-manager-mwd-mobilfunk) |
 
 ## About This Role
 
-This data analyst position at CHECK24 was posted on 2026-04-15.
+This data analyst position at CHECK24 was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

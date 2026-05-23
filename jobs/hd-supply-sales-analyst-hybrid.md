@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Sales-Analyst---Hybrid_R26000426) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/FL318---Jacksonville-FL/Sales-Analyst---Hybrid_R26002671) |
 
 ## About This Role
 
-This data analyst position at HD Supply was posted on 2026-04-15.
+This data analyst position at HD Supply was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OFX](https://scoutify.ai/companies/ofx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ofx1/744000113825357-card-operations-and-services-analyst) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ofx1/744000126759689-card-operations-and-services-analyst) |
 
 ## About This Role
 
-This business analyst position at OFX was posted on 2026-03-10.
+This business analyst position at OFX was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
