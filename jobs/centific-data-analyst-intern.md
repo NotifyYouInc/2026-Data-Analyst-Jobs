@@ -5,12 +5,12 @@
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Data-Analyst-Intern_JR107121) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Malaysia-Office--Penang/Data-Analyst-Intern_JR107123-1) |
 
 ## About This Role
 
-This data analyst position at Centific was posted on 2026-05-07.
+This data analyst position at Centific was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Lipa-EBU/Product-Environmental-Compliance-Analyst_JR-111583) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Lipa-EBU/Product-Environmental-Compliance-Analyst_JR-111605) |
 
 ## About This Role
 
-This compliance & risk management position at Littelfuse was posted on 2026-05-13.
+This compliance & risk management position at Littelfuse was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Operations-Analyst_JR-0000107534-1) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Operations-Analyst_JR-0000103489-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-04-15.
+This business analyst position at Barclays was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

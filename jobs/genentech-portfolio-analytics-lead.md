@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | South San Francisco, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Portfolio-Analytics-Lead_202605-111649-1) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Taipei/Portfolio-Analytics-Lead_202604-109514-2) |
 
 ## About This Role
 
-This business analyst position at Genentech was posted on 2026-05-07.
+This product manager position at Genentech was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
