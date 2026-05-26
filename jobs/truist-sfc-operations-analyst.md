@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Greenville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Greenville-SC/SFC-Operations-Analyst_R0113880) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Greenville-SC/SFC-Operations-Analyst_R0114719) |
 
 ## About This Role
 
-This business analyst position at Truist was posted on 2026-04-27.
+This business analyst position at Truist was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

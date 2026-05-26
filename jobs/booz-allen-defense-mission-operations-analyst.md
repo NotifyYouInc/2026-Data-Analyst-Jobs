@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Belcamp-MD/Defense-Mission-Operations-Analyst_R0237606) |
+| Location | Maryland, US |
+| Category | Business Analyst |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Belcamp-MD/Defense-Mission-Operations-Analyst_R0239550) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-04-10.
+This business analyst position at Booz Allen was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

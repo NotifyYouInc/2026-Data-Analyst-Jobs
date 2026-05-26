@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Information-Management-Analyst_26944738) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Information-Management-Analyst_26963664) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-03-13.
+This data analyst position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

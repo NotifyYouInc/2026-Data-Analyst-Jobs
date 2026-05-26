@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belen, Loreto, Peru |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Belen-CRI/Analytics-Specialist_REQ499799) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Belen-CRI/Analytics-Specialist_REQ506191) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-13.
+This data analyst position at JLL was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

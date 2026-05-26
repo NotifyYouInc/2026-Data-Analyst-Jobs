@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/Decision-Analyst_JR-0000105803) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Decision-Analyst_JR-0000112040-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-05-13.
+This data analyst position at Barclays was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

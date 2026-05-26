@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jaipur, Rajasthan, India |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Measurement---Report-Analyst_AIOC-S01645560-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Measurement---Report-Analyst_AIOC-S01645985-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-05-14.
+This data analyst position at Accenture was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | South Africa |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Steyn-City-Capital-Park/Senior-Business-Intelligence-Developer_JR104831) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Steyn-City-Capital-Park/Senior-Business-Intelligence-Developer_JR104889) |
 
 ## About This Role
 
-This data analyst position at Telesure was posted on 2026-05-15.
+This data analyst position at Telesure was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

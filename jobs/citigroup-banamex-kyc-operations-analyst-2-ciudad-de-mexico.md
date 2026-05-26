@@ -1,16 +1,16 @@
-# Banamex KYC Operations Analyst 2 - Ciudad De Mexico at Citigroup
+# Banamex KYC Operations Analyst 2 - CIUDAD DE MEXICO at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC-Operations-Analyst-2---Ciudad-De-Mexico_26952190) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC-Operations-Analyst-2---CIUDAD-DE-MEXICO_26963456-1) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-04-10.
+This financial crimes & aml position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

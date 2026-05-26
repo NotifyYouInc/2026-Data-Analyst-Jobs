@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Melco Resorts & Entertainment](https://scoutify.ai/companies/melco-resorts-entertainment?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | China |
+| Location | Macau, Macao |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/Macau-SAR/Senior-Analyst--Technical-Operations_REQ14132) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/Macau-SAR/Senior-Analyst--Technical-Operations_REQ14667) |
 
 ## About This Role
 
-This it & systems administration position at Melco Resorts & Entertainment was posted on 2026-02-27.
+This it & systems administration position at Melco Resorts & Entertainment was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112239287-senior-brands-ads-analyst-theyshehe) |
+| Category | Marketing |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127008004-senior-brands-ads-analyst-theyshehe) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-03-02.
+This marketing position at Delivery Hero was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

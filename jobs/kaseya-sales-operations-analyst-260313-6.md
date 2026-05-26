@@ -5,12 +5,12 @@
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5827713004/?gh_jid=5827713004) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5997903004/?gh_jid=5997903004) |
 
 ## About This Role
 
-This operations position at Kaseya was posted on 2026-04-28.
+This operations position at Kaseya was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

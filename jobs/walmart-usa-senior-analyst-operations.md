@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bentonville, Arkansas, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Analyst--Operations_R-2462316) |
+| Category | Project Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Senior-Analyst--Operations_R-2511621) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-04-21.
+This project manager position at Walmart was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

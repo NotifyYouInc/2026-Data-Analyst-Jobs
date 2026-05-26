@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ESAB](https://scoutify.ai/companies/esab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ambattur, Tamil Nadu, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/India-Chennai-Ambattur/HR-Operations-Analyst_R0024678) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/India-Chennai-Ambattur/HR-Operations-Analyst_R0024974) |
 
 ## About This Role
 
-This human resources / people ops position at ESAB was posted on 2026-03-17.
+This human resources / people ops position at ESAB was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

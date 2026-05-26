@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126230950-intern-analytics-projects-grabfood) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126915499-intern-analytics-projects-grabfood) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-05-13.
+This data analyst position at Grab was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

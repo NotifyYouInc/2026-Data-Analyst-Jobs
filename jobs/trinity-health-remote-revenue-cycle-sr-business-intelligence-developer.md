@@ -1,16 +1,16 @@
-# (REMOTE) Revenue Cycle - Sr. Business Intelligence Developer at Trinity Health
+# (REMOTE) Revenue Cycle - Sr Business Intelligence Developer at Trinity Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Livonia, Michigan, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/XMLNAME--REMOTE--Revenue-Cycle---Sr-Business-Intelligence-Developer_00654359) |
+| Category | Data Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/XMLNAME--REMOTE--Revenue-Cycle---Sr-Business-Intelligence-Developer_00665453) |
 
 ## About This Role
 
-This data analyst position at Trinity Health was posted on 2026-04-06.
+This data engineer position at Trinity Health was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

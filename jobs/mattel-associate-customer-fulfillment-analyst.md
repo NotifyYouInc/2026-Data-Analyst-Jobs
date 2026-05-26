@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126658030-associate-customer-fulfillment-analyst) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126948310-associate-customer-fulfillment-analyst) |
 
 ## About This Role
 
-This customer success position at Mattel was posted on 2026-05-15.
+This customer success position at Mattel was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

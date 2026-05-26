@@ -5,12 +5,12 @@
 | Company | [RMIT](https://scoutify.ai/companies/rmit?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | AI / ML Research |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://rmit.wd3.myworkdayjobs.com/rmit_jobs/job/Ho-Chi-Minh-City/Research-Assistant_JR48066) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://rmit.wd3.myworkdayjobs.com/rmit_jobs/job/Ho-Chi-Minh-City/Research-Assistant_JR48067) |
 
 ## About This Role
 
-This ai / ml research position at RMIT was posted on 2026-05-17.
+This ai / ml research position at RMIT was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

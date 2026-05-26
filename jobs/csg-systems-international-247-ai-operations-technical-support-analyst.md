@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | South Africa |
+| Location | Indonesia |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/South-Africa-Remote/XMLNAME-24-7-AI-Operations-Technical-Support-Analyst_31893) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Indonesia-Remote/XMLNAME-24-7-AI-Operations-Technical-Support-Analyst_32000) |
 
 ## About This Role
 
-This customer success position at CSG Systems International was posted on 2026-05-06.
+This customer success position at CSG Systems International was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

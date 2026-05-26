@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Brisbane, Queensland, Australia |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Data-Analyst_R01034893) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/STS-Brisbane---Office/Data-Analyst_R0128954) |
 
 ## About This Role
 
-This data analyst position at Hitachi was posted on 2026-03-25.
+This data analyst position at Hitachi was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

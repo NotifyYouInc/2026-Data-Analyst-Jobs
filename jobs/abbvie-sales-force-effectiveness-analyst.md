@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Project Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012445287-sales-force-effectiveness-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013175306-sales-force-effectiveness-analyst) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-04-03.
+This corporate finance position at AbbVie was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---GBS-Pune-Kharadi/Inventory-Data-Analyst_R87555-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---GBS-Pune-Kharadi/Inventory-Data-Analyst_R90407-1) |
 
 ## About This Role
 
-This data analyst position at Smith+Nephew was posted on 2026-03-06.
+This data analyst position at Smith+Nephew was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

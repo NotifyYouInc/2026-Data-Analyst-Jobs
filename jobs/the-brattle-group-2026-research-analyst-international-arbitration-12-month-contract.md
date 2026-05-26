@@ -5,12 +5,12 @@
 | Company | [The Brattle Group](https://scoutify.ai/companies/thebrattlegroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4672002005) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4695890005) |
 
 ## About This Role
 
-This data analyst position at The Brattle Group was posted on 2026-04-13.
+This data analyst position at The Brattle Group was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

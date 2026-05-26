@@ -5,12 +5,12 @@
 | Company | [Kyivstar](https://scoutify.ai/companies/kyivstar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.lever.co/kyivstar/fed4b6f8-6828-450a-8a7b-110fb86e911f) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.lever.co/kyivstar/90842a59-5f26-4b8f-859d-1c8d56b68784) |
 
 ## About This Role
 
-This data analyst position at Kyivstar was posted on 2026-05-12.
+This data analyst position at Kyivstar was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

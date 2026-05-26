@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santo Domingo, Nacional, Dominican Republic |
-| Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000122340790-insights-specialist) |
+| Category | Business Analyst |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000127071644-insights-specialist) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-04-22.
+This business analyst position at Red Bull was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126708379-customer-fulfillment-analyst) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Customer Success |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126942175-customer-fulfillment-analyst) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-05-15.
+This customer success position at Mattel was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

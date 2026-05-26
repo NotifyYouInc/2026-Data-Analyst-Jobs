@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Delivery-Operations-Analyst_AIOC-S01643048-1) |
+| Category | Business Analyst |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Delivery-Operations-Analyst_AIOC-S01645960-1) |
 
 ## About This Role
 
-This compliance & risk management position at Accenture was posted on 2026-05-05.
+This business analyst position at Accenture was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

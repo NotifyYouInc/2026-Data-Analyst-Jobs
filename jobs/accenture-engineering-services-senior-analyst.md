@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Engineering-Services-Senior-Analyst_AIOC-S01635731-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Engineering-Services-Specialist_AIOC-S01611209-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-03.
+This data analyst position at Accenture was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

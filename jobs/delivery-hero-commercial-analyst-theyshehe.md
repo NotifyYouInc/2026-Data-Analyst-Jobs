@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000125886779-commercial-analyst-theyshehe) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127009399-commercial-analyst-theyshehe) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-05-11.
+This data analyst position at Delivery Hero was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

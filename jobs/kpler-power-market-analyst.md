@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kpler](https://scoutify.ai/companies/kpler?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.lever.co/kpler/3fc27671-cd2b-4bed-b6f0-e45efb3bea7f) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.lever.co/kpler/316085c2-5762-4081-92fa-12a8fbfc4c21) |
 
 ## About This Role
 
-This data analyst position at Kpler was posted on 2026-05-12.
+This data analyst position at Kpler was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

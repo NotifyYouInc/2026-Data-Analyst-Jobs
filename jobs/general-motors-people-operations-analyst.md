@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santa Fe, AR |
+| Location | Giza, Giza, Egypt |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Alvear-Santa-Fe-Argentina/People-Operations-Analyst_JR-202604802) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Giza-Egypt/People-Operations-Analyst_JR-202610703) |
 
 ## About This Role
 
-This human resources / people ops position at General Motors was posted on 2026-03-11.
+This human resources / people ops position at General Motors was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# KYC Operations Analyst - Officer at Citigroup
+# KYC Operations Analyst Officer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Financial Crimes & AML |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Shanghai-Shanghai-China/KYC-Operations-Analyst---Officer_26962926) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Shanghai-Shanghai-China/KYC-Operations-Analyst-Officer_26963324) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-05-13.
+This financial crimes & aml position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

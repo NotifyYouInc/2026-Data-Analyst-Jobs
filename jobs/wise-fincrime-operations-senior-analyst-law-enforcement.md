@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112168353-fincrime-operations-senior-analyst-law-enforcement) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126960349-fincrime-operations-senior-analyst-law-enforcement) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-03-02.
+This financial crimes & aml position at WISE was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000119992338-geospatial-analyst-26075) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126979230-geospatial-analyst-26075) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-04-10.
+This data analyst position at Sopra Steria was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

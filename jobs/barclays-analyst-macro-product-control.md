@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst-Macro-Product-Control_JR-0000064428) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst-Macro-Product-Control_JR-0000106938) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-04-07.
+This corporate finance position at Barclays was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

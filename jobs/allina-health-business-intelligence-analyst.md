@@ -5,12 +5,12 @@
 | Company | [Allina Health](https://scoutify.ai/companies/allina-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Business-Intelligence-Analyst_R-0070175-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Business-Intelligence-Analyst_R-0070976-1) |
 
 ## About This Role
 
-This data analyst position at Allina Health was posted on 2026-03-26.
+This data analyst position at Allina Health was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
