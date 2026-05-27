@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10390694/business-intelligence-engineer-amazon) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10424869/business-intelligence-engineer-amazon) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-04-14.
+This data engineer position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

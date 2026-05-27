@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Abingdon, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Abingdon/Senior-Analyst_31148730-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Abingdon/Senior-Analyst_31150228) |
 
 ## About This Role
 
-This data analyst position at Abbott was posted on 2026-05-01.
+This data analyst position at Abbott was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

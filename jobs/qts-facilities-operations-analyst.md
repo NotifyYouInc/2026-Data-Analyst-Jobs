@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Facilities-Operations-Analyst_R2026-0726-2) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Ashburn-VA/Facilities-Operations-Analyst_R2026-1034-1) |
 
 ## About This Role
 
-This business analyst position at QTS was posted on 2026-04-13.
+This business analyst position at QTS was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

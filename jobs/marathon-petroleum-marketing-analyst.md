@@ -5,12 +5,12 @@
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Findlay, Ohio, United States |
 | Category | Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Marketing-Analyst_00021580) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Marketing-Analyst_00022053) |
 
 ## About This Role
 
-This marketing position at Marathon Petroleum was posted on 2026-04-17.
+This marketing position at Marathon Petroleum was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

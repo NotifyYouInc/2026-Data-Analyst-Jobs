@@ -1,16 +1,16 @@
-# Data Analyst (focus Finance) (m/f/d) at Redcare Pharmacy
+# Data Analyst - focus Finance (m/f/d) at Redcare Pharmacy
 
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126481799-data-analyst-focus-finance-mfd) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000127194369-data-analyst-focus-finance-mfd) |
 
 ## About This Role
 
-This data analyst position at Redcare Pharmacy was posted on 2026-05-14.
+This data analyst position at Redcare Pharmacy was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

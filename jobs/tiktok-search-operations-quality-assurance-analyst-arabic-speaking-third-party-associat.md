@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Trust & Safety |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7602688037357488437/detail) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7605635176085293365/detail) |
 
 ## About This Role
 
-This trust & safety position at TikTok was posted on 2026-05-07.
+This trust & safety position at TikTok was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

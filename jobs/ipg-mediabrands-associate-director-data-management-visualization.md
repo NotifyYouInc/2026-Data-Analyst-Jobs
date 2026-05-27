@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IPG Mediabrands](https://scoutify.ai/companies/ipg-mediabrands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/5078702007) |
+| Category | Business Analyst |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/5119394007) |
 
 ## About This Role
 
-This data analyst position at IPG Mediabrands was posted on 2026-05-07.
+This business analyst position at IPG Mediabrands was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

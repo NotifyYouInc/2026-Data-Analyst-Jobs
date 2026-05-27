@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Texas, US |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-TX-Work-at-Home/Sr-Data-Analyst_R1715387) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurugram---8Th-Floor-Building-8C-DLF-Cyber-City/Senior-Data-Analyst_R1730924) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-05-18.
+This data analyst position at Concentrix was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

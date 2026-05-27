@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mesa, Arizona, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Business-Operations-and-Knowledge-Management-Analyst_JR2026509180-1) |
+| Category | Project Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Business-Operations-and-Knowledge-Management-Analyst_JR2026511176-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-05-13.
+This project manager position at Boeing was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Harrisburg, Pennsylvania, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Owensboro-KY/Business-Operations-Analyst_2026-0011953) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Harrisburg-PA/Business-Operations-Analyst_2026-0012858) |
 
 ## About This Role
 
-This strategy & operations position at U.S. Bank was posted on 2026-05-09.
+This strategy & operations position at U.S. Bank was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

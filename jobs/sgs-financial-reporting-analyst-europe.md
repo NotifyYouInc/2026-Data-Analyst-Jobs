@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000125043809-financial-reporting-analyst-europe) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127213137-financial-reporting-analyst-europe) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-05-07.
+This corporate finance position at SGS was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

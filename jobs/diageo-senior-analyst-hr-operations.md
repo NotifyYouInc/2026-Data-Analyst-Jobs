@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Senior-Analyst--HR-Operations_JR1124415) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Senior-Analyst--HR-Operations_JR1125964) |
 
 ## About This Role
 
-This human resources / people ops position at Diageo was posted on 2026-03-27.
+This human resources / people ops position at Diageo was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

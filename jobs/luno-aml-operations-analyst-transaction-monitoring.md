@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Luno](https://scoutify.ai/companies/luno?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/luno/jobs/7746167) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/luno/jobs/7941789) |
 
 ## About This Role
 
-This financial crimes & aml position at Luno was posted on 2026-03-25.
+This financial crimes & aml position at Luno was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

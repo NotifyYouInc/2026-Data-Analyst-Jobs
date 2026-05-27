@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Israel |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4865617101) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4870609101) |
 
 ## About This Role
 
-This data analyst position at Unframe was posted on 2026-05-13.
+This data analyst position at Unframe was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

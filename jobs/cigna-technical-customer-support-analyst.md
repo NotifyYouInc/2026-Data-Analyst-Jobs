@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kenya-One-Africa-Place/Technical-Customer-Support-Analyst_26005613) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kuala-Lumpur-Malaysia/Technical-Customer-Support-Analyst_26005615) |
 
 ## About This Role
 
-This customer success position at Cigna was posted on 2026-05-14.
+This customer success position at Cigna was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

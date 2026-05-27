@@ -5,12 +5,12 @@
 | Company | [Yext](https://scoutify.ai/companies/yext?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/yext/jobs/7687559) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yext/jobs/7917823) |
 
 ## About This Role
 
-This customer success position at Yext was posted on 2026-03-13.
+This customer success position at Yext was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | São Caetano do Sul, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012017890-especialista-de-dados) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013218386-especialista-de-dados) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-03-06.
+This data analyst position at MSX International was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

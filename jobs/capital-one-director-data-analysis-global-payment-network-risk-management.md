@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Analysis---Global-Payment-Network---Risk-Management_R238284-1) |
+| Category | Leadership Development Program |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Analysis---Global-Payment-Network---Risk-Management_R242923-1) |
 
 ## About This Role
 
-This compliance & risk management position at Capital One was posted on 2026-05-05.
+This leadership development program position at Capital One was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

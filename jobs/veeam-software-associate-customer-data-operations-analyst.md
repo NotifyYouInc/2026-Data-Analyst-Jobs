@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4849872101) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4849336101) |
 
 ## About This Role
 
-This data analyst position at Veeam Software was posted on 2026-04-30.
+This data analyst position at Veeam Software was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

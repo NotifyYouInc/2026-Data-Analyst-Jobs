@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Senior-Manager--Reporting-and-Analytics_JR-159024) |
+| Location | Toronto, Ontario, Canada |
+| Category | Business Analyst |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Senior-Manager--Reporting-and-Analytics_JR-160845) |
 
 ## About This Role
 
-This data analyst position at Equinix was posted on 2026-03-11.
+This business analyst position at Equinix was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

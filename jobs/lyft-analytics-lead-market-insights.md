@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8503985002?gh_jid=8503985002) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8550717002?gh_jid=8550717002) |
 
 ## About This Role
 
-This data analyst position at Lyft was posted on 2026-04-14.
+This data analyst position at Lyft was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

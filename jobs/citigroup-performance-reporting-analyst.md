@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Haryana, IN |
-| Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Performance-Reporting-Analyst_26939092) |
+| Location | Gurugram, Haryana, India |
+| Category | Business Analyst |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Performance-Reporting-Analyst_26965522) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-02-26.
+This business analyst position at Citigroup was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

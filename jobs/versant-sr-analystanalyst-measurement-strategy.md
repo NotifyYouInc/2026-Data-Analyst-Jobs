@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124716019-sr-analystanalyst-measurement-strategy) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000127121629-sr-analystanalyst-measurement-strategy) |
 
 ## About This Role
 
-This strategy & operations position at Versant was posted on 2026-05-05.
+This strategy & operations position at Versant was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

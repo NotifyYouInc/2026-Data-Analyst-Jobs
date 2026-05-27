@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Ops-Analyst---Roundel_R0000431499) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Ops-Analyst---Roundel_R0000439636) |
 
 ## About This Role
 
-This product manager position at Target was posted on 2026-03-09.
+This product manager position at Target was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

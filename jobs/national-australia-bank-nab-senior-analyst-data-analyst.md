@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Senior-Analyst--Data-Analyst_JR118376) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Senior-Analyst--Data-Analyst_JR118377) |
 
 ## About This Role
 
-This data analyst position at National Australia Bank (NAB) was posted on 2026-05-15.
+This data analyst position at National Australia Bank (NAB) was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

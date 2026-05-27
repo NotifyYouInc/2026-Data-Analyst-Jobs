@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000125901082-cnbc-news-analytics-manager) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000127121002-cnbc-news-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-05-11.
+This data analyst position at Versant was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

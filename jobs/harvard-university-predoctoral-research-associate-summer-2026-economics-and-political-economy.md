@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012931266-predoctoral-research-associate-summer-2026-economics-and-political-economy) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013212236-predoctoral-research-associate-summer-2026-economics-and-political-economy) |
 
 ## About This Role
 
-This data analyst position at Harvard University was posted on 2026-05-01.
+This data analyst position at Harvard University was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Escritrio-Regional-So-Paulo/Estgio-em-Tecnologia--Anlise-da-Dados-IA-_JOBREQ_50262469) |
+| Category | AI / ML Research |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Escritrio-Regional-So-Paulo/Estgio-em-Tecnologia--Anlise-da-Dados-IA-_JOBREQ_50265363) |
 
 ## About This Role
 
-This data analyst position at Renault Group was posted on 2026-04-24.
+This ai / ml research position at Renault Group was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012253066-data-analytics-manager) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013199006-data-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Harvard University was posted on 2026-03-20.
+This data analyst position at Harvard University was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

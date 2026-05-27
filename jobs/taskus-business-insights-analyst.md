@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Colombia |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Gurugram-India/Business-Insights-Analyst_R_2605_6338) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Business-Insights-Analyst_R_2605_6708) |
 
 ## About This Role
 
-This data analyst position at TaskUs was posted on 2026-05-12.
+This data analyst position at TaskUs was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

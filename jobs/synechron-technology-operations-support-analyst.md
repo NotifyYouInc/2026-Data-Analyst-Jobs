@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Guadalajara-Jal/Technology-Operations-Support---Analyst_JR1036443) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | DevOps Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mexico-City/Technology-Operations-Support---Analyst_JR1039889) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-02-19.
+This devops engineer position at Synechron was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

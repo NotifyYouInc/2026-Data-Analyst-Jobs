@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000118563353-data-scientist-assistant-alternance-12-mois-septembre-2026-fhnb) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000127201022-data-scientist-assistant-alternance-12-mois-septembre-2026-fhnb) |
 
 ## About This Role
 
-This data analyst position at Ubisoft was posted on 2026-04-03.
+This data analyst position at Ubisoft was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
