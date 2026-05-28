@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verisure Securitas Direct](https://scoutify.ai/companies/verisure-securitas-direct?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Portugal |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Lisboa/Data-Intelligence-and-Automation-Specialist_r2026030140) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Lisboa/Data-Intelligence-and-Automation-Specialist_r2026050126) |
 
 ## About This Role
 
-This data analyst position at Verisure Securitas Direct was posted on 2026-03-06.
+This data analyst position at Verisure Securitas Direct was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Wisma-Lee-Rubber/Data-Analyst_JR00005746-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Data-Analyst_JR00008079) |
 
 ## About This Role
 
-This data analyst position at OCBC was posted on 2026-05-08.
+This data analyst position at OCBC was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

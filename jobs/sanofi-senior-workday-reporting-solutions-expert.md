@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/Senior-Workday-Reporting-Solutions-Expert_R2846232) |
+| Location | Hyderabad, Telangana, India |
+| Category | Human Resources / People Ops |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Workday-Reporting-Solutions-Expert_R2858792) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-03-27.
+This human resources / people ops position at Sanofi was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

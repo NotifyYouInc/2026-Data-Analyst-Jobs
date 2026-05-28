@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Whitby, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000127179348-data-transformation-administrator) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000127425499-data-transformation-administrator) |
 
 ## About This Role
 
-This data analyst position at Anglo American was posted on 2026-05-19.
+This data analyst position at Anglo American was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

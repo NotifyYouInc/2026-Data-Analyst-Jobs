@@ -1,16 +1,16 @@
-# ALT 2026 - Apprenti(e) en analyse de données (F/H) at Airbus
+# ALT 2026 - Apprenti(e) en Analyse de Données (F/H) at Airbus
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
-| Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ALT-2026---Apprenti-e--en-analyse-de-donnes--F-H-_JR10394704) |
+| Location | Toulouse, Occitanie, France |
+| Category | Data Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ALT-2026---Apprenti-e--en-Analyse-de-Donnes--F-H-_JR10391588) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-04-02.
+This data engineer position at Airbus was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

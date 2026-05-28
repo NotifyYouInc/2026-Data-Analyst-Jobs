@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst--Asset-Protection_JR-02480436) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst--Asset-Protection_JR-02528984) |
 
 ## About This Role
 
-This asset management / portfolio management position at Lowe's was posted on 2026-05-11.
+This asset management / portfolio management position at Lowe's was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

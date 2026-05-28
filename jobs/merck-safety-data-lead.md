@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/POL---Mazowieckie-Wojewodztwo---Warsaw-Trade-Center/Safety-Data-Lead_R395447) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/POL---Mazowieckie-Wojewodztwo---Warsaw-Trade-Center/Safety-Data-Lead_R398518) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-04-27.
+This data analyst position at Merck was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/India_Noida/Senior-Sales-Operations-Analyst_R0011707-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/China-E_Shanghai_Hong-Qiao/Senior-Sales-Operations-Analyst_R0012043) |
 
 ## About This Role
 
-This operations position at Cognex was posted on 2026-05-12.
+This operations position at Cognex was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

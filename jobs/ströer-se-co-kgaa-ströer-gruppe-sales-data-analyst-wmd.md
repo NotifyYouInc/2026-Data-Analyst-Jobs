@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000126957720-sales-data-analyst-wmd) |
+| Category | Data Analyst |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000127583499-sales-data-analyst-wmd) |
 
 ## About This Role
 
-This business analyst position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-05-18.
+This data analyst position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

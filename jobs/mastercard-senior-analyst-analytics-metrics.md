@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | O'Fallon, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Senior-Analyst--Analytics---Metrics_R-271672) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Analyst--Analytics---Metrics_R-278132) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-03-04.
+This data analyst position at Mastercard was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

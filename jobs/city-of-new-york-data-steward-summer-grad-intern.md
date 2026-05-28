@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Privacy & Data Protection |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012970136-data-steward-summer-grad-intern) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013224346-data-steward-summer-grad-intern) |
 
 ## About This Role
 
-This privacy & data protection position at City of New York was posted on 2026-05-05.
+This privacy & data protection position at City of New York was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

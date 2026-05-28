@@ -5,12 +5,12 @@
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Virginia Beach, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Health-Plans-Virginia-Beach-II/Senior-Healthcare-Data-Analyst---Remote_JR-88883-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Senior-Healthcare-Data-Analyst---Remote_JR-99645) |
 
 ## About This Role
 
-This data analyst position at Sentara Healthcare was posted on 2026-03-18.
+This data analyst position at Sentara Healthcare was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

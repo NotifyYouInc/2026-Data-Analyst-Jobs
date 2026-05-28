@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Oxford, England, United Kingdom |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Oxford/Power-BI-Developer_R0161439) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/UK-Glasgow/Power-BI-Developer_R0161865) |
 
 ## About This Role
 
-This data engineer position at Amentum was posted on 2026-05-14.
+This data engineer position at Amentum was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

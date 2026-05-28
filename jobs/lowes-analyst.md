@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst_JR-02514676) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst_JR-02514689) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-05-19.
+This data analyst position at Lowe's was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

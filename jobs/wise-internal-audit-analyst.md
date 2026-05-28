@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hyderabad, Telangana, India |
 | Category | Accounting |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124907989-internal-audit-analyst) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127579981-internal-audit-analyst) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-05-06.
+This accounting position at WISE was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

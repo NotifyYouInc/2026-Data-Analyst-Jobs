@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MaintainX](https://scoutify.ai/companies/maintainx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/maintainx/jobs/5131705007) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Corporate Finance |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/maintainx/jobs/5143754007) |
 
 ## About This Role
 
-This business analyst position at MaintainX was posted on 2026-05-07.
+This corporate finance position at MaintainX was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

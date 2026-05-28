@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000125080507-senior-bi-analyst-tableau-and-snowflake) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000127415639-senior-bi-analyst-tableau-and-snowflake) |
 
 ## About This Role
 
-This data analyst position at Blend360 was posted on 2026-05-07.
+This data analyst position at Blend360 was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

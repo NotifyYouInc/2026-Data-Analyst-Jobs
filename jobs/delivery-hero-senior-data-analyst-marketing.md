@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000120302567-senior-data-analyst-marketing) |
+| Category | Growth Marketing |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127385705-senior-data-analyst-marketing) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-04-13.
+This growth marketing position at Delivery Hero was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

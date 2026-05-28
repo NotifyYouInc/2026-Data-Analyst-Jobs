@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ohio, US |
+| Location | North Carolina, US |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Ohio/Analyst--Medical-Economics--Medical-Expense-Review-_R0896442) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-North-Carolina/Analyst--Medical-Economics--Medical-Expense-Review-_R0920988) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-04-30.
+This data analyst position at CVS Health was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

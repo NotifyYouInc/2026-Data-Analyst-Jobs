@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Antioquia, CO |
+| Location | Decorah, Iowa, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Medelln-Antioquia-Colombia/Product-Data-Analyst_REQ-1000045885) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Decorah-IA-United-States/Product-Data-Analyst_REQ-1000048779-1) |
 
 ## About This Role
 
-This data analyst position at Stanley Black & Decker was posted on 2026-02-25.
+This data analyst position at Stanley Black & Decker was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

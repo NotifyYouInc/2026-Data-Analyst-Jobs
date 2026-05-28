@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Calendly](https://scoutify.ai/companies/calendly?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/calendly/jobs/8414932002) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/calendly/jobs/8558879002) |
 
 ## About This Role
 
-This data analyst position at Calendly was posted on 2026-02-09.
+This data analyst position at Calendly was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Analyst (Fraud)  at Delivery Hero
+# Senior Data Analyst (Fraud) at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000125259549-senior-data-analyst-fraud) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127569050-senior-data-analyst-fraud) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-05-08.
+This data analyst position at Delivery Hero was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

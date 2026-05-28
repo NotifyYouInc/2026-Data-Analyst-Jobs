@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Product-Support-Analyst_R14958) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Product-Support-Analyst_R15074-1) |
 
 ## About This Role
 
-This customer success position at Athena Health was posted on 2026-05-07.
+This customer success position at Athena Health was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

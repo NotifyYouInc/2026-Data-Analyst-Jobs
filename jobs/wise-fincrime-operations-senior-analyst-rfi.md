@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Crimes & AML |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000126031944-fincrime-operations-senior-analyst-rfi) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127551514-fincrime-operations-senior-analyst-rfi) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-05-12.
+This financial crimes & aml position at WISE was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

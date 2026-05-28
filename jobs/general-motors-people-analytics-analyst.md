@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Data Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/People-Analytics-Analyst_JR-202601068-1) |
+| Location | Mountain View, California, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/People-Analytics-Analyst_JR-202610946) |
 
 ## About This Role
 
-This data analyst position at General Motors was posted on 2026-02-12.
+This human resources / people ops position at General Motors was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

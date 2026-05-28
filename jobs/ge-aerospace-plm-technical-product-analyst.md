@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Technical Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Rivalta-di-Torino/PLM-Technical-Product-Analyst_R5032977-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Rivalta-di-Torino/PLM-Technical-Product-Analyst_R5034707-2) |
 
 ## About This Role
 
-This technical product manager position at GE Aerospace was posted on 2026-04-20.
+This technical product manager position at GE Aerospace was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000127000524-senior-cost-and-value-engineer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000127585536-senior-cost-and-value-engineer) |
 
 ## About This Role
 
-This business analyst position at Vattenfall was posted on 2026-05-18.
+This business analyst position at Vattenfall was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

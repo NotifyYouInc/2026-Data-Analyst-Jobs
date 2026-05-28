@@ -1,16 +1,16 @@
-# Data Analysis Specialist at NielsenIQ
+# Data Analysis Specialist  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116152242-data-analysis-specialist) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127374747-data-analysis-specialist) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-23.
+This data analyst position at NielsenIQ was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

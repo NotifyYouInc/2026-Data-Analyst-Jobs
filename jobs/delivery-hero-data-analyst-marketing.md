@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karachi, Sindh, Pakistan |
-| Category | Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000123840314-data-analyst-marketing) |
+| Location | Prague, Prague, Czechia |
+| Category | Data Analyst |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127568091-data-analyst-marketing) |
 
 ## About This Role
 
-This marketing position at Delivery Hero was posted on 2026-04-30.
+This data analyst position at Delivery Hero was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

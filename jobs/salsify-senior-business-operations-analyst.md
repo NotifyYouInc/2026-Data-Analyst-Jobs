@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salsify](https://scoutify.ai/companies/salsify?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Portugal |
+| Location | United States |
 | Category | Strategy & Operations |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.salsify.com/careers/current-listings?gh_jid=8475198002) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.salsify.com/careers/current-listings?gh_jid=8556193002) |
 
 ## About This Role
 
-This strategy & operations position at Salsify was posted on 2026-05-06.
+This strategy & operations position at Salsify was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

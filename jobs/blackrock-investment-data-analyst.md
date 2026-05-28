@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/B3G---Skyline-Belgrade-Kneza-Milosa-88-Belgrade/Investment-Data-Analyst_R261720) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/B3G---Skyline-Belgrade-Kneza-Milosa-88-Belgrade/Investment-Data-Analyst_R264034) |
 
 ## About This Role
 
-This asset management / portfolio management position at Blackrock was posted on 2026-05-05.
+This asset management / portfolio management position at Blackrock was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

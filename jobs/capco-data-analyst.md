@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7903018) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7946233) |
 
 ## About This Role
 
-This data analyst position at Capco was posted on 2026-05-07.
+This data analyst position at Capco was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Diego, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Analyst_R-00175836) |
+| Category | Data Analyst |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Analyst_R-00183405) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-11.
+This data analyst position at Leidos was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

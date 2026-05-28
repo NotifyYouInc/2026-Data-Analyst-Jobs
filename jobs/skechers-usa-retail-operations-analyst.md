@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skechers USA](https://scoutify.ai/companies/skechers-usa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Chile |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Lima-IM-Peru/Retail-Operations-Analyst_JR127517) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Vitacura-Chile/Retail-Operations-Analyst_JR128587) |
 
 ## About This Role
 
-This business analyst position at Skechers USA was posted on 2026-04-23.
+This business analyst position at Skechers USA was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKY-CENTER-DR/Financial-Operations-Analyst-Lead---Payment-Integrity-Datamining_JR185851) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-TAMPA-5411-SKY-CENTER-DR/Financial-Operations-Analyst-Lead---Payment-Integrity-Datamining_JR193938) |
 
 ## About This Role
 
-This corporate finance position at Elevance Health was posted on 2026-03-24.
+This corporate finance position at Elevance Health was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
