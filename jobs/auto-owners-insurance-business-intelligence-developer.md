@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lansing, Michigan, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13282) |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13403-1) |
 
 ## About This Role
 
-This data analyst position at Auto-Owners Insurance was posted on 2026-04-01.
+This data engineer position at Auto-Owners Insurance was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

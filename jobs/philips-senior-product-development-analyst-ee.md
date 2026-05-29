@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Varginha, Minas Gerais, Brazil |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Senior-Product-Development-Analyst--EE-_577066) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Senior-Product-Development-Analyst--EE-_577080) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Philips was posted on 2026-03-09.
+This electrical / hardware engineer position at Philips was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

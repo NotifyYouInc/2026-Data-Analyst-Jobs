@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Newcastle upon Tyne, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000121793376-associate-product-usage-analyst-uk-remote) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000127625639-associate-product-usage-analyst-uk-remote) |
 
 ## About This Role
 
-This data analyst position at Turnitin was posted on 2026-04-20.
+This data analyst position at Turnitin was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

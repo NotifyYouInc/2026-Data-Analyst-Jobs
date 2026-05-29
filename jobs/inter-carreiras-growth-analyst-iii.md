@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Marketing |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4655550005?gh_jid=4655550005) |
+| Category | Growth Marketing |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4688300005?gh_jid=4688300005) |
 
 ## About This Role
 
-This marketing position at Inter Carreiras was posted on 2026-02-05.
+This growth marketing position at Inter Carreiras was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

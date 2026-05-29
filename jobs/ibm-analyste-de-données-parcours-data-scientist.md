@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | Bromont, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99978) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116604) |
 
 ## About This Role
 
-This data analyst position at IBM was posted on 2026-03-06.
+This data analyst position at IBM was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

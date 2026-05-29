@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ebene, Plaines Wilhems, Mauritius |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Order-to-Cash-Operations-Analyst_R00321429) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-Analyst_AIOC-S01646796-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-20.
+This corporate finance position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

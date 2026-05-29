@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Sales Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Specialist---Analytics---Reporting---UK-Sales-Enablement_REQ469532) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Specialist---Analytics---Reporting---UK-Sales-Enablement_REQ509213) |
 
 ## About This Role
 
-This sales engineer position at JLL was posted on 2026-02-06.
+This revenue / sales operations position at JLL was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Analyst_33232R-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Analyst_33554R) |
 
 ## About This Role
 
-This data analyst position at Vizient was posted on 2026-04-16.
+This data analyst position at Vizient was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

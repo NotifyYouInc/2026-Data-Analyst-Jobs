@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brightwheel](https://scoutify.ai/companies/brightwheel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
-| Category | Product Marketing |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/brightwheel/6c4de682-88f2-4ac5-9304-2454419ccaae) |
+| Location | United States |
+| Category | Operations |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/brightwheel/39911c0b-7120-4acc-a935-b0be941c64a2) |
 
 ## About This Role
 
-This product marketing position at Brightwheel was posted on 2026-05-05.
+This operations position at Brightwheel was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

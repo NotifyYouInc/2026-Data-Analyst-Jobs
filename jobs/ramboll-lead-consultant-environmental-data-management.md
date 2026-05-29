@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Edina, Minnesota, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000121885797-lead-consultant-environmental-data-management) |
+| Category | ESG / Sustainability |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000127575160-lead-consultant-environmental-data-management) |
 
 ## About This Role
 
-This data analyst position at Ramboll was posted on 2026-04-20.
+This esg / sustainability position at Ramboll was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

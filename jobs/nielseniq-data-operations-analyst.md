@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127135414-data-operations-analyst) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127608104-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-05-19.
+This data analyst position at NielsenIQ was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

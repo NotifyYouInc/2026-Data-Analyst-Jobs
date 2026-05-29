@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/IT-Operations-Analyst-I_JR107968) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/IT-Operations-Analyst-I_JR107969) |
 
 ## About This Role
 
-This it & systems administration position at Sabre was posted on 2026-05-15.
+This it & systems administration position at Sabre was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

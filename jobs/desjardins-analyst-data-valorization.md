@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-de-donnes--Ciblage-et-mesure-de-performance-marketing_R2606605) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-MDM---Donnes-Transversales_R2606830) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-05-12.
+This data analyst position at Desjardins was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

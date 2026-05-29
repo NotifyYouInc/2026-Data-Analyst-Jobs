@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cary-North-Carolina/Lead-Data-Specialist_R0000352675) |
+| Category | Marketing |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cary-North-Carolina/Lead-Data-Specialist_R0000371310) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-03-03.
+This marketing position at Caterpillar was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

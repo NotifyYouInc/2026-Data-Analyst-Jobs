@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Birmingham, England, United Kingdom |
+| Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Birmingham---International/Marketing-Analyst_R_349487) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Houston---10100-Katy/Marketing-Analyst_R_352640) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-27.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

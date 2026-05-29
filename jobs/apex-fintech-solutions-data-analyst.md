@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fintech Solutions](https://scoutify.ai/companies/peak6group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Data-Analyst_JR104373) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Data-Analyst_JR104794) |
 
 ## About This Role
 
-This data analyst position at Apex Fintech Solutions was posted on 2026-02-24.
+This data analyst position at Apex Fintech Solutions was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

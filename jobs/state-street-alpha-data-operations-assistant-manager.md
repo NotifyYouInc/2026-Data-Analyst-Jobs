@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Alpha-Data-Operations---Assistant-Manager_R-786997) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Alpha-Data-Operations---Assistant-Manager_R-786541) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-05-20.
+This business analyst position at State Street was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

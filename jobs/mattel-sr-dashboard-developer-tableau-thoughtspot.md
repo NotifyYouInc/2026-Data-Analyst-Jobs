@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126987705-sr-dashboard-developer-tableau-thoughtspot) |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127636669-sr-dashboard-developer-tableau-thoughtspot) |
 
 ## About This Role
 
-This data analyst position at Mattel was posted on 2026-05-18.
+This data engineer position at Mattel was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

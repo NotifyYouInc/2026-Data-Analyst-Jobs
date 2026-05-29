@@ -1,16 +1,16 @@
-# Senior Tableau Developer – Assistant Vice President at Citigroup
+# Senior Tableau Developer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Tableau-Developer---Assistant-Vice-President_26952141-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Tableau-Developer---Assistant-Vice-President_26957077) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-04-14.
+This data engineer position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

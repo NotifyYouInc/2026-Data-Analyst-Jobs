@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8330847002?gh_jid=8330847002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://sumup.com/careers/positions/8458941002?gh_jid=8458941002) |
 
 ## About This Role
 
-This data analyst position at SumUp Payments was posted on 2026-02-18.
+This data analyst position at SumUp Payments was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

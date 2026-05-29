@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Data-Analytics-Lead_JR335910) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Data-Analytics-Lead-2_JR338295) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-04-08.
+This data analyst position at Salesforce was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

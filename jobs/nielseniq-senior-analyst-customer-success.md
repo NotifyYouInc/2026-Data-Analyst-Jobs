@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kowloon, Hong Kong |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115135355-senior-analyst-customer-success) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127802259-senior-analyst-customer-success) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-03-17.
+This customer success position at NielsenIQ was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

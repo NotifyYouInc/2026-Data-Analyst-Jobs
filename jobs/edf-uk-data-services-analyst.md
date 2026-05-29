@@ -5,12 +5,12 @@
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Exeter, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000120700945-data-services-analyst) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000127637066-data-services-analyst) |
 
 ## About This Role
 
-This data analyst position at EDF UK was posted on 2026-04-14.
+This data analyst position at EDF UK was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

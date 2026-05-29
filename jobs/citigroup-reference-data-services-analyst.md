@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
-| Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Reference-Data-Services-Analyst_26955497) |
+| Location | Olsztyn, Warmia-Masuria, Poland |
+| Category | Data Analyst |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Reference-Data-Services-Analyst_26964831) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-22.
+This data analyst position at Citigroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

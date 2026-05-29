@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Master-Data-Stewardship_R392492-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Master-Data-Stewardship_R399028-1) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-04-28.
+This data analyst position at Merck was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

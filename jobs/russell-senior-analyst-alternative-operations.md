@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Russell](https://scoutify.ai/companies/russell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Mumbai/Senior-Analyst--Alternative-Operations_R-03892-1) |
+| Category | Corporate Finance |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Mumbai/Senior-Analyst--Alternative-Operations_R-04044) |
 
 ## About This Role
 
-This business analyst position at Russell was posted on 2026-04-22.
+This corporate finance position at Russell was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

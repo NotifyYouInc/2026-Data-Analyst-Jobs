@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000126900299-data-validator) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127601757-data-validator) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-05-18.
+This data analyst position at SGS was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

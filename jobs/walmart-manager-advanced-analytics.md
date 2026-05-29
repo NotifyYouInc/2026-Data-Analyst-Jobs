@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | San Bruno, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Advanced-Analytics_R-2492382-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Manager--Advanced-Analytics_R-2398045-1) |
 
 ## About This Role
 
-This data analyst position at Walmart was posted on 2026-05-01.
+This data analyst position at Walmart was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

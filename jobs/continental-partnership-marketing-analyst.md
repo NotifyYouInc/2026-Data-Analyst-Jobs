@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fort Mill, South Carolina, United States |
 | Category | Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000125869795-partnership-marketing-analyst) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000127694984-partnership-marketing-analyst) |
 
 ## About This Role
 
-This marketing position at Continental was posted on 2026-05-11.
+This marketing position at Continental was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

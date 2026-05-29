@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlottesville, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Network-Development-Analyst_R0240475) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Network-Development-Analyst_R0240658) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-05-19.
+This data analyst position at Booz Allen was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

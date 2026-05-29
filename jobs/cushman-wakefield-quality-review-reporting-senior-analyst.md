@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Quality-Review---Reporting-Senior-Analyst_R317121) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Quality-Review---Reporting-Senior-Analyst_R320118) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-05-15.
+This data analyst position at Cushman & Wakefield was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
