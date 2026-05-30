@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Costa Rica |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/CRI---Santa-Ana/Senior-Analyst-Escalations--Customer-Care_JR0127684-1) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Customer Success |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/PHL---Quezon-City/Senior-Analyst-Escalations--Customer-Care_JR0130129) |
 
 ## About This Role
 
-This operations position at Western Union was posted on 2026-02-12.
+This customer success position at Western Union was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

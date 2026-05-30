@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Lima/Pricing-Analyst_JR_10037111-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Zagreb/Pricing-Analyst_JR_10039793-2) |
 
 ## About This Role
 
-This data analyst position at Ayvens was posted on 2026-02-09.
+This data analyst position at Ayvens was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

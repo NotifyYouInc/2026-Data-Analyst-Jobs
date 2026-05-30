@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kansas City, Missouri, United States |
-| Category | Account Executive |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Treasury-Management-Sales-Analyst_R-8730-1) |
+| Location | 3 locations |
+| Category | Corporate Finance |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/St-Louis-MO/Treasury-Management-Sales-Analyst_R-8831) |
 
 ## About This Role
 
-This account executive position at UMB Financial was posted on 2026-05-12.
+This corporate finance position at UMB Financial was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

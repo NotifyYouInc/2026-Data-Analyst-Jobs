@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Denver/Data-Coordinator_JR0146378-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Nashville/Data-Coordinator_JR0147470-1) |
 
 ## About This Role
 
-This data analyst position at McKesson was posted on 2026-05-06.
+This data analyst position at McKesson was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

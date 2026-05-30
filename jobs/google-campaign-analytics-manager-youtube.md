@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/77541486618387142-campaign-analytics-manager-youtube?sort_by=date&page=1) |
+| Category | Data Analyst |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVepTqrLZICL0n2bp_6a3BnnuKTS53rok9S2xpAGE6OPEjsACxwdTERY8ig0XzODGWyG-NYvaZz_t17UgLUewBB-voeg1D6CruDyHXg-v-2Md9eg9CHsc3HxLaV_9g%3D%3D_V2&loc=US&title=Campaign+Analytics+Manager) |
 
 ## About This Role
 
-This business analyst position at Google was posted on 2026-03-25.
+This data analyst position at Google was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122611870-data-visualisation-services-financiers-ile-de-france) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127825064-data-visualisation-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-04-24.
+This data analyst position at Sopra Steria was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

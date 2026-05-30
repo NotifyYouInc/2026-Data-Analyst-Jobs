@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Szeged, Csongrád, Hungary |
-| Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Szeged/Data-Operations-Analyst_RQ108732-2) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Data-Operations-Analyst_RQ111142-1) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-04-23.
+This data analyst position at BP was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

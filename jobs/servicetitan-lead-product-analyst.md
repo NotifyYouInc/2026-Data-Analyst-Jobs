@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Ontario-Remote/Lead-Product-Analyst_JR113972) |
+| Location | Canada |
+| Category | Business Analyst |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-British-Columbia-Remote/Lead-Product-Analyst_JR114931) |
 
 ## About This Role
 
-This data analyst position at ServiceTitan was posted on 2026-02-25.
+This business analyst position at ServiceTitan was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

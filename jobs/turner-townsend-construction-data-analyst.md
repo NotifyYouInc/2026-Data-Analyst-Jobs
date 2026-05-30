@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000124714982-construction-data-analyst) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000127959729-construction-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Turner & Townsend was posted on 2026-05-05.
+This data analyst position at Turner & Townsend was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

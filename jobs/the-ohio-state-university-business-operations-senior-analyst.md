@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Business-Operations-Senior-Analyst_R141289-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Business-Operations-Senior-Analyst_R148693-1) |
 
 ## About This Role
 
-This business analyst position at The Ohio State University was posted on 2026-02-23.
+This business analyst position at The Ohio State University was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

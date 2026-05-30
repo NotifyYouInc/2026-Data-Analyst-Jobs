@@ -1,16 +1,16 @@
-# Research Assistant I (Part-Time) at Mass General Brigham
+# Research Assistant I Part Time at Mass General Brigham
 
 | Field | Details |
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Assistant-I--Part-Time-_RQ4057018) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Conversion-Only---Massachusetts/Research-Assistant-I-Part-Time_RQ4064622) |
 
 ## About This Role
 
-This data analyst position at Mass General Brigham was posted on 2026-03-24.
+This data analyst position at Mass General Brigham was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

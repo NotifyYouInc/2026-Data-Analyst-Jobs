@@ -5,12 +5,12 @@
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Rochester---NY/Clin-Research-Data-Spec-II_R270164) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/School-of-Medicine-and-Dentistry/Clin-Research-Data-Spec-II_R271479) |
 
 ## About This Role
 
-This data analyst position at University of Rochester was posted on 2026-04-09.
+This data analyst position at University of Rochester was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

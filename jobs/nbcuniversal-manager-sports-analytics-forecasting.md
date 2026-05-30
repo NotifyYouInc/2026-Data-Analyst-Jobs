@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Stamford, Connecticut, United States |
-| Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000124973685-manager-sports-analytics-forecasting) |
+| Category | Business Analyst |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127912984-manager-sports-analytics-forecasting) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-05-06.
+This business analyst position at NBCUniversal was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

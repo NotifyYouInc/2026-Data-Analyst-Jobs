@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Santa Fe, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-BANCO-PATIO-STA-FE-CDMX/Coord-Monitoreo_Req1556485) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-BANCO-PATIO-STA-FE-CDMX/Coord-Monitoreo_Req1579182-1) |
 
 ## About This Role
 
-This data analyst position at Santander was posted on 2026-04-01.
+This data analyst position at Santander was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

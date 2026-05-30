@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Jersey, US |
-| Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-115-South-Jefferson-Rd-Campus-Whippany/Product-Analyst_JR-0000079147-1) |
+| Location | Whippany, New Jersey, United States |
+| Category | Product Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Product-Analyst_JR-0000114560) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-02-11.
+This product manager position at Barclays was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

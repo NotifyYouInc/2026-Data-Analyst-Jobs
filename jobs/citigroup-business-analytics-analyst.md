@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Business-Analytics-Analyst_26964747) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst_26962575) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-21.
+This business analyst position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst, Product Analytics at Thomson Reuters
+# Data Analyst, Product analytics at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Data-Analyst--Product-Analytics_JREQ200602) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Data-Analyst--Product-analytics_JREQ200677) |
 
 ## About This Role
 
-This data analyst position at Thomson Reuters was posted on 2026-05-12.
+This data analyst position at Thomson Reuters was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

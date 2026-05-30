@@ -5,12 +5,12 @@
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000126688925-technicien-saisie-de-donnees-et-approvisionnement) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000127916285-technicien-saisie-de-donnees-et-approvisionnement) |
 
 ## About This Role
 
-This data analyst position at Renaud-Bray was posted on 2026-05-15.
+This data analyst position at Renaud-Bray was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

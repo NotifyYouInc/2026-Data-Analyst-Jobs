@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Financial-Reporting-Analyst_REQ-10114018) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Financial-Reporting-Analyst_REQ-10115376) |
 
 ## About This Role
 
-This corporate finance position at ING was posted on 2026-04-30.
+This corporate finance position at ING was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

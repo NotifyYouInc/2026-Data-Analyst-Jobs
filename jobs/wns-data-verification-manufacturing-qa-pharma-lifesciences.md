@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126475589-data-verification-manufacturing-qa-pharma-lifesciences) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000127868081-data-verification-manufacturing-qa-pharma-lifesciences) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-05-14.
+This data analyst position at WNS was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

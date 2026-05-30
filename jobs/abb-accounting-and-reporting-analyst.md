@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting-and-Reporting-analyst_JR00029614-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting-and-Reporting-analyst_JR00032408) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-04-25.
+This corporate finance position at ABB was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

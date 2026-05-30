@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124818249-ingenieur-data-analyst-business-analyst-data) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127900980-ingenieur-data-analyst-business-analyst-data) |
 
 ## About This Role
 
-This business analyst position at ALTEN was posted on 2026-05-06.
+This business analyst position at ALTEN was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

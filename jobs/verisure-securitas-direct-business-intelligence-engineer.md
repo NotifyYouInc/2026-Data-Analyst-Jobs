@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verisure Securitas Direct](https://scoutify.ai/companies/verisure-securitas-direct?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Alicante, Valencia, Spain |
+| Location | Linköping, Östergötland, Sweden |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/ES---Alicante/Business-Intelligence-Engineer_r2026050238) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://verisure.wd3.myworkdayjobs.com/equest/job/Linkping/Business-Intelligence-Engineer_r2026050135-1) |
 
 ## About This Role
 
-This data engineer position at Verisure Securitas Direct was posted on 2026-05-20.
+This data engineer position at Verisure Securitas Direct was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

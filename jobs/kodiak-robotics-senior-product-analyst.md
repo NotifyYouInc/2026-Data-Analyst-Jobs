@@ -5,12 +5,12 @@
 | Company | [Kodiak Robotics](https://scoutify.ai/companies/kodiak?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4227213009) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4227214009) |
 
 ## About This Role
 
-This data analyst position at Kodiak Robotics was posted on 2026-04-20.
+This data analyst position at Kodiak Robotics was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

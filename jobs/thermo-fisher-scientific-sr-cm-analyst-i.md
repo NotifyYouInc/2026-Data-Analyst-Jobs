@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Sr-CM-Analyst-I_R-01352049) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sao-Paulo-Brazil/Sr-CM-Analyst-I_R-01354694) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-05-15.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

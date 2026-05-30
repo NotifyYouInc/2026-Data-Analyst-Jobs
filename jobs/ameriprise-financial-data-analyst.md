@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Data-Analyst-IND_R26_0437) |
+| Category | Data Analyst |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Data-Analyst_R26_1918) |
 
 ## About This Role
 
-This ai / llm engineer position at Ameriprise Financial was posted on 2026-04-02.
+This data analyst position at Ameriprise Financial was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

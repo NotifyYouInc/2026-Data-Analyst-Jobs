@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Commercial-Analytics-Manager_R-238820) |
+| Location | Thousand Oaks, California, United States |
+| Category | Marketing |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Commercial-Analytics-Manager_R-245210) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-03-03.
+This marketing position at Amgen was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

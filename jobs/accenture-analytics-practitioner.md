@@ -6,7 +6,7 @@
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/Analytics-Practitioner_14332545) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/Analytics-Practitioner_14413569) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/FieldHome-Based-Poland/Contact-Center-Fraud-Operations-Analyst_2026-0009436-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/FieldHome-Based-Poland/Contact-Center-Fraud-Operations-Analyst_2026-0010185) |
 
 ## About This Role
 
-This financial crimes & aml position at U.S. Bank was posted on 2026-04-28.
+This financial crimes & aml position at U.S. Bank was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

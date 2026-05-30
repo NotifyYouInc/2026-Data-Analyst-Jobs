@@ -1,16 +1,16 @@
-# GTB Product Lending Analyst - SCIB at Santander
+# GTB PRODUCT LENDING ANALYST - SCIB at Santander
 
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/GTB-Product-Lending-Analyst---SCIB_Req1547765) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/GTB-PRODUCT-LENDING-ANALYST---SCIB_Req1578480) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-02-26.
+This corporate finance position at Santander was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

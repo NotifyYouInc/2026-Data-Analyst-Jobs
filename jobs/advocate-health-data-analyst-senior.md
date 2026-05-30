@@ -5,12 +5,12 @@
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Charlotte-NC---2709-Water-Ridge-Pkwy/Data-Analyst-Senior_R192494) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Data-Analyst-Senior_R238055) |
 
 ## About This Role
 
-This data analyst position at Advocate Health was posted on 2026-02-19.
+This data analyst position at Advocate Health was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

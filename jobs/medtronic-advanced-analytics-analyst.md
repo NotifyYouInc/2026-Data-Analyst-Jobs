@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Advanced-Analytics-Analyst_R64847) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Singapore-Singapore-Singapore/Advanced-Analytics-Analyst_R67081-1) |
 
 ## About This Role
 
-This data analyst position at Medtronic was posted on 2026-05-14.
+This data analyst position at Medtronic was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
