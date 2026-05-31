@@ -1,16 +1,16 @@
-# Senior Product Analyst at Carousell
+# Data Analyst at McGill University
 
 | Field | Details |
 |-------|---------|
-| Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000128027529-senior-product-analyst) |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Data-Analyst_JR0000076788) |
 
 ## About This Role
 
-This data analyst position at Carousell was posted on 2026-05-24.
+This data analyst position at McGill University was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

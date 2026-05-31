@@ -1,16 +1,16 @@
-# Senior Product Analyst - Account Details at WISE
+# Senior Manager, Reporting at Regeneron
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127992509-senior-product-analyst-account-details) |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Senior-Manager--Reporting_R47735) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-05-23.
+This business analyst position at Regeneron was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

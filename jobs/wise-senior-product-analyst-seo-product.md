@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Growth Marketing |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127018495-senior-product-analyst-seo-product) |
+| Category | Product Manager |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127992519-senior-product-analyst-seo-product) |
 
 ## About This Role
 
-This growth marketing position at WISE was posted on 2026-05-18.
+This product manager position at WISE was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

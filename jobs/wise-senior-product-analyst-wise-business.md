@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125384909-senior-product-analyst-wise-business) |
+| Category | Product Manager |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127992639-senior-product-analyst-wise-business) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-05-08.
+This product manager position at WISE was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

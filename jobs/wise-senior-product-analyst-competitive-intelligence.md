@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125381525-senior-product-analyst-competitive-intelligence) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127992539-senior-product-analyst-competitive-intelligence) |
 
 ## About This Role
 
-This product marketing position at WISE was posted on 2026-05-08.
+This product marketing position at WISE was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

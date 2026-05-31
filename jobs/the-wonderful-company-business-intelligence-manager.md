@@ -6,7 +6,7 @@
 | Location | Shafter, California, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000127752209-business-intelligence-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000127754669-business-intelligence-manager) |
 
 ## About This Role
 

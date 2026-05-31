@@ -1,16 +1,16 @@
-# Director , CIO Analyst: Thought Leader on Technology Implementation and Operations at Gartner
+# Director, CIO Analyst: Thought Leader on Technology Implementation and Operations / Directeur(trice), Analyste CIO: Leader d’opinion sur la mise en œuvre et les opérations technologiques at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Texas, US |
+| Location | Canada |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Texas/Director---CIO-Analyst--Thought-Leader-on-Technology-Implementation-and-Operations_110029) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Canada/Director--CIO-Analyst--Thought-Leader-on-Technology-Implementation-and-Operations---Directeur-trice---Analyste-CIO--Leader-d-opinion-sur-la-mise-en-uvre-et-les-oprations-technologiques_110895) |
 
 ## About This Role
 
-This technology / it consulting position at Gartner was posted on 2026-05-05.
+This technology / it consulting position at Gartner was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 
