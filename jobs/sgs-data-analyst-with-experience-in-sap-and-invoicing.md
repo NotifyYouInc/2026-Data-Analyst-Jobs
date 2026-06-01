@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000124834489-data-analyst-with-experience-in-sap-and-invoicing) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000128043519-data-analyst-with-experience-in-sap-and-invoicing) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-05-06.
+This data analyst position at SGS was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

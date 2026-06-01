@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Senior-Data-Analyst_R561266) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Sydney-Australia/Senior-Data-Analyst_R558366) |
 
 ## About This Role
 
-This data analyst position at Stryker was posted on 2026-03-19.
+This data analyst position at Stryker was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

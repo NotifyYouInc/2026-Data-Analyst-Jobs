@@ -5,12 +5,12 @@
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Gurugram-IN/Data-Assistant_JR2850) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Gurugram-IN/Data-Assistant_JR2971) |
 
 ## About This Role
 
-This data analyst position at Wood Mackenzie was posted on 2026-04-22.
+This data analyst position at Wood Mackenzie was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

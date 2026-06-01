@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nium](https://scoutify.ai/companies/nium?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.lever.co/nium/5a0c97bb-2a93-4b3c-871b-bb667ab663cb) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://jobs.lever.co/nium/9787d3a9-5e57-4d20-9a78-140c517eea8c) |
 
 ## About This Role
 
-This compliance & risk management position at Nium was posted on 2026-04-11.
+This compliance & risk management position at Nium was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

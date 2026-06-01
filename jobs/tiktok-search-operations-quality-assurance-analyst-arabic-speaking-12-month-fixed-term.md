@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Trust & Safety |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7642343747812034869/detail) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7642345966792182069/detail) |
 
 ## About This Role
 
-This trust & safety position at TikTok was posted on 2026-05-21.
+This trust & safety position at TikTok was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Operations Analyst (Korean Speaker) at NielsenIQ
+# Data Operations Analyst- Korean Speaker at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109147335-data-operations-analyst-korean-speaker) |
+| Location | Subang Jaya, Selangor, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000128187340-data-operations-analyst-korean-speaker) |
 
 ## About This Role
 
-This operations position at NielsenIQ was posted on 2026-02-13.
+This data analyst position at NielsenIQ was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

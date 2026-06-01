@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | 3 locations |
 | Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Cairo-Egypt/D-A-and-Master-Data-Specialist_R-077436-1) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/D-A-and-Master-Data-Specialist_R-074585-2) |
 
 ## About This Role
 
-This data engineer position at Johnson & Johnson was posted on 2026-05-20.
+This data engineer position at Johnson & Johnson was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 
