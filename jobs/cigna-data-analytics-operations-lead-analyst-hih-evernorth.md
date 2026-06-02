@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Analytics-Operations-Lead-Analyst-HIH-Evernorth_26006192) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Analytics-Operations-Lead-Analyst-HIH-Evernorth_26005525) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-05-20.
+This data analyst position at Cigna was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

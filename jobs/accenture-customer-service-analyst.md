@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Customer-Service-Analyst_AIOC-S01646114-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Customer-Service-Analyst_AIOC-S01647359-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-05-19.
+This customer success position at Accenture was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

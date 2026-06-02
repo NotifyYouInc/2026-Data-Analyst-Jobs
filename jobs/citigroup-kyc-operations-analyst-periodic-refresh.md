@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst--Periodic-Refresh-_26949008) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst--Periodic-Refresh-_26966029) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-25.
+This financial crimes & aml position at Citigroup was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

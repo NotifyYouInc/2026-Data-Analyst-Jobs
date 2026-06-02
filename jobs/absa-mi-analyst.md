@@ -1,16 +1,16 @@
-# MI Analyst at Absa
+# M.I. Analyst at Absa
 
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ethiopia |
+| Location | Kampala, Central Region, Uganda |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Ebene/MI-Analyst_R-15983789) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Kampala/MI-Analyst_R-15987346) |
 
 ## About This Role
 
-This data analyst position at Absa was posted on 2026-02-18.
+This data analyst position at Absa was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

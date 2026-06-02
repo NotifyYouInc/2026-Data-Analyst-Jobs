@@ -1,16 +1,16 @@
-# Data Analyst at Hitachi
+# Data analyst at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Hefei, Anhui, China |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/STS-Brisbane---Office/Data-Analyst_R0128954) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hefei-Anhui-China/Data-analyst_R0132131) |
 
 ## About This Role
 
-This data analyst position at Hitachi was posted on 2026-05-18.
+This data analyst position at Hitachi was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

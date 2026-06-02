@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kampala, Central Region, Uganda |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Kampala/Data-Analyst_R-15986043) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Kampala/Data-Analyst_R-15987344) |
 
 ## About This Role
 
-This data analyst position at Absa was posted on 2026-04-17.
+This data analyst position at Absa was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

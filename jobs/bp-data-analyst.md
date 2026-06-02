@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Data-Analyst_RQ109633-2) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Data-Analyst_RQ110505-1) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-04-20.
+This data analyst position at BP was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

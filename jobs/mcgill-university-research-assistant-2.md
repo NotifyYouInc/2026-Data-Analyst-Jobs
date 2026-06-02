@@ -5,12 +5,12 @@
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/5100-de-Maisonneuve-West/Research-Assistant-2_JR0000076189) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McGill-College-2001/Research-Assistant-2_JR0000076757) |
 
 ## About This Role
 
-This data analyst position at McGill University was posted on 2026-05-12.
+This data analyst position at McGill University was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

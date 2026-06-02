@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Assoc-Clin-Data-Team-Lead-II_R-01354706) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Assoc-Clin-Data-Team-Lead-II_R-01354707) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-05-23.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

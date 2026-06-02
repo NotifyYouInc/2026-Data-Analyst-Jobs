@@ -5,12 +5,12 @@
 | Company | [Cielo Projects](https://scoutify.ai/companies/cielo-projects?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cieloprojects/744000127147204-associate-product-analyst) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cieloprojects/744000128257799-associate-product-analyst) |
 
 ## About This Role
 
-This customer success position at Cielo Projects was posted on 2026-05-19.
+This customer success position at Cielo Projects was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

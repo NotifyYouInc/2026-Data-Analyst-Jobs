@@ -5,12 +5,12 @@
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000120861447-business-intelligence-engineer) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000128188259-business-intelligence-engineer) |
 
 ## About This Role
 
-This data engineer position at Cermati was posted on 2026-04-15.
+This data engineer position at Cermati was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

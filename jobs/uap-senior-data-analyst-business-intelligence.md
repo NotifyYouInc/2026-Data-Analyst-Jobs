@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000126104727-senior-data-analyst-business-intelligence) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000128261599-senior-data-analyst-business-intelligence) |
 
 ## About This Role
 
-This data analyst position at UAP was posted on 2026-05-12.
+This data analyst position at UAP was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

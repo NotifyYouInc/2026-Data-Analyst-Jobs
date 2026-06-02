@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Senior-Analyst_R1102397-2) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Lead-Analyst_R1114912-1) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-04-21.
+This data analyst position at Dentsu was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

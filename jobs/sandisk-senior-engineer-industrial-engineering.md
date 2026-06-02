@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000116890177-senior-engineer-industrial-engineering) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000128193109-senior-engineer-industrial-engineering) |
 
 ## About This Role
 
-This data analyst position at SanDisk was posted on 2026-03-26.
+This data analyst position at SanDisk was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

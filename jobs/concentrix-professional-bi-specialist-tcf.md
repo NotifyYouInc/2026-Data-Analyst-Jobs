@@ -1,16 +1,16 @@
-# Professional BI Specialist (TCF)  at Concentrix
+# Professional, BI Specialist (TCF) at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Fukuoka, Fukuoka, Japan |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JPN-Fukuoka---1-9-22-Akasaka-Chuo-ku/Professional-BI-Specialist--TCF--_R1720432) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/SGP-Singapore---80-Pasir-Panjang-Road-15-8384-Mapletree-Business-City-2/Professional--BI-Specialist--TCF-_R1732334) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-04-13.
+This data analyst position at Concentrix was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

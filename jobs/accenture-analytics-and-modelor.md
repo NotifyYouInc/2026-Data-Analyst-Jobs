@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-and-Modelor_ATCI-5512013-S2017402-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Analytics-and-Modelor_ATCI-5557549-S2026006-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-22.
+This data analyst position at Accenture was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

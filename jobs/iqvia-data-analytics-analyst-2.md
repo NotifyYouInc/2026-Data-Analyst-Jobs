@@ -1,16 +1,16 @@
-# Data Analytics Analyst 2. at IQVIA
+# Data Analytics Analyst 2 at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manila-Philippines/Data-Analytics-Analyst-2_R1535734) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manila-Philippines/Data-Analytics-Analyst-2_R1539105) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-05-20.
+This data analyst position at IQVIA was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
