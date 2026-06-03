@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sales-Strategy-Analyst--Public-Sector-COE_JR333060) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Operations |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Sales-Strategy-Analyst--Public-Sector-COE_JR343516) |
 
 ## About This Role
 
-This strategy & operations position at Salesforce was posted on 2026-03-16.
+This operations position at Salesforce was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

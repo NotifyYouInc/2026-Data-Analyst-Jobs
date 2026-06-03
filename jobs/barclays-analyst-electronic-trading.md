@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst-Electronic-Trading_JR-0000095422) |
+| Category | Corporate Finance |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Analyst-Electronic-Trading_JR-0000113628-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-10.
+This corporate finance position at Barclays was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

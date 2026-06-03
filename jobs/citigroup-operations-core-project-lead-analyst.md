@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Project Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Operations-Core-Project-Lead-Analyst_26929785) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Operations-Core-Project-Lead-Analyst_26954607-1) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-05-08.
+This project manager position at Citigroup was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

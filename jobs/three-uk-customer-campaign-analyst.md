@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reading, England, United Kingdom |
-| Category | Marketing |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000123707635-customer-campaign-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000128647549-customer-campaign-analyst) |
 
 ## About This Role
 
-This marketing position at Three UK was posted on 2026-04-29.
+This data analyst position at Three UK was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Miami/Senior-Analyst--Operations-Finance_REQ10375247) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Senior-Analyst--Operations-Finance_REQ10381121) |
 
 ## About This Role
 
-This corporate finance position at Four Seasons Hotels was posted on 2026-03-19.
+This corporate finance position at Four Seasons Hotels was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karachi, Sindh, Pakistan |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Karachi-Pakistan/Data-Analyst_R1517414) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Data-Analyst_R1536140) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-02-14.
+This data analyst position at IQVIA was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

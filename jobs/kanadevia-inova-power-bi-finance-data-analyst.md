@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Levice, Nitra Region, Slovakia |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000124563999-power-bi-finance-data-analyst) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000128448059-power-bi-finance-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Kanadevia Inova was posted on 2026-05-05.
+This data analyst position at Kanadevia Inova was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

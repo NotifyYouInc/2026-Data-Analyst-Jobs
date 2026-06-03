@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vietnam |
-| Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Manager--Data-Analyst_JR117752) |
+| Category | Financial Crimes & AML |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Manager--Data-Analyst_JR118430) |
 
 ## About This Role
 
-This data analyst position at National Australia Bank (NAB) was posted on 2026-04-17.
+This financial crimes & aml position at National Australia Bank (NAB) was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

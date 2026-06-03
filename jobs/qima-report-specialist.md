@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000123122239-report-specialist) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000128657569-report-specialist) |
 
 ## About This Role
 
-This data analyst position at QIMA was posted on 2026-04-27.
+This data analyst position at QIMA was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

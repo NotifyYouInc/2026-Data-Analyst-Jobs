@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000126013099-bi-analyst) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128421859-bi-analyst) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-05-12.
+This data analyst position at Eurofins Scientific was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

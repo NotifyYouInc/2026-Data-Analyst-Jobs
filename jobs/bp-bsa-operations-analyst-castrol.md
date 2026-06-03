@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Financial Crimes & AML |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/BSA-Operations-Analyst-CASTROL_RQ111139) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/BSA-Operations-Analyst-CASTROL_RQ111138-1) |
 
 ## About This Role
 

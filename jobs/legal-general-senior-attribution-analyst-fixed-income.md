@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000124930555-senior-attribution-analyst-fixed-income) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000128443161-senior-attribution-analyst-fixed-income) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-05-06.
+This corporate finance position at Legal & General was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

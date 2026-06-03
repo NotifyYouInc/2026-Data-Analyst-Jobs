@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126902724-intern-gip-research-data-analytics) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128410041-intern-gip-research-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-05-18.
+This data analyst position at Grab was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
