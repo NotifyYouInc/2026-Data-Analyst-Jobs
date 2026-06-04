@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Legal |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013016391-e-discovery-data-specialist) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013320596-e-discovery-data-specialist) |
 
 ## About This Role
 
-This legal position at City of New York was posted on 2026-05-07.
+This legal position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

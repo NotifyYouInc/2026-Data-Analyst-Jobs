@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Analyst--Entity-Outsourcing-Operations_R-277975) |
+| Location | London, England, United Kingdom |
+| Category | Business Analyst |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Analyst--Entity-Outsourcing-Operations_R-278634-1) |
 
 ## About This Role
 
-This compliance & risk management position at Mastercard was posted on 2026-05-19.
+This business analyst position at Mastercard was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

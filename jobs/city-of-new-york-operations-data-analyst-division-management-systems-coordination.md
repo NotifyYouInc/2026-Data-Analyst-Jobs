@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Long Island City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056201-operations-data-analyst-division-management-systems-coordination) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013316531-operations-data-analyst-division-management-systems-coordination) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-05-09.
+This data analyst position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

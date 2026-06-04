@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Strathroy, Ontario, Canada |
+| Location | Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Strathroy-Canada/Analytical-Analyst_0094568) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Strathroy-Adair-Canada/Analytical-Analyst_0094925) |
 
 ## About This Role
 
-This data analyst position at Catalent was posted on 2026-05-22.
+This data analyst position at Catalent was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Senior-Manufacturing-Operations-Analyst_JR2026495525-1) |
+| Location | Jacksonville, Florida, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Jacksonville-FL/Senior-Manufacturing-Operations-Analyst_JR2026512270-1) |
 
 ## About This Role
 
-This operations position at Boeing was posted on 2026-02-10.
+This business analyst position at Boeing was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

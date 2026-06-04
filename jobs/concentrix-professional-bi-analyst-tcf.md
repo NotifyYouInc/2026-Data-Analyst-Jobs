@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lake Mary, Florida, United States |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Lake-Mary-FL/Professional--BI-Analyst--TCF-_R1718970) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur---Lvl-15-Wisma-Mont-Kiara-1-Jalan-Kiara/Professional--BI-Analyst--TCF-_R1732308) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-04-29.
+This data analyst position at Concentrix was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

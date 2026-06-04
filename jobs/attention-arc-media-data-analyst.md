@@ -1,16 +1,16 @@
-# Media Data Analyst at Attention Arc
+# Media Data Analyst  at Attention Arc
 
 | Field | Details |
 |-------|---------|
 | Company | [Attention Arc](https://scoutify.ai/companies/attentionarc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Irvington, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/attentionarc/jobs/7625495) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/attentionarc/jobs/7942349) |
 
 ## About This Role
 
-This data analyst position at Attention Arc was posted on 2026-03-11.
+This data analyst position at Attention Arc was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

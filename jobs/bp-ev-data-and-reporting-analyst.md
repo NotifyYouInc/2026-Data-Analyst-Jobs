@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/EV-Data-and-Reporting-Analyst_RQ106537-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/EV-Data-and-Reporting-Analyst_RQ111177-1) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-02-24.
+This data analyst position at BP was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

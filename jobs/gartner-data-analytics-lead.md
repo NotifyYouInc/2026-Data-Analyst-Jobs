@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Data-Analytics-Lead_108985-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Data-Analytics-Lead_110912) |
 
 ## About This Role
 
-This data analyst position at Gartner was posted on 2026-04-10.
+This data analyst position at Gartner was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# DATA ANALYST at City of New York
+# Data Analyst at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | East Elmhurst, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013198656-data-analyst) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013319456-data-analyst) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-05-19.
+This data analyst position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

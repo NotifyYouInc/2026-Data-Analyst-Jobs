@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cremorne, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000127821555-senior-analyst-customer-analytics) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000128819349-senior-analyst-customer-analytics) |
 
 ## About This Role
 
-This data analyst position at SEEK was posted on 2026-05-22.
+This data analyst position at SEEK was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

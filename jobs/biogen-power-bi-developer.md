@@ -5,12 +5,12 @@
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/Power-BI-Developer_REQ22760) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/Power-BI-Developer_REQ23385) |
 
 ## About This Role
 
-This data analyst position at Biogen was posted on 2026-03-11.
+This data analyst position at Biogen was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

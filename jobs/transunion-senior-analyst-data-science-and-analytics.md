@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Senior-Analyst--Data-Science-and-Analytics_19040139-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Senior-Analyst--Data-Science-and-Analytics_19040693) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-04-21.
+This data analyst position at TransUnion was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

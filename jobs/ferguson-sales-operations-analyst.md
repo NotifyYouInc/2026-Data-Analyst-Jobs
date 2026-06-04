@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 3 locations |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Atlanta-GA/Sales-Operations-Analyst_R-136380) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Upper-Marlboro-MD/Sales-Operations-Analyst_R-136969) |
 
 ## About This Role
 
-This revenue / sales operations position at Ferguson was posted on 2026-05-11.
+This revenue / sales operations position at Ferguson was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

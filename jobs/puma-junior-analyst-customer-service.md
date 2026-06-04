@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/Corporativo-Mexico/Junior-Analyst-Customer-Service_R40175) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/Corporativo-Mexico/Junior-Analyst-Customer-Service_R41541) |
 
 ## About This Role
 
-This business analyst position at Puma was posted on 2026-03-02.
+This business analyst position at Puma was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

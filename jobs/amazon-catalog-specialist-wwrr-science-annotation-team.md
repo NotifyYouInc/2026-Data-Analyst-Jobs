@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422107/catalog-specialist-wwrr-science-annotation-team) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432609/catalog-specialist-wwrr-science-annotation-team) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-05-18.
+This machine learning engineer position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

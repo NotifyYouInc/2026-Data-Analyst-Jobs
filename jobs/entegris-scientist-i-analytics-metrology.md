@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chaska, Minnesota, United States |
+| Location | Billerica, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Scientist-I--Analytics---Metrology_REQ-12036) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Scientist-I--Analytics---Metrology_REQ-12216) |
 
 ## About This Role
 
-This data analyst position at Entegris was posted on 2026-05-22.
+This data analyst position at Entegris was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

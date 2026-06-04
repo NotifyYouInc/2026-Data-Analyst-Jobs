@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Officer--Credit-Operations-Data-Analyst_26944296) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Officer--Credit-Operations-Data-Analyst_26945034) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-03-05.
+This data analyst position at Citigroup was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

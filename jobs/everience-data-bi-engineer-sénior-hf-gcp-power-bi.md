@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000123658209-data-bi-engineer-senior-hf-gcp-power-bi) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000128667574-data-bi-engineer-senior-hf-gcp-power-bi) |
 
 ## About This Role
 
-This data engineer position at Everience was posted on 2026-04-29.
+This data engineer position at Everience was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

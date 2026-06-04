@@ -5,12 +5,12 @@
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Development |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/6598d521-6c53-4048-a722-4eff00e08c4a) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/db3ea037-b27d-4d4d-a46e-0025cc2c8f04) |
 
 ## About This Role
 
-This business development position at enpal was posted on 2026-04-20.
+This business development position at enpal was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000122426939-product-analyst-developer-platform) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000128729199-product-analyst-developer-platform) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-04-23.
+This data analyst position at Delivery Hero was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

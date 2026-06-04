@@ -5,12 +5,12 @@
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/4af69230-5add-41ed-9594-c91f29408ec8) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/dd873287-a75f-42a0-a1a0-954f4008a3db) |
 
 ## About This Role
 
-This revenue / sales operations position at enpal was posted on 2026-04-20.
+This revenue / sales operations position at enpal was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

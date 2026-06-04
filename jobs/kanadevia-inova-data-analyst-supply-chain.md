@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Italy |
 | Category | Data Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000128438894-data-analyst-supply-chain) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000128708299-data-analyst-supply-chain) |
 
 ## About This Role
 
-This data analyst position at Kanadevia Inova was posted on 2026-05-26.
+This data analyst position at Kanadevia Inova was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

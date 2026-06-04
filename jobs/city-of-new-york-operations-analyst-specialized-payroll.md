@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Accounting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012630742-operations-analyst-specialized-payroll) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013317211-operations-analyst-specialized-payroll) |
 
 ## About This Role
 
-This accounting position at City of New York was posted on 2026-04-16.
+This accounting position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

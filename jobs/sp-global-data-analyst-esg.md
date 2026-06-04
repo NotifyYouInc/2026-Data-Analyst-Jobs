@@ -1,16 +1,16 @@
-# Data Analyst, ESG at S&P Global
+# Data Analyst - ESG at S&P Global
 
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | ESG / Sustainability |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/PH---MANILA-AYALA-TOWER-ONE/Data-Analyst--ESG_326698-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Metro-Manila-PH/Data-Analyst---ESG_328250-1) |
 
 ## About This Role
 
-This esg / sustainability position at S&P Global was posted on 2026-03-17.
+This esg / sustainability position at S&P Global was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

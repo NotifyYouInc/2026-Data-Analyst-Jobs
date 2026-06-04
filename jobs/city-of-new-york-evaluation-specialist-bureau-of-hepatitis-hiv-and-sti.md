@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Long Island City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012969901-evaluation-specialist-bureau-of-hepatitis-hiv-and-sti) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013319956-evaluation-specialist-bureau-of-hepatitis-hiv-and-sti) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-05-05.
+This data analyst position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
