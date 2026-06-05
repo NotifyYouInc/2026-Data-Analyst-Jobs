@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Penang, MY |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Analyst--IT-Operations_WD215236) |
+| Location | Guadalajara, Jalisco, Mexico |
+| Category | Database Administration |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Analyst--IT-Operations_WD222069) |
 
 ## About This Role
 
-This it & systems administration position at FLEX LTD. Flextronics was posted on 2026-03-03.
+This database administration position at FLEX LTD. Flextronics was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

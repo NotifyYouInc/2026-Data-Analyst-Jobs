@@ -5,12 +5,12 @@
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Louisville, Kentucky, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/US-KY-Louisville-Office/Research-Analyst---Midstream_JR2581) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/US-KY-Louisville-Office/Research-Analyst---Midstream_JR3015-1) |
 
 ## About This Role
 
-This data analyst position at Wood Mackenzie was posted on 2026-05-19.
+This data analyst position at Wood Mackenzie was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

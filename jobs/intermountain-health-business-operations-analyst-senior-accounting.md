@@ -5,12 +5,12 @@
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Key-Bank-Tower/Business-Operations-Analyst-Senior---Accounting_R167997) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Key-Bank-Tower/Business-Operations-Analyst-Senior---Accounting_R171374) |
 
 ## About This Role
 
-This corporate finance position at Intermountain Health was posted on 2026-04-13.
+This corporate finance position at Intermountain Health was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

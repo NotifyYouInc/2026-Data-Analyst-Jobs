@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Associate-Director---BI-A-HCP-Product-Analytics_R-104787-1) |
+| Category | Business Analyst |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Associate-Director---BI-A-HCP-Product-Analytics_R-102424-1) |
 
 ## About This Role
 
-This data analyst position at Eli Lilly was posted on 2026-05-08.
+This business analyst position at Eli Lilly was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

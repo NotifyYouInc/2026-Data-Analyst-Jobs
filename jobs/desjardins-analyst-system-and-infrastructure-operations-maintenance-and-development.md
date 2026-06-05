@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Administrateur-ou-administratrice-de-plateforme-de-virtualisation-de-donnes_R2606774) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-fonctionnel-ou-Analyste-fonctionnelle_R2607014-2) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-05-22.
+This it & systems administration position at Desjardins was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

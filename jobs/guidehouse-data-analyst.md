@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Analyst_38889) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Data-Analyst_39905) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-04-29.
+This data analyst position at Guidehouse was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

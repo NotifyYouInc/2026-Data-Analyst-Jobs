@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Madrid, Madrid, Spain |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7731846003?gh_jid=7731846003) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7731854003?gh_jid=7731854003) |
 
 ## About This Role
 
-This business analyst position at Celonis was posted on 2026-05-27.
+This business analyst position at Celonis was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127295069-scientist-data-review) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128970565-scientist-data-review) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-05-19.
+This data analyst position at Eurofins Scientific was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

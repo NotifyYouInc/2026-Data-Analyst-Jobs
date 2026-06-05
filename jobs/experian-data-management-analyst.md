@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Chile |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119522677-data-management-analyst) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129044739-data-management-analyst) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-04-09.
+This data analyst position at Experian was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Beijing-CN/China-Ratings-Analytical-Summer-Intern_328193-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Beijing-CN/China-Ratings-Analytical-Summer-Intern_328194-2) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-05-25.
+This data analyst position at S&P Global was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

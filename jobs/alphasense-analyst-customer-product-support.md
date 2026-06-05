@@ -5,12 +5,12 @@
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8527748002) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8568277002) |
 
 ## About This Role
 
-This customer success position at AlphaSense was posted on 2026-04-29.
+This customer success position at AlphaSense was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

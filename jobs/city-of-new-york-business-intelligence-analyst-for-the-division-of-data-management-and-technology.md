@@ -1,16 +1,16 @@
-# Business Intelligence Analyst for the Division of Data Management and Technology (DMT) at City of New York
+# Business Intelligence Analyst for the Division of Data Management and Technology at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013083156-business-intelligence-analyst-for-the-division-of-data-management-and-technology-dmt) |
+| Category | Data Analyst |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013344976-business-intelligence-analyst-for-the-division-of-data-management-and-technology) |
 
 ## About This Role
 
-This business analyst position at City of New York was posted on 2026-05-12.
+This data analyst position at City of New York was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

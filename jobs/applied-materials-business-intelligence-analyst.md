@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Santa Clara, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Business-Intelligence-Analyst_R2616790-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst_R2620731) |
 
 ## About This Role
 
-This data analyst position at Applied Materials was posted on 2026-04-21.
+This data analyst position at Applied Materials was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

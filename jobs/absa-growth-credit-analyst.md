@@ -1,16 +1,16 @@
-# Growth Credit analyst at Absa
+# Growth Credit Analyst at Absa
 
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bethlehem, Free State, South Africa |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Bethlehem/Growth-Credit-analyst_R-15986072) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Bethlehem/Growth-Credit-Analyst_R-15987397) |
 
 ## About This Role
 
-This corporate finance position at Absa was posted on 2026-04-16.
+This corporate finance position at Absa was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

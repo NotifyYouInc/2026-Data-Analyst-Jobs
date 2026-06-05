@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Growth Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000121465732-seo-analyst) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000128888489-seo-analyst) |
 
 ## About This Role
 
-This growth marketing position at Primark was posted on 2026-04-17.
+This growth marketing position at Primark was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

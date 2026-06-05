@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Payjoy](https://scoutify.ai/companies/payjoy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.lever.co/payjoy/25091a7a-8eca-407f-bab2-9ad94164be77) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/payjoy/e5b955b1-102d-4573-9184-4f71fe3ecf06) |
 
 ## About This Role
 
-This business analyst position at Payjoy was posted on 2026-04-10.
+This business analyst position at Payjoy was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

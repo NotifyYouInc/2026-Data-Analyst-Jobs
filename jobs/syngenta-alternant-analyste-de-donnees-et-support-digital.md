@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guyancourt, Île-de-France, France |
-| Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117683807-alternant-analyste-de-donnees-et-support-digital) |
+| Category | Business Analyst |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000128899596-alternant-analyste-de-donnees-et-support-digital) |
 
 ## About This Role
 
-This data analyst position at Syngenta was posted on 2026-03-30.
+This business analyst position at Syngenta was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

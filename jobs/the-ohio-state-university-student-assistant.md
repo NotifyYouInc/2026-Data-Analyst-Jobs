@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Student-Assistant_R150937-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Student-Assistant_R151824-1) |
 
 ## About This Role
 
-This data analyst position at The Ohio State University was posted on 2026-05-21.
+This data analyst position at The Ohio State University was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

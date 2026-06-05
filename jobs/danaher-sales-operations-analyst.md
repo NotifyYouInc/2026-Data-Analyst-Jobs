@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Basel-Switzerland/Sales-Operations-Analyst_R1300504) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Corporate Finance |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/So-Paulo-Brazil/Inside-Sales-Analyst_R1311206) |
 
 ## About This Role
 
-This revenue / sales operations position at Danaher was posted on 2026-04-21.
+This corporate finance position at Danaher was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

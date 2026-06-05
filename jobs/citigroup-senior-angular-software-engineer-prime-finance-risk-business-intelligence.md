@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Frontend Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Senior-Angular-Software-Engineer---Prime-Finance-Risk---Business-Intelligence_26960182) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Senior-Angular-Software-Engineer---Prime-Finance-Risk---Business-Intelligence_26966939) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-04-30.
+This frontend engineer position at Citigroup was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

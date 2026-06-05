@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000127866424-internship-ot-cybersecurity-reporting-and-awareness-ref97160b) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000128899059-internship-ot-cybersecurity-reporting-and-awareness-ref97160b) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-05-22.
+This data analyst position at Continental was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

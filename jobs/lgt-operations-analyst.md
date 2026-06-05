@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Melbourne/Operations-Analyst_JR7372-2) |
+| Category | Business Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Melbourne/Operations-Analyst_JR7802-1) |
 
 ## About This Role
 
-This corporate finance position at LGT was posted on 2026-02-23.
+This business analyst position at LGT was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

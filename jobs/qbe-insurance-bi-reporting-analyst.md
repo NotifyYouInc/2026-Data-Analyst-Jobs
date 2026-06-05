@@ -5,12 +5,12 @@
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Cebu-Philippines/BI-Reporting-Analyst_349445) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/BI-Reporting-Analyst_356502-1) |
 
 ## About This Role
 
-This data analyst position at QBE Insurance was posted on 2026-02-09.
+This data analyst position at QBE Insurance was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

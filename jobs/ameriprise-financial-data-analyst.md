@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Data-Analyst_R26_1918) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Data-Analyst_R26_2051) |
 
 ## About This Role
 
-This data analyst position at Ameriprise Financial was posted on 2026-05-22.
+This data analyst position at Ameriprise Financial was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

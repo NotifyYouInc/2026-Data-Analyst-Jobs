@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBLondonNova-North/Project-Controls-Data---Reporting-Analyst_R-152085) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBirmingham---Chamberlain-Square/Project-Controls-Data---Reporting-Analyst_R-156572) |
 
 ## About This Role
 
-This data analyst position at AtkinsRéalis was posted on 2026-03-30.
+This data analyst position at AtkinsRéalis was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

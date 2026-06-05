@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000128679985-data-analyst-data-visualization-specialist) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000128886449-data-analyst-data-visualization-specialist) |
 
 ## About This Role
 
-This data analyst position at Inetum was posted on 2026-05-27.
+This data analyst position at Inetum was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
