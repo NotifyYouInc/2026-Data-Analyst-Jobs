@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colombia |
-| Category | Operations |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Sr-Sales-Comp-Admin-Analyst_R61379-1) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Corporate Finance |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Sr-Sales-Comp-Admin-Analyst_R61382-1) |
 
 ## About This Role
 
-This operations position at Medtronic was posted on 2026-03-23.
+This corporate finance position at Medtronic was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

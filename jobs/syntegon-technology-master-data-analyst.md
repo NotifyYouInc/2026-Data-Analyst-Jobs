@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wisconsin, US |
+| Location | New Richmond, Wisconsin, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000121249907-master-data-analyst) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000129230263-master-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Syntegon Technology was posted on 2026-04-16.
+This data analyst position at Syntegon Technology was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

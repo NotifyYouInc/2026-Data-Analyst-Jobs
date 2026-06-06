@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fort Mill, South Carolina, United States |
 | Category | Marketing |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000127927569-marketing-analyst-merchandise-operations) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000129246369-marketing-analyst-merchandise-operations) |
 
 ## About This Role
 
-This marketing position at Continental was posted on 2026-05-22.
+This marketing position at Continental was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

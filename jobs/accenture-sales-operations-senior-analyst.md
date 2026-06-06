@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Sales-Operations-Senior-Analyst_AIOC-S01646905-1) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Sales-Operations-Senior-Analyst_AIOC-S01648020-1) |
 
 ## About This Role
 
-This operations position at Accenture was posted on 2026-05-22.
+This revenue / sales operations position at Accenture was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

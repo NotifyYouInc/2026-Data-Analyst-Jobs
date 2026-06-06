@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colorado, US |
+| Location | Federal Way, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Insights-Analyst--ROPS-Reporting-Analyst-_R0451924) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09510---Washington-Remote/Insights-Analyst--ROPS-Reporting-Analyst-_R0460481-1) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-03-31.
+This data analyst position at DaVita was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

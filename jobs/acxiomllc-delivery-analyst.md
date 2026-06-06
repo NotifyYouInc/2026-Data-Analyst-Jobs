@@ -5,12 +5,12 @@
 | Company | [Acxiomllc](https://scoutify.ai/companies/acxiomllc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Conway, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Delivery-Analyst_JR014043) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/Conway/Delivery-Analyst_JR014216) |
 
 ## About This Role
 
-This data analyst position at Acxiomllc was posted on 2026-04-08.
+This data analyst position at Acxiomllc was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

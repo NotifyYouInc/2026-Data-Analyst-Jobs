@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Master-Data-Stewardship_R400305-1) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Master-Data-Stewardship_R400296-1) |
 
 ## About This Role
 

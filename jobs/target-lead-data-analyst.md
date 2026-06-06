@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Data-Analyst_R0000435102) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Data-Analyst_R0000440436-1) |
 
 ## About This Role
 
-This data analyst position at Target was posted on 2026-04-15.
+This data analyst position at Target was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

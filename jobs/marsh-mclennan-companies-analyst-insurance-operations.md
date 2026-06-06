@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Analyst---Insurance-Operations_R_351114) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Analyst---Insurance-Operations_R_351506) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-05-20.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

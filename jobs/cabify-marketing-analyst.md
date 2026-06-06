@@ -5,12 +5,12 @@
 | Company | [Cabify](https://scoutify.ai/companies/cabify?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Marketing |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cabify/jobs/8485656002) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cabify/jobs/8570907002) |
 
 ## About This Role
 
-This marketing position at Cabify was posted on 2026-05-13.
+This marketing position at Cabify was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

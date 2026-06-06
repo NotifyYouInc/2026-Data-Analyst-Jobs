@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Strategy & Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126167074-fraud-strategy-operations-analyst) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129194299-fraud-strategy-operations-analyst) |
 
 ## About This Role
 
-This strategy & operations position at Delivery Hero was posted on 2026-05-12.
+This strategy & operations position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

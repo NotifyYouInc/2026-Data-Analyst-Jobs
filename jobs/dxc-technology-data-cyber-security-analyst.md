@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huixquilucan, México, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---MX---HUIXQUILUCAN/Data---Cyber-Security-Analyst_51579335-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Data---Cyber-Security-Analyst_51581556) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-05-05.
+This security engineer position at DXC Technology was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

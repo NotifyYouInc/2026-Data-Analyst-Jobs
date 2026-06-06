@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Santiago/Business-Intelligence-Analyst_JR76189) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Business-Intelligence-Analyst_JR77962) |
 
 ## About This Role
 
-This data analyst position at Electrolux was posted on 2026-03-05.
+This business analyst position at Electrolux was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

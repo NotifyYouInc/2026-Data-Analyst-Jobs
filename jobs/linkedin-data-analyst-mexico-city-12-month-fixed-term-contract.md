@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128204375-data-analyst-mexico-city-12-month-fixed-term-contract) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000129155749-data-analyst-mexico-city-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-05-25.
+This data analyst position at LinkedIn was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

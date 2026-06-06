@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000128951759-mandatory-internship-data-analysis-tire-line-development-ref97116b) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000129129439-mandatory-internship-data-analysis-tire-line-development-ref97116b) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-05-28.
+This data analyst position at Continental was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

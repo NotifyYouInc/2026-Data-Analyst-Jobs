@@ -6,7 +6,7 @@
 | Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000128981809-commercial-performance-insights-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000129028180-commercial-performance-insights-analyst) |
 
 ## About This Role
 

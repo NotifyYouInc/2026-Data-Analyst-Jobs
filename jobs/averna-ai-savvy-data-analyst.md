@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Averna](https://scoutify.ai/companies/averna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000128949775-ai-savvy-data-analyst) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000129197540-ai-savvy-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Averna was posted on 2026-05-28.
+This data analyst position at Averna was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

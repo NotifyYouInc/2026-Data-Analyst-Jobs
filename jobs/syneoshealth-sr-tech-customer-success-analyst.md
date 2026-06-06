@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NJ-Bridgewater-Hybrid/Sr-Tech-Customer-Success-Analyst_25108376) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/ARG-Buenos-Aires-Hybrid/Sr-Tech-Customer-Success-Analyst_25108308) |
 
 ## About This Role
 
-This customer success position at Syneoshealth was posted on 2026-05-15.
+This customer success position at Syneoshealth was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

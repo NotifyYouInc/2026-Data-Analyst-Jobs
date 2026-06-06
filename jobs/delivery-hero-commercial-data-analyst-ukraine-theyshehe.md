@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127457660-commercial-data-analyst-ukraine-theyshehe) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129196589-commercial-data-analyst-ukraine-theyshehe) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-05-20.
+This data analyst position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

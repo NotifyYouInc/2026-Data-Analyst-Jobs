@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128203760-data-analytics-manager-mexico-city-12-month-fixed-term-contract) |
+| Category | Marketing |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000129145714-data-analytics-manager-mexico-city-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This business analyst position at LinkedIn was posted on 2026-05-25.
+This marketing position at LinkedIn was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

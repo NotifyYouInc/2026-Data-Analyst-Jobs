@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127004131-senior-data-analyst-theyshehe) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129179788-senior-data-analyst-theyshehe) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-05-18.
+This data analyst position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

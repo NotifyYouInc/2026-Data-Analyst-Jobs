@@ -1,16 +1,16 @@
-# Data Analyst Lead, RevOps at Payoneer
+#  Data Analyst Lead, RevOps at Payoneer
 
 | Field | Details |
 |-------|---------|
 | Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.payoneer.com/careers/position/7764785/?gh_jid=7764785) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/7962854/?gh_jid=7962854) |
 
 ## About This Role
 
-This operations position at Payoneer was posted on 2026-04-09.
+This operations position at Payoneer was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst, Supply Chain at The Home Depot
+# Data Analyst - Supply Chain at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst--Supply-Chain_Req167063) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Supply-Chain_Req181388-1) |
 
 ## About This Role
 
-This data analyst position at The Home Depot was posted on 2026-02-24.
+This data analyst position at The Home Depot was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

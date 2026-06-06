@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Customer-Supply-Chain-Associate-Analyst_REQ-1000047024-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Ohio-USA---Remote/Customer-Supply-Chain-Associate-Analyst_REQ-1000048670) |
 
 ## About This Role
 
-This business analyst position at Stanley Black & Decker was posted on 2026-04-29.
+This business analyst position at Stanley Black & Decker was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Analytics-Consultant_R-540956) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Analytics-Consultant_R-541315) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-05-06.
+This technology / it consulting position at Wells Fargo was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

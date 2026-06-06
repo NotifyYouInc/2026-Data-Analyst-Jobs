@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127826118-sql-data-reporting-specialist-mfd) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000129202649-sql-data-reporting-specialist-mfd) |
 
 ## About This Role
 
-This data analyst position at Sixt was posted on 2026-05-22.
+This data analyst position at Sixt was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

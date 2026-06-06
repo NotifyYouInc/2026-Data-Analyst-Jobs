@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Development |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Sales-Development-Rep-Senior-Analyst-Voice_AIOC-S01632786-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Sales-Development-Rep-Analyst_AIOC-S01648051-1) |
 
 ## About This Role
 
-This business development position at Accenture was posted on 2026-04-24.
+This business development position at Accenture was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

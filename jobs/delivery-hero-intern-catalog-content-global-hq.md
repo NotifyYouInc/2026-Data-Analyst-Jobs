@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000116654022-intern-catalog-content-global-hq) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129171603-intern-catalog-content-global-hq) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-03-25.
+This data analyst position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

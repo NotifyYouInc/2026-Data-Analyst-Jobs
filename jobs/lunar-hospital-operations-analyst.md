@@ -5,12 +5,12 @@
 | Company | [Lunar](https://scoutify.ai/companies/lunar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Business Analyst |
-| Posted | 2025-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lunar/869a48f3-613c-4ebc-93c3-1c00b5ea8f12) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lunar/00f7b709-f173-42d1-bcdd-155dcb6bd279) |
 
 ## About This Role
 
-This business analyst position at Lunar was posted on 2025-03-13.
+This business analyst position at Lunar was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
