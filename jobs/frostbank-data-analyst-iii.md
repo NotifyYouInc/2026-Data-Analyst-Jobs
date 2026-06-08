@@ -1,16 +1,16 @@
-#  RBS Data Analyst  at SGS
+# Data Analyst III at Frostbank
 
 | Field | Details |
 |-------|---------|
-| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Muntinlupa, Calabarzon, Philippines |
+| Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | San Antonio, Texas, United States |
 | Category | Data Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129386589-rbs-data-analyst) |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Data-Analyst-III_R260933) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-01.
+This data analyst position at Frostbank was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

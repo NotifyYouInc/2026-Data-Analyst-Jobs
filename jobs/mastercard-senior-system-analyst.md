@@ -1,16 +1,16 @@
-# Senior Market Insights Analyst at Grab
+# Senior System Analyst at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pasig City, National Capital Region, Philippines |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129375069-senior-market-insights-analyst) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-System-Analyst_R-278640) |
 
 ## About This Role
 
-This business analyst position at Grab was posted on 2026-06-01.
+This business analyst position at Mastercard was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Customer Insights Analyst at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Product Manager |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Philippines |
+| Category | Data Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001119771-customer-insights-analyst) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This data analyst position at Canva was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

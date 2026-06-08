@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Coding Specialist II at Covance
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Product Manager |
+| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Coding-Specialist-II_262800) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This data analyst position at Covance was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

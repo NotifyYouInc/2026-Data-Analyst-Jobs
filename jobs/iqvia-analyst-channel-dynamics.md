@@ -1,16 +1,16 @@
-#  RBS Data Analyst  at SGS
+# Analyst, Channel Dynamics at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Muntinlupa, Calabarzon, Philippines |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129386589-rbs-data-analyst) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/North-Sydney-New-South-Wales-Australia/Analyst--Channel-Dynamics_R1547714) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-01.
+This data analyst position at IQVIA was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

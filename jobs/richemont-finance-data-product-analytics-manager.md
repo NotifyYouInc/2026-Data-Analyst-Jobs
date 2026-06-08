@@ -1,16 +1,16 @@
-# Customer Sales Analyst at Heinz
+# Finance Data Product & Analytics Manager at Richemont
 
 | Field | Details |
 |-------|---------|
-| Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rogers, Arkansas, United States |
+| Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | China |
 | Category | Corporate Finance |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Rogers-AR/Customer-Sales-Analyst_R-103345) |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/Finance-Data-Product---Analytics-Manager_JR129567) |
 
 ## About This Role
 
-This corporate finance position at Heinz was posted on 2026-06-01.
+This corporate finance position at Richemont was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

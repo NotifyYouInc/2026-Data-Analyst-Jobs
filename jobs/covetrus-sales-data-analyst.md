@@ -1,16 +1,16 @@
-# Customer Sales Analyst at Heinz
+# Sales Data Analyst at Covetrus
 
 | Field | Details |
 |-------|---------|
-| Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rogers, Arkansas, United States |
+| Company | [Covetrus](https://scoutify.ai/companies/covetrus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
 | Category | Corporate Finance |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Rogers-AR/Customer-Sales-Analyst_R-103345) |
+| Apply | [View on company site](https://covetrus.wd5.myworkdayjobs.com/covetruscareers/job/Sydney-New-South-Wales-AU---Lenore-Drive/Sales-Data-Analyst_R-14176) |
 
 ## About This Role
 
-This corporate finance position at Heinz was posted on 2026-06-01.
+This corporate finance position at Covetrus was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

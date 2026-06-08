@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Sofia-Bulgaria/Billing---Pricing-Operations-Analyst_R-115561) |
+| Location | Philippines |
+| Category | Corporate Finance |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Taguig-City-Philippines/Billing---Pricing-Operations-Analyst_R-115569) |
 
 ## About This Role
 
-This business analyst position at Ingram Micro was posted on 2026-05-27.
+This corporate finance position at Ingram Micro was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

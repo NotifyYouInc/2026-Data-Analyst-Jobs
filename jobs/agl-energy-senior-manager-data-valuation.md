@@ -1,16 +1,16 @@
-# Senior Market Insights Analyst at Grab
+# Senior Manager, Data & Valuation at AGL Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pasig City, National Capital Region, Philippines |
+| Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Business Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129375069-senior-market-insights-analyst) |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Senior-Manager--Data---Valuation_R-0023095-1) |
 
 ## About This Role
 
-This business analyst position at Grab was posted on 2026-06-01.
+This business analyst position at AGL Energy was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

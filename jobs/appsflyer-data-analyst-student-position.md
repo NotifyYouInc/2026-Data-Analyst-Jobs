@@ -1,16 +1,16 @@
-#  RBS Data Analyst  at SGS
+# Data Analyst- Student position  at AppsFlyer
 
 | Field | Details |
 |-------|---------|
-| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Muntinlupa, Calabarzon, Philippines |
+| Company | [AppsFlyer](https://scoutify.ai/companies/appsflyer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129386589-rbs-data-analyst) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://careers.appsflyer.com/jobs/position/8572315002?gh_jid=8572315002) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-01.
+This data analyst position at AppsFlyer was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

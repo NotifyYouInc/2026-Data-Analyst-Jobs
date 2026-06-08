@@ -1,16 +1,16 @@
-# Senior Operations Analyst at Athena Health
+# Operations Analyst at Onyx Games LLC
 
 | Field | Details |
 |-------|---------|
-| Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Onyx Games LLC](https://scoutify.ai/companies/onyx-games-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Operations-Analyst_R14980) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/onyx%20games%20llc/5de00fc7-948d-43c5-a5bf-6d2f89436ec1) |
 
 ## About This Role
 
-This business analyst position at Athena Health was posted on 2026-05-31.
+This business analyst position at Onyx Games LLC was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

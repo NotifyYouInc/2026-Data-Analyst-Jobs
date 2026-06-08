@@ -1,16 +1,16 @@
-#  RBS Data Analyst  at SGS
+# Data Analyst (m/w/d) at Ferring
 
 | Field | Details |
 |-------|---------|
-| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Muntinlupa, Calabarzon, Philippines |
+| Company | [Ferring](https://scoutify.ai/companies/ferring?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Kiel, Schleswig-Holstein, Germany |
 | Category | Data Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129386589-rbs-data-analyst) |
+| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Kiel-Germany/Data-Analyst--m-w-d-_R0037510) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-01.
+This data analyst position at Ferring was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

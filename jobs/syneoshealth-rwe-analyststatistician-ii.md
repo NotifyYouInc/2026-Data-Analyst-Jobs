@@ -1,16 +1,16 @@
-#  RBS Data Analyst  at SGS
+# RWE analyst/statistician II at Syneoshealth
 
 | Field | Details |
 |-------|---------|
-| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Muntinlupa, Calabarzon, Philippines |
+| Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000129386589-rbs-data-analyst) |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/RWE-analyst-statistician-II_25103940) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-01.
+This data analyst position at Syneoshealth was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
