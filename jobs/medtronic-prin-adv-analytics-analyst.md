@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tokyo-Tokyo-Japan/Principal-Commercial-Analyst--EA---Tokyo-_R61234-8) |
+| Location | Jacksonville, Florida, United States |
+| Category | Data Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Prin-Adv-Analytics-Analyst_R67266-2) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-03-13.
+This data analyst position at Medtronic was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

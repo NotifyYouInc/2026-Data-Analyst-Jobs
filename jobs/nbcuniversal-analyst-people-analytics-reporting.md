@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000126722702-analyst-people-analytics-reporting) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129595339-analyst-people-analytics-reporting) |
 
 ## About This Role
 
-This human resources / people ops position at NBCUniversal was posted on 2026-05-15.
+This human resources / people ops position at NBCUniversal was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

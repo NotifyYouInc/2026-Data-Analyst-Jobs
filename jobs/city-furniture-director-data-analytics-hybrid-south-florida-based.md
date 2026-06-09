@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City Furniture](https://scoutify.ai/companies/city-furniture?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://recruiting.ultipro.com/cit1035cifr/JobBoard/9230cd8b-3a93-4eec-9a9f-13cc158230a6/OpportunityDetail?opportunityId=09806df5-3a1f-4051-945c-abf9035bfe8b) |
+| Category | Data Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://recruiting.ultipro.com/cit1035cifr/JobBoard/9230cd8b-3a93-4eec-9a9f-13cc158230a6/OpportunityDetail?opportunityId=269bd60a-b791-4097-acf4-6a14ce13daf6) |
 
 ## About This Role
 
-This data engineer position at City Furniture was posted on 2026-05-04.
+This data analyst position at City Furniture was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

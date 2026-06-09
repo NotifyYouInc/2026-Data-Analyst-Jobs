@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | New York City, New York, United States |
 | Category | Operations |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Gurgaon/Sales-Operations-Analyst_R0056631-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Sales-Operations-Analyst_R0057851-1) |
 
 ## About This Role
 
-This operations position at Wolters Kluwer was posted on 2026-04-23.
+This operations position at Wolters Kluwer was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

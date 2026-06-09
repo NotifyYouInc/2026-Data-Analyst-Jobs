@@ -1,16 +1,16 @@
-# Sports Data Quality Operators: Football.  at Genius Sports
+# Sports Data Quality Operators: Football at Genius Sports
 
 | Field | Details |
 |-------|---------|
 | Company | [Genius Sports](https://scoutify.ai/companies/genius-sports?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Antioquia, CO |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7701916003?gh_jid=7701916003) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7751532003?gh_jid=7751532003) |
 
 ## About This Role
 
-This data analyst position at Genius Sports was posted on 2026-04-15.
+This data analyst position at Genius Sports was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

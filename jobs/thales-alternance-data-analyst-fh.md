@@ -1,16 +1,16 @@
-# ALTERNANCE - Data Analyst F/H at Thales
+# ALTERNANCE - Data Analyst - F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vélizy-Villacoublay, Île-de-France, France |
+| Location | Meudon, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Data-Analyst-F-H_R0327675-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Meudon/ALTERNANCE---Data-Analyst---F-H_R0327272-1) |
 
 ## About This Role
 
-This data analyst position at Thales was posted on 2026-05-18.
+This data analyst position at Thales was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

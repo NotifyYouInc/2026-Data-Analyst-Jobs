@@ -5,12 +5,12 @@
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nyíregyháza, Szabolcs-Szatmár-Bereg, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Nyregyhza/BI-Analyst-Trainee_0000032105) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Nyregyhza/BI-Analyst-Trainee_0000034894) |
 
 ## About This Role
 
-This data analyst position at LEGO was posted on 2026-04-30.
+This data analyst position at LEGO was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

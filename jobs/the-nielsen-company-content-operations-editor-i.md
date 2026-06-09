@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Content Marketing |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012461545-content-operations-editor-i) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013392356-content-operations-editor-i) |
 
 ## About This Role
 
-This content marketing position at The Nielsen Company was posted on 2026-04-06.
+This content marketing position at The Nielsen Company was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

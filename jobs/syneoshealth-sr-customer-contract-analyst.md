@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/ARG-Buenos-Aires-Hybrid/Sr-Customer-Contract-Analyst_25104006) |
+| Location | Belgrade, Central Serbia, Serbia |
+| Category | Legal |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/SRB-Belgrade-Hybrid/Sr-Customer-Contract-Analyst_25108927-1) |
 
 ## About This Role
 
-This operations position at Syneoshealth was posted on 2026-02-12.
+This legal position at Syneoshealth was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

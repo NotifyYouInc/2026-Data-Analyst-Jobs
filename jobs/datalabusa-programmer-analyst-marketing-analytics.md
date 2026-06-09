@@ -5,12 +5,12 @@
 | Company | [Datalabusa](https://scoutify.ai/companies/datalabusa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Westminster, Colorado, United States |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.lever.co/datalabusa/a776f9e3-87de-4332-a5a0-94fcfda3d746) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.lever.co/datalabusa/dbd5e732-9d64-42a0-9689-0bc95ac70ee8) |
 
 ## About This Role
 
-This software engineer position at Datalabusa was posted on 2026-05-06.
+This software engineer position at Datalabusa was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

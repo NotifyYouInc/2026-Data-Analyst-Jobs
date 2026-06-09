@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Customer-Support-Analyst_R1309721) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Customer-Support-Analyst_R1311689) |
 
 ## About This Role
 
-This customer success position at Danaher was posted on 2026-04-20.
+This customer success position at Danaher was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Senior-Data-Analyst_R251200308-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/Senior-Data-Analyst_R260500432-4) |
 
 ## About This Role
 
-This data analyst position at TIAA was posted on 2026-04-28.
+This data analyst position at TIAA was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

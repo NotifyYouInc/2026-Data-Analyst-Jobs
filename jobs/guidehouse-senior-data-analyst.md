@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Huntsville, Alabama, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Senior-Data-Analyst_36745) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Senior-Data-Analyst_39735) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-02-25.
+This data analyst position at Guidehouse was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

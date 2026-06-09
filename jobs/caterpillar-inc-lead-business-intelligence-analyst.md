@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Business-Intelligence-Analyst_R0000360440) |
+| Location | Illinois, US |
+| Category | Data Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Lead-Business-Intelligence-Analyst_R0000373534) |
 
 ## About This Role
 
-This software engineer position at Caterpillar Inc. was posted on 2026-04-26.
+This data analyst position at Caterpillar Inc. was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

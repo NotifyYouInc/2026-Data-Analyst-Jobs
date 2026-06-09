@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000128804030-analyst-equipment) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000129603640-analyst-equipment) |
 
 ## About This Role
 
-This data analyst position at The Wonderful Company was posted on 2026-05-27.
+This data analyst position at The Wonderful Company was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

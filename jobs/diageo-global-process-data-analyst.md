@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Edinburgh-Scotland/Global-Process-Data-Analyst_JR1122363-2) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Dublin-Republic-of-Ireland/Global-Process-Data-Analyst_JR1126380) |
 
 ## About This Role
 
-This operations position at Diageo was posted on 2026-02-03.
+This data analyst position at Diageo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [New Era Technology](https://scoutify.ai/companies/new-era-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/neweratech/jobs/8517451002) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neweratech/jobs/8570913002) |
 
 ## About This Role
 
-This product manager position at New Era Technology was posted on 2026-04-22.
+This product manager position at New Era Technology was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

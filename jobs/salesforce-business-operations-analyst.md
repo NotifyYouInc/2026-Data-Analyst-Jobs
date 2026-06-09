@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
-| Category | Project Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Operations-Analyst_JR331584) |
+| Location | 6 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Operations-Analyst_JR343010) |
 
 ## About This Role
 
-This project manager position at Salesforce was posted on 2026-03-10.
+This strategy & operations position at Salesforce was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Product-Analyst_R0896524) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Product-Analyst_R0896043) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-05-29.
+This business analyst position at CVS Health was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

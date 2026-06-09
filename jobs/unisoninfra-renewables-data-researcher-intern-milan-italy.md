@@ -5,12 +5,12 @@
 | Company | [Unisoninfra](https://scoutify.ai/companies/unisoninfra?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.lever.co/unisoninfra/3667ebea-13f8-4dca-b953-7f8af7022854) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.lever.co/unisoninfra/e626a117-8f43-4ed0-9398-bd02fba62f0c) |
 
 ## About This Role
 
-This data analyst position at Unisoninfra was posted on 2026-05-19.
+This data analyst position at Unisoninfra was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Denver, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Brussels-Belgium/Research-Analyst_R284054) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Denver-Colorado-USA/Research-Analyst_R319993) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-04-14.
+This data analyst position at Cushman & Wakefield was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

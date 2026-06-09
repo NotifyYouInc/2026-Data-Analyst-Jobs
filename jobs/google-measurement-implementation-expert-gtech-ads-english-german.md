@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZrdfM8a-Lo0OP6OSTT1hZ0vfPzw0T8koVb8BmQJGz6IEjsACxwdTGSYVxAOgrYpEJPoLBFJVGG7P2OdaRhHJsYWunIlkfeeGgjsHQWAumVFLqFVWPgeXmgqhjl7sA%3D%3D_V2&loc=PL&title=Measurement+Implementation+Expert) |
+| Category | Business Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSJEXUrE7PRpbvKqLbRwrorLRtHoy-cBtvYxvGSxFBneEjsACxwdTAe4_OYFBEsM20koNiLmvFIfC5mJnAJesNBVWLFEQBqGf_5GCmH30I-H_bvocHuUs45rVta1tw%3D%3D_V2&loc=PL&title=Measurement+Implementation+Expert) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-04-30.
+This business analyst position at Google was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technology Product Management Lead Analyst - Vice President at Citigroup
+# Technology Product Management Lead Analyst, Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Technology-Product-Management-Lead-Analyst---Vice-President_26950934) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Technology-Product-Management-Lead-Analyst--Vice-President_26965186) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-04-01.
+This product manager position at Citigroup was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

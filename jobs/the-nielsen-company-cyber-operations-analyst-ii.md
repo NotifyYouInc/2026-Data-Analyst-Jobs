@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012366466-cyber-operations-analyst-ii) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013391426-cyber-operations-analyst-ii) |
 
 ## About This Role
 
-This soc & incident response position at The Nielsen Company was posted on 2026-03-28.
+This soc & incident response position at The Nielsen Company was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

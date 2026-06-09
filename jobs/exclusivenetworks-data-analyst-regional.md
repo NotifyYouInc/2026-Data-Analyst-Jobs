@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Dubai/Data-Analyst---Regional_JR1956-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Krakw-PE/Data-Analyst---Regional_JR2009-1) |
 
 ## About This Role
 
-This data analyst position at Exclusivenetworks was posted on 2026-05-25.
+This data analyst position at Exclusivenetworks was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

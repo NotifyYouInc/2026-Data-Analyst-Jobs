@@ -5,12 +5,12 @@
 | Company | [Hitachi Solutions](https://scoutify.ai/companies/hitachi-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Technology / IT Consulting |
-| Posted | 2025-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000079441856-lead-analytics-consultant) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hitachisolutions/744000129431312-lead-analytics-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Hitachi Solutions was posted on 2025-09-02.
+This technology / it consulting position at Hitachi Solutions was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

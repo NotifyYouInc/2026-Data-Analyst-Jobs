@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Newton, Massachusetts, United States |
+| Location | Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Newton---Massachusetts/Biostatistician-II_R0000041671) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Remote/Biostatistician-II_R0000042236) |
 
 ## About This Role
 
-This data analyst position at Parexel was posted on 2026-05-13.
+This data analyst position at Parexel was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

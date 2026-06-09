@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Deputy-Manager---Data-Analysis---Surveys--ITE-Headquarters----2-Year-Contract_JR-10000050915) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Deputy-Manager---Data-Analysis---Surveys--ITE-Headquarters----2-Year-Contract_JR-10000051268) |
 
 ## About This Role
 
-This data analyst position at Economic Development Board was posted on 2026-05-19.
+This data analyst position at Economic Development Board was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

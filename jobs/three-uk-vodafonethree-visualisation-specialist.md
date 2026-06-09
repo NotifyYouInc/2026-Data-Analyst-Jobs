@@ -5,12 +5,12 @@
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Newbury, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000123650992-vodafonethree-visualisation-specialist) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000129493009-vodafonethree-visualisation-specialist) |
 
 ## About This Role
 
-This data analyst position at Three UK was posted on 2026-04-29.
+This data analyst position at Three UK was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

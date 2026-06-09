@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Database Administration |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000120210507-analyst-it-operationsmysql-sql-dba-database-administrator) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000129450945-analyst-it-operationsmysql-sql-dba-database-administrator) |
 
 ## About This Role
 
-This database administration position at Mattel was posted on 2026-04-11.
+This database administration position at Mattel was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Senior-Analyst---Business-Intelligence_R1123802-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Senior-Analyst---Business-Intelligence_R1122937) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-05-28.
+This data analyst position at Dentsu was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

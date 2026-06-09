@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Alternative-Investment-Product-Analyst_R-0000167870) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Alternative-Investment-Product-Analyst_R-0000174876) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-17.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
