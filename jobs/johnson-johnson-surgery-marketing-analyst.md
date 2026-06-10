@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Marketing |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santiago-Santiago-Metropolitan-Region-Chile/Surgery-Marketing-Analyst_R-075520) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Buenos-Aires-Argentina/Surgery-Marketing-Analyst_R-075519-1) |
 
 ## About This Role
 
-This marketing position at Johnson & Johnson was posted on 2026-05-21.
+This marketing position at Johnson & Johnson was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

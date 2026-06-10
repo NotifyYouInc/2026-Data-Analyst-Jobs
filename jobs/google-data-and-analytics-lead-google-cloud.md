@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Data Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ5_UJU-itKFIui33wNUwwXJhuk3AyCyKmmLto7z6mgVEjoACxwdTGF02TNx9wgtAl8VRXs9XTQZfKVC6PtKkXtrWHYvppD1KQZAGN7Y2FtkbmvNC6kDCQmF7bKE_V2&loc=IN&title=Data+and+Analytics+Lead) |
+| Category | Engineering Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckas2L_e-IySn1gcBPI27uhnd8_eRd3mIN8UIUJ__-JyMEjoACxwdTCIssNr408dqPT8Fp3maFn9EnS0YeSto4ZG35SfOpn7lsDZU6LvUykGHVlPd6PZNJfoJnsL3_V2&loc=IN&title=Data+and+Analytics+Lead) |
 
 ## About This Role
 
-This data engineer position at Google was posted on 2026-04-14.
+This engineering manager position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

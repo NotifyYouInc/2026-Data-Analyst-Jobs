@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127296323-gis-specialist-iii) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129873569-gis-specialist-iii) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-05-19.
+This data analyst position at AECOM was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

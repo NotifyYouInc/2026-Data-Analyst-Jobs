@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [RA](https://scoutify.ai/companies/ra?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | Columbus, Ohio, United States |
 | Category | Strategy / Management Consulting |
 | Posted | 2015-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/81825138-customer-analytic-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/81825510-customer-analytic-manager) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/I-F-Decision-Sci-Practitioner-Assoc-Mgr_AIOC-S01637164-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Marketing |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/I-F-Decision-Sci-Practitioner-Assoc-Mgr_AIOC-S01591700-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-05-07.
+This marketing position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Canada-Virtual/Business-Intelligence-Analyst_R-113114-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Bengaluru/Business-Intelligence-Analyst_R-114082-1) |
 
 ## About This Role
 
-This data analyst position at Assurant was posted on 2026-04-02.
+This data analyst position at Assurant was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

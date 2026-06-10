@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ohiohealth](https://scoutify.ai/companies/ohiohealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ohio, US |
+| Location | Columbus, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/GRANT-MEDICAL-CENTER/Sr-Data-Analyst_JR151497) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/GRANT-MEDICAL-CENTER/Sr-Data-Analyst_JR152034) |
 
 ## About This Role
 
-This data analyst position at Ohiohealth was posted on 2026-05-27.
+This data analyst position at Ohiohealth was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

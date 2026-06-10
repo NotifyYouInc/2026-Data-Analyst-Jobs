@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Austin-12365-Riata-Trace-Pkwy-ACN-OPS/Health-Operations-Educational-Resources-Analyst_14319757) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Austin-12365-Riata-Trace-Pkwy-ACN-OPS/Health-Operations-Educational-Resources-Analyst_R00333882-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-20.
+This business analyst position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

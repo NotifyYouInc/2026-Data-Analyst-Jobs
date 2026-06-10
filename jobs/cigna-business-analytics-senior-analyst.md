@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Senior-Analyst_26004447) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Senior-Analyst_26006636) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-04-16.
+This data analyst position at Cigna was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jerusalem, Jerusalem, Israel |
-| Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/ISR--Jerusalem-PQ/Technology-Operations-Analyst_JREQ135264-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Technology-Operations-Analyst_JREQ135302-1) |
 
 ## About This Role
 
-This devops engineer position at Clarivate was posted on 2026-03-23.
+This it & systems administration position at Clarivate was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

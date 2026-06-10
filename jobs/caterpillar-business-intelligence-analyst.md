@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Geneva, CH |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000372161) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Geneva-6-Geneva/Business-Intelligence-Analyst_R0000374065) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-06-01.
+This data analyst position at Caterpillar was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

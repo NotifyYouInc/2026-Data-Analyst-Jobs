@@ -5,12 +5,12 @@
 | Company | [SRS Distribution](https://scoutify.ai/companies/srs-distribution?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | McKinney, Texas, United States |
 | Category | Investment Banking |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Product-Content-Syndication-Analyst_REQ51489) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Product-Content-Syndication-Analyst_REQ51446) |
 
 ## About This Role
 
-This investment banking position at SRS Distribution was posted on 2026-05-12.
+This investment banking position at SRS Distribution was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

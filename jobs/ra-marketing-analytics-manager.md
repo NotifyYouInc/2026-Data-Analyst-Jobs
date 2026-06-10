@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [RA](https://scoutify.ai/companies/ra?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Louisville, Kentucky, United States |
 | Category | Marketing |
 | Posted | 2015-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/81948289-marketing-analytics-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/81949600-marketing-analytics-manager) |
 
 ## About This Role
 

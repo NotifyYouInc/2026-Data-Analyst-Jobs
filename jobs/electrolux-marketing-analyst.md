@@ -5,12 +5,12 @@
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Mexico-City/Marketing-Analyst_JR77937) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Mexico-City/Marketing-Analyst_JR77998-1) |
 
 ## About This Role
 
-This marketing position at Electrolux was posted on 2026-05-08.
+This marketing position at Electrolux was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

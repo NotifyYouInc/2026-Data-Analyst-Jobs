@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [RA](https://scoutify.ai/companies/ra?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Los Angeles, California, United States |
 | Category | Data Analyst |
 | Posted | 2015-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/82707873-healthcare-field-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/82707935-healthcare-field-analyst) |
 
 ## About This Role
 

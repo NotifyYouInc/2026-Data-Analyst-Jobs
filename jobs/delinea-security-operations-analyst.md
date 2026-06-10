@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/fe95b1af-7508-401d-8036-d34f36a2e483) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Security Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/3e45408c-b7bd-4c23-be6b-8bee5e5bb382) |
 
 ## About This Role
 
-This soc & incident response position at Delinea was posted on 2026-05-06.
+This security engineer position at Delinea was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Xuzhou, Jiangsu, China |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Manager-Analytics_R0000371624-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Xuzhou-Jiangsu/Manager-Analytics_R0000371635) |
 
 ## About This Role
 
-This business analyst position at Caterpillar Inc. was posted on 2026-05-21.
+This business analyst position at Caterpillar Inc. was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

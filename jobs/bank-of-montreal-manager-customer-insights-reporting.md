@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Manager--Customer-Insights---Reporting_R260011211) |
+| Location | Toronto, Ontario, Canada |
+| Category | Business Analyst |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Customer-Insights---Reporting_R260016679) |
 
 ## About This Role
 
-This data analyst position at Bank of Montreal was posted on 2026-04-15.
+This business analyst position at Bank of Montreal was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

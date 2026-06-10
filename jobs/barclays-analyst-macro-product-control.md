@@ -1,16 +1,16 @@
-# Analyst Macro Product Control at Barclays
+# Analyst Macro Product control at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst-Macro-Product-Control_JR-0000106938) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Analyst-Macro-Product-control_JR-0000109354) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-05-18.
+This corporate finance position at Barclays was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

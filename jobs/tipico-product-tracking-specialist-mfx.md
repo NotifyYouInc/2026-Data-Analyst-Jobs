@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malta |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000127210297-product-tracking-specialist-mfx) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000129918189-product-tracking-specialist-mfx) |
 
 ## About This Role
 
-This data analyst position at Tipico was posted on 2026-05-19.
+This data analyst position at Tipico was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

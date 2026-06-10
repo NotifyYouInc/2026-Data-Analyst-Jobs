@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Insights-Analytics-Manager_REQ258055-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Insights-Analytics-Manager_REQ259819) |
 
 ## About This Role
 
-This data analyst position at Commonwealth Bank of Australia was posted on 2026-05-08.
+This data analyst position at Commonwealth Bank of Australia was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

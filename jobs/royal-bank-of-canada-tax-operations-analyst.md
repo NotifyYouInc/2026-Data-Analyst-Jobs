@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Tax-Operations-Analyst_R-0000158008-1) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Tax-Operations-Analyst_R-0000174846-1) |
 
 ## About This Role
 
-This operations position at Royal Bank of Canada was posted on 2026-02-05.
+This compliance & risk management position at Royal Bank of Canada was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/ANALYST-II---TECNICA-DE-PRODUCTOS-NO-VIDA---BBVA-SEGUROS_JR00103907) |
+| Category | Business Analyst |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/ANALYST-II---TECNICA-DE-PRODUCTOS-NO-VIDA---BBVA-SEGUROS_JR00105637) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-27.
+This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

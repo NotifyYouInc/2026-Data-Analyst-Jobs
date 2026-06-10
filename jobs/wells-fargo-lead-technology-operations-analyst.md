@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Technology-Operations-Analyst_R-542789) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Technology-Operations-Analyst_R-548075) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-05-18.
+This it & systems administration position at Wells Fargo was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

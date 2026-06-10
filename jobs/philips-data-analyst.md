@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Singapore/Data-Analyst_574395) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Analyst_584337) |
 
 ## About This Role
 
-This data analyst position at Philips was posted on 2026-02-24.
+This data analyst position at Philips was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

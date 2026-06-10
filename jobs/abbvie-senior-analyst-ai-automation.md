@@ -1,16 +1,16 @@
-# Senior Analyst, AI & Automation at AbbVie
+# Senior Analyst, AI & Automation  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914610-senior-analyst-ai-automation) |
+| Category | Business Analyst |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013431136-senior-analyst-ai-automation) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-04-30.
+This business analyst position at AbbVie was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
