@@ -1,0 +1,22 @@
+# Jr Market Research Analyst (Consumer Behavior & Insights)  at NielsenIQ
+
+| Field | Details |
+|-------|---------|
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Cotia, São Paulo, Brazil |
+| Category | Product Marketing |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130076280-jr-market-research-analyst-consumer-behavior-insights) |
+
+## About This Role
+
+This product marketing position at NielsenIQ was posted on 2026-06-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

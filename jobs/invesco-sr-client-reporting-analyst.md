@@ -5,12 +5,12 @@
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Sr-Client-Reporting-Analyst_R-14080) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Sr-Client-Reporting-Analyst_R-14162) |
 
 ## About This Role
 
-This data analyst position at Invesco was posted on 2026-05-20.
+This data analyst position at Invesco was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

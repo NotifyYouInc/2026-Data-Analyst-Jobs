@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000111031861-senior-product-analyst-mfn) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000130006699-senior-product-analyst-mfn) |
 
 ## About This Role
 
-This data analyst position at INPOST was posted on 2026-02-24.
+This data analyst position at INPOST was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

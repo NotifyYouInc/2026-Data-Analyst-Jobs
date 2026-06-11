@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Zagreb, Zagreb, Croatia |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Zagreb-Office---Croatia/Operations-Analyst_R0070451) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/JEFFERSONVILLE-INDIANA/Operations-Analyst_R0071658) |
 
 ## About This Role
 
-This it & systems administration position at Global Payments was posted on 2026-03-27.
+This business analyst position at Global Payments was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

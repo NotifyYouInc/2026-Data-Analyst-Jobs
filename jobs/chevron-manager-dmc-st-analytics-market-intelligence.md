@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Marketing |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Senior-Manager--DM-C---S-T-Analytics---Market-Intelligence_R000071740) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Westferry-London-United-Kingdom/Manager--DM-C---S-T-Analytics---Market-Intelligence_R000071782) |
 
 ## About This Role
 
-This product marketing position at Chevron was posted on 2026-06-02.
+This product marketing position at Chevron was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

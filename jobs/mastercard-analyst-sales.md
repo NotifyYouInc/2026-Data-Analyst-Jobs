@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Operations |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada-University/Analyst--Sales_R-278369) |
+| Location | Waterloo, Wallonia, Belgium |
+| Category | Business Development |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Analyst--Sales_R-279342) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-05-21.
+This business development position at Mastercard was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

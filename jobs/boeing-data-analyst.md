@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Everett, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Data-Analyst_JR2026512716-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Data-Analyst_JR2026513358-2) |
 
 ## About This Role
 
-This data analyst position at Boeing was posted on 2026-06-02.
+This data analyst position at Boeing was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

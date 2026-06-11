@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | Shanghai, Shanghai, China |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000126909970-senior-consultant-data-science-analytics) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000129946589-senior-consultant-data-science-analytics) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-05-18.
+This strategy / management consulting position at SIA was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

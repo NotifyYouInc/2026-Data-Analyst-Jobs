@@ -5,12 +5,12 @@
 | Company | [USM](https://scoutify.ai/companies/usm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dayton, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2017-01-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/106542121-urgent-need-sr-data-analyst) |
+| Posted | 2016-10-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/usm2/100435850-urgent-need-sr-data-analyst) |
 
 ## About This Role
 
-This data analyst position at USM was posted on 2017-01-24.
+This data analyst position at USM was posted on 2016-10-14.
 
 ## Get Real-Time Alerts
 

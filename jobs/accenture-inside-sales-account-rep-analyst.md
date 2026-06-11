@@ -1,16 +1,16 @@
-# Inside Sales Account Rep | Analyst | at Accenture
+# Inside Sales Account Rep Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barueri, São Paulo, Brazil |
-| Category | Account Executive |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/So-Paulo---Barueri/Inside-Sales-Account-Representative_R00276938) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Development |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Inside-Sales-Account-Rep-Analyst_AIOC-S01648872-1) |
 
 ## About This Role
 
-This account executive position at Accenture was posted on 2026-05-19.
+This business development position at Accenture was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

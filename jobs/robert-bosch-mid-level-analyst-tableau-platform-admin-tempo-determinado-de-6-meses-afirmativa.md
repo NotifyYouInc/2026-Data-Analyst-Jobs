@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123750414-mid-level-analyst-tableau-platform-admin-tempo-determinado-de-6-meses-afirmativa-para-mulheres-34263) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129993359-mid-level-analyst-tableau-platform-admin-tempo-determinado-de-6-meses-afirmativa-para-mulheres-34263) |
 
 ## About This Role
 
-This it & systems administration position at Robert Bosch was posted on 2026-04-29.
+This it & systems administration position at Robert Bosch was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

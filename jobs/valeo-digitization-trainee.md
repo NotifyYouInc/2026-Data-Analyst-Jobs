@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rakovník, Central Bohemia, Czechia |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Digitization-Trainee_REQ2026070557) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Digitization-Trainee_REQ2026075722) |
 
 ## About This Role
 
-This data analyst position at Valeo was posted on 2026-02-25.
+This data analyst position at Valeo was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

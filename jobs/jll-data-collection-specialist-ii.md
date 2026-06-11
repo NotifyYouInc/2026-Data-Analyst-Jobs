@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Data-Collection-Specialist-II_REQ508723) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Data-Collection-Specialist-II_REQ512338) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-05-21.
+This data analyst position at JLL was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

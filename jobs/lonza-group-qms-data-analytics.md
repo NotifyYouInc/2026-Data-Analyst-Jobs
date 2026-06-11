@@ -5,12 +5,12 @@
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Hyderabad/QMS---Data-Analytics-_R75714-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Hyderabad/QMS---Data-Analytics-_R76749) |
 
 ## About This Role
 
-This data analyst position at Lonza Group was posted on 2026-04-20.
+This data analyst position at Lonza Group was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

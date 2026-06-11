@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Israel |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position/4684691006?gh_jid=4684691006) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position/4684983006?gh_jid=4684983006) |
 
 ## About This Role
 
-This ai / llm engineer position at Fireblocks was posted on 2026-06-01.
+This ai / llm engineer position at Fireblocks was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

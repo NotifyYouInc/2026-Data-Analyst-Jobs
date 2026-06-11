@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Salt Lake City, Utah, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://sofi.com/careers/job/7704498003?gh_jid=7704498003) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://sofi.com/careers/job/7741819003?gh_jid=7741819003) |
 
 ## About This Role
 
-This strategy & operations position at SoFi was posted on 2026-04-22.
+This strategy & operations position at SoFi was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

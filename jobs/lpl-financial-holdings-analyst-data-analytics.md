@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Analyst--Data-Analytics_R-049217-2) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego/Analyst--Data-Analytics_R-050817) |
 
 ## About This Role
 
-This data analyst position at LPL Financial Holdings was posted on 2026-04-13.
+This data analyst position at LPL Financial Holdings was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

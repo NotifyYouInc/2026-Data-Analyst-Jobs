@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Minato, Wakayama, Japan |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Client-Operations-Delivery-Analyst_2013000-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Client-Operations-Delivery-Analyst_2015262) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-05-27.
+This business analyst position at Cisco was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

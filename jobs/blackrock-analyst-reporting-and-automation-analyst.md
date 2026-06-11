@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/TW3--Taipei--28F-No100-Songren-Rd-Xinyi-District-Taipei-City/Analyst--Reporting-and-Automation-Analyst_R263622) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/TW3--Taipei--28F-No100-Songren-Rd-Xinyi-District-Taipei-City/Analyst--Reporting-and-Automation-Analyst_R263621) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-04-21.
+This data analyst position at Blackrock was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

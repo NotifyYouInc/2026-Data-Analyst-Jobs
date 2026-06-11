@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Poland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000111024265-senior-data-analytics-consultant-mfn) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000130006164-senior-data-analytics-consultant-mfn) |
 
 ## About This Role
 
-This technology / it consulting position at INPOST was posted on 2026-02-24.
+This technology / it consulting position at INPOST was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

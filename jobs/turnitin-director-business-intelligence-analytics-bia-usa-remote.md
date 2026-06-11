@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000129043549-director-business-intelligence-analytics-bia-usa-remote) |
+| Category | Leadership Development Program |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000130090319-director-business-intelligence-analytics-bia-usa-remote) |
 
 ## About This Role
 
-This business analyst position at Turnitin was posted on 2026-05-28.
+This leadership development program position at Turnitin was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

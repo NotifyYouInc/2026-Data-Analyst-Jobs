@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Project Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/New-Product-Introduction-Supply-Analyst-Orthopedics_R-075654-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/West-Chester-Pennsylvania-United-States-of-America/New-Product-Introduction-Supply-Analyst-Orthopedics_R-076400) |
 
 ## About This Role
 
-This project manager position at Johnson & Johnson was posted on 2026-05-19.
+This project manager position at Johnson & Johnson was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

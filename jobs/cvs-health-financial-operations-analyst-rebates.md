@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arizona, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Financial-Operations-Analyst---Rebates_R0849638-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Financial-Operations-Analyst---Rebates_R0921029) |
 
 ## About This Role
 
-This corporate finance position at CVS Health was posted on 2026-05-01.
+This corporate finance position at CVS Health was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

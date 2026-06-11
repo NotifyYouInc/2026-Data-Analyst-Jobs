@@ -1,16 +1,16 @@
-# Portfolio Data Operations Analyst  at Addepar
+# Portfolio Data Operations Analyst at Addepar
 
 | Field | Details |
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Poland |
+| Location | Pune, Maharashtra, India |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8511171002) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8569182002) |
 
 ## About This Role
 
-This asset management / portfolio management position at Addepar was posted on 2026-04-29.
+This asset management / portfolio management position at Addepar was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

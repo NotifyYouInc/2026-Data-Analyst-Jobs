@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Data-Fulfillment-Analyst---Intermediate_J00176195) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Data-Fulfillment-Analyst---Intermediate_J00177436) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-04-17.
+This data analyst position at Equifax was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
