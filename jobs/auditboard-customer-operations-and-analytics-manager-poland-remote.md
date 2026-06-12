@@ -5,12 +5,12 @@
 | Company | [AuditBoard](https://scoutify.ai/companies/auditboard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
 | Category | Customer Success |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/optro/7c80d9d6-ed74-471f-86e3-6b18cefe7008) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/optro/2c6c27e3-cd81-4db2-9d40-3977f530075c) |
 
 ## About This Role
 
-This customer success position at AuditBoard was posted on 2026-05-06.
+This customer success position at AuditBoard was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

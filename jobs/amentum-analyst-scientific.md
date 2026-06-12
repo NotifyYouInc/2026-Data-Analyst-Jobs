@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warrington, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-UK-Warrington/Analyst--Scientific-_R0154824) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/OCONUS-UK-Warrington/Analyst--Scientific-_R0160775) |
 
 ## About This Role
 
-This data analyst position at Amentum was posted on 2026-04-14.
+This data analyst position at Amentum was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA--Remote/Call-Center-Operations-Analyst_JR202634789) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA--Remote/Call-Center-Operations-Analyst_JR202637048) |
 
 ## About This Role
 
-This business analyst position at Auto Club Enterprises was posted on 2026-02-24.
+This business analyst position at Auto Club Enterprises was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

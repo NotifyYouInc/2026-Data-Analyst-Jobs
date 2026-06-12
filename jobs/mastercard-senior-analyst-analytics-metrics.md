@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Analyst--Analytics---Metrics_R-278132) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Analyst--Analytics---Metrics_R-279068) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-05-20.
+This data analyst position at Mastercard was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

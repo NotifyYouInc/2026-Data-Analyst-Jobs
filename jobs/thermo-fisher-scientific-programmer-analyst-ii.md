@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | China |
 | Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Programmer-Analyst-II_R-01354654) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Programmer-Analyst-II_R-01354835) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-05-27.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

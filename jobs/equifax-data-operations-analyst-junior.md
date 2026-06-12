@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Data-Operations-Analyst---Junior_J00176843) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Data-Operations-Analyst---Junior_J00177438) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-05-05.
+This data analyst position at Equifax was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

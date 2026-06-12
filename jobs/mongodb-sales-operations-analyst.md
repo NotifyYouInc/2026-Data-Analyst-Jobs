@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7892114) |
+| Category | Corporate Finance |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7974637) |
 
 ## About This Role
 
-This revenue / sales operations position at MongoDB was posted on 2026-05-12.
+This corporate finance position at MongoDB was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Jacksonville, Florida, United States |
 | Category | Operations |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/London-UK/Sales-Operations-Analyst_R42076-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Sales-Operations-Analyst_R43649) |
 
 ## About This Role
 
-This operations position at SS&C Technologies was posted on 2026-04-16.
+This operations position at SS&C Technologies was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

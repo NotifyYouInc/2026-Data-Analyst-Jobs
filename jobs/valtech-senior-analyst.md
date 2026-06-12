@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4791857101) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4883762101) |
 
 ## About This Role
 
-This data analyst position at Valtech was posted on 2026-02-27.
+This data analyst position at Valtech was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

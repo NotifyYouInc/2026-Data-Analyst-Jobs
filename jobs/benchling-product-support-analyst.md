@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Switzerland |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/128a2d50-3311-49f5-b762-4654e680a06d) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/1fdf5825-d013-47af-92cf-b5e50d51e85a) |
 
 ## About This Role
 
-This customer success position at Benchling was posted on 2026-04-24.
+This customer success position at Benchling was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

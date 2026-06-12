@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7431144) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7982173) |
 
 ## About This Role
 
-This technology / it consulting position at DEPT® was posted on 2026-05-22.
+This technology / it consulting position at DEPT® was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

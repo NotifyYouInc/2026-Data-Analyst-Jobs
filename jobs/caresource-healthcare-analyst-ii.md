@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Healthcare-Analyst-II_R11936) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Healthcare-Analyst-II_R12830) |
 
 ## About This Role
 
-This data analyst position at CareSource was posted on 2026-03-04.
+This data analyst position at CareSource was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

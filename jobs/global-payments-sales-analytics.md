@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CUAJIMALPA--MEXICO/Sales-Analytics_R0071307) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Park-Plaza-III-Mexico-Office/Sales-Analytics_R0071350) |
 
 ## About This Role
 
-This revenue / sales operations position at Global Payments was posted on 2026-05-06.
+This revenue / sales operations position at Global Payments was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

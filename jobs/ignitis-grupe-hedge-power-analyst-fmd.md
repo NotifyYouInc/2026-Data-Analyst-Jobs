@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000127444589-hedge-power-analyst-fmd) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000130373229-hedge-power-analyst-fmd) |
 
 ## About This Role
 
-This data analyst position at Ignitis Grupe was posted on 2026-05-20.
+This data analyst position at Ignitis Grupe was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

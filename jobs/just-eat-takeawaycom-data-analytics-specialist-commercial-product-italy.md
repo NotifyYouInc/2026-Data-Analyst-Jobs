@@ -5,12 +5,12 @@
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Milan-Office/Data-Analytics-Specialist--Commercial---Product----Italy_R_050982-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Milan-Office/Data-Analytics-Specialist--Commercial---Product----Italy_R_052114) |
 
 ## About This Role
 
-This data analyst position at Just Eat Takeaway.com was posted on 2026-04-30.
+This data analyst position at Just Eat Takeaway.com was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

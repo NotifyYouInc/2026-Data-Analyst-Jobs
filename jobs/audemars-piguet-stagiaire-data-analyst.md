@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Audemars Piguet](https://scoutify.ai/companies/audemarspiguet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Switzerland |
+| Location | Le Locle, Neuchâtel, Switzerland |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AudemarsPiguet/744000124813409-stagiaire-data-analyst) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AudemarsPiguet/744000130222756-stagiaire-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Audemars Piguet was posted on 2026-05-06.
+This data analyst position at Audemars Piguet was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

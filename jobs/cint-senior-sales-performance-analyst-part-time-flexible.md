@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000129530380-senior-sales-performance-analyst-part-time-flexible) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000130171669-senior-sales-performance-analyst-part-time-flexible) |
 
 ## About This Role
 
-This corporate finance position at Cint was posted on 2026-06-01.
+This corporate finance position at Cint was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Senior-Analyst--Analytics---Sam-s-Club--L09-_2601027) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Senior-Analyst--Analytics---Sam-s-Club--L09-_2601640) |
 
 ## About This Role
 
-This data analyst position at Synchrony Financial was posted on 2026-04-14.
+This data analyst position at Synchrony Financial was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

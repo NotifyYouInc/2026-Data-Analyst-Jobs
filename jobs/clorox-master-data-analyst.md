@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Jinetes-Mexico/Master-Data-Analyst_22125) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Tlalnepantla-de-Baz-Mexico/Master-Data-Analyst_22324) |
 
 ## About This Role
 
-This data analyst position at Clorox was posted on 2026-05-19.
+This data analyst position at Clorox was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Carolina, US |
+| Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0241239) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Cambridgeshire/Data-Analyst_R0241389-1) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-05-29.
+This data analyst position at Booz Allen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

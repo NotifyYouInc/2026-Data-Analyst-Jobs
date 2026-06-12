@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000130043829-consultant-confirme-power-bi-azure-cdi-hf) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000130229882-consultant-confirme-power-bi-azure-cdi-hf) |
 
 ## About This Role
 
-This technology / it consulting position at Talan was posted on 2026-06-03.
+This technology / it consulting position at Talan was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

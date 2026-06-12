@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000108681715-services-operations-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000130265429-services-operations-analyst) |
 
 ## About This Role
 
-This operations position at MicroStrategy was posted on 2026-02-11.
+This business analyst position at MicroStrategy was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

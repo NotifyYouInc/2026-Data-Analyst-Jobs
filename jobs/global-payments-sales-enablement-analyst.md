@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Product Marketing |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Park-Plaza-III-Mexico-Office/Sales-Enablement-Analyst_R0071230) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Park-Plaza-III-Mexico-Office/Sales-Enablement-Analyst_R0071223) |
 
 ## About This Role
 
-This product marketing position at Global Payments was posted on 2026-05-14.
+This product marketing position at Global Payments was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

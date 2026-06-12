@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8438534002) |
+| Location | Austin, Texas, United States |
+| Category | Operations |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8571219002) |
 
 ## About This Role
 
-This data analyst position at Dialpad was posted on 2026-03-01.
+This operations position at Dialpad was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
