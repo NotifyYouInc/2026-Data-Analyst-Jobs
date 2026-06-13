@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Growth Marketing |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127911659-senior-director-growth-commerce-product-analytics) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000130582292-senior-director-growth-commerce-product-analytics) |
 
 ## About This Role
 
-This growth marketing position at NBCUniversal was posted on 2026-05-22.
+This growth marketing position at NBCUniversal was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

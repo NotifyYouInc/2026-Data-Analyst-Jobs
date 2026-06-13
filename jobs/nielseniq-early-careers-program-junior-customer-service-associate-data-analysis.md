@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130222459-early-careers-program-junior-customer-service-associate-data-analysis) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130398699-early-careers-program-junior-customer-service-associate-data-analysis) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-06-04.
+This customer success position at NielsenIQ was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Levice, Nitra Region, Slovakia |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000129395836-data-analyst-supply-chain) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000130395724-data-analyst-supply-chain) |
 
 ## About This Role
 
-This data analyst position at Kanadevia Inova was posted on 2026-06-01.
+This data analyst position at Kanadevia Inova was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

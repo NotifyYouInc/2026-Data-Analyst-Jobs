@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000126472059-master-data-technical-analyst) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000130407959-master-data-technical-analyst) |
 
 ## About This Role
 
-This data analyst position at Ramboll was posted on 2026-05-14.
+This data analyst position at Ramboll was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

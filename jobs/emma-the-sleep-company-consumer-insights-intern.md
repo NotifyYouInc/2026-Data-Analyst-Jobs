@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Emma – The Sleep Company](https://scoutify.ai/companies/emma--the-sleep-company?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Emma – The Sleep Company](https://scoutify.ai/companies/emma-the-sleep-company?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/emma-sleep/92667de1-9990-4dfa-8eac-f48e3e5c4408) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/emma-sleep/ae1ccc8b-ca71-4ba4-8832-c662663026ff) |
 
 ## About This Role
 
-This data analyst position at Emma – The Sleep Company was posted on 2026-04-23.
+This data analyst position at Emma – The Sleep Company was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

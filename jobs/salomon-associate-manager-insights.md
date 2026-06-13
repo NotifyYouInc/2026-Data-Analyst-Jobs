@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000128784720-associate-manager-insights) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000130424493-associate-manager-insights) |
 
 ## About This Role
 
-This data analyst position at Salomon was posted on 2026-05-27.
+This data analyst position at Salomon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

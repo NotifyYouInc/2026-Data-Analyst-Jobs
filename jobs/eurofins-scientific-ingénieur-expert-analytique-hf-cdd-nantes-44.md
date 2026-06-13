@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128971854-ingenieur-expert-analytique-hf-cdd-nantes-44) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130513359-ingenieur-expert-analytique-hf-cdd-nantes-44) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-05-28.
+This data analyst position at Eurofins Scientific was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

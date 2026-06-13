@@ -5,12 +5,12 @@
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/PE---Lurin/ANALISTA-DE-DATOS-DE-LA-PRODUCCION_R-56676-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/PE---Lurin/ANALISTA-DE-DATOS-DE-LA-PRODUCCION_R-56935-1) |
 
 ## About This Role
 
-This data analyst position at Alliaxis was posted on 2026-05-18.
+This data analyst position at Alliaxis was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

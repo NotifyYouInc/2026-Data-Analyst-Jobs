@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Lead---Marketing---Customer-Analytics_R221087-2) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Lead---Marketing---Customer-Analytics_R223455-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-29.
+This business analyst position at PNC Financial was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

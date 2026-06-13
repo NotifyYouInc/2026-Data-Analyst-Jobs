@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118544337-customer-experience-cx-analyst) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130419859-customer-experience-cx-analyst) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-04-03.
+This data analyst position at Robert Bosch was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

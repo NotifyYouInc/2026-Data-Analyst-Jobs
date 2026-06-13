@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Data-Management-Analyst_R-534483) |
+| Location | Hyderabad, Telangana, India |
+| Category | Business Analyst |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Data-Management-Analyst_R-548469) |
 
 ## About This Role
 
-This data analyst position at Wells Fargo was posted on 2026-04-24.
+This business analyst position at Wells Fargo was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

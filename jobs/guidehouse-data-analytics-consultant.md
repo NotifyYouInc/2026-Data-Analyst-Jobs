@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Analytics-Consultant_39252) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MA-Boston/Data-Analytics-Consultant_40134) |
 
 ## About This Role
 
-This technology / it consulting position at Guidehouse was posted on 2026-05-14.
+This technology / it consulting position at Guidehouse was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

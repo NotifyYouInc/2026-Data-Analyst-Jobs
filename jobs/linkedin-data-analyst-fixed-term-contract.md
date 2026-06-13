@@ -1,16 +1,16 @@
-# Data Analyst - Fixed Term Contract at LinkedIn
+# Data Analyst [Fixed Term Contract] at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000122664719-data-analyst-fixed-term-contract) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000130493259-data-analyst-fixed-term-contract) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-04-24.
+This data analyst position at LinkedIn was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

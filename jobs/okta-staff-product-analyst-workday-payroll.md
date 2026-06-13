@@ -1,16 +1,16 @@
-# Staff Product Analyst - Workday Payroll at Okta
+# Staff Product Analyst, Workday Payroll at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 4 locations |
 | Category | Accounting |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7917366?gh_jid=7917366) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7976618?gh_jid=7976618) |
 
 ## About This Role
 
-This accounting position at Okta was posted on 2026-05-15.
+This accounting position at Okta was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

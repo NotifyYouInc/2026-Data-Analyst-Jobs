@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Doncaster, England, United Kingdom |
+| Location | Duisburg, North Rhine-Westphalia, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Great-BritainDoncasterDN3-3FX/Data-Analyst_R179174-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Germany-Duisburg-47179/Data-Analyst_R181487) |
 
 ## About This Role
 
-This data analyst position at A.P. Moller - Maersk was posted on 2026-05-06.
+This data analyst position at A.P. Moller - Maersk was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

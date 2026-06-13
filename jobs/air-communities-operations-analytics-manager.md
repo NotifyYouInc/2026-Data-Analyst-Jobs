@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000121531398-operations-analytics-manager) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000130569584-operations-analytics-manager) |
 
 ## About This Role
 
-This business analyst position at AIR Communities was posted on 2026-04-17.
+This business analyst position at AIR Communities was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

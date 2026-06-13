@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124551809-professional-gis-analyst) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130382151-professional-gis-analyst) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-05-05.
+This data analyst position at AECOM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

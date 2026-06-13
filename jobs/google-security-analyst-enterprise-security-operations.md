@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/88237535733392070-security-analyst-enterprise-security-operations?sort_by=date&page=1) |
+| Category | Security Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYPnbW9FOeuKBX0Yx_KaFljei_L4mavyUfVzAvb7nDMGEjsACxwdTAD-Kn9aP2ybMD7cDKZ9CDzUBdXkmalsYLQMq4b-mpRJ_sVhhbR28dEZrcLv6Nsifp0yNqcWbQ%3D%3D_V2&loc=IN&title=Security+Analyst) |
 
 ## About This Role
 
-This soc & incident response position at Google was posted on 2026-03-25.
+This security engineer position at Google was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

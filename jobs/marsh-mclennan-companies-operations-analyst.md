@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kuala-Lumpur---Corporate/Operations-Analyst_R_351198) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Operations-Analyst_R_350747) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-05-21.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

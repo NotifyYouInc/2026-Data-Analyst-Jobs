@@ -5,12 +5,12 @@
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5223897008?gh_jid=5223897008) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5239353008?gh_jid=5239353008) |
 
 ## About This Role
 
-This data analyst position at Scopely was posted on 2026-06-01.
+This data analyst position at Scopely was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

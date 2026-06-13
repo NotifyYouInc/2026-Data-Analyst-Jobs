@@ -5,12 +5,12 @@
 | Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Baltimore, Maryland, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Fixed-Income-Data-Strategist_81900) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Fixed-Income-Data-Strategist_82065) |
 
 ## About This Role
 
-This corporate finance position at T. Rowe Price was posted on 2026-05-21.
+This corporate finance position at T. Rowe Price was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

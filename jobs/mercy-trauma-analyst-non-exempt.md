@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mercy](https://scoutify.ai/companies/mercy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Missouri, US |
+| Location | Springfield, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Mercy-Hospital-St-Louis/Trauma-Analyst--Non-Exempt-_JR253958-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Mercy-Hospital-Springfield/Trauma-Analyst--Non-Exempt-_JR254642) |
 
 ## About This Role
 
-This data analyst position at Mercy was posted on 2026-05-14.
+This data analyst position at Mercy was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
