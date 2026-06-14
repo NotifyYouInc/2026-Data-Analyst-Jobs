@@ -1,16 +1,16 @@
-# Business/Data Analyst Intern at RAKUNA
+# M&D Operations Analyst Intern - OVIP at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [RAKUNA](https://scoutify.ai/companies/rakuna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Long Bien, Hanoi, Vietnam |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rakuna1/744000130344085-businessdata-analyst-intern) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334371) |
 
 ## About This Role
 
-This business analyst position at RAKUNA was posted on 2026-06-05.
+This business analyst position at Oracle was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

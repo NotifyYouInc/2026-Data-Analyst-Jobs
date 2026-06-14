@@ -1,16 +1,16 @@
-# Data Analyst, Mid at Booz Allen
+# BI Analyst at Corpay
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Analyst--Mid_R0241790) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Berlin---IVP/BI-Analyst_R08319) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-06-05.
+This data analyst position at Corpay was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

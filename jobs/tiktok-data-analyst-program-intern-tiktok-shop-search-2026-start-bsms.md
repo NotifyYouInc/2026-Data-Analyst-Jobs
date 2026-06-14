@@ -1,16 +1,16 @@
-# Data Analyst, Mid at Booz Allen
+# Data Analyst Program Intern (TikTok Shop Search) - 2026 Start (BS/MS) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Analyst--Mid_R0241790) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7602832478072916229/detail) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-06-05.
+This data analyst position at TikTok was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Support Analyst at Benchling
+# M&D Customer Solutions Analyst Intern - OVIP at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/b735b396-2b57-4c24-a478-ac9ad1de6510) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334388) |
 
 ## About This Role
 
-This customer success position at Benchling was posted on 2026-06-05.
+This customer success position at Oracle was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

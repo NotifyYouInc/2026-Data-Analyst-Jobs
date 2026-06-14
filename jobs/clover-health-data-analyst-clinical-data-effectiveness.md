@@ -1,16 +1,16 @@
-# Data Analyst, Mid at Booz Allen
+# Data Analyst, Clinical Data Effectiveness at Clover Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Clover Health](https://scoutify.ai/companies/clover-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Analyst--Mid_R0241790) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cloverhealth/jobs/7985986) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-06-05.
+This data analyst position at Clover Health was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 
