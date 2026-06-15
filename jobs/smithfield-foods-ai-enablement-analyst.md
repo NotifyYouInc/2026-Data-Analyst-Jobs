@@ -5,12 +5,12 @@
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Suffolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-6355) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-7550) |
 
 ## About This Role
 
-This business analyst position at Smithfield Foods was posted on 2026-05-14.
+This business analyst position at Smithfield Foods was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

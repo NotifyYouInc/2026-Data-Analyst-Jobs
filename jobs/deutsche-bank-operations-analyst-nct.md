@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/India-Jaipur-Offsite/Operations-Analyst--NCT_R0434783) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Operations-Analyst--NCT_R0432647) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-05-25.
+This business analyst position at Deutsche Bank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

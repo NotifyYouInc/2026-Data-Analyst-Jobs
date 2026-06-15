@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mount Laurel, New Jersey, United States |
+| Location | 2 locations |
 | Category | Trust & Safety |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Manager--Fraud-Risk-Analytics---AI-Oversight_R_1492369) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Manager--Fraud-Risk-Analytics---AI-Oversight_R_1493369) |
 
 ## About This Role
 
-This trust & safety position at TD Bank was posted on 2026-06-04.
+This trust & safety position at TD Bank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

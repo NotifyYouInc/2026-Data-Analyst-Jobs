@@ -5,12 +5,12 @@
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Program Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7957035?gh_jid=7957035) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7957033?gh_jid=7957033) |
 
 ## About This Role
 
-This program manager position at Coupang Internal was posted on 2026-05-26.
+This program manager position at Coupang Internal was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
