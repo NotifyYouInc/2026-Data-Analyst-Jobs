@@ -1,16 +1,16 @@
-# Analyst, Merchandising Reporting at Lowe's
+# Analyst_Merchandising Reporting at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst--Merchandising-Reporting_JR-02491467) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/IND-D3-STPI/Analyst-Merchandising-Reporting_JR-02552073) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-04-22.
+This data analyst position at Lowe's was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

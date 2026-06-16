@@ -5,12 +5,12 @@
 | Company | [Yepoda](https://scoutify.ai/companies/yepoda?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/yepoda/b4db0a78-3f46-4037-8543-0ba9cc8a06db) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/yepoda/c1c569db-201a-4a59-8229-dcbe2538232b) |
 
 ## About This Role
 
-This data analyst position at Yepoda was posted on 2026-05-27.
+This data analyst position at Yepoda was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

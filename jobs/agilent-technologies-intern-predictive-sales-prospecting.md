@@ -5,12 +5,12 @@
 | Company | [Agilent Technologies](https://scoutify.ai/companies/agilent-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038181) |
 
 ## About This Role
 
-This data analyst position at Agilent Technologies was posted on 2026-05-28.
+This data analyst position at Agilent Technologies was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

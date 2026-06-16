@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Restaurant Brands International](https://scoutify.ai/companies/restaurant-brands-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rbi.wd3.myworkdayjobs.com/rbi_external_career_site/job/Chicago-IL/Sr-Analyst--Operations-Performance-Support--Popeyes-Louisiana-Kitchen--US-C_R2891) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://rbi.wd3.myworkdayjobs.com/rbi_external_career_site/job/Orlando-FL/Sr-Analyst--Operations-Performance-Support--Popeyes-Louisiana-Kitchen--US-C_R3385) |
 
 ## About This Role
 
-This business analyst position at Restaurant Brands International was posted on 2026-03-17.
+This business analyst position at Restaurant Brands International was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

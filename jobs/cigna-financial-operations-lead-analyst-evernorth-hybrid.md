@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Financial-Operations-Lead-Analyst---Evernorth---HYBRID_26005552) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Financial-Operations-Lead-Analyst---Evernorth---HYBRID_26006968) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-05-07.
+This corporate finance position at Cigna was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

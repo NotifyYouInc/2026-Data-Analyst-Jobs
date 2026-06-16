@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Strategy & Operations |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Analyst--Data-Strategy_R-270764) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Analyst--Data-Strategy_R-273445) |
 
 ## About This Role
 
-This strategy & operations position at Mastercard was posted on 2026-03-09.
+This strategy & operations position at Mastercard was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Clarksburg, West Virginia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Security-Operations-Analyst--Mid_R0241505) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Clarksburg-WV/Security-Operations-Analyst--Mid_R0241743) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-06-04.
+This soc & incident response position at Booz Allen was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

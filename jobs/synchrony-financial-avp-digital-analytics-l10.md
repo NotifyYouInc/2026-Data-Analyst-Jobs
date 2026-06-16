@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Digital-Analytics--L10-_2600970-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Digital-Analytics--L10-_2601663-1) |
 
 ## About This Role
 
-This data analyst position at Synchrony Financial was posted on 2026-04-03.
+This data analyst position at Synchrony Financial was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

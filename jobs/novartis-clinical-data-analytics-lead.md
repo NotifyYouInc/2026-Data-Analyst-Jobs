@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Clinical-Data-Analytics-Lead_REQ-10078036-1) |
+| Category | Business Analyst |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Dublin-NOCC/Clinical-Data-Analytics-Lead_REQ-10080098-1) |
 
 ## About This Role
 
-This data analyst position at Novartis was posted on 2026-05-26.
+This business analyst position at Novartis was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

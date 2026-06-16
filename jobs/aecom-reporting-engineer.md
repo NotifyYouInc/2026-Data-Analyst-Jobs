@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120973863-reporting-engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131064229-reporting-engineer) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-04-15.
+This data analyst position at AECOM was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

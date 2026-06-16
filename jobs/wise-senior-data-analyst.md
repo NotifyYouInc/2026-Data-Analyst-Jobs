@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112166557-senior-data-analyst) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000130789616-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-03-02.
+This data analyst position at WISE was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

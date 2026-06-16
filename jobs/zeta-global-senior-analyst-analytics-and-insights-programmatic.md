@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeta Global](https://scoutify.ai/companies/zeta-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/5992323004) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/5795011004) |
 
 ## About This Role
 
-This digital / performance marketing position at Zeta Global was posted on 2026-05-08.
+This digital / performance marketing position at Zeta Global was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

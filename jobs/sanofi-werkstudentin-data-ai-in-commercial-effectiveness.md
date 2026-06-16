@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Berlin/Werkstudent-in-Data---AI-in-Commercial-Effectiveness_R2855418) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Berlin/Werkstudent-in-Data---AI-in-Commercial-Effectiveness_R2860012) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-04-27.
+This business analyst position at Sanofi was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

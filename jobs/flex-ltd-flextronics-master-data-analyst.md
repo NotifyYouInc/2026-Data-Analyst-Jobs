@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Master-Data-Analyst_WD215509) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Master-Data-Analyst_WD222311) |
 
 ## About This Role
 
-This data analyst position at FLEX LTD. Flextronics was posted on 2026-02-13.
+This data analyst position at FLEX LTD. Flextronics was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

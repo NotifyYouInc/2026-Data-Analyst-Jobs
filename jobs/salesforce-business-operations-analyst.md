@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 6 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Strategy & Operations |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Operations-Analyst_JR343010) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Business-Operations-Analyst_JR343888-1) |
 
 ## About This Role
 
-This strategy & operations position at Salesforce was posted on 2026-06-01.
+This strategy & operations position at Salesforce was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

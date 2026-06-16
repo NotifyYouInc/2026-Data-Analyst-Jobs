@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Business-Intelligence-Engineer---Group-Benefits_R-410711) |
+| Category | Data Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Business-Intelligence-Engineer---Group-Benefits_R-419090-1) |
 
 ## About This Role
 
-This data analyst position at Humana was posted on 2026-03-25.
+This data engineer position at Humana was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

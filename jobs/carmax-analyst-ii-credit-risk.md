@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kennesaw, Georgia, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Atlanta/Analyst-II--Credit-Risk_JR-177591) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Atlanta/Analyst-II--Credit-Risk_JR-178263-1) |
 
 ## About This Role
 
-This data analyst position at CarMax was posted on 2026-05-13.
+This data analyst position at CarMax was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

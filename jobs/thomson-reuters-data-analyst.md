@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Data-Analyst_JREQ199301) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines-Manila/Data-Analyst_JREQ201234) |
 
 ## About This Role
 
-This data analyst position at Thomson Reuters was posted on 2026-04-13.
+This data analyst position at Thomson Reuters was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | France |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Neuville-Sur-Sane/alternance-12-mois---data-analyse_R2848302) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Ambars/alternance-12-mois---data-analyse_R2851715) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-03-25.
+This data analyst position at Sanofi was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

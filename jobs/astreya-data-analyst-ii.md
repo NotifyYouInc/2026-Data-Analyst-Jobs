@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Georgia, US |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Data-Analyst-II_R0015579) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-GA/Data-Analyst-II_R0015860) |
 
 ## About This Role
 
-This data analyst position at Astreya was posted on 2026-05-13.
+This data analyst position at Astreya was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

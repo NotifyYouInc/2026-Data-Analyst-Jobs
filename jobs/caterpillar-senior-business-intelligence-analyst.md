@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Business-Intelligence-Analyst_R0000372625) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Business-Intelligence-Analyst_R0000374986) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-05-29.
+This data analyst position at Caterpillar was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

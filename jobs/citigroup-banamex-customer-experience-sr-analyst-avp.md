@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Customer-Experience-Sr-Analyst---AVP_26939762) |
+| Category | Business Analyst |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Customer-Experience-Sr-Analyst---AVP_26965420-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-02-24.
+This business analyst position at Citigroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

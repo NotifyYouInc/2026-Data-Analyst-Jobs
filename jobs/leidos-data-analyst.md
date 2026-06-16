@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Data-Analyst_R-00176664) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Data-Analyst_R-00185024) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-02-24.
+This data analyst position at Leidos was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

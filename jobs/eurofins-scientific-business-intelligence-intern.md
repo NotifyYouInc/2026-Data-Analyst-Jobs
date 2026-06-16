@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127459559-business-intelligence-intern) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130829489-business-intelligence-intern) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-05-20.
+This data analyst position at Eurofins Scientific was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

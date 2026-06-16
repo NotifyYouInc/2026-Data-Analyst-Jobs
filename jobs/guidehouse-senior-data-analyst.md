@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Senior-Data-Analyst_39735) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Senior-Data-Analyst_40210) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-06-01.
+This data analyst position at Guidehouse was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

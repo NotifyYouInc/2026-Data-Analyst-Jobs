@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000125119901-data-analyst-hr-mfd) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130746730-data-analyst-hr-mfd) |
 
 ## About This Role
 
-This data analyst position at Redcare Pharmacy was posted on 2026-05-07.
+This data analyst position at Redcare Pharmacy was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

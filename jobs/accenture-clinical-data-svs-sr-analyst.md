@@ -1,16 +1,16 @@
-# Clinical Data Svs Sr Analyst at Accenture
+# Clinical Data SVS Sr Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Clinical-Data-Svs-Specialist_AIOC-S01624168-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Clinical-Data-Svs-Specialist_AIOC-S01619734-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-06-03.
+This data analyst position at Accenture was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Cambridgeshire/Data-Analyst_R0241389-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Analyst_R0241726) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-06-04.
+This data analyst position at Booz Allen was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

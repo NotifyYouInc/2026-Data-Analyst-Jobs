@@ -5,12 +5,12 @@
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst-Customer-Loyalty_R260014023) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst-Customer-Loyalty_R260016840-1) |
 
 ## About This Role
 
-This data analyst position at Bank of Montreal was posted on 2026-05-06.
+This data analyst position at Bank of Montreal was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

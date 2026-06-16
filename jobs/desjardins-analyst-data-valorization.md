@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-MDM---Donnes-Transversales_R2606830) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-en-valorisation-de-donnes--Assurances-collectives_R2607653-1) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-05-21.
+This data analyst position at Desjardins was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

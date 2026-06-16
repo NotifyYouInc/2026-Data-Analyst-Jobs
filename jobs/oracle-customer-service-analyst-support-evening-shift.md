@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#331289) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#331286) |
 
 ## About This Role
 
-This customer success position at Oracle was posted on 2026-05-13.
+This customer success position at Oracle was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

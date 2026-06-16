@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bezons, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124657159-analytic-consultant-equipe-manufacturers-secteur-non-alimentaire) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130821380-analytic-consultant-equipe-manufacturers-secteur-non-alimentaire) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-05-05.
+This data analyst position at NielsenIQ was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

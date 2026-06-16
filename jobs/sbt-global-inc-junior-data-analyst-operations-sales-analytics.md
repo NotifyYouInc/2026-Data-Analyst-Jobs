@@ -5,12 +5,12 @@
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cerritos, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990012845567-junior-data-analyst-operations-sales-analytics) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013526926-junior-data-analyst-operations-sales-analytics) |
 
 ## About This Role
 
-This data analyst position at SBT Global, Inc. was posted on 2026-04-27.
+This data analyst position at SBT Global, Inc. was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

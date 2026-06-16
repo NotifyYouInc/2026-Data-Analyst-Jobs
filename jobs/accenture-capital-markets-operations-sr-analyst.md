@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Capital-Markets-Operations-Sr-Analyst_AIOC-S01630179-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Capital-Markets-Operations-Sr-Analyst_AIOC-S01649450-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-18.
+This corporate finance position at Accenture was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

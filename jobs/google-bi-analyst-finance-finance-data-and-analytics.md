@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckep2WxHbmw7aww0MltEmzSBBXcHp4AFdQ7w8KgcHkFt6EjsACxwdTG1jLvkvCYqNE22i9QrCFfWgqfUTuQqF-Y_HIBM3yc_R49deRj1BKMqLRLY_9OfXr7sfBV8a0Q%3D%3D_V2&loc=US&title=BI+Analyst) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVH1JGG_GeYbzBK_HVIKZaVqVreU6SYthgNP7Lncy8QTEjsACxwdTNR-tlZFOMcFEbN4RRxQAHTO_v5HGJfffOAOPclkJmYgPs9lbOlz4YvBRuLAU1Clpd67NXxuiQ%3D%3D_V2&loc=US&title=BI+Analyst) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-04-15.
+This data analyst position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

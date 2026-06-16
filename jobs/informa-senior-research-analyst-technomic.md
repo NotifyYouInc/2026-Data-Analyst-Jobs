@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000123723759-senior-research-analyst-technomic) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000130837118-senior-research-analyst-technomic) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-04-29.
+This data analyst position at Informa was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

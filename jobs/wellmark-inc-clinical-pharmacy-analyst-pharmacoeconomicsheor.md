@@ -5,12 +5,12 @@
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000124971255-clinical-pharmacy-analyst-pharmacoeconomicsheor) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000130854993-clinical-pharmacy-analyst-pharmacoeconomicsheor) |
 
 ## About This Role
 
-This data analyst position at Wellmark, Inc. was posted on 2026-05-06.
+This data analyst position at Wellmark, Inc. was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

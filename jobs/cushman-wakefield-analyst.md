@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/Analyst_R322616) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Analyst_R322163) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-06-04.
+This data analyst position at Cushman & Wakefield was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
