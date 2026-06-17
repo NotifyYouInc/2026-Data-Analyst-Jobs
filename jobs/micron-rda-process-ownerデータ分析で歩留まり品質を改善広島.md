@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hiroshima, Hiroshima, Japan |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/RDA-Process-Owner----_JR96632) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/RDA-Process-Owner----_JR103608) |
 
 ## About This Role
 
-This data analyst position at Micron was posted on 2026-04-30.
+This data analyst position at Micron was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

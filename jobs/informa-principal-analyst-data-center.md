@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Beijing, Beijing, China |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000128907700-principal-analyst-data-center) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000131362858-principal-analyst-data-center) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-05-28.
+This data analyst position at Informa was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

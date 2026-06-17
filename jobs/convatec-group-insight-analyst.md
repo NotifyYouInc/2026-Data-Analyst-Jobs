@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ConvaTec Group](https://scoutify.ai/companies/convatec-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Lisbon-Portugal/Insight-Analyst_JR00020060) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/LDN---London/Insight-Analyst_JR00020482) |
 
 ## About This Role
 
-This data analyst position at ConvaTec Group was posted on 2026-05-06.
+This data analyst position at ConvaTec Group was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

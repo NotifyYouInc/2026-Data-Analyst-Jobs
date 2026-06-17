@@ -5,12 +5,12 @@
 | Company | [Columbia Sportswear](https://scoutify.ai/companies/columbia-sportswear?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Identity---Access-Management-Operations-Analyst-II--Identity---Access-Management-Ops-_R-018701) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Identity---Access-Management-Operations-Analyst-II--Identity---Access-Management-Ops-_R-018707) |
 
 ## About This Role
 
-This it & systems administration position at Columbia Sportswear was posted on 2026-05-08.
+This it & systems administration position at Columbia Sportswear was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

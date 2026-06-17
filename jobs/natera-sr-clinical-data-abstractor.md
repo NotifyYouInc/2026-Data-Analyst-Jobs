@@ -5,12 +5,12 @@
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/6000545004) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/6017426004) |
 
 ## About This Role
 
-This data analyst position at Natera was posted on 2026-05-21.
+This data analyst position at Natera was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

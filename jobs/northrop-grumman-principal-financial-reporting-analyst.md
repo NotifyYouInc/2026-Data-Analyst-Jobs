@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal-Financial-Reporting-Analyst_R10222331) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal-Financial-Reporting-Analyst_R10235707) |
 
 ## About This Role
 
-This corporate finance position at Northrop Grumman was posted on 2026-02-10.
+This corporate finance position at Northrop Grumman was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

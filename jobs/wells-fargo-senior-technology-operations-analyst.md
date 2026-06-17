@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cebu City, Central Visayas, Philippines |
+| Location | New York City, New York, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CEBU-CITY-07/Senior-Technology-Operations-Analyst_R-530344) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Technology-Operations-Analyst_R-551402) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-03-23.
+This it & systems administration position at Wells Fargo was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

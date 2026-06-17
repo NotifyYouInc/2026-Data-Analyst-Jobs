@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
-| Category | Account Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Treasury-Management-Sales-Analyst_2026-0014046) |
+| Location | 4 locations |
+| Category | Corporate Finance |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/Treasury-Management-Sales-Analyst_2026-0016400) |
 
 ## About This Role
 
-This account manager position at U.S. Bancorp was posted on 2026-05-27.
+This corporate finance position at U.S. Bancorp was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

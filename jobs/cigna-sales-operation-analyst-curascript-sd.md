@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lake Mary, Florida, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Lake-Mary-FL/Sales-Operation-Analyst---CuraScript-SD_24011848) |
+| Category | Corporate Finance |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Lake-Mary-FL/Sales-Operation-Analyst---CuraScript-SD_26006153) |
 
 ## About This Role
 
-This business analyst position at Cigna was posted on 2026-05-10.
+This corporate finance position at Cigna was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

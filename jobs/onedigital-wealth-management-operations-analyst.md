@@ -5,12 +5,12 @@
 | Company | [OneDigital](https://scoutify.ai/companies/onedigital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/RIA-Overland-Park-KS/Wealth-Management-Operations-Analyst_R8605-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://onedigital.wd5.myworkdayjobs.com/onedigital/job/RIA-Overland-Park-KS/Wealth-Management-Operations-Analyst_R8676) |
 
 ## About This Role
 
-This corporate finance position at OneDigital was posted on 2026-03-25.
+This corporate finance position at OneDigital was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

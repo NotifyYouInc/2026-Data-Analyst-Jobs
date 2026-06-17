@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst---Collateral-Operations---Midland_R215885-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Dallas-Innovation-Center---Luna-Rd-TX270/Loan-Support-Analyst---Collateral-Operations---Midland_R217895) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-08.
+This business analyst position at PNC Financial was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

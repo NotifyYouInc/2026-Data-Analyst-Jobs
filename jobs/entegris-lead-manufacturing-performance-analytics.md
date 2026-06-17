@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Billerica, Massachusetts, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lead--Manufacturing-Performance-Analytics_REQ-11052) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lead--Manufacturing-Performance-Analytics_REQ-12497) |
 
 ## About This Role
 
-This data analyst position at Entegris was posted on 2026-04-21.
+This business analyst position at Entegris was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

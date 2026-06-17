@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Account Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/TM-Sales-Analyst_2026-0008718-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/TM-Sales-Analyst_2026-0016237) |
 
 ## About This Role
 
-This account manager position at U.S. Bank was posted on 2026-04-10.
+This account manager position at U.S. Bank was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

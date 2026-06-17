@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Betmgminc](https://scoutify.ai/companies/betmgminc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New Jersey, US |
-| Category | Marketing |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://betmgminc.wd5.myworkdayjobs.com/betmgm/job/Hybrid-New-Jersey/Marketing-Acquisition-Analyst_JR100640) |
+| Category | Business Analyst |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://betmgminc.wd5.myworkdayjobs.com/betmgm/job/Remote-New-Jersey/Marketing-Acquisition-Analyst_JR100724) |
 
 ## About This Role
 
-This marketing position at Betmgminc was posted on 2026-04-13.
+This business analyst position at Betmgminc was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

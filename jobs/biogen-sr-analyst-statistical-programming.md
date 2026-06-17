@@ -1,16 +1,16 @@
-# Sr. Analyst, Statistical Programming at Biogen
+# Sr Analyst, Statistical Programming at Biogen
 
 | Field | Details |
 |-------|---------|
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Sr-Analyst--Statistical-Programming_REQ23086) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Sr-Analyst--Statistical-Programming_REQ23517) |
 
 ## About This Role
 
-This data analyst position at Biogen was posted on 2026-04-18.
+This data analyst position at Biogen was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

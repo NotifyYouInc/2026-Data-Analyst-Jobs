@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128239919-register-your-interest-data-insights-tech-sr-associate) |
+| Category | Data Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000131145642-register-your-interest-data-insights-tech-sr-associate) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-05-25.
+This data engineer position at LinkedIn was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

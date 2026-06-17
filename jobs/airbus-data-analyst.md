@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10400186) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Data-Analyst_JR10420575) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-03-20.
+This data analyst position at Airbus was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

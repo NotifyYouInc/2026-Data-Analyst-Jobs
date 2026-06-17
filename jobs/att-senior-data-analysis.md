@@ -5,12 +5,12 @@
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Senior-Data-Analysis_R-111677) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Senior-Data-Analysis_R-111926) |
 
 ## About This Role
 
-This data analyst position at AT&T was posted on 2026-06-02.
+This data analyst position at AT&T was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

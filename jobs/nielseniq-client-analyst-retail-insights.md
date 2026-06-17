@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126134287-client-analyst-retail-insights) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131177309-client-analyst-retail-insights) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-05-12.
+This data analyst position at NielsenIQ was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Clinical-Data-Management---Hybrid_R391642-2) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Clinical-Data-Management---Hybrid_R402281-1) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-04-03.
+This data analyst position at Merck was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

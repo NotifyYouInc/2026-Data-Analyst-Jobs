@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [EOS ](https://scoutify.ai/companies/eos-?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [EOS ](https://scoutify.ai/companies/eos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://eosits.com/company/careers/?gh_jid=8535459002) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://eosits.com/company/careers/?gh_jid=8581617002) |
 
 ## About This Role
 
-This business analyst position at EOS  was posted on 2026-05-13.
+This business analyst position at EOS  was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

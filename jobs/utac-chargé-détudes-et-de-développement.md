@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UTAC](https://scoutify.ai/companies/utac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | France |
+| Location | Linas, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/utac/744000117634228-charge-detudes-et-de-developpement) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/utac/744000131077958-charge-detudes-et-de-developpement) |
 
 ## About This Role
 
-This data analyst position at UTAC was posted on 2026-03-30.
+This data analyst position at UTAC was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brno, South Moravian, Czechia |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4648009005&gh_jid=4648009005) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Security Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4704233005&gh_jid=4704233005) |
 
 ## About This Role
 
-This soc & incident response position at SolarWinds was posted on 2026-03-19.
+This security engineer position at SolarWinds was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Data-Measurement---Reporting-Senior-Analyst_26006439) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Data-Measurement---Reporting-Senior-Analyst_26004719) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-06-04.
+This data analyst position at Cigna was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

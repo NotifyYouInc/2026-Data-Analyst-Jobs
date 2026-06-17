@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Senior-Analyst--Customer-Performance_R-275369) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Senior-Analyst--Customer-Performance_R-280190) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-04-10.
+This business analyst position at Mastercard was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

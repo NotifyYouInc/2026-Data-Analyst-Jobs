@@ -1,16 +1,16 @@
-# Analyst Customer Facing Effectiveness at Sanofi
+# Analyst - Customer Facing Effectiveness at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst-Customer-Facing-Effectiveness_R2825473-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst---Customer-Facing-Effectiveness_R2858540) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-03-26.
+This business analyst position at Sanofi was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

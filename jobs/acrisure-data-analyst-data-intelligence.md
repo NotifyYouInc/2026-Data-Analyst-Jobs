@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Data-Analyst--Data-Intelligence_JR112865) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Data-Analyst--Data-Intelligence_JR113528) |
 
 ## About This Role
 
-This data analyst position at Acrisure was posted on 2026-06-05.
+This data analyst position at Acrisure was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

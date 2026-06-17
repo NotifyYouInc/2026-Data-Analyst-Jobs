@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Alpha-Data-Operations-Senior-Specialist---Senior-Associate_R-791897) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Alpha-Data-Operations-Senior-Specialist---Senior-Associate_R-791980) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-06-08.
+This data analyst position at State Street was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

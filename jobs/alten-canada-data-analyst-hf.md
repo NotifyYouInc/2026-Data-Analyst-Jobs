@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000125147369-data-analyst-hf) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000131129599-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at ALTEN Canada was posted on 2026-05-07.
+This data analyst position at ALTEN Canada was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

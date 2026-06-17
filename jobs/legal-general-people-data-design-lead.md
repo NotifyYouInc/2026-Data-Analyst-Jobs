@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000130228112-people-data-design-lead) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000131114714-people-data-design-lead) |
 
 ## About This Role
 
-This human resources / people ops position at Legal & General was posted on 2026-06-04.
+This human resources / people ops position at Legal & General was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
