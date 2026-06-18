@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Distribution-Operations-Analyst_R-7112) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Radnor-PA-USA/Distribution-Operations-Analyst_R-7625) |
 
 ## About This Role
 
-This business analyst position at CNA Insurance was posted on 2026-03-05.
+This business analyst position at CNA Insurance was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

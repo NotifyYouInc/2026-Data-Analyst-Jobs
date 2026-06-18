@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423256/business-intelligence-engineer-jp-supply-chain-optimization-technologies) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417780/business-intelligence-engineer-jp-supply-chain-optimization-technologies) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-19.
+This data engineer position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

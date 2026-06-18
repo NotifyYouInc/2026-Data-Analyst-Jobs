@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Business-Analytics-Manager--Commercial-Bank_R-38633) |
+| Category | Business Analyst |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Business-Analytics-Manager--Commercial-Bank_R-40274) |
 
 ## About This Role
 
-This data analyst position at KeyBank was posted on 2026-03-25.
+This business analyst position at KeyBank was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

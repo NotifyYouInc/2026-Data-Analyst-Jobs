@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Senior-Analytics-Consultant_R4039170-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/SGP04-01-Singapore-Metropolis/Senior-Analytics-Consultant_R4042143-1) |
 
 ## About This Role
 
-This technology / it consulting position at GE HealthCare was posted on 2026-04-17.
+This technology / it consulting position at GE HealthCare was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

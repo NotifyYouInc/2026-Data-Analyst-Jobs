@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant_R153681-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant_R156004-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Northern Trust was posted on 2026-05-08.
+This strategy / management consulting position at Northern Trust was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

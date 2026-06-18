@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8500913002) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8586138002) |
 
 ## About This Role
 
-This data analyst position at iCapital Network was posted on 2026-04-09.
+This data analyst position at iCapital Network was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Financial Crimes & AML |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/KYC-Operations-Analyst_26968679) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst_26971492) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-06-08.
+This financial crimes & aml position at Citigroup was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

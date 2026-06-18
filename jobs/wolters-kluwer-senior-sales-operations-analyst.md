@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lucca, Tuscany, Italy |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ITA---Lucca-Via-Rooselvelt/Senior-Sales-Operations-Analyst_R0056231-1) |
+| Location | 6 locations |
+| Category | Operations |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Minneapolis-MN/Senior-Sales-Operations-Analyst_R0057611-1) |
 
 ## About This Role
 
-This revenue / sales operations position at Wolters Kluwer was posted on 2026-04-02.
+This operations position at Wolters Kluwer was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

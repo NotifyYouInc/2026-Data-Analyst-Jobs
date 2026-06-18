@@ -5,12 +5,12 @@
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/La-Aurora-Heredia/Analyst--Channel-Operations_JR-201173) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/La-Aurora-Heredia/Analyst--Channel-Operations_JR-203871) |
 
 ## About This Role
 
-This business analyst position at Baxter International was posted on 2026-05-05.
+This business analyst position at Baxter International was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

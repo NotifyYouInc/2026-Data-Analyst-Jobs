@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Data-Analytics---Reporting_327252) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Data-Analytics---Reporting_327589) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-06-03.
+This data analyst position at CACI was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

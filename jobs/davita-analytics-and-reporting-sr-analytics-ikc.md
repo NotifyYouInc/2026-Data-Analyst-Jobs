@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analytics-and-Reporting-Sr-Analytics--IKC-_R0462182) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Analytics-and-Reporting-Sr-Analytics--IKC-_R0463000) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-06-04.
+This data analyst position at DaVita was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | North Carolina, US |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Analyst--Statistical-Programming_REQ23134) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Analyst--Statistical-Programming_REQ23540-1) |
 
 ## About This Role
 
-This data analyst position at Biogen was posted on 2026-04-24.
+This data analyst position at Biogen was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

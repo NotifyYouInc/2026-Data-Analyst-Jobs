@@ -5,12 +5,12 @@
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Clinical-Data-Specialist_261942) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Clinical-Data-Specialist_262869) |
 
 ## About This Role
 
-This data analyst position at Covance was posted on 2026-04-22.
+This data analyst position at Covance was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

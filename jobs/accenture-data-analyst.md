@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ebene, Plaines Wilhems, Mauritius |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Data-Analyst_R00327660) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Data-Analyst_R00335293) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-27.
+This data analyst position at Accenture was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

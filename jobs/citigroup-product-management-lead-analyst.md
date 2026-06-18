@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Product-Management-Lead-Analyst_26945306) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Product Manager |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Product-Management-Lead-Analyst_26966485) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-03-10.
+This product manager position at Citigroup was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

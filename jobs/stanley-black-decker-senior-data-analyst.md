@@ -5,12 +5,12 @@
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Towson, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Data-Analyst_REQ-1000047955) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Data-Analyst_REQ-1000048949) |
 
 ## About This Role
 
-This data analyst position at Stanley Black & Decker was posted on 2026-04-21.
+This data analyst position at Stanley Black & Decker was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Oxford, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117270288-consumer-insights-analyst) |
+| Location | Almaty, Almaty, Kazakhstan |
+| Category | Customer Success |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131601769-consumer-insights-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-27.
+This customer success position at NielsenIQ was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

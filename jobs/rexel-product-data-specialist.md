@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sesto San Giovanni, Lombardy, Italy |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000131078474-product-data-specialist) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000131472525-product-data-specialist) |
 
 ## About This Role
 
-This data analyst position at REXEL was posted on 2026-06-09.
+This data analyst position at REXEL was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

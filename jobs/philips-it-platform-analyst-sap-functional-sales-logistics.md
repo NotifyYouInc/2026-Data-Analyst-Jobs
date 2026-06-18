@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/IT-Platform-Analyst---SAP-Functional---Sales---Logistics_584376) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/IT-Platform-Analyst---SAP-Functional---Sales---Logistics_584529) |
 
 ## About This Role
 
-This it & systems administration position at Philips was posted on 2026-05-28.
+This it & systems administration position at Philips was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

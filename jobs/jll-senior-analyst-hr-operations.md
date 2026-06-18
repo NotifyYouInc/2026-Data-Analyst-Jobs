@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at JLL
+# Senior Analyst, HR Operations at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Analyst---HR-Operations_REQ510885) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Analyst--HR-Operations_REQ493487-1) |
 
 ## About This Role
 
-This human resources / people ops position at JLL was posted on 2026-06-06.
+This human resources / people ops position at JLL was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

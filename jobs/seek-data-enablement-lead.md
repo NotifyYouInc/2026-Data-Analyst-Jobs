@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Learning & Development |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000131094909-data-enablement-lead) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000131568961-data-enablement-lead) |
 
 ## About This Role
 
-This learning & development position at SEEK was posted on 2026-06-09.
+This learning & development position at SEEK was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

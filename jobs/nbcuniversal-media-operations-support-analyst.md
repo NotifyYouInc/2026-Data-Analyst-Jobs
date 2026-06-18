@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | Stamford, Connecticut, United States |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000119201419-media-operations-support-analyst) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000131510959-media-operations-support-analyst) |
 
 ## About This Role
 
-This customer success position at NBCUniversal was posted on 2026-04-07.
+This customer success position at NBCUniversal was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

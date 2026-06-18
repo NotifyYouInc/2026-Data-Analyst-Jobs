@@ -1,0 +1,22 @@
+# Global Data Analytics Lead - Internal Audit at 3M Company
+
+| Field | Details |
+|-------|---------|
+| Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Accounting |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Global-Data-Analytics-Lead---Internal-Audit_R01166036) |
+
+## About This Role
+
+This accounting position at 3M Company was posted on 2026-06-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

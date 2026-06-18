@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Manager-Analytics_R0000371624-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Manager-Analytics_R0000362690) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-05-20.
+This business analyst position at Caterpillar was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

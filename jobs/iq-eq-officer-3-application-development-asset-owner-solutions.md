@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000126927988-officer-3-application-development-asset-owner-solutions) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000131587115-officer-3-application-development-asset-owner-solutions) |
 
 ## About This Role
 
-This data analyst position at IQ-EQ was posted on 2026-05-18.
+This data analyst position at IQ-EQ was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

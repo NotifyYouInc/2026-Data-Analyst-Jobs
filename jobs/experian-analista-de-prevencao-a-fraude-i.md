@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131178469-analista-de-prevencao-a-fraude-i) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131529740-analista-de-prevencao-a-fraude-i) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-06-09.
+This data analyst position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

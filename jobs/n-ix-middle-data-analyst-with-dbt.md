@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ukraine |
+| Location | Colombia |
 | Category | Data Analyst |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4885308101?gh_jid=4885308101) |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4885307101?gh_jid=4885307101) |
 
 ## About This Role
 

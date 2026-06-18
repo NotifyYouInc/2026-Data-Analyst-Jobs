@@ -5,12 +5,12 @@
 | Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/Local-Office-Bangalore/Senior-Associate--Analytics--Third-Party-_R41708) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/Local-Office-Bangalore/Senior-Associate--Analytics--Third-Party-_R41857-1) |
 
 ## About This Role
 
-This data analyst position at Puma was posted on 2026-06-05.
+This data analyst position at Puma was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

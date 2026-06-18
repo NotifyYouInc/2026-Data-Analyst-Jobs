@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/Digital-Sales-Analyst_REQ-10111451-2) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/Digital-Sales-Analyst_REQ-10114228) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-05-19.
+This data analyst position at ING was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

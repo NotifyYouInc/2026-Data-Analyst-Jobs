@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Marketing |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Investment-Product-Lead-Analyst_MFS-231650) |
+| Location | London, England, United Kingdom |
+| Category | Corporate Finance |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/London/Investment-Product-Lead-Analyst_MFS-231793) |
 
 ## About This Role
 
-This marketing position at MFS was posted on 2026-03-11.
+This corporate finance position at MFS was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

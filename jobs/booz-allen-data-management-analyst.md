@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Data-Management-Analyst_R0241938) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Data-Management-Analyst_R0241941) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-06-08.
+This data analyst position at Booz Allen was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

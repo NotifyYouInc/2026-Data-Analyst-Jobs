@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Douglas, Douglas, Isle of Man |
+| Location | Douglas, Scotland, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000120630960-financial-reporting-analyst) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000131431618-financial-reporting-analyst) |
 
 ## About This Role
 
-This corporate finance position at Standard Bank was posted on 2026-04-14.
+This corporate finance position at Standard Bank was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

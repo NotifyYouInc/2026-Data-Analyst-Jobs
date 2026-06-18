@@ -6,7 +6,7 @@
 | Location | Illinois, US |
 | Category | Business Analyst |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013546565-senior-manager-analytics-emerging-channel) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013547277-senior-manager-analytics-emerging-channel) |
 
 ## About This Role
 

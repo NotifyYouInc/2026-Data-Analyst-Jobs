@@ -1,16 +1,16 @@
-# Senior Data Analyst (Catalog)  at Coupang
+# Senior Data Analyst (Catalog) at Coupang
 
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7919223) |
+| Category | Data Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7919225) |
 
 ## About This Role
 
-This data analyst position at Coupang was posted on 2026-05-13.
+This data engineer position at Coupang was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

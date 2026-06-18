@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Financial Crimes & AML |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128263910-pv-analista-de-prevencao-a-fraude-junior) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131535111-pv-analista-de-prevencao-a-fraude-junior) |
 
 ## About This Role
 
-This financial crimes & aml position at Experian was posted on 2026-05-25.
+This financial crimes & aml position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
