@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WeRide](https://scoutify.ai/companies/weride?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Analyst |
-| Posted | 2025-12-21 |
-| Apply | [View on company site](https://jobs.lever.co/weride/8b43a662-fd58-45e0-9087-36c00ed82ff7) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.lever.co/weride/2046f079-88a3-47fd-8bb1-660e7c45652b) |
 
 ## About This Role
 
-This data analyst position at WeRide was posted on 2025-12-21.
+This data analyst position at WeRide was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

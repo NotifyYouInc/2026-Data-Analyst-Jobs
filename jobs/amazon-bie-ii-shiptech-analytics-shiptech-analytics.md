@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10382944/bie-ii-shiptech-analytics-shiptech-analytics) |
+| Category | Data Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432902/bie-ii-shiptech-analytics-shiptech-analytics) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-04-03.
+This data engineer position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

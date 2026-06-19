@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130136019-senior-data-specialist) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131638937-senior-data-specialist) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-06-04.
+This data engineer position at Robert Bosch was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

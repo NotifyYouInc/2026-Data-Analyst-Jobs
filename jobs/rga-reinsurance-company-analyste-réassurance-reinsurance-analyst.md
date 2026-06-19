@@ -6,7 +6,7 @@
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Canada-Montreal-RGA-Re/Analyste-Rassurance---Reinsurance-Analyst_J27791) |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Canada-Montreal-RGA-Re/Analyste-Rassurance---Reinsurance-Analyst_J27789-1) |
 
 ## About This Role
 

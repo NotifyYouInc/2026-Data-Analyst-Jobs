@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Metropolis](https://scoutify.ai/companies/metropolis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/metropolis/jobs/7768831003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/metropolis/jobs/7768825003) |
 
 ## About This Role
 

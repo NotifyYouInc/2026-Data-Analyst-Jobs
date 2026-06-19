@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Maryland, US |
 | Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Cyber-Threat-Operations---Intelligence-Analyst_R180019-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Cyber-Threat-Operations---Intelligence-Analyst_R181820) |
 
 ## About This Role
 
-This security engineer position at Parsons was posted on 2026-04-27.
+This security engineer position at Parsons was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

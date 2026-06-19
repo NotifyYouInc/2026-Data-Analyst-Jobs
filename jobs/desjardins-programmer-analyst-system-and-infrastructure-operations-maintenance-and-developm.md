@@ -1,16 +1,16 @@
-# Programmer Analyst, System and infrastructure operations, maintenance and development at Desjardins
+# Programmer analyst, System and infrastructure operations, maintenance and development at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Lévis, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--Automatisation-d-Infrastructure_R2607692) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/200-rue-des-Commandeurs-Lvis/Conseiller-ou-conseillre--Rponse-aux-incidents_R2607930) |
 
 ## About This Role
 
-This software engineer position at Desjardins was posted on 2026-06-08.
+This software engineer position at Desjardins was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

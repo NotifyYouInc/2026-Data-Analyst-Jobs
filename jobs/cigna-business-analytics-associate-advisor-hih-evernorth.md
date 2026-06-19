@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Analytics-Associate-Advisor---HIH---Evernorth_26003563) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Analytics-Associate-Advisor---HIH---Evernorth_26006905) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-04-16.
+This data analyst position at Cigna was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

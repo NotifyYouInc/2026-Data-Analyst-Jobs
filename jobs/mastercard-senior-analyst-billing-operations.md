@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Analyst--Billing-Operations_R-271609) |
+| Category | Business Analyst |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Analyst--Billing-Operations_R-280383) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-02-24.
+This business analyst position at Mastercard was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

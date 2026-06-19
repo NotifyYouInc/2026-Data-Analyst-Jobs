@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Sneads Ferry, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Cambridgeshire/Data-Analyst_R0241856) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Data-Analyst_R0242097) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-06-09.
+This data analyst position at Booz Allen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

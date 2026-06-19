@@ -1,16 +1,16 @@
-# Client Operations Analyst  at Ocorian
+# Client Operations Analyst at Ocorian
 
 | Field | Details |
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hamilton, Hamilton city, Bermuda |
+| Location | Moka, Moka, Mauritius |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000129115626-client-operations-analyst) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000131676759-client-operations-analyst) |
 
 ## About This Role
 
-This compliance & risk management position at Ocorian was posted on 2026-05-29.
+This compliance & risk management position at Ocorian was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

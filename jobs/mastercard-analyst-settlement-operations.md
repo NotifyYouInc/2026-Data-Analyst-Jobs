@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Settlement-Operations_R-277471) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Analyst--Settlement-Operations_R-279929) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-05-14.
+This business analyst position at Mastercard was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

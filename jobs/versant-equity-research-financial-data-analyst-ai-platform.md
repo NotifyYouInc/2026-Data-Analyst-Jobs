@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000127962389-equity-research-financial-data-analyst-ai-platform) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131750240-equity-research-financial-data-analyst-ai-platform) |
 
 ## About This Role
 
-This corporate finance position at Versant was posted on 2026-05-22.
+This corporate finance position at Versant was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

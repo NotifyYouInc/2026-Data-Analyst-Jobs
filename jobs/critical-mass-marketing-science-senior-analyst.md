@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Critical Mass](https://scoutify.ai/companies/critical-mass?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San José, San José, Costa Rica |
-| Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/7769985) |
+| Location | Chicago, Illinois, United States |
+| Category | Marketing |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/7926121) |
 
 ## About This Role
 
-This data analyst position at Critical Mass was posted on 2026-04-23.
+This marketing position at Critical Mass was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

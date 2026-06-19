@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Bengaluru-Remote/Data-Surveillance-Analyst_R0000039829) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India-Hyderabad-Remote/Data-Surveillance-Analyst_R0000042355) |
 
 ## About This Role
 
-This data analyst position at Parexel was posted on 2026-03-27.
+This data analyst position at Parexel was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

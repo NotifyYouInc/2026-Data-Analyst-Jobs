@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128661739-economist) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131640504-economist) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-05-27.
+This data analyst position at Experian was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

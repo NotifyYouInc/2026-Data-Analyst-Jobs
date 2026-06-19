@@ -5,12 +5,12 @@
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alexandria, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001103612-commercial-insights-analyst) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001150760-commercial-insights-analyst) |
 
 ## About This Role
 
-This business analyst position at Ampol was posted on 2026-05-26.
+This business analyst position at Ampol was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

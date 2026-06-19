@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | UX Researcher |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7617146) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8001889) |
 
 ## About This Role
 
-This ux researcher position at Instacart was posted on 2026-02-14.
+This ux researcher position at Instacart was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

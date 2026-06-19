@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Data Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443966/business-intelligence-engineer-ii-scot-aim-mx) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446610/business-intelligence-engineer-ii-scot-aim-mx) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-09.
+This data engineer position at Amazon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

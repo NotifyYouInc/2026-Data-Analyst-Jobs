@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Jersey, US |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Senior-Cyber-Operations-Analyst---AVP_JR-0000088930) |
+| Location | Whippany, New Jersey, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Senior-Cyber-Operations-Analyst---AVP_JR-0000097184) |
 
 ## About This Role
 
-This operations position at Barclays was posted on 2026-02-11.
+This soc & incident response position at Barclays was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

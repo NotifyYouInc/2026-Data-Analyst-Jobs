@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Operations |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.tanium.com/careers/7642479?gh_jid=7642479) |
+| Category | Corporate Finance |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tanium/jobs/7981419) |
 
 ## About This Role
 
-This operations position at Tanium was posted on 2026-02-27.
+This corporate finance position at Tanium was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

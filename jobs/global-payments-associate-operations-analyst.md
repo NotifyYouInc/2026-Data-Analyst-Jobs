@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Operations-Analyst_R0071109-2) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Operations-Analyst_R0072019) |
 
 ## About This Role
 
-This business analyst position at Global Payments was posted on 2026-05-13.
+This business analyst position at Global Payments was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

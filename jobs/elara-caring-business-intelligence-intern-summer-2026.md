@@ -5,12 +5,12 @@
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Dallas---TX-LBJ-FWY/Business-Intelligence-Intern---Summer-2026_JR-135271) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Dallas---TX-LBJ-FWY/Business-Intelligence-Intern---Summer-2026_JR-136343) |
 
 ## About This Role
 
-This data analyst position at Elara Caring was posted on 2026-05-14.
+This data analyst position at Elara Caring was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

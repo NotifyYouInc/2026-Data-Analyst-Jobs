@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Product-Management-Senior-Analyst_14225835) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Product-Management-Senior-Analyst_AIOC-S01649937-1) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-15.
+This product manager position at Accenture was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

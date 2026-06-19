@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Ireland |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/United-Kingdom/Senior-Product-Operations-Analyst_R73757) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Ireland-Home-Worker/Senior-Product-Operations-Analyst_R74683) |
 
 ## About This Role
 
-This product manager position at Sedgwick Group was posted on 2026-05-19.
+This product manager position at Sedgwick Group was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

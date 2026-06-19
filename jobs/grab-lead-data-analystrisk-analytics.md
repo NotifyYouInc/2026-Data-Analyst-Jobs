@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000130708309-lead-data-analystrisk-analytics) |
+| Category | Trust & Safety |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131614159-lead-data-analystrisk-analytics) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-06-08.
+This trust & safety position at Grab was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

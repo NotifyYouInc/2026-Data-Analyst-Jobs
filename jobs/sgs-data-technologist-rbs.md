@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000127943330-data-technologist-rbs) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131757144-data-technologist-rbs) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-05-22.
+This data analyst position at SGS was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

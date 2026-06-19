@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Costa Rica |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Analyst--Data-Science-and-Analytics_19040645) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Analyst--Data-Science-and-Analytics_19040969) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-05-29.
+This data analyst position at TransUnion was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

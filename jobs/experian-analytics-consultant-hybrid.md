@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | North Sydney, New South Wales, Australia |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131374729-analytics-consultant-hybrid) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131813409-analytics-consultant-hybrid) |
 
 ## About This Role
 
-This technology / it consulting position at Experian was posted on 2026-06-10.
+This technology / it consulting position at Experian was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

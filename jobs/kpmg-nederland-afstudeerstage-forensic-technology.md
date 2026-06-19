@@ -5,12 +5,12 @@
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
 | Category | Financial Crimes & AML |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000124624270-afstudeerstage-forensic-technology) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000131621301-afstudeerstage-forensic-technology) |
 
 ## About This Role
 
-This financial crimes & aml position at KPMG Nederland was posted on 2026-05-05.
+This financial crimes & aml position at KPMG Nederland was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

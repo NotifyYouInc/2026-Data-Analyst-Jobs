@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R34410-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R35283-1) |
 
 ## About This Role
 
-This business analyst position at Amadeus was posted on 2026-06-01.
+This business analyst position at Amadeus was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

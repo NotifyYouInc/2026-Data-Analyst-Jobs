@@ -1,0 +1,22 @@
+# People Analytics Lead - Recruiting at Notion
+
+| Field | Details |
+|-------|---------|
+| Company | [Notion](https://scoutify.ai/companies/notion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/notion/6597b600-7781-46e6-b70a-a9af4fb2b61b) |
+
+## About This Role
+
+This talent acquisition / recruiting position at Notion was posted on 2026-06-11.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

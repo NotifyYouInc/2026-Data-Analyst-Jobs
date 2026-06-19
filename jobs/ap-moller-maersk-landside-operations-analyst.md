@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Managua, Managua Department, Nicaragua |
+| Location | Panamá, PA |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Nicaragua-Managua-Managua-1000/Landside-Operations-Analyst_R179207) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Panama-Panam-Panama-City/Landside-Operations-Analyst_R184154-1) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-05-08.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
