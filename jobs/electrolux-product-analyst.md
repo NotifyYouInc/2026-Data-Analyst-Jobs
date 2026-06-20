@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Buenos-Aires/Product-Analyst_JR76852) |
+| Location | Quito, Pichincha, Ecuador |
+| Category | Data Analyst |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Quito/Product-Analyst_JR78630) |
 
 ## About This Role
 
-This business analyst position at Electrolux was posted on 2026-03-25.
+This data analyst position at Electrolux was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst Charge-RIO (Remote) at Trinity Health
+# Analyst, Charge - RIO (Remote) at Trinity Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Livonia, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Trinity-Health-of-New-England-Medical-Group/Analyst-Charge-RIO--Remote-_00639991) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Analyst--Charge---RIO--Remote-_00666960) |
 
 ## About This Role
 
-This data analyst position at Trinity Health was posted on 2026-04-24.
+This data analyst position at Trinity Health was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

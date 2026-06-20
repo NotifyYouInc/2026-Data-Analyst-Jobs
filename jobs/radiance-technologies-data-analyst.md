@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Data-Analyst_HR102217-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/All-Remote-Locations/Data-Analyst_HR102250) |
 
 ## About This Role
 
-This data analyst position at Radiance Technologies was posted on 2026-05-27.
+This data analyst position at Radiance Technologies was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

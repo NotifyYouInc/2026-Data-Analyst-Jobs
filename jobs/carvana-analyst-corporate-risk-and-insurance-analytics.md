@@ -5,12 +5,12 @@
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7852902) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8004118) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Carvana was posted on 2026-04-24.
+This actuary / insurance analytics position at Carvana was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Operations-Senior-Analyst_RQ109657) |
+| Category | Data Analyst |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Operations-Senior-Analyst_RQ112034) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-04-24.
+This data analyst position at BP was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

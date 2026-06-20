@@ -1,16 +1,16 @@
-# Manager, Data Management & Visualization  at IPG Mediabrands
+# Manager, Data Management & Visualization at IPG Mediabrands
 
 | Field | Details |
 |-------|---------|
 | Company | [IPG Mediabrands](https://scoutify.ai/companies/ipg-mediabrands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/4934520007) |
+| Location | New York City, New York, United States |
+| Category | Project Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/5148226007) |
 
 ## About This Role
 
-This data analyst position at IPG Mediabrands was posted on 2026-02-18.
+This project manager position at IPG Mediabrands was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Keller Postman](https://scoutify.ai/companies/keller-postman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Legal |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kellerpostman/jobs/5120156007) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kellerpostman/jobs/5163262007) |
 
 ## About This Role
 
-This legal position at Keller Postman was posted on 2026-04-24.
+This legal position at Keller Postman was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

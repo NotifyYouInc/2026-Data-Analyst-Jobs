@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Montral-Canada/Analyste-de-Recherch---Research-Analyst_R316189) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Montral-Canada/Analyste-de-Recherch---Research-Analyst_R322875) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-04-24.
+This data analyst position at Cushman & Wakefield was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

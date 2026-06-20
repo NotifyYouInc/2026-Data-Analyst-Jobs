@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131512439-gis-analyst) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131912449-gis-analyst) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-06-10.
+This data analyst position at Veolia was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

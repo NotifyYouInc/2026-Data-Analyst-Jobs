@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 3 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Risk-Analytics-Consultant_R-548791) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WILMINGTON-DE/Senior-Risk-Analytics-Consultant_R-551701-1) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-06-02.
+This technology / it consulting position at Wells Fargo was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

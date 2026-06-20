@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Tax-Reporting-Analyst_R-0000162039) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Tax-Reporting-Analyst_R-0000175016) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-03.
+This corporate finance position at Royal Bank of Canada was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal or Sr Principal Data Insight Analyst at Northrop Grumman
+# Principal or Sr Principal  Data Insight Analyst at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Palmdale, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-or-Sr-Principal-Data-Insight-Analyst_R10232475) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Principal-or-Sr-Principal--Data-Insight-Analyst_R10236035-1) |
 
 ## About This Role
 
-This data analyst position at Northrop Grumman was posted on 2026-05-11.
+This data analyst position at Northrop Grumman was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

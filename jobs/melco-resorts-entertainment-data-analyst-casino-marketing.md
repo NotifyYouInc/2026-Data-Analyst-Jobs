@@ -5,12 +5,12 @@
 | Company | [Melco Resorts & Entertainment](https://scoutify.ai/companies/melco-resorts-entertainment?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Limassol, Limassol, Cyprus |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/COD-Mediterranean-Limassol/Data-Analyst--Casino-Marketing_REQ9714-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/COD-Mediterranean-Limassol/Data-Analyst--Casino-Marketing_REQ13085) |
 
 ## About This Role
 
-This data analyst position at Melco Resorts & Entertainment was posted on 2026-04-15.
+This data analyst position at Melco Resorts & Entertainment was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

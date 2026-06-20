@@ -5,12 +5,12 @@
 | Company | [SmithRx](https://scoutify.ai/companies/smithrx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8579254002) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8589579002) |
 
 ## About This Role
 
-This data analyst position at SmithRx was posted on 2026-06-04.
+This data analyst position at SmithRx was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

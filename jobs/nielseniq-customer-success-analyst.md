@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Almaty, Almaty, Kazakhstan |
 | Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131601611-customer-success-analyst) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131849320-customer-success-analyst) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-06-11.
+This customer success position at NielsenIQ was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

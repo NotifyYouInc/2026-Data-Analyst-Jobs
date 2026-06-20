@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Healthcare-GFF-Product-Management-Senior-Analyst_R26007090-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Healthcare-GFF-Product-Management-Senior-Analyst_R26020460-1) |
 
 ## About This Role
 
-This product manager position at United Parcel Service (UPS) was posted on 2026-03-16.
+This product manager position at United Parcel Service (UPS) was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

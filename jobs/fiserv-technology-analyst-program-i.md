@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Leadership Development Program |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technology---Analyst-Program-I_R-10385779) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires-Argentina/Technology---Analyst-Program-I_R-10390223) |
 
 ## About This Role
 
-This leadership development program position at Fiserv was posted on 2026-02-25.
+This leadership development program position at Fiserv was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

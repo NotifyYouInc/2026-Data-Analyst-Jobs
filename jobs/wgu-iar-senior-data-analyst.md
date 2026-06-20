@@ -5,12 +5,12 @@
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/IAR-Senior-Data-Analyst_JR-025337) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/IAR-Senior-Data-Analyst_JR-025404) |
 
 ## About This Role
 
-This data analyst position at WGU was posted on 2026-06-08.
+This data analyst position at WGU was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

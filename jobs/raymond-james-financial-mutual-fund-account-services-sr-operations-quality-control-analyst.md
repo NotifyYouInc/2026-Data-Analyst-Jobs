@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Memphis, Tennessee, United States |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Mutual-Fund-Account-Services---Sr-Operations-Quality-Control-Analyst_R-0011577) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Mutual-Fund-Account-Services---Sr-Operations-Quality-Control-Analyst_R-0011601) |
 
 ## About This Role
 
-This customer success position at Raymond James Financial was posted on 2026-06-11.
+This asset management / portfolio management position at Raymond James Financial was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

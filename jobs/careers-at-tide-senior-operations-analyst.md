@@ -1,16 +1,16 @@
-# Senior Operations Analyst  at Careers at Tide
+# Senior Operations Analyst at Careers at Tide
 
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bulgaria |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7525866003) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Business Analyst |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7769408003) |
 
 ## About This Role
 
-This operations position at Careers at Tide was posted on 2026-02-11.
+This business analyst position at Careers at Tide was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Universal City, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124029660-analyst-consumer-insights-marketplace-intelligence) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131962770-analyst-consumer-insights-marketplace-intelligence) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-04-30.
+This data analyst position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

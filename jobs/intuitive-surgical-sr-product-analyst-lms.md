@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Learning & Development |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127345229-sr-product-analyst-lms) |
+| Category | Business Analyst |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000131989412-sr-product-analyst-lms) |
 
 ## About This Role
 
-This learning & development position at Intuitive Surgical was posted on 2026-05-20.
+This business analyst position at Intuitive Surgical was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

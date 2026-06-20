@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131228269-rider-performance-specialist) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131956784-rider-performance-specialist) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-06-09.
+This business analyst position at Delivery Hero was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

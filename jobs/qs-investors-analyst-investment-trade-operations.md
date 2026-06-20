@@ -1,16 +1,16 @@
-# Analyst-Investment & Trade Operations at QS Investors
+# Analyst Investment & Trade Operations at QS Investors
 
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Analyst-Investment---Trade-Operations_867962) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Analyst-Investment---Trade-Operations_868077-1) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-05-22.
+This corporate finance position at QS Investors was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

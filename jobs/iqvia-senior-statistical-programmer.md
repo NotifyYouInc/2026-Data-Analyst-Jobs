@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manila-Philippines/Senior-Statistical-Programmer_R1539312-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Nairobi-Kenya/Senior-Statistical-Programmer_R1550962-1) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-05-13.
+This software engineer position at IQVIA was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
