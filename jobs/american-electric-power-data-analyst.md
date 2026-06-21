@@ -1,16 +1,16 @@
-# Data Analyst at Cisco
+# Data Analyst at American Electric Power
 
 | Field | Details |
 |-------|---------|
-| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Carolina, US |
+| Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New Albany, Indiana, United States |
 | Category | Data Analyst |
 | Posted | 2026-06-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Analyst_2014886) |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Analyst_R16070) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-06-14.
+This data analyst position at American Electric Power was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 
