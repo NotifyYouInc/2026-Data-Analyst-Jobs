@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Strategy & Operations |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/25f9d596-5644-4ab4-94d2-de66e9f6a97e) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/05c1f001-9313-4d57-b4a6-1751d17ed03c) |
 
 ## About This Role
 
-This strategy & operations position at Jerry.ai was posted on 2026-06-11.
+This strategy & operations position at Jerry.ai was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

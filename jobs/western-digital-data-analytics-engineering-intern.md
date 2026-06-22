@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
-| Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117114187-data-analytics-engineering-intern) |
+| Location | Biñan, Calabarzon, Philippines |
+| Category | Data Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000132106259-data-analytics-engineering-intern) |
 
 ## About This Role
 
-This data analyst position at Western Digital was posted on 2026-03-27.
+This data engineer position at Western Digital was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

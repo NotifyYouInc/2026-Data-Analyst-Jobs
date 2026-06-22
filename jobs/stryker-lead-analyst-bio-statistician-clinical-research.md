@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Senior-Analyst-Bio-Statistician--Clinical-Research_R561754) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Lead-Analyst-Bio-Statistician--Clinical-Research_R566599) |
 
 ## About This Role
 
-This data analyst position at Stryker was posted on 2026-04-23.
+This data analyst position at Stryker was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

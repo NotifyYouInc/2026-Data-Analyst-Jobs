@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Marketing |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000131566170-lms-marketing-science-senior-strategist-marketing-science-technology) |
+| Category | Business Analyst |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000132105035-lms-marketing-science-senior-strategist-marketing-science-technology) |
 
 ## About This Role
 
-This marketing position at LinkedIn was posted on 2026-06-11.
+This business analyst position at LinkedIn was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Philippines/Data-Analyst_R-123837) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Philippines/Data-Analyst_R-123764) |
 
 ## About This Role
 
-This data analyst position at Travel + Leisure Co. was posted on 2026-06-09.
+This data analyst position at Travel + Leisure Co. was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

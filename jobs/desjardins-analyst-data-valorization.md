@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Leader-de-pratique--Intelligence-d-affaires-et-valorisation-de-donnes_R2607979) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Valorisation-de-donnes_R2607945) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-06-11.
+This data analyst position at Desjardins was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

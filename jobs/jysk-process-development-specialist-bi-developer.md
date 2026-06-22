@@ -5,12 +5,12 @@
 | Company | [JYSK](https://scoutify.ai/companies/jysk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Radomsko, Łódź Voivodeship, Poland |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000131371099-process-development-specialist-bi-developer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000132125749-process-development-specialist-bi-developer) |
 
 ## About This Role
 
-This data engineer position at JYSK was posted on 2026-06-10.
+This data engineer position at JYSK was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

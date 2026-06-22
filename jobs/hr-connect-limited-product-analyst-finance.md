@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HR Connect Limited](https://scoutify.ai/companies/hr-connect-limited?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hamilton, Waikato Region, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000131769369-product-analyst-finance) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Business Analyst |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hrconnectlimited/744000131773439-product-analyst-finance) |
 
 ## About This Role
 
-This corporate finance position at HR Connect Limited was posted on 2026-06-11.
+This business analyst position at HR Connect Limited was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
