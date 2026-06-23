@@ -1,16 +1,16 @@
-# Senior Power BI Specialist  at Talan
+# Senior Power BI Specialist at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Málaga, Andalusia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000114673113-senior-power-bi-specialist) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132146641-senior-power-bi-specialist) |
 
 ## About This Role
 
-This data analyst position at Talan was posted on 2026-03-13.
+This data analyst position at Talan was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Carilionclinic](https://scoutify.ai/companies/carilionclinic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Roanoke, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://carilionclinic.wd12.myworkdayjobs.com/external_careers/job/Roanoke-Virginia/Measurement-Analyst_R160855) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://carilionclinic.wd12.myworkdayjobs.com/external_careers/job/Roanoke-Virginia/Measurement-Analyst_R160874) |
 
 ## About This Role
 
-This data analyst position at Carilionclinic was posted on 2026-06-12.
+This data analyst position at Carilionclinic was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

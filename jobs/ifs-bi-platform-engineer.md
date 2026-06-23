@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000126725019-bi-platform-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000132173660-bi-platform-engineer) |
 
 ## About This Role
 
-This data engineer position at IFS was posted on 2026-05-15.
+This data engineer position at IFS was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

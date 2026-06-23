@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Sales Leadership |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Sales-Manager---Senior-Analyst---Portuguese_14318534) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Sales-Manager---Senior-Analyst---Portuguese_14374671-1) |
 
 ## About This Role
 
-This sales leadership position at Accenture was posted on 2026-04-29.
+This sales leadership position at Accenture was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

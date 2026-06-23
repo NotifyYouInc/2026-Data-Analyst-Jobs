@@ -5,12 +5,12 @@
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000124792440-analyst-risk-insights-and-reporting) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000132335510-analyst-risk-insights-and-reporting) |
 
 ## About This Role
 
-This data analyst position at TAL was posted on 2026-05-06.
+This data analyst position at TAL was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

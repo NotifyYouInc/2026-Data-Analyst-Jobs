@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Whippany, New Jersey, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Cyber-Operations-Analyst_JR-0000095557) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Cyber-Operations-Analyst_JR-0000097187) |
 
 ## About This Role
 
-This soc & incident response position at Barclays was posted on 2026-03-24.
+This soc & incident response position at Barclays was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc0mVtu0AMgT29kaIi0iMH65186FYqd3o_mu6Ps-akhZEjsACxwdTDbNL0CyDwCPkoCYN5Q3AO-QjX6NUajLtFACF5Zss2G4UQ4ZbmgCgR-ST2rrLMep0oNwxkYYhw%3D%3D_V2&loc=PL&title=Measurement+Implementation+Expert) |
+| Category | Account Executive |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW0igLBc8rsjtyHNNFMStZxokrY1FuR4wEcbVNnv57RsEjsA1Ny_ixM3flcnYs_SCqm6X-_f9oyE_zQCDnbyuQrjg71WOs56qh5xsvH3soO984_ZdiQivsSgliZ1Ig%3D%3D_V2&loc=PL&title=Measurement+Implementation+Expert) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-04-14.
+This account executive position at Google was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

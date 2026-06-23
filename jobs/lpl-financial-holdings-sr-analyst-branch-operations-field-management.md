@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | California, US |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Remote-California/Sr-Analyst--Branch-Operations--Field-Management-_R-049345-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Sr-Analyst--Branch-Operations--Field-Management-_R-051082) |
 
 ## About This Role
 
-This business analyst position at LPL Financial Holdings was posted on 2026-03-23.
+This business analyst position at LPL Financial Holdings was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

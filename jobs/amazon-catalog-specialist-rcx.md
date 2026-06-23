@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419309/catalog-specialist-rcx) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449773/catalog-specialist-rcx) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-05-13.
+This data analyst position at Amazon was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

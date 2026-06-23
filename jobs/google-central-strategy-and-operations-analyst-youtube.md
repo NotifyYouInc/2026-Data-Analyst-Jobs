@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Operations |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/89519025662370502-central-strategy-and-operations-analyst-youtube?sort_by=date&page=1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbs8g5nFwcss0PeWRVUn1c2KA-67Ij2fqiMTnWvl16TMEjsA1Ny_i5A-3l-KJFmFVBE6KdVy-vLCg2mAl1d_ixGJYhObv3X45YaHn0L04utk2jES9HNyCwhY-nrM-Q%3D%3D_V2&loc=US&title=Central+Strategy+and+Operations+Analyst) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-02-20.
+This operations position at Google was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Birmingham, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000121945647-data-analyst) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000132148445-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Smiths Group was posted on 2026-04-21.
+This data analyst position at Smiths Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

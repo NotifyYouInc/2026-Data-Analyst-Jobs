@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Whippany, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Data-Analyst_JR-0000109091-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst_JR-0000110271-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-05-29.
+This data analyst position at Barclays was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Baden-Baden, Baden-Wurttemberg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000128920815-werkstudent) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132239798-werkstudent) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-05-28.
+This data analyst position at NielsenIQ was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

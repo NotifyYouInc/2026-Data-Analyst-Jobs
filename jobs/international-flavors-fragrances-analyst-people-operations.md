@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Kunshan, Jiangsu, China |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Punto-Polanco-Mexico/Analyst--People-Operations_R16717) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Kunshan-China/Analyst--People-Operations_R18997-1) |
 
 ## About This Role
 
-This human resources / people ops position at International Flavors & Fragrances was posted on 2026-03-30.
+This human resources / people ops position at International Flavors & Fragrances was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

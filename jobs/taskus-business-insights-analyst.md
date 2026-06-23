@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colombia |
+| Location | Batangas, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Colombia---Remote/Business-Insights-Analyst_R_2605_6708) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Batangas-Batangas-Philippines/Business-Insights-Analyst_R_2606_7640) |
 
 ## About This Role
 
-This data analyst position at TaskUs was posted on 2026-05-19.
+This data analyst position at TaskUs was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

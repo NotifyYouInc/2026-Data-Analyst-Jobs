@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Whitehaven, England, United Kingdom |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBWhitehavenRutherford-House/Assistant-Data-Analyst_R-155828) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBManchesterPiccadilly/Assistant-Data-Analyst_R-157204) |
 
 ## About This Role
 
-This data analyst position at AtkinsRéalis was posted on 2026-05-19.
+This data analyst position at AtkinsRéalis was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

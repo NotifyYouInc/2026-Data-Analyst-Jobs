@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amman, Amman, Jordan |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419651/ai-data-associate-with-french-artificial-general-intelligence-data-services) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435530/ai-data-associate-with-french-artificial-general-intelligence-data-services) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-05-14.
+This data analyst position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

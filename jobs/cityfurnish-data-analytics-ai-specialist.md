@@ -5,12 +5,12 @@
 | Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/HaXFFHt-data-analytics-ai-specialist) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/PzrSF3R-data-analytics-ai-specialist) |
 
 ## About This Role
 
-This data analyst position at Cityfurnish was posted on 2026-05-13.
+This data analyst position at Cityfurnish was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

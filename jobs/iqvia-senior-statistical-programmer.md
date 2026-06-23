@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
+| Location | Dublin, Leinster, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Nairobi-Kenya/Senior-Statistical-Programmer_R1550962-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Dublin-Ireland/Senior-Statistical-Programmer_R1551685-1) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-06-12.
+This software engineer position at IQVIA was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

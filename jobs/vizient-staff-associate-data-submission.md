@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Centennial-CO-80111/Staff-Associate--Data-Submission_33414R) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Centennial-CO-80111/Staff-Associate--Data-Submission_33754R) |
 
 ## About This Role
 
-This data analyst position at Vizient was posted on 2026-05-11.
+This data analyst position at Vizient was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

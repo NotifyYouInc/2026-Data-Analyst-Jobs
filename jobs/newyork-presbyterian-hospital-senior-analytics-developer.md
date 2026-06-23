@@ -5,12 +5,12 @@
 | Company | [NewYork-Presbyterian Hospital](https://scoutify.ai/companies/newyork-presbyterian-hospital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Senior-Business-Intelligence-Developer-Information-Technology-Epic_00882522) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Senior-Analytics-Developer_00883073) |
 
 ## About This Role
 
-This data analyst position at NewYork-Presbyterian Hospital was posted on 2026-06-10.
+This data analyst position at NewYork-Presbyterian Hospital was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

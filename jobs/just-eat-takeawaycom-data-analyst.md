@@ -5,12 +5,12 @@
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/Data-Analyst_R_049474) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Data-Analyst_R_052385) |
 
 ## About This Role
 
-This data analyst position at Just Eat Takeaway.com was posted on 2026-03-06.
+This data analyst position at Just Eat Takeaway.com was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
