@@ -5,12 +5,12 @@
 | Company | [Associated Bank](https://scoutify.ai/companies/associatedbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Milwaukee-111-Kilbourn/Data---Reporting-Analyst-Senior_JR105660) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/Milwaukee-111-Kilbourn/Data---Reporting-Analyst-Senior_JR105857) |
 
 ## About This Role
 
-This data analyst position at Associated Bank was posted on 2026-05-11.
+This data analyst position at Associated Bank was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

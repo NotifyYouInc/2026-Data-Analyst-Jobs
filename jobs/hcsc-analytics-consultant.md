@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Analytics-Consultant_R0051147) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Analytics-Consultant_R0051690) |
 
 ## About This Role
 
-This technology / it consulting position at HCSC was posted on 2026-05-22.
+This data analyst position at HCSC was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

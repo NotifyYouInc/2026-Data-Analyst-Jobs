@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000113183037-data-analyst-expert-powerplatform-hf) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000132454654-data-analyst-expert-powerplatform-hf) |
 
 ## About This Role
 
-This data analyst position at Assystem was posted on 2026-03-06.
+This data analyst position at Assystem was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

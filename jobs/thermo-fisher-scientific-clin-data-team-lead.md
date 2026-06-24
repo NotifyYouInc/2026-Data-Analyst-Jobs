@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Project Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Clin-Data-Team-Lead_R-01354639) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Data Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Clin-Data-Team-Lead_R-01357536) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-06-12.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

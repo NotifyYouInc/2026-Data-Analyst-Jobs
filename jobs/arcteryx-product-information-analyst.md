@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ARC'TERYX](https://scoutify.ai/companies/arcteryx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Vancouver, British Columbia, Canada |
+| Location | Portland, Oregon, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/arcteryx.com/70319667-07fc-48ef-97c7-7788b521fc98) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.lever.co/arcteryx.com/b13f7612-34ac-4215-8097-a10367bbe9d9) |
 
 ## About This Role
 
-This data analyst position at ARC'TERYX was posted on 2026-06-01.
+This data analyst position at ARC'TERYX was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

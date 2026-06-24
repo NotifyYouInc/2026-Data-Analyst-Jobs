@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Seattle, Washington, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Lead--Workforce-Intelligence_JR342860) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Lead--Workforce-Intelligence_JR346775) |
 
 ## About This Role
 
-This human resources / people ops position at Salesforce was posted on 2026-05-21.
+This human resources / people ops position at Salesforce was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

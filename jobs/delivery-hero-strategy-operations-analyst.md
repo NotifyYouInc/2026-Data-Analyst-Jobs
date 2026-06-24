@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Operations |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131857195-strategy-operations-analyst) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132405724-strategy-operations-analyst) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-06-12.
+This operations position at Delivery Hero was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Systems-and-Data-Analyst--Mid-Level-or-Senior-_JR2026508860) |
+| Location | 8 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Systems-and-Data-Analyst--Mid-Level-or-Senior-_JR2026515100-1) |
 
 ## About This Role
 
-This data analyst position at Boeing was posted on 2026-05-05.
+This business analyst position at Boeing was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

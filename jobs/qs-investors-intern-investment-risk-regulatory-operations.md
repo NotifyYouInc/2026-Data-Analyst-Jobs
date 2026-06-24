@@ -5,12 +5,12 @@
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poznań, Greater Poland, Poland |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Poznan-Poland/Intern---Investment-Risk-Regulatory-Operations_868124) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Poznan-Poland/Intern---Investment-Risk-Regulatory-Operations_868398) |
 
 ## About This Role
 
-This data analyst position at QS Investors was posted on 2026-05-27.
+This data analyst position at QS Investors was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

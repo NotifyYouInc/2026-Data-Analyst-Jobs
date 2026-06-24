@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-788861) |
+| Category | Corporate Finance |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-789146-1) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-04-29.
+This corporate finance position at State Street was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

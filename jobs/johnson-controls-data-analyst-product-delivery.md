@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Pedro Garza García, Nuevo León, Mexico |
+| Location | San José, San José, Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Data-Analyst-Product-Delivery_WD30270538) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Data-Analyst-Product-Delivery_WD30272370) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-05-29.
+This data analyst position at Johnson Controls was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

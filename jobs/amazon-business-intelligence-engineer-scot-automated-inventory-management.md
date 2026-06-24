@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Data Analyst |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383568/business-intelligence-engineer-scot-automated-inventory-management) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10450827/business-intelligence-engineer-scot-automated-inventory-management) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-04-05.
+This business analyst position at Amazon was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

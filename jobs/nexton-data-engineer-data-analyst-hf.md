@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000113237848-data-engineer-data-analyst-hf) |
+| Category | Data Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000132421402-data-engineer-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at Nexton was posted on 2026-03-06.
+This data engineer position at Nexton was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

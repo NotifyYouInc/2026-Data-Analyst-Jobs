@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barceloneta, Barceloneta, Puerto Rico |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012920772-associate-scientist-temporary-position) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013642376-associate-scientist-temporary-position) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-05-01.
+This data analyst position at AbbVie was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Lead-Data-Analyst---Profiling---Cleansing_R000070353) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Project Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Lead-Data-Analyst---Profiling---Cleansing_R000071936) |
 
 ## About This Role
 
-This data analyst position at Chevron was posted on 2026-04-01.
+This project manager position at Chevron was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

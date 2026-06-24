@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | El Segundo, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5108343007) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5166436007) |
 
 ## About This Role
 
-This data analyst position at CHAOS Industries was posted on 2026-04-14.
+This data analyst position at CHAOS Industries was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Luanda, Luanda, Angola |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000131087574-analista-de-dados) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000132427934-analista-de-dados) |
 
 ## About This Role
 
-This data analyst position at Standard Bank was posted on 2026-06-09.
+This data analyst position at Standard Bank was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

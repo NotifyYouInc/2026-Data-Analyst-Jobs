@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Albany, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Buffalo-NY/Research-Scientist-I_JR-0002153) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-I_JR-0002188-1) |
 
 ## About This Role
 
-This data analyst position at Health Research was posted on 2026-05-19.
+This data analyst position at Health Research was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

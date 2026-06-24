@@ -5,12 +5,12 @@
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Principal-Analyst--Commercial-Analytics_R0180315) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Principal-Analyst--Commercial-Analytics_R0181229) |
 
 ## About This Role
 
-This data analyst position at Takeda was posted on 2026-05-21.
+This data analyst position at Takeda was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Epidemiological-Programmer--Real-World-Evidence---FSP--Sponsor---Dedicated-_R1533417) |
+| Category | Data Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Epidemiological-Programmer--Real-World-Evidence---FSP--Sponsor---Dedicated-_R1533423) |
 
 ## About This Role
 
-This software engineer position at IQVIA was posted on 2026-04-13.
+This data analyst position at IQVIA was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

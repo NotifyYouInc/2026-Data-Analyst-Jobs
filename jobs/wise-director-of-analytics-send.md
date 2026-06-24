@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123455438-director-of-analytics-send) |
+| Category | Leadership Development Program |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000132463700-director-of-analytics-send) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-04-28.
+This leadership development program position at WISE was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

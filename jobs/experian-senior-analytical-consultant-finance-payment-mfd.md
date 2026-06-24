@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130500750-senior-analytical-consultant-finance-payment-mfd) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132398694-senior-analytical-consultant-finance-payment-mfd) |
 
 ## About This Role
 
-This financial advisory & consulting position at Experian was posted on 2026-06-05.
+This financial advisory & consulting position at Experian was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Stamford, Connecticut, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst_109501) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst_111040) |
 
 ## About This Role
 
-This data analyst position at Gartner was posted on 2026-06-02.
+This data analyst position at Gartner was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

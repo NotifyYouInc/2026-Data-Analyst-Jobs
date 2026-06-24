@@ -5,12 +5,12 @@
 | Company | [ASM Global](https://scoutify.ai/companies/asmglobal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berea, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Berea-OH/Data-Analytics---CRM-Administrator---Cleveland-Browns_R100122419) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Berea-OH/Data-Analytics---CRM-Administrator---Cleveland-Browns_R100123438) |
 
 ## About This Role
 
-This data analyst position at ASM Global was posted on 2026-04-30.
+This data analyst position at ASM Global was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

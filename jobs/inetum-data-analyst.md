@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Lima, Lima Province, Peru |
 | Category | Data Analyst |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132158859-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132288009-data-analyst) |
 
 ## About This Role
 

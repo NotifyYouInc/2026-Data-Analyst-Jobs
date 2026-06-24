@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Trust & Safety |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132118599-business-analyst-fraud-strategy-theyshehe) |
+| Category | Business Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132409039-business-analyst-fraud-strategy-theyshehe) |
 
 ## About This Role
 
-This trust & safety position at Delivery Hero was posted on 2026-06-15.
+This business analyst position at Delivery Hero was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
