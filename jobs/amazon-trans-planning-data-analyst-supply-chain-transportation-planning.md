@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441782/trans-planning-data-analyst-supply-chain-transportation-planning) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423462/trans-planning-data-analyst-supply-chain-transportation-planning) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-06-08.
+This data analyst position at Amazon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

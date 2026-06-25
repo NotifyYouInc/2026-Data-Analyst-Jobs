@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Growth Marketing |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000130201639-data-operations-intern-they-she-he) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132578869-data-operations-intern-they-she-he) |
 
 ## About This Role
 
-This growth marketing position at Delivery Hero was posted on 2026-06-04.
+This growth marketing position at Delivery Hero was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/dd70f97c-1c05-412f-bd5c-745e1456a2fa) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/c7aa551f-2219-4caa-92b4-372878a17a17) |
 
 ## About This Role
 
-This data analyst position at SpotOn: Sales (Career Site) was posted on 2026-06-08.
+This data analyst position at SpotOn: Sales (Career Site) was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

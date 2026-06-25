@@ -5,12 +5,12 @@
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013610506-analytics-clinical-effectiveness-specialist) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013674526-analytics-clinical-effectiveness-specialist) |
 
 ## About This Role
 
-This data analyst position at Lucile Packard Children's Hospital Stanford was posted on 2026-06-12.
+This data analyst position at Lucile Packard Children's Hospital Stanford was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

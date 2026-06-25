@@ -1,16 +1,16 @@
-# Banamex - Analista de Bases de Datos y Métricas at Citigroup
+# BANAMEX  Analista de Bases de Datos y Métricas at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Bases-de-Datos-y-Mtricas_26957647) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-de-Bases-de-Datos-y-Mtricas_26970222) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-05-11.
+This compliance & risk management position at Citigroup was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

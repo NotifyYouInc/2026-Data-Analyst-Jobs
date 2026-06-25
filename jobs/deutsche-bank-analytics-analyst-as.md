@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Analytics-Analyst--AS_R0406533) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Analytics-Analyst--AS_R0434429) |
 
 ## About This Role
 
-This data analyst position at Deutsche Bank was posted on 2026-03-04.
+This data engineer position at Deutsche Bank was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Silna Health](https://scoutify.ai/companies/silna-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/silnahealth.com/18dd6319-4df0-4535-b974-882f61f26101) |
+| Category | AI / ML Research |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/silnahealth.com/28ba5d0b-b862-4e04-995d-d5eff22d269e) |
 
 ## About This Role
 
-This data analyst position at Silna Health was posted on 2026-05-07.
+This ai / ml research position at Silna Health was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tegucigalpa, Francisco Morazán Department, Honduras |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132411070-crm-sr-analyst) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132692129-crm-sr-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-06-16.
+This business analyst position at Delivery Hero was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394532/ai-data-associate-with-dutch-artificial-general-intelligence-data-services) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423588/ai-data-associate-with-dutch-artificial-general-intelligence-data-services) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-04-17.
+This data analyst position at Amazon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

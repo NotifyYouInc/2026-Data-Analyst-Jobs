@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Austin-TX/Product-Analytics--Senior-Associate_R15017) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Austin-TX/Product-Analytics--Senior-Associate_R15212) |
 
 ## About This Role
 
-This data analyst position at Athena Health was posted on 2026-05-11.
+This data analyst position at Athena Health was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/SAS-Data-analyst_26963080) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/SAS-Data-analyst_26969606-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-05-15.
+This data analyst position at Citigroup was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

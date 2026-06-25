@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131552699-sgs-gbs-open-house-june-2026) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000132613389-sgs-gbs-open-house-june-2026) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-11.
+This data analyst position at SGS was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

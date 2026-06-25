@@ -1,16 +1,16 @@
-# Underwriting Analytics - Senior Analyst at CVS Health
+# Underwriting Analytics Senior Analyst at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Northbrook, Illinois, United States |
+| Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Underwriting-Analytics---Senior-Analyst_R0851670) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Underwriting-Analytics-Senior-Analyst_R0939965) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-04-23.
+This data analyst position at CVS Health was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

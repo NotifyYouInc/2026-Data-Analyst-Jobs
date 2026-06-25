@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000118436709-sr-analyst-media-analytics-attribution) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000132631273-sr-analyst-media-analytics-attribution) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-04-02.
+This data analyst position at NBCUniversal was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

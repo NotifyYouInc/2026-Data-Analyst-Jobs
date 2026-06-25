@@ -5,12 +5,12 @@
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000131404796-reporting-specialist-global-hr-mis-analytics-workday-reporting) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000132570728-reporting-specialist-global-hr-mis-analytics-workday-reporting) |
 
 ## About This Role
 
-This human resources / people ops position at Clifford Chance was posted on 2026-06-10.
+This human resources / people ops position at Clifford Chance was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

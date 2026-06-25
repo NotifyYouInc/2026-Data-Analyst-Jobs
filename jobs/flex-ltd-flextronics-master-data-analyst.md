@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Master-Data-Analyst_WD223002) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Master-Data-Analyst_WD223429) |
 
 ## About This Role
 
-This data analyst position at FLEX LTD. Flextronics was posted on 2026-06-15.
+This data analyst position at FLEX LTD. Flextronics was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

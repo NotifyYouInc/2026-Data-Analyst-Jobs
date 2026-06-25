@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Sr-Clin-Data-Team-Lead_R-01357621) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Sr-Clin-Data-Team-Lead_R-01357609) |
 
 ## About This Role
 

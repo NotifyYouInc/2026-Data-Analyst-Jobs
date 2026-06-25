@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Biostatistical-Programming-Manager_R-240307) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Biostatistical-Programming-Manager_R-240314-1) |
 
 ## About This Role
 
-This data analyst position at Amgen was posted on 2026-05-12.
+This data analyst position at Amgen was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

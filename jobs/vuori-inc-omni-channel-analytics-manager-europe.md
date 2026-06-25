@@ -5,12 +5,12 @@
 | Company | [Vuori, Inc](https://scoutify.ai/companies/vuori-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000131991489-omni-channel-analytics-manager-europe) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000132733460-omni-channel-analytics-manager-europe) |
 
 ## About This Role
 
-This business analyst position at Vuori, Inc was posted on 2026-06-12.
+This business analyst position at Vuori, Inc was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

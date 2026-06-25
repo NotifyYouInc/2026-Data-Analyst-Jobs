@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Electro-Optical-Geospatial-Analyst--Mid_R0239935) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Electro-Optical-Geospatial-Analyst--Mid_R0242466) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-05-14.
+This data analyst position at Booz Allen was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

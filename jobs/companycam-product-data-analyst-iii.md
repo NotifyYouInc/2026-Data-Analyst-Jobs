@@ -5,12 +5,12 @@
 | Company | [CompanyCam](https://scoutify.ai/companies/companycam?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://companycam.com/job?gh_jid=7728267003) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://companycam.com/job?gh_jid=7776043003) |
 
 ## About This Role
 
-This data analyst position at CompanyCam was posted on 2026-05-13.
+This data analyst position at CompanyCam was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

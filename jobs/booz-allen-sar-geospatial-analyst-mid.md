@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alexandria, Virginia, United States |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/SAR-Geospatial-Analyst--Mid_R0239933) |
+| Category | Data Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/SAR-Geospatial-Analyst--Mid_R0242467) |
 
 ## About This Role
 
-This financial crimes & aml position at Booz Allen was posted on 2026-05-14.
+This data analyst position at Booz Allen was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

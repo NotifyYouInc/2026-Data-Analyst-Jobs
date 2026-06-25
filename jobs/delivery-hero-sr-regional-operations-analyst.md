@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129185219-sr-regional-operations-analyst) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132638829-sr-regional-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-05-29.
+This data analyst position at Delivery Hero was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everest](https://scoutify.ai/companies/everestre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/Cat-Portfolio-Manager_R7196-1) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/New-York-NY/Cat-Portfolio-Manager_R7277-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Everest was posted on 2026-05-01.
+This data analyst position at Everest was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

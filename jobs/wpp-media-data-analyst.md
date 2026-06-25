@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5221992008) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Data Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5257854008) |
 
 ## About This Role
 
-This business analyst position at WPP Media was posted on 2026-05-19.
+This data analyst position at WPP Media was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

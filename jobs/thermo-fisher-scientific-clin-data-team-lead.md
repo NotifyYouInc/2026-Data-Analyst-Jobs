@@ -6,7 +6,7 @@
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Clin-Data-Team-Lead_R-01357536) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Clin-Data-Team-Lead_R-01357534) |
 
 ## About This Role
 
