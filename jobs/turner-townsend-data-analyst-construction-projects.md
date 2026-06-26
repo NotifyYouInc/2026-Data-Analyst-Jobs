@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000131542015-data-analyst-construction-projects) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000132915209-data-analyst-construction-projects) |
 
 ## About This Role
 
-This data analyst position at Turner & Townsend was posted on 2026-06-10.
+This data analyst position at Turner & Townsend was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

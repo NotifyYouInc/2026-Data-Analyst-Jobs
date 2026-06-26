@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FleishmanHillard](https://scoutify.ai/companies/fleishmanhillard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 9 locations |
-| Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://fleishmanhillard.com/join-us/open-positions/?gh_jid=5080496007) |
+| Location | 3 locations |
+| Category | Marketing |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://fleishmanhillard.com/join-us/open-positions/?gh_jid=5165585007) |
 
 ## About This Role
 
-This data analyst position at FleishmanHillard was posted on 2026-04-08.
+This marketing position at FleishmanHillard was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

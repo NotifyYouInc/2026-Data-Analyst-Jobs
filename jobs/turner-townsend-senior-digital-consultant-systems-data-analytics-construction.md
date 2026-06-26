@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000129028885-senior-digital-consultant-systems-data-analytics-construction) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000132896379-senior-digital-consultant-systems-data-analytics-construction) |
 
 ## About This Role
 
-This technology / it consulting position at Turner & Townsend was posted on 2026-05-28.
+This technology / it consulting position at Turner & Townsend was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

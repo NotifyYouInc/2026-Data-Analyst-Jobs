@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Compliance & Risk Management |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Gestion-du-risque-de-march_R2607526) |
+| Category | Data Analyst |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Encadrement-et-suivi-des-activits-de-march--Middle-Office-_R2608090-1) |
 
 ## About This Role
 
-This compliance & risk management position at Desjardins was posted on 2026-06-10.
+This data analyst position at Desjardins was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

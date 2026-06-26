@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bossier City, Louisiana, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/TSS-Data-Analyst-Senior_RQ222002-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/TSS-Data-Analyst-Senior_RQ222514-1) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-06-15.
+This data analyst position at General Dynamics Information Technology was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

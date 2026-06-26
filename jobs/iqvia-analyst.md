@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Gurugram-India/Senior-Consultant---RWE---HEOR-Modelling_R1451026) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1552506) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-05-28.
+This data analyst position at IQVIA was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

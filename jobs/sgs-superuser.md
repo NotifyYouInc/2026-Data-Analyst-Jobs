@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | La Serena, Coquimbo Region, Chile |
+| Location | Copiapó, Atacama, Chile |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000123933169-superuser) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000132949269-superuser) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-04-30.
+This data analyst position at SGS was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/Product-Analyst_R0016639) |
+| Category | Data Analyst |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/Product-Analyst_R0017480-1) |
 
 ## About This Role
 
-This business analyst position at Howden was posted on 2026-03-16.
+This data analyst position at Howden was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Breda, North Brabant, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000132246110-junior-dashboard-developer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000132802150-junior-dashboard-developer) |
 
 ## About This Role
 
-This data analyst position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-15.
+This data analyst position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

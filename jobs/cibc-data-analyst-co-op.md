@@ -5,12 +5,12 @@
 | Company | [Cibc](https://scoutify.ai/companies/cibc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-Co-op_2611574) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-Co-op_2611947) |
 
 ## About This Role
 
-This data analyst position at Cibc was posted on 2026-05-28.
+This data analyst position at Cibc was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

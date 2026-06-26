@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Data-Specialist_R0000373563) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Data-Specialist_R0000377833) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-06-02.
+This data analyst position at Caterpillar was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

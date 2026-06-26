@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Poland |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Growth Marketing |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7858093?gh_jid=7858093) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8015867?gh_jid=8015867) |
 
 ## About This Role
 
-This growth marketing position at HelloFresh was posted on 2026-05-19.
+This growth marketing position at HelloFresh was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

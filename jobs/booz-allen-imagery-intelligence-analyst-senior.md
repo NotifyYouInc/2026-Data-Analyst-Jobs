@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colorado, US |
+| Location | Gyeonggi-do, KR |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Imagery-Intelligence-Analyst--Senior_R0242451) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Pyeongtaek-si-Gyeonggi-do/Imagery-Intelligence-Analyst--Senior_R0242575) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-06-17.
+This data analyst position at Booz Allen was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

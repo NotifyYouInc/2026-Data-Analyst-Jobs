@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rensselaer, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130850844-analytical-sciences-data-review-group-leader) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132939939-analytical-sciences-data-review-group-leader) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-06-08.
+This data analyst position at Eurofins Scientific was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

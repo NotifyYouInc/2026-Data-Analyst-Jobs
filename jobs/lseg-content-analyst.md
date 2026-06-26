@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Content-Analyst_R0119219-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Content-Analyst_R0119474-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-06-17.
+This data analyst position at LSEG was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

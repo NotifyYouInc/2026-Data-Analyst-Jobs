@@ -5,12 +5,12 @@
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Bangalore-India/Energy-Market-Analyst---Power_R2601443) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/New-Delhi-India/Energy-Market-Analyst---Power_R2602081-1) |
 
 ## About This Role
 
-This data analyst position at ICF was posted on 2026-04-28.
+This data analyst position at ICF was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

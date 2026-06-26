@@ -5,12 +5,12 @@
 | Company | [Cincinnati Children's Hospital](https://scoutify.ai/companies/cincinnati-children-s-hospital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Business-Intelligence-Analyst_JR218015) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Business-Intelligence-Analyst_JR218729) |
 
 ## About This Role
 
-This data analyst position at Cincinnati Children's Hospital was posted on 2026-03-06.
+This data analyst position at Cincinnati Children's Hospital was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

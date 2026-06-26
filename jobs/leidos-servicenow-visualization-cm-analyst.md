@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Shiloh, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/ServiceNow-Visualization---CM-Analyst_R-00180297) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/ServiceNow-Visualization---CM-Analyst_R-00185710-1) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-04-08.
+This data analyst position at Leidos was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

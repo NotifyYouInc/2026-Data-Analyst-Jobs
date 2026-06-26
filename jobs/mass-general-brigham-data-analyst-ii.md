@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/32-Fruit-Street-Boston-Yawkey-Center/Data-Analyst-II_RQ4065713) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-II_RQ4069621) |
 
 ## About This Role
 
-This data analyst position at Mass General Brigham was posted on 2026-05-20.
+This data analyst position at Mass General Brigham was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

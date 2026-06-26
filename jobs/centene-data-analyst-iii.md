@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | Missouri, US |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Analyst-III_1634216-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-III_1642364-1) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-04-21.
+This data analyst position at Centene was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Data-Abstraction-Analyst_R319478) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Data-Abstraction-Analyst_R323119) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-05-14.
+This data analyst position at Cushman & Wakefield was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

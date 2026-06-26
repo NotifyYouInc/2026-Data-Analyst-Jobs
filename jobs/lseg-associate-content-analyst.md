@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Associate-Content-Analyst_R0119975-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Associate-Content-Analyst_R0118572-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-06-16.
+This data analyst position at LSEG was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

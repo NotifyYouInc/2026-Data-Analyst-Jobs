@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/Analytics-Practitioner_14332543) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-Practitioner_ATCI-5618631-S2030164-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-06-11.
+This data analyst position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

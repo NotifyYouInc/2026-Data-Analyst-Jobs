@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000132709181-director-business-intelligence) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000132914631-director-business-intelligence) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-06-17.
+This business analyst position at Red Bull was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Maryland, US |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/308-Sentinel-Drive-Annapolis-Junction-MD/Chinese-Language-Annotator_7936) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Annapolis-Junction-MD/Chinese-Language-Annotator_7973) |
 
 ## About This Role
 
-This data analyst position at AeroVironment was posted on 2026-06-12.
+This data analyst position at AeroVironment was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

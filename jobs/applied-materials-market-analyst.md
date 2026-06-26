@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Market-Analyst_R2618589) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Market-Analyst_R2622264) |
 
 ## About This Role
 
-This data analyst position at Applied Materials was posted on 2026-04-27.
+This data analyst position at Applied Materials was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

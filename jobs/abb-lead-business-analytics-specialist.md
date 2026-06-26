@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Warrington-Cheshire-United-Kingdom/Lead-Business-Analytics-Specialist_JR00025817-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/Lead-Business-Analytics-Specialist_JR00038778) |
 
 ## About This Role
 
-This data analyst position at ABB was posted on 2026-03-24.
+This data analyst position at ABB was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

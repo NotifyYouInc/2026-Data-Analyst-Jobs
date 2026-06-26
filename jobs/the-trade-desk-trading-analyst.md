@@ -5,12 +5,12 @@
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Account Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5141100007) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5160603007) |
 
 ## About This Role
 
-This account manager position at The Trade Desk was posted on 2026-05-19.
+This account manager position at The Trade Desk was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
