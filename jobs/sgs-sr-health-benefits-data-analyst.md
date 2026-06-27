@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000115876637-sr-health-benefits-data-analyst) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000133117445-sr-health-benefits-data-analyst) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-03-20.
+This data analyst position at SGS was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

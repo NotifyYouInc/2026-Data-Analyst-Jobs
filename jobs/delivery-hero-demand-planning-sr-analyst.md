@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131980280-demand-planning-sr-analyst) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133084362-demand-planning-sr-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-06-12.
+This business analyst position at Delivery Hero was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

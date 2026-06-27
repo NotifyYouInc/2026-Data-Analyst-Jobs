@@ -1,16 +1,16 @@
-# Senior Data Analyst - Internal Audit  at WISE
+# Senior Data Analyst - Internal Audit at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Accounting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000117368668-senior-data-analyst-internal-audit) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133043985-senior-data-analyst-internal-audit) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-03-27.
+This data analyst position at WISE was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

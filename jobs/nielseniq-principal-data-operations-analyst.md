@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132412009-principal-data-operations-analyst) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133015290-principal-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-16.
+This data analyst position at NielsenIQ was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

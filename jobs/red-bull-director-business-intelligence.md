@@ -6,7 +6,7 @@
 | Location | Santa Monica, California, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000132914631-director-business-intelligence) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000132917069-director-business-intelligence) |
 
 ## About This Role
 

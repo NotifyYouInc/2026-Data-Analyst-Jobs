@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auburn Hills, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000127724499-data-analysis-intern-yearlong) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000133088620-data-analysis-intern-yearlong) |
 
 ## About This Role
 
-This data analyst position at Aumovio was posted on 2026-05-21.
+This data analyst position at Aumovio was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

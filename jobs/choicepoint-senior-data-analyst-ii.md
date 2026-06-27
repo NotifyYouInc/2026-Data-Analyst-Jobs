@@ -5,12 +5,12 @@
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---London-London-Wall/Senior-Data-Analyst-II_R113130-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/London/Senior-Data-Analyst-II_R114851-2) |
 
 ## About This Role
 
-This data analyst position at ChoicePoint was posted on 2026-05-12.
+This data analyst position at ChoicePoint was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

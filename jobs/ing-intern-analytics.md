@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Intern--Analytics-_REQ-10114433) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Intern--Analytics-_REQ-10116611) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-05-07.
+This data analyst position at ING was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

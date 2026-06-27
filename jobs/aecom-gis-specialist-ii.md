@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Centurion, Gauteng, South Africa |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130591889-gis-specialist-ii) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133068689-gis-specialist-ii) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-06-05.
+This data analyst position at AECOM was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

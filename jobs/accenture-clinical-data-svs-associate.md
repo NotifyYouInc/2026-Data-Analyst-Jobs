@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Clinical-Data-Svs-Associate_AIOC-S01651266-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Clinical-Data-Svs-Associate_AIOC-S01651264-1) |
 
 ## About This Role
 

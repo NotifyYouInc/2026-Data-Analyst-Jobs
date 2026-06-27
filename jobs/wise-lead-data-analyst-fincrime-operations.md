@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000128671487-lead-data-analyst-fincrime-operations) |
+| Category | Data Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133091829-lead-data-analyst-fincrime-operations) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-05-27.
+This data analyst position at WISE was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

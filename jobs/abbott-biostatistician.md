@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alameda, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Biostatistician_31145530-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Biostatistician_31153900-1) |
 
 ## About This Role
 
-This data analyst position at Abbott was posted on 2026-05-07.
+This data analyst position at Abbott was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

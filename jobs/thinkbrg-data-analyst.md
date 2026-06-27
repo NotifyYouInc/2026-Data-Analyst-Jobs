@@ -5,12 +5,12 @@
 | Company | [Thinkbrg](https://scoutify.ai/companies/thinkbrg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Data-Analyst_JR100772) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Data-Analyst_JR100906) |
 
 ## About This Role
 
-This data analyst position at Thinkbrg was posted on 2026-04-14.
+This data analyst position at Thinkbrg was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
