@@ -1,12 +1,12 @@
-# Data Analyst Principal at General Dynamics Information Technology
+# Program/Data Analyst Advisor at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
 | Posted | 2026-06-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Analyst-Principal_RQ222810) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Program-Data-Analyst-Advisor_RQ222620-2) |
 
 ## About This Role
 

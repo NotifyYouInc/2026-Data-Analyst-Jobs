@@ -1,4 +1,4 @@
-# Sr. Analyst, Business Analytics at CVS Health
+# Sr. Analyst, Project Product Development at CVS Health
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Woonsocket, Rhode Island, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Analyst--Business-Analytics_R0942443) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Analyst--Project-Product-Development_R0942388) |
 
 ## About This Role
 

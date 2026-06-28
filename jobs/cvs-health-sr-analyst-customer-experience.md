@@ -1,16 +1,16 @@
-# Sr. Analyst, Business Analytics at CVS Health
+# Sr. Analyst, Customer Experience at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Woonsocket, Rhode Island, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Analyst--Business-Analytics_R0942443) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Analyst--Customer-Experience_R0942263) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-06-20.
+This data analyst position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

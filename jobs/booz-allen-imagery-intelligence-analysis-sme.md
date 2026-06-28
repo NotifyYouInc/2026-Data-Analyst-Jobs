@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wiesbaden, Hesse, Germany |
+| Location | Honolulu, Hawaii, United States |
 | Category | Data Analyst |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Imagery-Intelligence-Analysis-SME_R0242577) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Imagery-Intelligence-Analysis-SME_R0242574) |
 
 ## About This Role
 

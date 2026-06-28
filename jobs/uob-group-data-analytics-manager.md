@@ -1,16 +1,16 @@
-# Data Analytics Senior Consultant I at Allstate
+# Data Analytics Manager at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Data Analyst |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Data-Analytics-Senior-Consultant-I_R31836-1) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Bangkok-City-Area/Data-Analytics-Manager_JR89191) |
 
 ## About This Role
 
-This data analyst position at Allstate was posted on 2026-06-20.
+This data analyst position at UOB Group was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 
