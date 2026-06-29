@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Statistics & PAT Expert at Novartis
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Statistics---PAT-Expert_REQ-10080194) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at Novartis was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

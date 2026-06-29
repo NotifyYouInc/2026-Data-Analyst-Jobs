@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Maharashtra, IN |
 | Category | Data Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000125448644-associate-research-analyst) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000133254149-associate-research-analyst) |
 
 ## About This Role
 
-This data analyst position at Louis Dreyfus was posted on 2026-05-09.
+This data analyst position at Louis Dreyfus was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

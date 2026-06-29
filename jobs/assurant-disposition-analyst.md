@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Disposition Analyst at Assurant
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | South Korea |
+| Category | Account Manager |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Dongcheon/Disposition-Analyst_R-114386) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This account manager position at Assurant was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Sr Analyst at TransUnion
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Sr-Analyst_19040786-1) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at TransUnion was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

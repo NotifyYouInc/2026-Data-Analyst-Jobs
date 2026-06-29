@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Online-BAI-Intern_541640-2) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Online-BAI-Intern_545231) |
 
 ## About This Role
 
-This data analyst position at Haleon was posted on 2026-04-21.
+This data analyst position at Haleon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

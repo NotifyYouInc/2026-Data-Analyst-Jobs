@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# 电子商务数据专员 at Charles & Keith
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Charles & Keith](https://scoutify.ai/companies/charles-keith?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | China |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/CK_CHINA-EC-OFFICE/_JR101653) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at Charles & Keith was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

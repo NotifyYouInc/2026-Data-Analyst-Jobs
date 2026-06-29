@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R106486) |
+| Category | Product Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R107644-1) |
 
 ## About This Role
 
-This data analyst position at Tencent was posted on 2026-04-10.
+This product manager position at Tencent was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

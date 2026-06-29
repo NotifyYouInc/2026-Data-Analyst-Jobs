@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Bulk Migrations Data Analyst at Hub24management
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 3 locations |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Melbourne/Bulk-Migrations-Data-Analyst_JR100818) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at Hub24management was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

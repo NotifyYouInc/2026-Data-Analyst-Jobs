@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000125990669-product-analytics-intern) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000133249109-product-analytics-intern) |
 
 ## About This Role
 
-This data analyst position at SEEK was posted on 2026-05-12.
+This data analyst position at SEEK was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

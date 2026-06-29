@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Atlanta-Georgia-Office/Data-Management-Analyst-I_R-107326) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Gurgaon-India-Office/Data-Management-Analyst-I_R-108510) |
 
 ## About This Role
 
-This data analyst position at MRI Software was posted on 2026-04-17.
+This data analyst position at MRI Software was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

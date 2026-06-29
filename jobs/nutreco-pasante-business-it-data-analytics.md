@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Pasante Business IT / Data & Analytics at Nutreco
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Nutreco](https://scoutify.ai/companies/nutreco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Guayas, EC |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://nutreco.wd3.myworkdayjobs.com/nutreco_external/job/Duran-Guayas/Pasante-Business-IT---Data---Analytics_VAC28990-1) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at Nutreco was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

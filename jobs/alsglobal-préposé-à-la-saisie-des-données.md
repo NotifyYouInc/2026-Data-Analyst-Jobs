@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Préposé à la saisie des données at Alsglobal
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Alsglobal](https://scoutify.ai/companies/alsglobal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Rouyn-Noranda, Quebec, Canada |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://alsglobal.wd103.myworkdayjobs.com/external/job/Rouyn-Noranda-Quebec-Canada/Prpos--la-saisie-des-donnes_R6257) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at Alsglobal was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

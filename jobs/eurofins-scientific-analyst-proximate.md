@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Analyst - Proximate   at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133274369-analyst-proximate) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at Eurofins Scientific was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

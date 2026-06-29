@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000109952115-intern-business-intelligence) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000133276869-intern-business-intelligence) |
 
 ## About This Role
 
-This data analyst position at Inetum was posted on 2026-02-18.
+This data analyst position at Inetum was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

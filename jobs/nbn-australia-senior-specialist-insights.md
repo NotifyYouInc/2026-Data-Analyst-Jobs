@@ -1,16 +1,16 @@
-# Data Analyst at Airbus
+# Senior Specialist Insights at NBN Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [NBN Australia](https://scoutify.ai/companies/nbn-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Analyst_JR10421399) |
+| Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Melbourne/Senior-Specialist-Insights_240656) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-06-22.
+This data analyst position at NBN Australia was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
