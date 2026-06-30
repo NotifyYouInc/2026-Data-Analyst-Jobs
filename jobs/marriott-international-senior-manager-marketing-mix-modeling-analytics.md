@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bethesda, Maryland, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26050711) |
+| Location | Singapore, Singapore |
+| Category | Marketing |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26072141) |
 
 ## About This Role
 
-This business analyst position at Marriott International was posted on 2026-06-18.
+This marketing position at Marriott International was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

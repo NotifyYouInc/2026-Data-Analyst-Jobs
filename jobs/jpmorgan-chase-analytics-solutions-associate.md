@@ -1,16 +1,16 @@
-# Analytics Solutions- Associate at JPMorgan Chase
+# Analytics Solutions - Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750403) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756753) |
 
 ## About This Role
 
-This business analyst position at JPMorgan Chase was posted on 2026-06-01.
+This business analyst position at JPMorgan Chase was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

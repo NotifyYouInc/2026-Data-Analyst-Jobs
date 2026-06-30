@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7728562?gh_jid=7728562) |
+| Category | Business Analyst |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7728553?gh_jid=7728553) |
 
 ## About This Role
 
-This data analyst position at Okta was posted on 2026-03-19.
+This business analyst position at Okta was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

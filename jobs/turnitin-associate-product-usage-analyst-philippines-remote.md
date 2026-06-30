@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000121794168-associate-product-usage-analyst-philippines-remote) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000133360220-associate-product-usage-analyst-philippines-remote) |
 
 ## About This Role
 
-This data analyst position at Turnitin was posted on 2026-04-20.
+This data analyst position at Turnitin was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

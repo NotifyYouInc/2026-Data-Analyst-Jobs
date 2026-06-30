@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Boston-MA/Associate_R264854) |
+| Location | New York City, New York, United States |
+| Category | Corporate Finance |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate_R264874) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-06-18.
+This corporate finance position at Blackrock was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131573856-consumer-data-insights-fixed-term) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133512619-consumer-data-insights-fixed-term) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-11.
+This data analyst position at NielsenIQ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

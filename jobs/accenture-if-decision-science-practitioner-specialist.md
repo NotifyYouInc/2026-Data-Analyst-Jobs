@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/I-F-Decision-Science-Practitioner-Specialist_AIOC-S01633360-1) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Marketing |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/I-F-Decision-Sci-Practitioner-Sr-Analyst_AIOC-S01637163-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-05-15.
+This marketing position at Accenture was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

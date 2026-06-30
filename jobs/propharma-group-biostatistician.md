@@ -5,12 +5,12 @@
 | Company | [ProPharma Group](https://scoutify.ai/companies/propharma-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://propharmagroup.wd1.myworkdayjobs.com/ppgcareers/job/United-States/Biostatistician_JR9976) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://propharmagroup.wd1.myworkdayjobs.com/ppgcareers/job/Canada/Biostatistician_JR9935) |
 
 ## About This Role
 
-This data analyst position at ProPharma Group was posted on 2026-06-11.
+This data analyst position at ProPharma Group was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000131928769-analyste-en-intelligence-daffaires-finance-power-bi) |
+| Location | Longueuil, Quebec, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000133390059-analyste-en-intelligence-daffaires-finance-power-bi) |
 
 ## About This Role
 
-This business analyst position at CIMA+ was posted on 2026-06-12.
+This corporate finance position at CIMA+ was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

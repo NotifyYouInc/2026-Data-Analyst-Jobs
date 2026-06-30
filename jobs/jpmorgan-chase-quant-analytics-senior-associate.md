@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727172) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759342) |
 
 ## About This Role
 
-This data analyst position at JPMorgan Chase was posted on 2026-06-05.
+This data analyst position at JPMorgan Chase was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

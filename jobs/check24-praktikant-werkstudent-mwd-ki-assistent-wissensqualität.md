@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | AI / ML Research |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000132786628-praktikant-werkstudent-mwd-ki-assistent-wissensqualitat) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133341362-praktikant-werkstudent-mwd-ki-assistent-wissensqualitat) |
 
 ## About This Role
 
-This ai / ml research position at CHECK24 was posted on 2026-06-18.
+This ai / ml research position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

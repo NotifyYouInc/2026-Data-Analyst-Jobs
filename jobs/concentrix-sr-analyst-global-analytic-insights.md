@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Fortaleza, Ceará, Brazil |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/BRA-Fortaleza---Rua-Goncalves-Ledo/Sr-Analyst--Global-Analytic-Insights_R1734175) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Makati-City---Glorietta/Sr-Analyst--Global-Analytic-Insights_R1740337) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-06-08.
+This data analyst position at Concentrix was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

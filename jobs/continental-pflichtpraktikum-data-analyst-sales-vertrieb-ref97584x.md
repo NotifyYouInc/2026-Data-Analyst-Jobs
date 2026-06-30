@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
-| Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000132387499-pflichtpraktikum-data-analyst-sales-vertrieb-ref97584x) |
+| Category | Sales Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133510759-pflichtpraktikum-data-analyst-sales-vertrieb-ref97584x) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-06-16.
+This sales engineer position at Continental was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

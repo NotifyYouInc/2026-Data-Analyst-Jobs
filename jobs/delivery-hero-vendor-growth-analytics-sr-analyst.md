@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000130577676-vendor-growth-analytics-sr-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133370014-vendor-growth-analytics-sr-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-06-05.
+This data analyst position at Delivery Hero was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Growth Marketing |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7800063?gh_jid=7800063) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8018719?gh_jid=8018719) |
 
 ## About This Role
 
-This growth marketing position at HelloFresh was posted on 2026-04-09.
+This growth marketing position at HelloFresh was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Integrated-Scenario-Analyst_R49441) |
+| Category | Corporate Finance |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Integrated-Scenario-Analyst_R50720) |
 
 ## About This Role
 
-This business analyst position at FirstRand was posted on 2026-05-12.
+This corporate finance position at FirstRand was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

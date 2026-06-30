@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000131183992-data-analytics-manager) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000133384765-data-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-06-09.
+This data analyst position at Informa was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

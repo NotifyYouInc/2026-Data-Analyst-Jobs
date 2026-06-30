@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000126240838-werkstudent-mwd-business-intelligence-home-living-e-commerce) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133341238-werkstudent-mwd-business-intelligence-home-living-e-commerce) |
 
 ## About This Role
 
-This data analyst position at CHECK24 was posted on 2026-05-13.
+This data analyst position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

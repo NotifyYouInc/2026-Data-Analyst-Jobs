@@ -5,12 +5,12 @@
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Älmhult, Kronoberg, Sweden |
 | Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000132852316-customs-analyst) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000133267867-customs-analyst) |
 
 ## About This Role
 
-This data analyst position at Inter Ikea Systems was posted on 2026-06-18.
+This data analyst position at Inter Ikea Systems was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

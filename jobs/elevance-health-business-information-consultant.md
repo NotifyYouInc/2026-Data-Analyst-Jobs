@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 6 locations |
+| Location | St. Louis, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/Business-Information-Consultant_JR189149) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/MO-ST-LOUIS-100-S-4TH-ST/Business-Information-Consultant_JR194418) |
 
 ## About This Role
 
-This data analyst position at Elevance Health was posted on 2026-05-07.
+This data analyst position at Elevance Health was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

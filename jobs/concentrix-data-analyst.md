@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---Business-ParkKadubeesanahalli-Village/Data-Analyst_R1693638) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Muntinlupa-City/Data-Analyst_R1740176) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-02-09.
+This data analyst position at Concentrix was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

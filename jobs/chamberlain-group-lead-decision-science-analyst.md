@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Oak Brook, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Lead-Decision-Science-Analyst_JR30300) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Lead-Decision-Science-Analyst_JR30103) |
 
 ## About This Role
 
-This data analyst position at Chamberlain Group was posted on 2026-02-24.
+This data analyst position at Chamberlain Group was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico |
 | Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Data-Analyst-III_R0014548) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Data-Analyst-III_R0015892) |
 
 ## About This Role
 
-This data analyst position at Astreya was posted on 2026-02-17.
+This data analyst position at Astreya was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

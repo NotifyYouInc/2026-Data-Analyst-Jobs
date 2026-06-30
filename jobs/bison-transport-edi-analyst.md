@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bison Transport](https://scoutify.ai/companies/bison-transport?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Winnipeg, Manitoba, Canada |
-| Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://bison.wd3.myworkdayjobs.com/bisonnon-drivingcareers/job/Winnipeg-MB/EDI-Analyst_R7059-1) |
+| Category | Business Analyst |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://bison.wd3.myworkdayjobs.com/bisonnon-drivingcareers/job/Winnipeg-MB/EDI-Analyst_R7179) |
 
 ## About This Role
 
-This data analyst position at Bison Transport was posted on 2026-05-15.
+This business analyst position at Bison Transport was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
