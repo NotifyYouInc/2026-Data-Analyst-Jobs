@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Sr-Data-Analyst_J00174517) |
+| Category | Data Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-GA-Alpharetta-JVW3/Sr-Data-Analyst_J00177851) |
 
 ## About This Role
 
-This project manager position at Equifax was posted on 2026-02-05.
+This data analyst position at Equifax was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

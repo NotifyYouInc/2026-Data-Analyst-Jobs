@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudbeds](https://scoutify.ai/companies/cloudbeds?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Thailand |
-| Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cloudbeds/jobs/4701512005) |
+| Location | Not specified |
+| Category | Customer Success |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cloudbeds/jobs/4701529005) |
 
 ## About This Role
 
-This data analyst position at Cloudbeds was posted on 2026-06-05.
+This customer success position at Cloudbeds was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

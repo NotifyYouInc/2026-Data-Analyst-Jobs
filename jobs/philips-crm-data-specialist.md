@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Murrysville, Pennsylvania, United States |
-| Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/CRM-Data-Specialist_584763) |
+| Category | Customer Success |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/CRM-Data-Specialist_585905) |
 
 ## About This Role
 
-This data analyst position at Philips was posted on 2026-06-01.
+This customer success position at Philips was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

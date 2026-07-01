@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | France |
+| Location | Gentilly, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Ambars/alternance-12-mois---data-analyse_R2851715) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/alternance-12-mois---data-analyse_R2861961) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-06-09.
+This data analyst position at Sanofi was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

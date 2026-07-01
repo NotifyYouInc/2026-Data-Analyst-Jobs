@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133336869-data-quality-executive-field-operations) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133500129-data-quality-executive-field-operations) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-22.
+This data analyst position at NielsenIQ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

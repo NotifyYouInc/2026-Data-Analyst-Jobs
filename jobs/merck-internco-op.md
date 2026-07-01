@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Lazio, IT |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ARE---Dubai---Falak-Building/Intern-Co-op_R397734-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ITA---Lazio---Roma/Intern-Co-op_R404473-1) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-05-08.
+This data analyst position at Merck was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

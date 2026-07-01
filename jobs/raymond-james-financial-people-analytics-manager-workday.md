@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | St. Petersburg, Florida, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote---Illinois/People-Analytics-Manager---Workday_R-0009510) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote---Illinois/People-Analytics-Manager---Workday_R-0011711) |
 
 ## About This Role
 
-This data analyst position at Raymond James Financial was posted on 2026-02-12.
+This human resources / people ops position at Raymond James Financial was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

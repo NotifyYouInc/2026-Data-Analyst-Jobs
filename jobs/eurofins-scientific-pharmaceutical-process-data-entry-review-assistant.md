@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rensselaer, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130009724-pharmaceutical-process-data-entry-review-assistant) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133585702-pharmaceutical-process-data-entry-review-assistant) |
 
 ## About This Role
 
-This data analyst position at Eurofins Scientific was posted on 2026-06-03.
+This data analyst position at Eurofins Scientific was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

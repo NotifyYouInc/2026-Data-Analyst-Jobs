@@ -6,7 +6,7 @@
 | Location | Chicago, Illinois, United States |
 | Category | Program Manager |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000133411209-philanthropy-associate-data-marketing-specialist-annual-giving-program) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000133426759-philanthropy-associate-data-marketing-specialist-annual-giving-program) |
 
 ## About This Role
 

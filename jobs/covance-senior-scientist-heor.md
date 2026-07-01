@@ -5,12 +5,12 @@
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Durham/Senior-Scientist---HEOR_263173) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Durham/Senior-Scientist---HEOR_263395) |
 
 ## About This Role
 
-This data analyst position at Covance was posted on 2026-06-11.
+This data analyst position at Covance was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

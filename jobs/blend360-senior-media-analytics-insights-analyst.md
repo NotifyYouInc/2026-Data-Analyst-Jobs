@@ -6,7 +6,7 @@
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Digital / Performance Marketing |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000133406359-senior-media-analytics-insights-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000133414379-senior-media-analytics-insights-analyst) |
 
 ## About This Role
 

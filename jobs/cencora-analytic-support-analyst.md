@@ -5,12 +5,12 @@
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Vilnius-Lithuania/Analytic-Support-Analyst_R267527-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Vilnius-Lithuania/Analytic-Support-Analyst_R268597) |
 
 ## About This Role
 
-This data analyst position at Cencora was posted on 2026-05-18.
+This data analyst position at Cencora was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

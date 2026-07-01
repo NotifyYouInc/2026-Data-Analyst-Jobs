@@ -6,7 +6,7 @@
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000133343715-senior-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000133385789-senior-data-analyst) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Analysis_R240170-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Data-Analysis_R234262-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-04-10.
+This data analyst position at Capital One was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

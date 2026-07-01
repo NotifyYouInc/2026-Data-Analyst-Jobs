@@ -1,16 +1,16 @@
-# Associate, Business Intelligence at NielsenIQ
+# Associate Business Intelligence at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120740364-associate-business-intelligence) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133856789-associate-business-intelligence) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-14.
+This data analyst position at NielsenIQ was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

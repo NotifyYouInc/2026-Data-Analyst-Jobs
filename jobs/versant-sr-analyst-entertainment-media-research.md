@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131969642-sr-analyst-entertainment-media-research) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000133654849-sr-analyst-entertainment-media-research) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-06-12.
+This data analyst position at Versant was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

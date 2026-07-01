@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Program Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013314141-director-for-data-operations-and-program-analytics) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013738336-director-for-data-operations-and-program-analytics) |
 
 ## About This Role
 
-This program manager position at City of New York was posted on 2026-05-27.
+This program manager position at City of New York was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

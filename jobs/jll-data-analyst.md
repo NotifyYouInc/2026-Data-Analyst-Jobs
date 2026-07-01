@@ -1,16 +1,16 @@
-# Data analyst at JLL
+# Data Analyst at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-analyst_REQ513529) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Data-Analyst_REQ516772) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-22.
+This data analyst position at JLL was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

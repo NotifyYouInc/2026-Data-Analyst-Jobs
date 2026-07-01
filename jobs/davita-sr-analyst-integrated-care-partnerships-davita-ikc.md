@@ -1,16 +1,16 @@
-# Sr Analyst, Integrated Care Partnerships (DaVita IKC) at DaVita
+# Sr Analyst, Integrated Care Partnerships (DaVita IKC)) at DaVita
 
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Denver, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01548---Texas-Remote/Sr-Analyst--Integrated-Care-Partnerships--DaVita-IKC-_R0455647) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01887---DaVita-Village-Health-Colorado/Sr-Analyst--Integrated-Care-Partnerships--DaVita-IKC--_R0463722) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-04-23.
+This data analyst position at DaVita was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

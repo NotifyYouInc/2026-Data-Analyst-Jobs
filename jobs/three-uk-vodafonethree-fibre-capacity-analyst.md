@@ -5,12 +5,12 @@
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Newbury, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000132207923-vodafonethree-fibre-capacity-analyst) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000133539764-vodafonethree-fibre-capacity-analyst) |
 
 ## About This Role
 
-This data analyst position at Three UK was posted on 2026-06-15.
+This data analyst position at Three UK was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

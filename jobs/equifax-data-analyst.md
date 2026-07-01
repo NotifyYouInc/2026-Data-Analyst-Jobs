@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Analyst_J00177330) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Data-Analyst_J00177852) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-06-01.
+This data analyst position at Equifax was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

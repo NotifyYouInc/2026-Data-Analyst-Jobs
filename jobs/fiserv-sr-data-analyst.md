@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires---Retiro/Sr-Data-Analyst_R-10390444) |
+| Category | Data Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires---Retiro/Sr-Data-Analyst_R-10392375) |
 
 ## About This Role
 
-This machine learning engineer position at Fiserv was posted on 2026-03-20.
+This data analyst position at Fiserv was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

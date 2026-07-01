@@ -6,7 +6,7 @@
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Digital / Performance Marketing |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000133402339-media-analytics-insights-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000133414999-media-analytics-insights-lead) |
 
 ## About This Role
 

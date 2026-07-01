@@ -5,12 +5,12 @@
 | Company | [Wwprosolutions](https://scoutify.ai/companies/wwprosolutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chandler, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/wwprosolutions/9a4dd0e5-f2ba-471b-a0f6-a8101803618d) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.lever.co/wwprosolutions/5233b05b-3133-4262-be07-835849ea2f79) |
 
 ## About This Role
 
-This data analyst position at Wwprosolutions was posted on 2026-04-20.
+This data analyst position at Wwprosolutions was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

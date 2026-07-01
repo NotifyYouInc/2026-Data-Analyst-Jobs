@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | Customer Success |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Client-Data-Integration--CDI--Analyst--Officer_R-792462) |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Client-Data-Integration--CDI--Analyst--Officer_R-792851) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-06-16.
+This business analyst position at State Street was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

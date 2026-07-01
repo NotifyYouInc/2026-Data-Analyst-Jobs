@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Budapest-Hungary/Master-Data-Analyst_R-01356248) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Master-Data-Analyst_R-01358585) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-06-17.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

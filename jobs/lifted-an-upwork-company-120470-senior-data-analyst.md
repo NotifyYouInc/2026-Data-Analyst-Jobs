@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990013312877-120470-senior-data-analyst) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990013747617-120470-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Lifted, an Upwork Company™ was posted on 2026-05-27.
+This data analyst position at Lifted, an Upwork Company™ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

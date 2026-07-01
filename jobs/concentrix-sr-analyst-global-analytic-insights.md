@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Makati-City---Glorietta/Sr-Analyst--Global-Analytic-Insights_R1740337) |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/BRA-SAO-PAULO-Rua-Tagipuru-906--Barra-Funda/Sr-Analyst--Global-Analytic-Insights_R1738609) |
 
 ## About This Role
 
