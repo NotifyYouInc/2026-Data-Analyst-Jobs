@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | San Pedro Garza García, Nuevo León, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/AI-Project-Data-Modelling-Analyst_WD30270459) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/AI-Project-Data-Modelling-Analyst_WD30272834) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-06-02.
+This data analyst position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

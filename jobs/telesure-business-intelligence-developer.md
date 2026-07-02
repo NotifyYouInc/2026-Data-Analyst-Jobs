@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Western Cape, ZA |
+| Location | South Africa |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Western-Cape/Business-Intelligence-Developer_JR105075) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Steyn-City-Capital-Park/Business-Intelligence-Developer_JR104925) |
 
 ## About This Role
 
-This data analyst position at Telesure was posted on 2026-06-15.
+This data analyst position at Telesure was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

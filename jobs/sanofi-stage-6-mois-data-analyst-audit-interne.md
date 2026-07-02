@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gentilly, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---data-analyst-audit-interne_R2858576) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---data-analyst-audit-interne_R2858597) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-05-25.
+This data analyst position at Sanofi was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

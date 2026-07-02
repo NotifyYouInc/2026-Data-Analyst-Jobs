@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Viral Nation Inc.](https://scoutify.ai/companies/viral-nation-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Canada |
-| Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/viralnation/jobs/4933916007) |
+| Category | Data Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/viralnation/jobs/5172120007) |
 
 ## About This Role
 
-This business analyst position at Viral Nation Inc. was posted on 2026-03-13.
+This data analyst position at Viral Nation Inc. was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

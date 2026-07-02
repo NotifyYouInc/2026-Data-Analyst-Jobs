@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst_R-AOP-0231) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/Analyst_R-AOP-0241) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-06-17.
+This data analyst position at Cushman & Wakefield was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

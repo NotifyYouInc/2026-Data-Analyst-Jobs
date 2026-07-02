@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Riverside, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Riverside-CA-US/Data-Analyst_327821) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Riverside-CA-US/Data-Analyst_328140) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-06-16.
+This data analyst position at CACI was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Reporting and Analytics Analyst at The Ohio State University
+# Senior Reporting and Analytics Analyst at The Ohio State University
 
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Senior-Reporting-and-Analytics-Analyst_R145997) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Senior-Reporting-and-Analytics-Analyst_R153322-1) |
 
 ## About This Role
 
-This data analyst position at The Ohio State University was posted on 2026-03-10.
+This data analyst position at The Ohio State University was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

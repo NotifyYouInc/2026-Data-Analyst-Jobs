@@ -5,12 +5,12 @@
 | Company | [Viral Nation Inc.](https://scoutify.ai/companies/viral-nation-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/viralnation/jobs/5113283007) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/viralnation/jobs/5172133007) |
 
 ## About This Role
 
-This data analyst position at Viral Nation Inc. was posted on 2026-04-20.
+This data analyst position at Viral Nation Inc. was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

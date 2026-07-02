@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/PENJERLA-Telangana-India/Experienced-I-Statistical-Programmer_R-074782-1) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Experienced-I-Statistical-Programmer_R-064678-1) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-05-13.
+This data analyst position at Johnson & Johnson was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Philippines---Taguig-City/Data-Analyst_31152965) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Philippines---Taguig-City/Data-Analyst_31154457) |
 
 ## About This Role
 
-This data analyst position at Abbott was posted on 2026-06-09.
+This data analyst position at Abbott was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

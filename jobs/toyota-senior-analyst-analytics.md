@@ -5,12 +5,12 @@
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Analyst---Analytics_10302887-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Analyst---Analytics_10329993) |
 
 ## About This Role
 
-This data analyst position at Toyota was posted on 2026-05-05.
+This data analyst position at Toyota was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Sr-Clin-Data-Team-Lead_R-01357609) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Sr-Clin-Data-Team-Lead_R-01357616) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-06-16.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

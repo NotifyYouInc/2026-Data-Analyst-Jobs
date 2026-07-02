@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Senior-Data-Analyst_JR00125107-2) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-Data-Analyst_JR00125327-1) |
 
 ## About This Role
 
-This data analyst position at Sun Life Financial was posted on 2026-06-18.
+This data analyst position at Sun Life Financial was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data analyst at Hitachi
+# Data Analyst at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hefei, Anhui, China |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hefei-Anhui-China/Data-analyst_R0132131) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Data-Analyst_R0124760) |
 
 ## About This Role
 
-This data analyst position at Hitachi was posted on 2026-05-26.
+This data analyst position at Hitachi was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

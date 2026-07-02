@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prophet](https://scoutify.ai/companies/prophet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Business Analyst |
+| Location | Austin, Texas, United States |
+| Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/prophet/jobs/4661263005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/prophet/jobs/4661259005) |
 
 ## About This Role
 
-This business analyst position at Prophet was posted on 2026-05-11.
+This data analyst position at Prophet was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

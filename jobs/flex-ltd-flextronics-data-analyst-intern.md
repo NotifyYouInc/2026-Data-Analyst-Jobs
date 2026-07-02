@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Data-Analyst-Intern_WD217226) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Data-Analyst-Intern_WD223633) |
 
 ## About This Role
 
-This data analyst position at FLEX LTD. Flextronics was posted on 2026-03-25.
+This data analyst position at FLEX LTD. Flextronics was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

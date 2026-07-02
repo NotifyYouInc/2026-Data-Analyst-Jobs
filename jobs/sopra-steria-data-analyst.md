@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Stavanger, Rogaland, Norway |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132615305-data-analyst) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133936778-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-06-17.
+This data analyst position at Sopra Steria was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

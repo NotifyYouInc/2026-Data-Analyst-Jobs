@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Piossasco, Piedmont, Italy |
 | Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013681636-operations-performance-data-analyst-apprenticeship) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013766916-operations-performance-data-analyst-apprenticeship) |
 
 ## About This Role
 
-This data analyst position at Wabtec was posted on 2026-06-18.
+This data analyst position at Wabtec was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/Data-Analyst_RQ112047-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Data-Analyst_RQ109174-1) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-06-17.
+This data analyst position at BP was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000133009790-senior-associate-data-analyst) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000133942485-senior-associate-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-06-19.
+This data analyst position at Grab was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

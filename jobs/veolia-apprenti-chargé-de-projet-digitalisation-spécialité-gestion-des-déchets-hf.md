@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133610561-apprenti-charge-de-projet-digitalisation-specialite-gestion-des-dechets-hf) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133992947-apprenti-charge-de-projet-digitalisation-specialite-gestion-des-dechets-hf) |
 
 ## About This Role
 
-This project manager position at Veolia was posted on 2026-06-23.
+This project manager position at Veolia was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

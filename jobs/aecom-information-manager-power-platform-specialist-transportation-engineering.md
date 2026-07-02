@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133417569-information-manager-power-platform-specialist-transportation-engineering) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133955504-information-manager-power-platform-specialist-transportation-engineering) |
 
 ## About This Role
 
-This business analyst position at AECOM was posted on 2026-06-22.
+This business analyst position at AECOM was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

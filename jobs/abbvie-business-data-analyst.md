@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Maidenhead, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011894044-business-data-analyst) |
+| Location | Helsinki, Uusimaa, Finland |
+| Category | Data Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013762482-business-data-analyst) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-02-27.
+This data analyst position at AbbVie was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 5 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Research-Analyst_R264125-2) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Research-Analyst_R264881-1) |
 
 ## About This Role
 
-This data analyst position at Uline was posted on 2026-05-29.
+This data analyst position at Uline was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

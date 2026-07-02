@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAMP Systems](https://scoutify.ai/companies/recruiting-ultipro-com-oj18183?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://recruiting.ultipro.com/cam1010csii/JobBoard/54a25c3a-e399-42b0-a553-16ed056e0517/OpportunityDetail?opportunityId=1970fa9d-8e18-4cf4-baa3-88f46d6e97f9) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://recruiting.ultipro.com/cam1010csii/JobBoard/54a25c3a-e399-42b0-a553-16ed056e0517/OpportunityDetail?opportunityId=8ebfea49-12f9-47cf-ab8f-31398c747272) |
 
 ## About This Role
 
-This data analyst position at CAMP Systems was posted on 2026-06-22.
+This data analyst position at CAMP Systems was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

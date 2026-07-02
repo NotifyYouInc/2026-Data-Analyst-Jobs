@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000129823290-report-solution-analystspecialist) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000133939725-report-solution-analystspecialist) |
 
 ## About This Role
 
-This data analyst position at MUFG Investor Services was posted on 2026-06-02.
+This data analyst position at MUFG Investor Services was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

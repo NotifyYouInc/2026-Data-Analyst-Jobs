@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 6 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133590306-analytics-consultant) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133901630-analytics-consultant) |
 
 ## About This Role
 
-This data analyst position at Version 1 was posted on 2026-06-23.
+This data analyst position at Version 1 was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
-| Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Business-Analytics-Lead-Analyst_26929703) |
+| Location | Irving, Texas, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Business-Analytics-Lead-Analyst_26962187) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-03-02.
+This business analyst position at Citigroup was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

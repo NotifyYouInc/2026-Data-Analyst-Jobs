@@ -1,16 +1,16 @@
-# Analista de datos at IQVIA
+# Analista de Datos at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Guatemala City, Guatemala, Guatemala |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Guatemala-City-Guatemala/Analista-de-datos_R1522667) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bogota-Colombia/Analista-de-Datos_R1553744) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-04-13.
+This data analyst position at IQVIA was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

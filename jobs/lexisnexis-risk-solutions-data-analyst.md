@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Remote---USA---Nationwide/Data-Analyst_R110751-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/Data-Analyst_R115299) |
 
 ## About This Role
 
-This data analyst position at LexisNexis Risk Solutions was posted on 2026-04-17.
+This data analyst position at LexisNexis Risk Solutions was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
