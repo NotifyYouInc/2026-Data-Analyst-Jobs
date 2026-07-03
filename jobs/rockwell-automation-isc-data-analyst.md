@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/ISC-Data-Analyst_R26-4141-1) |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/ISC-Data-Analyst_R26-4139-1) |
 
 ## About This Role
 

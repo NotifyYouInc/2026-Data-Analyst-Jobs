@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117611538-associate-analyst-modelling) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134316199-associate-analyst-modelling) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-30.
+This data analyst position at NielsenIQ was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

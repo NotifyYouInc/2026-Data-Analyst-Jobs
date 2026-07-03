@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sainte-Maxime, Provence-Alpes-Côte d'Azur, France |
-| Category | Project Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132228400-responsable-detudes-et-de-projets-techniques-centre-danalyse-de-recherche-et-de-reporting-operationnel-fh) |
+| Category | Engineering Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000134429849-responsable-detudes-et-de-projets-techniques-centre-danalyse-de-recherche-et-de-reporting-operationnel-fh) |
 
 ## About This Role
 
-This project manager position at Veolia was posted on 2026-06-15.
+This engineering manager position at Veolia was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

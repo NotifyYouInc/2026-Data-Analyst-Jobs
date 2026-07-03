@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Murray, Utah, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Transformation-Center/Data-Analyst-Technical-Senior_R173249) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Key-Bank-Tower/Data-Analyst-Technical-Senior_R175690) |
 
 ## About This Role
 
-This data analyst position at Intermountain Health was posted on 2026-06-02.
+This data analyst position at Intermountain Health was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

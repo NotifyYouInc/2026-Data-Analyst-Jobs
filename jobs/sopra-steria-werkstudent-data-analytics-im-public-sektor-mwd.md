@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121161557-werkstudent-data-analytics-im-public-sektor-mwd) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134238689-werkstudent-data-analytics-im-public-sektor-mwd) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-04-16.
+This data analyst position at Sopra Steria was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

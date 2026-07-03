@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Business-Intelligence-Analyst_R0054132) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Business-Intelligence-Analyst_R0058311) |
 
 ## About This Role
 
-This data analyst position at Wolters Kluwer was posted on 2026-03-25.
+This data analyst position at Wolters Kluwer was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

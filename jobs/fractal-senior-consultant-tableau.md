@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Consultant---Tableau_SR-17745) |
+| Location | 5 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Consultant---Tableau_SR-43534) |
 
 ## About This Role
 
-This strategy / management consulting position at Fractal was posted on 2026-04-03.
+This data analyst position at Fractal was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

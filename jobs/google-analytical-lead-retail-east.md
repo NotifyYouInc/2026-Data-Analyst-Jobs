@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cambridge, Massachusetts, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSEPRqVNZ_3ygUibEIs8d4A-cLkKfrVuSD4f7nOUe1hCEjsACxwdTGs49vxEJO1sUn6kZzrJgqv81WSav8EAunXIphSh_npEcxr08Fnc8IoYho0qKhTaW_R-5FB8ag%3D%3D_V2&loc=US&title=Analytical+Lead) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWyQ6GFTsUgU9ChHNKxFfk9fwo4m08hgalVsSM-4wH2HEjsA1Ny_i_NaGl3_dscMmCFn65BTW9ZG0taA64vpg35kyYDe06yqLeh8xHXZSagDbV6zX4wwnFT_M2_92Q%3D%3D_V2&loc=US&title=Analytical+Lead) |
 
 ## About This Role
 
-This business analyst position at Google was posted on 2026-04-08.
+This data analyst position at Google was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

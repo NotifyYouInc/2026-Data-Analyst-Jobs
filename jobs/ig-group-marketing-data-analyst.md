@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Marketing |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Cannon-Street-London/Marketing-Data-Analyst_R_17043-1) |
+| Category | Data Analyst |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Cannon-Street-London/Marketing-Data-Analyst_R_17267) |
 
 ## About This Role
 
-This marketing position at IG Group was posted on 2026-05-20.
+This data analyst position at IG Group was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

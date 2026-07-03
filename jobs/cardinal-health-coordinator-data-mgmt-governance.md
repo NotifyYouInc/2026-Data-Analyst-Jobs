@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Indiana, US |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Coordinator--Data-mgmt---governance_20178601) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Coordinator--Data-mgmt---governance_20182511) |
 
 ## About This Role
 
-This data analyst position at Cardinal Health was posted on 2026-04-21.
+This data analyst position at Cardinal Health was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

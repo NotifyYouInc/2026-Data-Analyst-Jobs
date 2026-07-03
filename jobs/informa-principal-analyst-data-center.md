@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000131362858-principal-analyst-data-center) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000134266579-principal-analyst-data-center) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-06-10.
+This data analyst position at Informa was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ENSCO](https://scoutify.ai/companies/ensco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ensco/jobs/5161770008) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ensco/jobs/5279479008) |
 
 ## About This Role
 
-This data analyst position at ENSCO was posted on 2026-03-23.
+This data analyst position at ENSCO was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

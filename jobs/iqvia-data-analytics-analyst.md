@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Kathmandu, Bagmati Province, Nepal |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Santiago-Chile/Data-Analytics-Analyst_R1536911) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kathmandu-Nepal/Data-Analytics-Analyst_R1549786) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-04-27.
+This data analyst position at IQVIA was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

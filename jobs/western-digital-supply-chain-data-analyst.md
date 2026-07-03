@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Thailand |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000127843499-supply-chain-data-analyst) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000134214166-supply-chain-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Western Digital was posted on 2026-05-22.
+This data analyst position at Western Digital was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

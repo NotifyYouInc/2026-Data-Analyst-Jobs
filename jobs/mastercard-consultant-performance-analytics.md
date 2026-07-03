@@ -1,16 +1,16 @@
-# Consultant, Performance Analytics at Mastercard
+# Consultant - Performance Analytics at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Hyderabad-India/Consultant--Performance-Analytics_R-264241) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Hyderabad-India/Consultant---Performance-Analytics_R-280756-1) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-04-14.
+This data analyst position at Mastercard was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

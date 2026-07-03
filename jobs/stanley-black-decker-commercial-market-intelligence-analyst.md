@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colombia |
-| Category | Product Marketing |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Colombia---Remote/Commercial-Market-Intelligence-Analyst_REQ-1000048288) |
+| Location | Medellín, Antioquia, Colombia |
+| Category | Data Analyst |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Medelln-Antioquia-Colombia/Commercial-Market-Intelligence-Analyst_REQ-1000048982) |
 
 ## About This Role
 
-This product marketing position at Stanley Black & Decker was posted on 2026-06-01.
+This data analyst position at Stanley Black & Decker was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | National Capital Region, PH |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/MIS-Specialist_JR00123432-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/MIS-Specialist_JR00125329-2) |
 
 ## About This Role
 
-This data analyst position at Sun Life Financial was posted on 2026-04-30.
+This data analyst position at Sun Life Financial was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

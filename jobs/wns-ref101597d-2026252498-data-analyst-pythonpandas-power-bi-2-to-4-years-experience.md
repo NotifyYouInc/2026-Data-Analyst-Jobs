@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126645080-ref101597d-2026252498-data-analyst-pythonpandas-power-bi-2-to-4-years-experience) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000134204998-ref101597d-2026252498-data-analyst-pythonpandas-power-bi-2-to-4-years-experience) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-05-15.
+This data analyst position at WNS was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

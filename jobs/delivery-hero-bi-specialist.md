@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131975289-bi-specialist) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000134268700-bi-specialist) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-06-12.
+This data analyst position at Delivery Hero was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

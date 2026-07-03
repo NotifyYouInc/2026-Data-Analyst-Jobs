@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Analyst_40371) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Data-Analyst_40807) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-06-10.
+This data analyst position at Guidehouse was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
