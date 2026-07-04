@@ -1,16 +1,16 @@
-# Professional, BI Analyst (TCF) at Concentrix
+# Professional BI Analyst (TCF) at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur---Lvl-15-Wisma-Mont-Kiara-1-Jalan-Kiara/Professional--BI-Analyst--TCF-_R1732308) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/COL-Bogota---Calle-63-24---80/Professional-BI-Analyst--TCF-_R1739934) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-05-28.
+This data analyst position at Concentrix was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

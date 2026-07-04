@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Manager--Wealth-Growth---Analytics_R260018587) |
+| Category | Operations |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Manager--Wealth-Growth---Analytics_R260018590) |
 
 ## About This Role
 
-This corporate finance position at Bank of Montreal was posted on 2026-06-24.
+This operations position at Bank of Montreal was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

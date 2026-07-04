@@ -1,16 +1,16 @@
-# Associate Manager, Performance Analytics at WPP Media
+#  Associate Manager, Performance Analytics at WPP Media
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5145971008) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5283765008) |
 
 ## About This Role
 
-This data analyst position at WPP Media was posted on 2026-04-22.
+This data analyst position at WPP Media was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

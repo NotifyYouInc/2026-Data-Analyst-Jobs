@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000133957006-data-analyst) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000134463069-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Ubisoft was posted on 2026-06-24.
+This data analyst position at Ubisoft was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

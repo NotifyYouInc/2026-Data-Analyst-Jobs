@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst--Data-Science_REQ-10077483) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst--Data-Science_REQ-10078725-1) |
 
 ## About This Role
 
-This data analyst position at Novartis was posted on 2026-06-24.
+This data analyst position at Novartis was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

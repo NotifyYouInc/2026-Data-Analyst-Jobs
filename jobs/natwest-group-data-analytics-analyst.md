@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data---Analytics-Analyst_R-00277023-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data---Analytics-Analyst_R-00280959) |
 
 ## About This Role
 
-This data analyst position at NatWest Group was posted on 2026-04-22.
+This data analyst position at NatWest Group was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

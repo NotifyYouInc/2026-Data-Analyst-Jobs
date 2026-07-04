@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Jacksonville, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Client-Reporting-Analyst-III_26018309-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Client-Reporting-Analyst-III_26021014) |
 
 ## About This Role
 
-This data analyst position at Bank of America was posted on 2026-06-08.
+This data analyst position at Bank of America was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

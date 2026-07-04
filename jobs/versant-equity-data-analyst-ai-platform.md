@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000123811369-equity-data-analyst-ai-platform) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000134551376-equity-data-analyst-ai-platform) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-04-29.
+This data analyst position at Versant was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
