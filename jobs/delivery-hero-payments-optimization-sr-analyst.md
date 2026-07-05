@@ -1,4 +1,4 @@
-# Data Sr. Analyst at Delivery Hero
+# Payments Optimization Sr Analyst at Delivery Hero
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000134604169-data-sr-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000134603769-payments-optimization-sr-analyst) |
 
 ## About This Role
 

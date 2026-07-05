@@ -1,16 +1,16 @@
-# Digital Analyst at Johnson & Johnson
+# Analytics & Outcomes Specialist at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Philippines |
 | Category | Data Analyst |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Digital-Analyst_R-084505-2) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-MPI/Analytics---Outcomes-Specialist_JR-66061) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-06-28.
+This data analyst position at AIA Group was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

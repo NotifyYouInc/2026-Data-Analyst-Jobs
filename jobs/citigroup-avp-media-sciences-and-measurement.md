@@ -1,16 +1,16 @@
-# Digital Analyst at Johnson & Johnson
+# AVP Media Sciences and Measurement at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
 | Category | Data Analyst |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Digital-Analyst_R-084505-2) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/AVP-Media-Sciences-and-Measurement_26975350-1) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-06-28.
+This data analyst position at Citigroup was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

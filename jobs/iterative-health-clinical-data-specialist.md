@@ -1,16 +1,16 @@
-# Data Sr. Analyst at Delivery Hero
+# Clinical Data Specialist at Iterative Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Iterative Health](https://scoutify.ai/companies/iterative-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 3 locations |
 | Category | Data Analyst |
 | Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000134604169-data-sr-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/iterativehealth/jobs/4687861006) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-06-27.
+This data analyst position at Iterative Health was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 
