@@ -1,16 +1,16 @@
-# Smart Building Analyst at JLL
+# Petroleum Data Analyst at Hunting
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Company | [Hunting](https://scoutify.ai/companies/hunting?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Smart-Building-Analyst_REQ517421) |
+| Apply | [View on company site](https://recruiting2.ultipro.com/hun1010hunte/JobBoard/5a1dc1fd-b4db-451e-843c-40bf217bd5b1/OpportunityDetail?opportunityId=5209ce76-efaa-4f66-922c-3c5a0b338ac9) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-29.
+This data analyst position at Hunting was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

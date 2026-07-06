@@ -1,12 +1,12 @@
-# Data Operations Analyst (Taiwan Market) at NielsenIQ
+# Executive/ Senior Executive, Consumer Insights - Quantitative at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, MY |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134699879-data-operations-analyst-taiwan-market) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134695779-executive-senior-executive-consumer-insights-quantitative) |
 
 ## About This Role
 

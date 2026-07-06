@@ -5,12 +5,12 @@
 | Company | [Impact.com](https://scoutify.ai/companies/impact-com?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/impact/jobs/7976450002) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/impact/jobs/8605297002) |
 
 ## About This Role
 
-This data analyst position at Impact.com was posted on 2026-03-18.
+This data analyst position at Impact.com was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

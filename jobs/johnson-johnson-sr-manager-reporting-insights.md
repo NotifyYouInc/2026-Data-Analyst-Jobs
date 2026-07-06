@@ -1,12 +1,12 @@
-# D&A and Master Data Specialist at Johnson & Johnson
+# Sr. Manager, Reporting & Insights at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/D-A-and-Master-Data-Specialist_R-084520-1) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Sr-Manager--Reporting---Insights_R-084555) |
 
 ## About This Role
 

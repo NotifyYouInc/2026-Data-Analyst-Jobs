@@ -1,16 +1,16 @@
-# Business Analytics Lead Analyst at Citigroup
+# SVP Business Intelligence and Analytics Lead at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Business-Analytics-Lead-Analyst_26954516) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/SVP-Business-Intelligence-and-Analytics-Lead_26975361-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-06-29.
+This data analyst position at Citigroup was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

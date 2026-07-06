@@ -1,16 +1,16 @@
-# D&A and Master Data Specialist at Johnson & Johnson
+# VP Media Sciences and Measurement at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/D-A-and-Master-Data-Specialist_R-084520-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/VP-Media-Sciences-and-Measurement_26975360-1) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-06-28.
+This data analyst position at Citigroup was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

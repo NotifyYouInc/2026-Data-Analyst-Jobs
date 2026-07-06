@@ -1,16 +1,16 @@
-# D&A and Master Data Specialist at Johnson & Johnson
+# Channel Specialist (Data Analyst) at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/D-A-and-Master-Data-Specialist_R-084520-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Hyderabad-Telangana-India/Channel-Specialist--Data-Analyst-_R1313402) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-06-28.
+This data analyst position at Danaher was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

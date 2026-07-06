@@ -1,16 +1,16 @@
-# Smart Building Analyst at JLL
+# Business Intelligence Engineer II, SCOT - Long Term Planning and Forecasting at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Smart-Building-Analyst_REQ517421) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440102/business-intelligence-engineer-ii-scot-long-term-planning-and-forecasting) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-29.
+This data analyst position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

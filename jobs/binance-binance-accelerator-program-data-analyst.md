@@ -1,16 +1,16 @@
-# Smart Building Analyst at JLL
+# Binance Accelerator Program - Data Analyst at Binance
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Smart-Building-Analyst_REQ517421) |
+| Apply | [View on company site](https://jobs.lever.co/binance/c85bb74a-025e-4a23-abfa-b3a452807f7d) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-29.
+This data analyst position at Binance was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

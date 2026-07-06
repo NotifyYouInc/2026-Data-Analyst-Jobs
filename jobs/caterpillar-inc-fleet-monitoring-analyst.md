@@ -1,16 +1,16 @@
-# Smart Building Analyst at JLL
+# Fleet Monitoring Analyst at Caterpillar Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Smart-Building-Analyst_REQ517421) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Fleet-Monitoring-Analyst_R0000378544) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-29.
+This data analyst position at Caterpillar Inc. was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

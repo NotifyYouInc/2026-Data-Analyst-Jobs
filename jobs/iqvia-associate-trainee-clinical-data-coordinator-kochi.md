@@ -1,16 +1,16 @@
-# D&A and Master Data Specialist at Johnson & Johnson
+# Associate Trainee, Clinical Data Coordinator - Kochi at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Kochi, Kerala, India |
 | Category | Data Analyst |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/D-A-and-Master-Data-Specialist_R-084520-1) |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Associate-Trainee--Clinical-Data-Coordinator---Kochi_R1554381) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-06-28.
+This data analyst position at IQVIA was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

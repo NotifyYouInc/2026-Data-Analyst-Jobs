@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | Singapore |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/PAS-Peoples-Association-Headquarters/Assistant-Director--Research-_JR-10000047328) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/PAS-Peoples-Association-Headquarters/Assistant-Director--Research-_JR-10000047327) |
 
 ## About This Role
 
-This data analyst position at Economic Development Board was posted on 2026-03-30.
+This data analyst position at Economic Development Board was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

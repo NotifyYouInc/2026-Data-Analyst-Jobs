@@ -1,16 +1,16 @@
-# Smart Building Analyst at JLL
+# Intern | Advisory Sales Channels @ING Bank at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Romania |
 | Category | Data Analyst |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Smart-Building-Analyst_REQ517421) |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Expo-Business-Park/Intern---Advisory-Sales-Channels--ING-Bank_REQ-10116948) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-29.
+This data analyst position at ING was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

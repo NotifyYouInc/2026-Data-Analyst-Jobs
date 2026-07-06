@@ -1,16 +1,16 @@
-# Smart Building Analyst at JLL
+# Principle Supplier Engagement Analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Analyst |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bangalore-Karnataka/Smart-Building-Analyst_REQ517421) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134750108-principle-supplier-engagement-analyst) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-29.
+This data analyst position at NielsenIQ was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

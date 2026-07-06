@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst_REQ-10081153-1) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst_REQ-10081616-1) |
 
 ## About This Role
 
