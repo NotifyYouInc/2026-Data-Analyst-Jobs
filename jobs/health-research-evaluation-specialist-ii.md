@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Albany, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Rochester-NY/Evaluation-Specialist-II_JR-0002123) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Evaluation-Specialist-II_JR-0002203) |
 
 ## About This Role
 
-This data analyst position at Health Research was posted on 2026-04-30.
+This data analyst position at Health Research was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

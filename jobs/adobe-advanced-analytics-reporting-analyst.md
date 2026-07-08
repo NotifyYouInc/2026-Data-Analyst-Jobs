@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Advanced-Analytics---Reporting-Analyst_R167740-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Advanced-Analytics---Reporting-Analyst_R170162) |
 
 ## About This Role
 
-This data analyst position at Adobe was posted on 2026-05-19.
+This data analyst position at Adobe was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

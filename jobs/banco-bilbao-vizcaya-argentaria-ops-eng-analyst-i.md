@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/OPS-ENG-ANALYST-I_JR00106798) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/OPS-ENG-ANALYST-I_JR00107908) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-16.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

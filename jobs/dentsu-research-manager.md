@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | UX Researcher |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Mumbai/Research-Manager_R1094212) |
+| Location | Manchester, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Manchester---Bonded-Warehouse/Research-Manager_R1125228) |
 
 ## About This Role
 
-This ux researcher position at Dentsu was posted on 2026-05-18.
+This data analyst position at Dentsu was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

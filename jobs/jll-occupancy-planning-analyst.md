@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Occupancy-Planning-Analyst_REQ511362) |
+| Category | Data Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Occupancy-Planning-Analyst_REQ518905) |
 
 ## About This Role
 
-This fp&a / strategic finance position at JLL was posted on 2026-06-05.
+This data analyst position at JLL was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

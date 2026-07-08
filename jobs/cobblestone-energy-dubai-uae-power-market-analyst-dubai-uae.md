@@ -1,16 +1,16 @@
-# POWER MARKET ANALYST - Dubai, UAE at Cobblestone Energy -  Dubai, UAE.
+# Power Market Analyst - Dubai, UAE at Cobblestone Energy -  Dubai, UAE.
 
 | Field | Details |
 |-------|---------|
-| Company | [Cobblestone Energy -  Dubai, UAE.](https://scoutify.ai/companies/cobblestone-energy---dubai-uae?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Cobblestone Energy -  Dubai, UAE.](https://scoutify.ai/companies/cobblestone-energy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7667155003) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7772308003) |
 
 ## About This Role
 
-This data analyst position at Cobblestone Energy -  Dubai, UAE. was posted on 2026-03-17.
+This data analyst position at Cobblestone Energy -  Dubai, UAE. was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

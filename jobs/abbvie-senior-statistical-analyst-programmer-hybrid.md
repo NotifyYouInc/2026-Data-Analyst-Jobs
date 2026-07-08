@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Jersey, US |
-| Category | Software Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012559674-senior-statistical-analyst-programmer-hybrid) |
+| Location | Irvine, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013863306-senior-statistical-analyst-programmer-hybrid) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-04-10.
+This data analyst position at AbbVie was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

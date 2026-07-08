@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Digital-Product-Analyst_110331) |
+| Category | Data Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Digital-Product-Analyst_111539) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-05-18.
+This data analyst position at Gartner was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

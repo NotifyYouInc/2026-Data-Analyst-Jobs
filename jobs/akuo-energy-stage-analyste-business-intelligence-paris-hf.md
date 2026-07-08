@@ -5,12 +5,12 @@
 | Company | [Akuo Energy](https://scoutify.ai/companies/akuoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Akuo/744000119941787-stage-analyste-business-intelligence-paris-hf) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Akuo/744000135066059-stage-analyste-business-intelligence-paris-hf) |
 
 ## About This Role
 
-This data analyst position at Akuo Energy was posted on 2026-04-10.
+This data analyst position at Akuo Energy was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

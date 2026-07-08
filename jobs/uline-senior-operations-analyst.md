@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-Operations-Analyst_R263938-1) |
+| Location | Pleasant Prairie, Wisconsin, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-Operations-Analyst_R265102-1) |
 
 ## About This Role
 
-This business analyst position at Uline was posted on 2026-05-13.
+This data analyst position at Uline was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

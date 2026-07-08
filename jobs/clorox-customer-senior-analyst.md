@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Mason-OH---USA/Customer-Senior-Analyst_21139-1) |
+| Location | Mason, Ohio, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Mason-OH---USA/Customer-Senior-Analyst_22594) |
 
 ## About This Role
 
-This business analyst position at Clorox was posted on 2026-03-02.
+This data analyst position at Clorox was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

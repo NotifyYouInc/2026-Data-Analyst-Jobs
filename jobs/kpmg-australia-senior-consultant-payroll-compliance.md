@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPMG Australia](https://scoutify.ai/companies/kpmg-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Accounting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001131917-senior-consultant-payroll-compliance) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kpmgaustralia1/6000000001198206-senior-consultant-payroll-compliance) |
 
 ## About This Role
 
-This accounting position at KPMG Australia was posted on 2026-06-04.
+This data analyst position at KPMG Australia was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

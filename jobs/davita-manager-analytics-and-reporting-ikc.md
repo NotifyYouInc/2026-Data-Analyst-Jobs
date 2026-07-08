@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brentwood, New York, United States |
+| Location | Provo, Utah, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09596---Tennessee-Remote/Manager--Analytics-and-Reporting--IKC-_R0454458) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09504---Utah-Remote/Manager--Analytics-and-Reporting--IKC-_R0466029) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-04-15.
+This data analyst position at DaVita was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

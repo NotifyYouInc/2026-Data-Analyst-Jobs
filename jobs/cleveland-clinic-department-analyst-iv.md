@@ -5,12 +5,12 @@
 | Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cleveland, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Department-Analyst-IV_345296-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Department-Analyst-IV_346228-1) |
 
 ## About This Role
 
-This data analyst position at Cleveland Clinic was posted on 2026-06-25.
+This data analyst position at Cleveland Clinic was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

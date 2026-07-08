@@ -1,16 +1,16 @@
-# Senior Data Analyst (Finance)  at Delivery Hero
+# Senior Data Analyst (Finance) at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Karachi, Sindh, Pakistan |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131810399-senior-data-analyst-finance) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000135015041-senior-data-analyst-finance) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-06-12.
+This data analyst position at Delivery Hero was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Novig](https://scoutify.ai/companies/novig?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/novig/ce1853ff-5cc3-4643-b999-5aa6b33fc250) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/novig/194f644c-da2f-4c78-a178-e89146aaa5a6) |
 
 ## About This Role
 
-This data analyst position at Novig was posted on 2026-05-08.
+This data analyst position at Novig was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

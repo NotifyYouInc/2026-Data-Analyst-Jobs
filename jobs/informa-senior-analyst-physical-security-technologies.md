@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Framingham, Massachusetts, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000134285138-senior-analyst-physical-security-technologies) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000134980929-senior-analyst-physical-security-technologies) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-06-25.
+This data analyst position at Informa was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

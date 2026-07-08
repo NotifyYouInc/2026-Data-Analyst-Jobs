@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | California, Maryland, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Senior-Business-Analytics-Manager_26WD97209) |
+| Location | San Francisco, California, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Senior-Business-Analytics-Manager_26WD99699-2) |
 
 ## About This Role
 
-This business analyst position at Autodesk was posted on 2026-04-29.
+This fp&a / strategic finance position at Autodesk was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

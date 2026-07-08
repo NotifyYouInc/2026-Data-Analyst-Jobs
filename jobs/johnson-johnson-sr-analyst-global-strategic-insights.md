@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Raritan, New Jersey, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Analyst-Global-Strategic-Insights_R-080265-2) |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Analyst-Global-Strategic-Insights_R-085655-1) |
 
 ## About This Role
 
-This strategy & operations position at Johnson & Johnson was posted on 2026-06-05.
+This data analyst position at Johnson & Johnson was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

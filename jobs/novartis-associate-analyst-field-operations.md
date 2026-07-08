@@ -1,16 +1,16 @@
-# Associate Analyst- Field Operations at Novartis
+# Associate Analyst - Field Operations at Novartis
 
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst--Field-Operations_REQ-10074700) |
+| Category | Data Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Analyst---Field-Operations_REQ-10082219) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-04-22.
+This data analyst position at Novartis was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Colliers](https://scoutify.ai/companies/colliers-colliers1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/colliers1/744000124798889-analyst) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Analyst_JR18080) |
 
 ## About This Role
 
-This data analyst position at Colliers was posted on 2026-05-06.
+This data analyst position at Colliers was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

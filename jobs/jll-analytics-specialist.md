@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belen, Loreto, Peru |
+| Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Belen-CRI/Analytics-Specialist_REQ506191) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Analytics-Specialist_REQ516737) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-05-18.
+This data analyst position at JLL was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

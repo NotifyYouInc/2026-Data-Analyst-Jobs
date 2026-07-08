@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000133869564-charge-data-performance-excellence-supply-fh-cdd) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135191099-charge-data-performance-excellence-supply-fh-cdd) |
 
 ## About This Role
 
-This data analyst position at METRO/MAKRO was posted on 2026-06-24.
+This data analyst position at METRO/MAKRO was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

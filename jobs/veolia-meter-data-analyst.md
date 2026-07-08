@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hackensack, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000134547964-meter-data-analyst) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135087189-meter-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-06-26.
+This data analyst position at Veolia was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

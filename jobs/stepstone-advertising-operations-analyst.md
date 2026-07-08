@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000131531499-advertising-operations-analyst) |
+| Location | Newton, Massachusetts, United States |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000135099710-advertising-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at StepStone was posted on 2026-06-10.
+This data analyst position at StepStone was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rotkreuz, Zug, Switzerland |
-| Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Rotkreuz-Office-Based/Integrated-Insights-Business-Partner_REQ-10078592-2) |
+| Location | London, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/London-The-Westworks/Integrated-Insights-Business-Partner_REQ-10079497-1) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-05-29.
+This data analyst position at Novartis was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

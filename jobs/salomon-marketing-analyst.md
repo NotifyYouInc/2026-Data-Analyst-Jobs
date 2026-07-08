@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000134446449-marketing-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000134939950-marketing-analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Salomon was posted on 2026-06-26.
+This data analyst position at Salomon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

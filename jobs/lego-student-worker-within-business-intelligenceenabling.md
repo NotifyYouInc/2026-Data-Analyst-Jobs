@@ -5,12 +5,12 @@
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Billund, South Denmark, Denmark |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Student-worker_0000034545) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Student-Worker-within-Business-Intelligence-Enabling_0000035772) |
 
 ## About This Role
 
-This data analyst position at LEGO was posted on 2026-05-29.
+This data analyst position at LEGO was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

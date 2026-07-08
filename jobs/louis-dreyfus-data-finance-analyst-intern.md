@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Villeurbanne, Rhône-Alpes, France |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000133544819-data-finance-analyst-intern) |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000134944835-data-finance-analyst-intern) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-06-23.
+This data analyst position at Louis Dreyfus was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Pune/Operations-Analyst-I_R0032642) |
+| Category | Data Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/IND-Pune/Operations-Analyst-I_R0033613) |
 
 ## About This Role
 
-This business analyst position at Epiqsystems was posted on 2026-03-09.
+This data analyst position at Epiqsystems was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
