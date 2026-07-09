@@ -5,12 +5,12 @@
 | Company | [OceanaGold](https://scoutify.ai/companies/oceanagold?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000122597039-data-analytics-coordinator) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000135405019-data-analytics-coordinator) |
 
 ## About This Role
 
-This data analyst position at OceanaGold was posted on 2026-04-24.
+This data analyst position at OceanaGold was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

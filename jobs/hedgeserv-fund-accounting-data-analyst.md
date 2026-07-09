@@ -1,16 +1,16 @@
-# Fund Accounting - Data Analyst at Hedgeserv
+# Fund Accounting – Data Analyst at Hedgeserv
 
 | Field | Details |
 |-------|---------|
 | Company | [Hedgeserv](https://scoutify.ai/companies/hedgeserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Manila/Fund-Accounting---Data-Analyst_R6671) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Manila/Fund-Accounting---Data-Analyst_R6669) |
 
 ## About This Role
 
-This data analyst position at Hedgeserv was posted on 2026-06-22.
+This data analyst position at Hedgeserv was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

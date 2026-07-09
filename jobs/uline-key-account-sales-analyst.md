@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
-| Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Key-Account-Sales-Analyst_R263125-1) |
+| Location | Pleasant Prairie, Wisconsin, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Key-Account-Sales-Analyst_R265164-1) |
 
 ## About This Role
 
-This business analyst position at Uline was posted on 2026-04-16.
+This data analyst position at Uline was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

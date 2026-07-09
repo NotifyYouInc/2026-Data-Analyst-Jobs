@@ -1,16 +1,16 @@
-# Marketing Science Strategic Analyst, Marketing Science and Technology at LinkedIn
+# Marketing Science Strategic Analyst, Marketing Science and Technology  at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Marketing |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000131448799-marketing-science-strategic-analyst-marketing-science-and-technology) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135405349-marketing-science-strategic-analyst-marketing-science-and-technology) |
 
 ## About This Role
 
-This marketing position at LinkedIn was posted on 2026-06-10.
+This data analyst position at LinkedIn was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Senior-Business-Intelligence-Analyst_JR0146850-1) |
+| Location | Irving, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Senior-Business-Intelligence-Analyst_JR0149707) |
 
 ## About This Role
 
-This business analyst position at McKesson was posted on 2026-05-06.
+This data analyst position at McKesson was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

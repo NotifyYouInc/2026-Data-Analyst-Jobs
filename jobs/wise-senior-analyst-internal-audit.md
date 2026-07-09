@@ -1,16 +1,16 @@
-# Senior Analyst - Internal Audit  at WISE
+# Senior Analyst - Internal Audit at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
-| Category | Accounting |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127359520-senior-analyst-internal-audit) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135441199-senior-analyst-internal-audit) |
 
 ## About This Role
 
-This accounting position at WISE was posted on 2026-05-20.
+This data analyst position at WISE was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

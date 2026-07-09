@@ -6,7 +6,7 @@
 | Location | Pretoria, Gauteng, South Africa |
 | Category | Data Analyst |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000135005383-data-manager-in-clinical-trials) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000135008459-data-manager-in-clinical-trials) |
 
 ## About This Role
 

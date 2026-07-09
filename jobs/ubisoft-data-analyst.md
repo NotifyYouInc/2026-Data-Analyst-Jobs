@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000134463069-data-analyst) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000135415889-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Ubisoft was posted on 2026-06-26.
+This data analyst position at Ubisoft was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000134982249-analyste-junior-des-politiques) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000134983269-analyste-junior-des-politiques) |
 
 ## About This Role
 

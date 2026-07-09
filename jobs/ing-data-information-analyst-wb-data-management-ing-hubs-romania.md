@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Data-Information-Analyst---WB-Data-Management--ING-Hubs-Romania_REQ-10112849) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Data-Information-Analyst---WB-Data-Management--ING-Hubs-Romania_REQ-10117568) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-04-15.
+This data analyst position at ING was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

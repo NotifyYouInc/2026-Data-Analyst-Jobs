@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ahmedabad, Gujarat, India |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Ahmedabad---Venus-Stratum-GCC/Senior-Analyst--Revenue-Growth-Management-2_R-99353-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Ahmedabad---Venus-Stratum-GCC/Senior-Analyst--Revenue-Growth-Management-2_R-104335) |
 
 ## About This Role
 
-This data analyst position at Heinz was posted on 2026-02-09.
+This data analyst position at Heinz was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

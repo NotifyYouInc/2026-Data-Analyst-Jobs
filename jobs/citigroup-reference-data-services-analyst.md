@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Reference-Data-Services-Analyst_26973243) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Reference-Data-Services-Analyst_26975923) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-06-23.
+This data analyst position at Citigroup was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

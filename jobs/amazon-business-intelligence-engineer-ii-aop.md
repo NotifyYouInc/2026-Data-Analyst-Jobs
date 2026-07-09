@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204085/business-intelligence-engineer-ii-aop) |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464501/business-intelligence-engineer-ii-aop) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-03-13.
+This data engineer position at Amazon was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

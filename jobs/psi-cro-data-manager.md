@@ -6,7 +6,7 @@
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000135005839-data-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000135008619-data-manager) |
 
 ## About This Role
 

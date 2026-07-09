@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Deventer, Overijssel, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000130206029-bi-specialist) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000135459289-bi-specialist) |
 
 ## About This Role
 
-This data analyst position at REXEL was posted on 2026-06-04.
+This data analyst position at REXEL was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

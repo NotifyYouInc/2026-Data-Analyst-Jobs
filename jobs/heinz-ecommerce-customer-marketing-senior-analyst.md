@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Growth Marketing |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/Sr-Analyst--eCom---Customer-Marketing---TGT-AD_R-102590) |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/eCommerce---Customer-Marketing-Senior-Analyst_R-104305) |
 
 ## About This Role
 
-This growth marketing position at Heinz was posted on 2026-05-05.
+This data analyst position at Heinz was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
