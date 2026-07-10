@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Lead-Analyst_R1114912-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Senior-Analyst_R1108604-1) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-05-25.
+This data analyst position at Dentsu was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Michigan, US |
+| Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MI/Data-Analyst-I-Healthcare-Analytics_1636195) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-I-Healthcare-Analytics_1636474-1) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-06-05.
+This data analyst position at Centene was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

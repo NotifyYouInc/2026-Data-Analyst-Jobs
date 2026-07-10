@@ -1,16 +1,16 @@
-# Manager, Marketing/Consumer Insights at Heinz
+# Manager - Marketing/Consumer Insights at Heinz
 
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Ahmedabad---Venus-Stratum-GCC/Manager--Marketing-Consumer-Insights_R-103508) |
+| Location | Ahmedabad, Gujarat, India |
+| Category | Brand Marketing |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Ahmedabad---Venus-Stratum-GCC/Manager---Marketing-Consumer-Insights_R-104337) |
 
 ## About This Role
 
-This marketing position at Heinz was posted on 2026-06-05.
+This brand marketing position at Heinz was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CNA Insurance](https://scoutify.ai/companies/cna-insurance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Senior-Data-Management-Analyst_R-7035) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Senior-Data-Management-Analyst_R-7716) |
 
 ## About This Role
 
-This data analyst position at CNA Insurance was posted on 2026-03-02.
+This data analyst position at CNA Insurance was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

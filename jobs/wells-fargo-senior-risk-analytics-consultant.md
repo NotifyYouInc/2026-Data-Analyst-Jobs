@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WILMINGTON-DE/Senior-Risk-Analytics-Consultant_R-551701-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Risk-Analytics-Consultant_R-541738-1) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-06-12.
+This data analyst position at Wells Fargo was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

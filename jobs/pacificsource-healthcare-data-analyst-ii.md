@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacificsource](https://scoutify.ai/companies/pacificsource?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Portland, Oregon, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Boise-ID/Healthcare-Data-Analyst-II_2026-585-2) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Portland-OR/Healthcare-Data-Analyst-II_2026-724-1) |
 
 ## About This Role
 
-This data analyst position at Pacificsource was posted on 2026-06-03.
+This data analyst position at Pacificsource was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

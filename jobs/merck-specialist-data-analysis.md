@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Specialist--Data-Analysis_R396380-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Gachibowli-Village/Specialist--Data-Analysis_R404717-1) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-05-14.
+This data analyst position at Merck was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

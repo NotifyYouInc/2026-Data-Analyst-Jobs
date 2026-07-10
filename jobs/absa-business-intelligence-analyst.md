@@ -1,16 +1,16 @@
-# Business intelligence Analyst at Absa
+# Business Intelligence Analyst at Absa
 
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
+| Location | Ebene, Plaines Wilhems, Mauritius |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Absa-Headquarters-KE/Business-intelligence-Analyst_R-15986313-2) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Ebene/Business-Intelligence-Analyst_R-15988785) |
 
 ## About This Role
 
-This data analyst position at Absa was posted on 2026-05-12.
+This data analyst position at Absa was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

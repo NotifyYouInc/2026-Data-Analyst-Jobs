@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Financial Crimes & AML |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4895017101) |
+| Category | Data Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4918365101) |
 
 ## About This Role
 
-This financial crimes & aml position at Ebury was posted on 2026-06-11.
+This data analyst position at Ebury was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000132948664-sr-data-analyst) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135571290-sr-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-06-18.
+This data analyst position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belgium |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000134203205-data-analytics-consultant) |
+| Location | Brussels, Brussels Capital, Belgium |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135508490-data-analytics-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-06-25.
+This data analyst position at SIA was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Data-Analyst---Customer-Solutions-Office--Travel---Mobility-Business-C-M-_1032195-24) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Data-Analyst---Customer-Solutions-Office--Travel---Mobility-Business-C-M-_1034589-1) |
 
 ## About This Role
 
-This data analyst position at Rakuten was posted on 2026-03-09.
+This data analyst position at Rakuten was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

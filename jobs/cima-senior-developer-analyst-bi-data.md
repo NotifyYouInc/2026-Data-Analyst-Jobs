@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Laval, Quebec, Canada |
-| Category | Technical Writer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000117057637-senior-developer-analyst-bi-data) |
+| Location | Québec, Quebec, Canada |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000135546639-senior-developer-analyst-bi-data) |
 
 ## About This Role
 
-This technical writer position at CIMA+ was posted on 2026-03-26.
+This data engineer position at CIMA+ was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

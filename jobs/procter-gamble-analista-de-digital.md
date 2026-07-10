@@ -5,12 +5,12 @@
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manaus, Amazonas, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MANAUS-PLANT-RIO-SOLIMOES/Analista-de-Digital_R000152714) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MANAUS-PLANT-RIO-SOLIMOES/Analista-de-Digital_R000154590) |
 
 ## About This Role
 
-This data analyst position at Procter & Gamble was posted on 2026-06-30.
+This data analyst position at Procter & Gamble was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

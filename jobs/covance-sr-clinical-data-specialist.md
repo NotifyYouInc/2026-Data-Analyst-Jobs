@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Sr-Clinical-Data-Specialist_261938) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/San-Jose/Sr-Clinical-Data-Specialist_263493) |
 
 ## About This Role
 
-This data analyst position at Covance was posted on 2026-04-22.
+This data analyst position at Covance was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

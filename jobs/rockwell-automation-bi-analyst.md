@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/BI-Analyst_R26-2291) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/BI-Analyst_R26-5234) |
 
 ## About This Role
 
-This data analyst position at Rockwell Automation was posted on 2026-04-06.
+This data analyst position at Rockwell Automation was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

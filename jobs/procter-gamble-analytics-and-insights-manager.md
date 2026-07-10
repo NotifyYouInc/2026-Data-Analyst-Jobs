@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | UX Researcher |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MANILA-NET-PARK-OFFICE/Analytics-and-Insights-Manager_R000152740) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Data Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/HO-CHI-MINH-CITY-OFFICE/Analytics-and-Insights-Manager_R000154139) |
 
 ## About This Role
 
-This ux researcher position at Procter & Gamble was posted on 2026-06-03.
+This data analyst position at Procter & Gamble was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

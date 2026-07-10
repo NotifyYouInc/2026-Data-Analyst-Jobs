@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
-| Category | QA Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Data-Quality-Analyst_26963660) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Data-Quality-Analyst_26972542) |
 
 ## About This Role
 
-This qa engineer position at Citigroup was posted on 2026-06-15.
+This data analyst position at Citigroup was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

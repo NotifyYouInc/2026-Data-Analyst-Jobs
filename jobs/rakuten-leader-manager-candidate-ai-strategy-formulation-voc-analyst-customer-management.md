@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Operations |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/AI-Strategy-Formulation---VOC-Analyst---Customer-Management-Department--Operations-Supervisory-Department--C-M-_1034758-129) |
+| Category | Data Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Leader---Manager-Candidate-AI-Strategy-Formulation---VOC-Analyst---Customer-Management-Department--Operations-Supervisory-Department--C-M-_1035158-1) |
 
 ## About This Role
 
-This operations position at Rakuten was posted on 2026-06-19.
+This data analyst position at Rakuten was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

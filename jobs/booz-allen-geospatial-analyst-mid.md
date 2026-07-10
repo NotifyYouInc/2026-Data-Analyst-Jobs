@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/St-Louis-MO/Geospatial-Analyst--Mid_R0239670) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Geospatial-Analyst--Mid_R0243653) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-05-08.
+This data analyst position at Booz Allen was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

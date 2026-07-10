@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000135192139-tableau-with-sql-developer-immediate-joiner) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000135248589-tableau-with-sql-developer-immediate-joiner) |
 
 ## About This Role
 

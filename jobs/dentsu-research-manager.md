@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Manchester---Bonded-Warehouse/Research-Manager_R1125228) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Research-Manager_R1121670-3) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-06-30.
+This data analyst position at Dentsu was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

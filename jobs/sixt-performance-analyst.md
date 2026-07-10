@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127059520-performance-analyst) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135529259-performance-analyst) |
 
 ## About This Role
 
-This data analyst position at Sixt was posted on 2026-05-18.
+This data analyst position at Sixt was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

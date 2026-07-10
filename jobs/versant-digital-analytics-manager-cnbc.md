@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131962538-digital-analytics-manager-cnbc) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135575147-digital-analytics-manager-cnbc) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-06-12.
+This data analyst position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

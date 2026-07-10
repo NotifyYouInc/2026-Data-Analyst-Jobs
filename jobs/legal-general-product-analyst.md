@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000134298350-product-analyst) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000135524296-product-analyst) |
 
 ## About This Role
 
-This data analyst position at Legal & General was posted on 2026-06-25.
+This data analyst position at Legal & General was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Lima, Lima Province, Peru |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134349784-jr-research-analyst) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135535989-jr-research-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-25.
+This data analyst position at NielsenIQ was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

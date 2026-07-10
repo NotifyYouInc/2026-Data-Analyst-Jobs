@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2859451) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2862686) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-06-30.
+This data analyst position at Sanofi was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

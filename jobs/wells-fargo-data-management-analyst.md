@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Data-Management-Analyst_R-548529) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Data-Management-Analyst_R-557404) |
 
 ## About This Role
 
-This data analyst position at Wells Fargo was posted on 2026-06-25.
+This data analyst position at Wells Fargo was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
