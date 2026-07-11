@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Data-Analyst_2026-0012989) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Data-Analyst_2026-0016841) |
 
 ## About This Role
 
-This data analyst position at U.S. Bank was posted on 2026-05-13.
+This data analyst position at U.S. Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000135320124-assoc-sales-analyst) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000135765122-assoc-sales-analyst) |
 
 ## About This Role
 
-This data analyst position at Mattel was posted on 2026-07-01.
+This data analyst position at Mattel was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

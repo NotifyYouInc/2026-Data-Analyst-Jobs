@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Newcastle upon Tyne, England, United Kingdom |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000133040404-cost-intelligence-data-benchmarking-infrastructure) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000135690964-cost-intelligence-data-benchmarking-infrastructure) |
 
 ## About This Role
 
-This data analyst position at Turner & Townsend was posted on 2026-06-19.
+This data analyst position at Turner & Townsend was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

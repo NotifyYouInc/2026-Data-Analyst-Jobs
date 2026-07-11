@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Mason-OH---USA/Customer-Senior-Analyst_22594) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Bentonville-AR---USA/Customer-Senior-Analyst_22681) |
 
 ## About This Role
 
-This data analyst position at Clorox was posted on 2026-07-01.
+This data analyst position at Clorox was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

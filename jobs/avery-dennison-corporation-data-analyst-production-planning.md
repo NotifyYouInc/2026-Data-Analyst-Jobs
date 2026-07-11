@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tây Ninh, Tay Ninh, Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000132555539-data-analyst-production-planning) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000135773990-data-analyst-production-planning) |
 
 ## About This Role
 
-This data analyst position at Avery Dennison Corporation was posted on 2026-06-17.
+This data analyst position at Avery Dennison Corporation was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

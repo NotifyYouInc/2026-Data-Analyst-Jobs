@@ -5,12 +5,12 @@
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amstelveen, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000132812389-senior-marketing-data-analist) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000135685279-senior-marketing-data-analist) |
 
 ## About This Role
 
-This data analyst position at KPMG Nederland was posted on 2026-06-18.
+This data analyst position at KPMG Nederland was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

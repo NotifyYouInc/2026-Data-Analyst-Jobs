@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ohio, US |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Ohio/Data-Analyst-I_R108681) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Data-Analyst-I_R115027) |
 
 ## About This Role
 
-This data analyst position at ChoicePoint was posted on 2026-02-18.
+This data analyst position at ChoicePoint was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

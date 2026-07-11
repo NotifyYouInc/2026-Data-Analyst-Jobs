@@ -5,12 +5,12 @@
 | Company | [First National Bank](https://scoutify.ai/companies/fnbcorp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Pittsburgh-PA/Operational-Analytics-Analyst-2_2026-00371) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Pittsburgh-PA/Operational-Analytics-Analyst-2_2026-01440) |
 
 ## About This Role
 
-This data analyst position at First National Bank was posted on 2026-02-09.
+This data analyst position at First National Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Analyst--Data-Development-and-Operations_19039688) |
+| Category | Data Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Analyst--Data-Development-and-Operations_19041155-1) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-03-24.
+This data analyst position at TransUnion was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

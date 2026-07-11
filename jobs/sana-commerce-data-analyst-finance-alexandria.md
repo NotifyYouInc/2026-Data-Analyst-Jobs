@@ -5,12 +5,12 @@
 | Company | [Sana Commerce](https://scoutify.ai/companies/sana-commerce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alexandria, Alexandria, Egypt |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sanacommerce/744000135295914-data-analyst-finance-alexandria) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sanacommerce/744000135680799-data-analyst-finance-alexandria) |
 
 ## About This Role
 
-This data analyst position at Sana Commerce was posted on 2026-07-01.
+This data analyst position at Sana Commerce was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
