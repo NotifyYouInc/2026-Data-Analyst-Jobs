@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cardiff, Wales, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000133329970-data-analyst-sql-python) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000135922249-data-analyst-sql-python) |
 
 ## About This Role
 
-This data analyst position at Legal & General was posted on 2026-06-22.
+This data analyst position at Legal & General was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

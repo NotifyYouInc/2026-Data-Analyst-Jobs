@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116235807-lead-bi-hf) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135956039-lead-bi-hf) |
 
 ## About This Role
 
-This data analyst position at Devoteam was posted on 2026-03-23.
+This data analyst position at Devoteam was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
