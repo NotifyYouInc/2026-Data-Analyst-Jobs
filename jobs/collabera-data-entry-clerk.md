@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collabera](https://scoutify.ai/companies/collabera?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Eagan, Minnesota, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2016-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/collabera2/91775206-data-entry-clerk) |
+| Posted | 2016-03-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/collabera2/90249007-data-entry-clerk) |
 
 ## About This Role
 
-This data analyst position at Collabera was posted on 2016-04-27.
+This data analyst position at Collabera was posted on 2016-03-08.
 
 ## Get Real-Time Alerts
 

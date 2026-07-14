@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Best Buy Express](https://scoutify.ai/companies/best-buy-express?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/00000-Canadian-Headquarters/Marketplace-Operations-Analyst_R-49398-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/00000-Canadian-Headquarters/Marketplace-Operations-Analyst_R-51420) |
 
 ## About This Role
 
-This business analyst position at Best Buy Express was posted on 2026-02-27.
+This data analyst position at Best Buy Express was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

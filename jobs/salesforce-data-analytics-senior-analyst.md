@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Data-Analytics-Senior-Analyst_JR340252) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Data-Analytics-Senior-Analyst_JR349659) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-04-30.
+This data analyst position at Salesforce was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

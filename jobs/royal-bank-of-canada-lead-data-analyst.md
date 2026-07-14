@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Data-Analyst_R-0000178542-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Data-Analyst_R-0000179205-1) |
 
 ## About This Role
 
-This data analyst position at Royal Bank of Canada was posted on 2026-07-02.
+This data analyst position at Royal Bank of Canada was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

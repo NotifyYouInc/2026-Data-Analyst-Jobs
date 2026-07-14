@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7609871763425855749/detail) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7657450439218399493/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-02-23.
+This data analyst position at TikTok was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

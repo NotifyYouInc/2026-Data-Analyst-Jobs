@@ -1,16 +1,16 @@
-# Data Analyst  at Assystem
+# Data Analyst at Assystem
 
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Bristol, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000120877737-data-analyst) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000135987915-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Assystem was posted on 2026-04-15.
+This data analyst position at Assystem was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Tlaquepaque, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Data-Analyst_R243310) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Data-Analyst_R243312) |
 
 ## About This Role
 
-This data analyst position at Arrow Electronics was posted on 2026-07-01.
+This data analyst position at Arrow Electronics was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

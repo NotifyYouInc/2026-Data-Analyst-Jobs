@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013821407-research-associate-project-on-israel) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013942526-research-associate-project-on-israel) |
 
 ## About This Role
 
-This data analyst position at Harvard University was posted on 2026-06-26.
+This data analyst position at Harvard University was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

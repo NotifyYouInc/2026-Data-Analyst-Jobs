@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Quito, Pichincha, Ecuador |
 | Category | Data Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Brussels/Senior-Data-Analyst_722725WD) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Quito/Senior-Data-Analyst_741993WD) |
 
 ## About This Role
 
-This data analyst position at PwC was posted on 2026-04-17.
+This data analyst position at PwC was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

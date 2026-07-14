@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/RESEARCH-ANALYST-BUSINESS-EXECUTION_JR00102149) |
+| Category | Data Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/RESEARCH-ANALYST-BUSINESS-EXECUTION_JR00108151) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-27.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

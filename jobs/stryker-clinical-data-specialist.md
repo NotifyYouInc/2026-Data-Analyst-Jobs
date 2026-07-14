@@ -1,16 +1,16 @@
-# Clinical data specialist at Stryker
+# Clinical Data Specialist at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Karnataka-Bengaluru-Virtual-Address/Clinical-data-specialist_R562974) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Sydney-Australia/Clinical-Data-Specialist_R568555-1) |
 
 ## About This Role
 
-This data analyst position at Stryker was posted on 2026-04-15.
+This data analyst position at Stryker was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

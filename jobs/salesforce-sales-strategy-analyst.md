@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Operations |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Sales-Strategy-Analyst_JR343193) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Sales-Strategy-Analyst_JR345249-1) |
 
 ## About This Role
 
-This operations position at Salesforce was posted on 2026-06-01.
+This data analyst position at Salesforce was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint-Maurice, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127013194-alternance-chargee-de-projet-outils-digitaux-fh) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000136007099-alternance-chargee-de-projet-outils-digitaux-fh) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-05-18.
+This data analyst position at Veolia was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

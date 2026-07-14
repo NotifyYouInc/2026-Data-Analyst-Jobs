@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Analyst--Settlement-Operations_R-279929) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Analyst--Settlement-Operations_R-282266) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-06-11.
+This data analyst position at Mastercard was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

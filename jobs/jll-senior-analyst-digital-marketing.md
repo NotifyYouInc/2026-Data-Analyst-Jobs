@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Analyst--Digital-Marketing_REQ500445) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Analyst--Digital-Marketing_REQ519219-1) |
 
 ## About This Role
 
-This digital / performance marketing position at JLL was posted on 2026-04-23.
+This data analyst position at JLL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

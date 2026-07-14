@@ -5,12 +5,12 @@
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Newbury, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000129583849-vodafonethree-digital-insights-specialist-12-month-secondment) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000136149794-vodafonethree-digital-insights-specialist-12-month-secondment) |
 
 ## About This Role
 
-This data analyst position at Three UK was posted on 2026-06-01.
+This data analyst position at Three UK was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

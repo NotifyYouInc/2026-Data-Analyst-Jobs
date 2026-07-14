@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439669/ml-data-associate-ii-artificial-general-intelligence) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466539/ml-data-associate-ii-artificial-general-intelligence) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-06-04.
+This data analyst position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

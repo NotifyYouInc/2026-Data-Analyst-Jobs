@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135348290-bi-consultant) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136033879-bi-consultant) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-01.
+This data analyst position at NielsenIQ was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
