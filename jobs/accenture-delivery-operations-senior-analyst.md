@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Trust & Safety |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Delivery-Operations-Senior-Analyst_AIOC-S01650324-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Delivery-Operations-Senior-Analyst_AIOC-S01653759-1) |
 
 ## About This Role
 
-This trust & safety position at Accenture was posted on 2026-06-15.
+This data analyst position at Accenture was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

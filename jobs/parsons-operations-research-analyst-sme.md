@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aberdeen, South Dakota, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Operations-Research-Analyst--SME_R179452-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Operations-Research-Analyst--SME_R181619) |
 
 ## About This Role
 
-This data analyst position at Parsons was posted on 2026-04-10.
+This data analyst position at Parsons was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

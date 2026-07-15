@@ -5,12 +5,12 @@
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000129567847-research-analyst-i) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000136248210-research-analyst-i) |
 
 ## About This Role
 
-This data analyst position at University Health Network was posted on 2026-06-01.
+This data analyst position at University Health Network was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

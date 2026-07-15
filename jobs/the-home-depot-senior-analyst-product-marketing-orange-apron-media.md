@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Smyrna, Georgia, United States |
-| Category | Marketing |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/SMYRNA-PACES-SUMMIT---9125/Senior-Analyst--Product-Marketing---Orange-Apron-Media_Req172952) |
+| Location | Not specified |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/Senior-Analyst--Product-Marketing---Orange-Apron-Media_Req183403) |
 
 ## About This Role
 
-This marketing position at The Home Depot was posted on 2026-03-17.
+This data analyst position at The Home Depot was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

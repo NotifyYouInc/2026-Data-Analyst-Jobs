@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000128902068-global-planning-data-specialist-softgoods) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000136403110-global-planning-data-specialist-softgoods) |
 
 ## About This Role
 
-This data analyst position at Salomon was posted on 2026-05-28.
+This data analyst position at Salomon was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

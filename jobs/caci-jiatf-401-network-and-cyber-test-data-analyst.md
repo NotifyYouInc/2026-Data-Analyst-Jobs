@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/JIATF-401-Network-and-Cyber-Test-Data-Analyst_328542) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/JIATF-401-Network-and-Cyber-Test-Data-Analyst_328547) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-07-06.
+This data analyst position at CACI was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

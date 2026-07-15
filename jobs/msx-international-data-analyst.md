@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sant Just Desvern, Catalonia, Spain |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013701336-data-analyst) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013954616-data-analyst) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-06-19.
+This data analyst position at MSX International was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

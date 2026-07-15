@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Fort-Worth-TX/Managed-Services-Operations-Analyst_R42540) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Fort-Worth-TX/Managed-Services-Operations-Analyst_R44126) |
 
 ## About This Role
 
-This business analyst position at SS&C Technologies was posted on 2026-04-22.
+This data analyst position at SS&C Technologies was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

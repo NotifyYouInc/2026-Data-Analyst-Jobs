@@ -1,16 +1,16 @@
-# (Senior) Data Analyst (m/f/d) at StepStone
+# (Senior) Data Analyst - (m/f/d) at StepStone
 
 | Field | Details |
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000128693709-senior-data-analyst-mfd) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000136169759-senior-data-analyst-mfd) |
 
 ## About This Role
 
-This data analyst position at StepStone was posted on 2026-05-27.
+This data analyst position at StepStone was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

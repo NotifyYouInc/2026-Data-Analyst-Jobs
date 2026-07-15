@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7964463) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8048606) |
 
 ## About This Role
 
-This data analyst position at Capco was posted on 2026-05-29.
+This data analyst position at Capco was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

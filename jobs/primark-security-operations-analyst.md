@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Reading, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000125294391-security-operations-analyst) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000136252279-security-operations-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Primark was posted on 2026-05-08.
+This soc & incident response position at Primark was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

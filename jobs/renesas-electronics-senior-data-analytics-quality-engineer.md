@@ -6,7 +6,7 @@
 | Location | Shah Alam, Selangor, Malaysia |
 | Category | QA Engineer |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000136139259-senior-data-analytics-quality-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000136154840-senior-data-analytics-quality-engineer) |
 
 ## About This Role
 

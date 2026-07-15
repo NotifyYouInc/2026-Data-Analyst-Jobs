@@ -5,12 +5,12 @@
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Switzerland |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000135916699-data-analyst-for-beam-instrumentation-sy-bi-sw-2026-127-grap) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000136179409-data-analyst-for-beam-instrumentation-sy-bi-sw-2026-127-grap) |
 
 ## About This Role
 
-This data analyst position at CERN was posted on 2026-07-06.
+This data analyst position at CERN was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

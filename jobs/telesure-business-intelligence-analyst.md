@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/Business-Intelligence-Analyst_JR104492-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/Business-Intelligence-Analyst_JR105241) |
 
 ## About This Role
 
-This business analyst position at Telesure was posted on 2026-03-09.
+This data analyst position at Telesure was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

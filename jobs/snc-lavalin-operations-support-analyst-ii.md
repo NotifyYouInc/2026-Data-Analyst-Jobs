@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/USORPortland/Operations-Support-Analyst-II_R-156360-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/USORPortland/Operations-Support-Analyst-II_R-159361-1) |
 
 ## About This Role
 
-This business analyst position at SNC-Lavalin was posted on 2026-05-27.
+This data analyst position at SNC-Lavalin was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

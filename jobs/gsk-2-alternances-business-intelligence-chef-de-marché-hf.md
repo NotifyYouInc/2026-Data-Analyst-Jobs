@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | France |
-| Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/France---Rueil-Malmaison/XMLNAME-2-Alternances---Business-Intelligence---Chef-de-March--H-F-_439199-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/France---Rueil-Malmaison/XMLNAME-2-Alternances---Business-Intelligence---Chef-de-March--H-F-_439200-1) |
 
 ## About This Role
 
-This business analyst position at GSK was posted on 2026-04-13.
+This data analyst position at GSK was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

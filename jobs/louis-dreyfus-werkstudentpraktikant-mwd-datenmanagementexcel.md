@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illertissen, Bavaria, Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000135992466-werkstudentpraktikant-mwd-datenmanagementexcel) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000136170598-werkstudentpraktikant-mwd-datenmanagementexcel) |
 
 ## About This Role
 
-This data analyst position at Louis Dreyfus was posted on 2026-07-06.
+This data analyst position at Louis Dreyfus was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

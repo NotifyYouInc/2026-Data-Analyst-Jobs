@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cambridgeassociates](https://scoutify.ai/companies/cambridgeassociates?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Arlington, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://cambridgeassociates.wd5.myworkdayjobs.com/cambridge_associates/job/Dallas/Analyst--Data-Operations_JR0000237-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://cambridgeassociates.wd5.myworkdayjobs.com/cambridge_associates/job/Arlington/Analyst--Data-Operations_JR0000326-1) |
 
 ## About This Role
 
-This data analyst position at Cambridgeassociates was posted on 2026-05-11.
+This data analyst position at Cambridgeassociates was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

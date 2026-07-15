@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bangkok-Thailand/Data-Analyst-Intern--Process-Improvement---Automation-_R565295) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bangkok-Thailand/Data-Analyst-Intern--Process-Improvement---Automation-_R568032) |
 
 ## About This Role
 
-This data analyst position at Stryker was posted on 2026-05-13.
+This data analyst position at Stryker was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

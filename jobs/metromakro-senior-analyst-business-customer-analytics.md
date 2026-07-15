@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000132040189-senior-analyst-business-customer-analytics) |
+| Category | Data Analyst |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000136397751-senior-analyst-business-customer-analytics) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-06-13.
+This data analyst position at METRO/MAKRO was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

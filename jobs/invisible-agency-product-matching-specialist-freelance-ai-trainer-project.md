@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Invisible Agency](https://scoutify.ai/companies/invisible-agency?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nepal |
+| Location | Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/agency/jobs/4841615101) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/agency/jobs/4829124101) |
 
 ## About This Role
 
-This data analyst position at Invisible Agency was posted on 2026-04-15.
+This data analyst position at Invisible Agency was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

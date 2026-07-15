@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lindau, Bavaria, Germany |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000130814939-mandatory-internship-application-engineering-excellence-power-bi-and-efficiency-expert-ref9091h) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000136217375-mandatory-internship-application-engineering-excellence-power-bi-and-efficiency-expert-ref9091h) |
 
 ## About This Role
 
-This data analyst position at Aumovio was posted on 2026-06-08.
+This data analyst position at Aumovio was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

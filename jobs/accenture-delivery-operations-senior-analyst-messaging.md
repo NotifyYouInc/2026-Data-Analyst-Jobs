@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Delivery-Operations-Senior-Analyst-Messaging_AIOC-S01650466-1) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Senior-Analyst-Messaging_AIOC-S01653691-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-06-15.
+This data analyst position at Accenture was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

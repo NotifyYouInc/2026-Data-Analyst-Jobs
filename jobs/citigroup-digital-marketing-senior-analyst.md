@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Growth Marketing |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Digital-Marketing-Senior-Analyst_26966216-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Digital-Marketing-Senior-Analyst_26965305) |
 
 ## About This Role
 
-This growth marketing position at Citigroup was posted on 2026-05-27.
+This data analyst position at Citigroup was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

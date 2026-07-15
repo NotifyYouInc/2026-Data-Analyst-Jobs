@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Texas, US |
-| Category | Trust & Safety |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8506939002?gh_jid=8506939002) |
+| Location | Bastrop, Louisiana, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8622890002?gh_jid=8622890002) |
 
 ## About This Role
 
-This trust & safety position at SpaceX was posted on 2026-04-15.
+This data analyst position at SpaceX was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

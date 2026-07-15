@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Learning & Development |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Learning-Operations-Senior-Analyst_AIOC-S01645723-1) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Learning-Operations-Senior-Analyst_AIOC-S01653674-1) |
 
 ## About This Role
 
-This learning & development position at Accenture was posted on 2026-05-15.
+This data analyst position at Accenture was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

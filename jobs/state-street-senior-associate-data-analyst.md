@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Quincy, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Analyst_R-787053) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-Associate---Data-Analyst_R-793760) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-05-13.
+This data analyst position at State Street was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

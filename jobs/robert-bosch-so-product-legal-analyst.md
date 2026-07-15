@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vietnam |
-| Category | Legal |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115124937-so-product-legal-analyst) |
+| Location | Tân Phú, Dong Nai, Vietnam |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136208319-so-product-legal-analyst) |
 
 ## About This Role
 
-This legal position at Robert Bosch was posted on 2026-03-17.
+This data analyst position at Robert Bosch was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

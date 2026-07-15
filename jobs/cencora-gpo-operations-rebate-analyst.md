@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Heredia-Costa-Rica/GPO-Operations-Rebate-Analyst_R268340) |
+| Category | Data Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Heredia-Costa-Rica/GPO-Operations-Rebate-Analyst_R2610584-1) |
 
 ## About This Role
 
-This business analyst position at Cencora was posted on 2026-05-18.
+This data analyst position at Cencora was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
