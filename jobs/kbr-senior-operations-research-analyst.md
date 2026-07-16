@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Sierra Vista, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-Operations-Research-Analyst_R2124167) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sierra-Vista-Arizona/Senior-Operations-Research-Analyst_R2126256) |
 
 ## About This Role
 
-This data analyst position at KBR was posted on 2026-06-01.
+This data analyst position at KBR was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

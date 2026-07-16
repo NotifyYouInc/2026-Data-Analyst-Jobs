@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hopedale, Massachusetts, United States |
+| Location | Cedar Hill, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/United-States-of-Americas-Massachusetts-Hopedale-01747/Data-Analyst_R186370) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/United-States-of-AmericaTexasCedar-Hill75104/Data-Analyst_R187703) |
 
 ## About This Role
 
-This data analyst position at A.P. Moller - Maersk was posted on 2026-07-03.
+This data analyst position at A.P. Moller - Maersk was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

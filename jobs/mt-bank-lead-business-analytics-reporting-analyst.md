@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buffalo, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Lead-Business-Analytics---Reporting-Analyst_R84690-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Lead-Business-Analytics---Reporting-Analyst_R87209) |
 
 ## About This Role
 
-This business analyst position at M&T Bank was posted on 2026-04-17.
+This data analyst position at M&T Bank was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

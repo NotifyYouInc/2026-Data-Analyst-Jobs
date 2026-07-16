@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000131926579-senior-performance-marketing-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000136554709-senior-performance-marketing-analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Vericast was posted on 2026-06-12.
+This data analyst position at Vericast was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Plymouth, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Operations-Analyst_R29490) |
+| Location | Medina, Ohio, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Medina-MN-USA/Operations-Analyst_R30350) |
 
 ## About This Role
 
-This business analyst position at Polaris was posted on 2026-04-27.
+This data analyst position at Polaris was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

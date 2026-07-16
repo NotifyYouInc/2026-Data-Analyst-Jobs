@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
-| Category | Growth Marketing |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DIGITAL-SALES-ANALYST-I_JR00098889) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DIGITAL-SALES-ANALYST-I_JR00108800) |
 
 ## About This Role
 
-This growth marketing position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-18.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

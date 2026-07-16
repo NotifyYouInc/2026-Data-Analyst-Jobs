@@ -5,12 +5,12 @@
 | Company | [Mountfitchet Group](https://scoutify.ai/companies/mountfitchetgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MountfitchetGroup/744000136309459-data-research-analyst-cargo-mumbai) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MountfitchetGroup/744000136717120-data-research-analyst-cargo-mumbai) |
 
 ## About This Role
 
-This data analyst position at Mountfitchet Group was posted on 2026-07-07.
+This data analyst position at Mountfitchet Group was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

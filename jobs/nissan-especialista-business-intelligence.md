@@ -5,12 +5,12 @@
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aguascalientes, Aguascalientes, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aguascalientes-Aguascalientes---Mexico/Especialista-Business-Intelligence_R00197819-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aguascalientes-Aguascalientes---Mexico/Especialista-Business-Intelligence_R00211460-1) |
 
 ## About This Role
 
-This data analyst position at Nissan was posted on 2026-03-17.
+This data analyst position at Nissan was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

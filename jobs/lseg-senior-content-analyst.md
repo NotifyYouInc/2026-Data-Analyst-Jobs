@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Content-Analyst_R0119058-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Content-Analyst_R0120848-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-06-24.
+This data analyst position at LSEG was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

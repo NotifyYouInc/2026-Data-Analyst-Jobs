@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Operations |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7972492) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8052577) |
 
 ## About This Role
 
-This operations position at Appian was posted on 2026-06-01.
+This data analyst position at Appian was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

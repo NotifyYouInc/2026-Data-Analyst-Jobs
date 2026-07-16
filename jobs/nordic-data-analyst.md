@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nordic](https://scoutify.ai/companies/nordic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/US---National/Data-Analyst_R5603) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/Office-Mexico---Quertaro/Data-Analyst_R5795) |
 
 ## About This Role
 
-This data analyst position at Nordic was posted on 2026-04-22.
+This data analyst position at Nordic was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ecovadis](https://scoutify.ai/companies/ecovadis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Quatre Bornes, Plaines Wilhems, Mauritius |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000135962369-data-management-data-research-associate-1-year-fixed-term) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ecovadis/744000136732465-data-management-data-research-associate-1-year-fixed-term) |
 
 ## About This Role
 
-This data analyst position at Ecovadis was posted on 2026-07-06.
+This data analyst position at Ecovadis was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
