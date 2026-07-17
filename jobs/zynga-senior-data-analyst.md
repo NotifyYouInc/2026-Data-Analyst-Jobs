@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5733127004) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6112482004) |
 
 ## About This Role
 
-This data analyst position at Zynga was posted on 2026-06-22.
+This data analyst position at Zynga was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

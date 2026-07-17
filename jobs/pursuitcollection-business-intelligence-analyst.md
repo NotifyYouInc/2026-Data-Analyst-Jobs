@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pursuitcollection](https://scoutify.ai/companies/pursuitcollection?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Denver, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://pursuitcollection.wd501.myworkdayjobs.com/pursuit/job/CAN-AB-Calgary-Calgary-Office/Business-Intelligence-Analyst_JR101981) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://pursuitcollection.wd501.myworkdayjobs.com/pursuit/job/USA-CO-Denver-Denver-Office/Business-Intelligence-Analyst_JR101996) |
 
 ## About This Role
 
-This data analyst position at Pursuitcollection was posted on 2026-06-25.
+This data analyst position at Pursuitcollection was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

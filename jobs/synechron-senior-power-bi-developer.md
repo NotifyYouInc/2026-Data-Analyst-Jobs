@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/New-York-NY/Senior-Power-BI-Developer_JR1039513) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/New-York-NY/Senior-Power-BI-Developer_JR1041748) |
 
 ## About This Role
 
-This data analyst position at Synechron was posted on 2026-05-06.
+This data analyst position at Synechron was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

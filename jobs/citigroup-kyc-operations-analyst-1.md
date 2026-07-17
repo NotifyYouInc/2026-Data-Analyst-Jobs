@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/KYC-Operations-Analyst-1_26965492) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst-1_26977890) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-05-28.
+This data analyst position at Citigroup was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

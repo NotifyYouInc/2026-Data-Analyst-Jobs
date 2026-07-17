@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gurgaon-Sector-India/Sr-Analyst_WD30270893-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gurgaon-Sector-India/Sr-Analyst_WD30274074) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-06-04.
+This data analyst position at Johnson Controls was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

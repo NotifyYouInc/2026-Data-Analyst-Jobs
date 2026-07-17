@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8583786002) |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8626490002) |
 
 ## About This Role
 
-This business analyst position at AlphaSense was posted on 2026-06-09.
+This data analyst position at AlphaSense was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

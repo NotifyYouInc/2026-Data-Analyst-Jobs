@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Ashburn/Operations-Compliance-Analyst_JR-158871) |
+| Location | Calgary, Alberta, Canada |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/CL3-Calgary/Operations-Compliance-Analyst_JR-161714) |
 
 ## About This Role
 
-This compliance & risk management position at Equinix was posted on 2026-03-05.
+This data analyst position at Equinix was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

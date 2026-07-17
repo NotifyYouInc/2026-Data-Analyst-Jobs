@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kaunas, Kaunas, Lithuania |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000108788015-senior-data-analyst-fmd) |
+| Location | Vilnius, Vilnius, Lithuania |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000137051249-senior-data-analyst-fmd) |
 
 ## About This Role
 
-This data engineer position at Ignitis Grupe was posted on 2026-02-11.
+This data analyst position at Ignitis Grupe was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

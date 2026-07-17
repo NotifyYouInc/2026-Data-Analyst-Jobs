@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tukwila, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Business-Intelligence-Analyst---Associate-or-Mid-Level_JR2026514099-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Business-Intelligence-Analyst---Associate-or-Mid-Level_JR2026518485-1) |
 
 ## About This Role
 
-This data analyst position at Boeing was posted on 2026-06-19.
+This data analyst position at Boeing was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

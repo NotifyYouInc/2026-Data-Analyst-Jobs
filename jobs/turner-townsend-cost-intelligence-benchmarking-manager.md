@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000135691640-cost-intelligence-benchmarking-manager) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000137056629-cost-intelligence-benchmarking-manager) |
 
 ## About This Role
 
-This data analyst position at Turner & Townsend was posted on 2026-07-03.
+This data analyst position at Turner & Townsend was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000134550440-senior-revenue-management-analyst) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000136856354-senior-revenue-management-analyst) |
 
 ## About This Role
 
-This data analyst position at Sixt was posted on 2026-06-26.
+This data analyst position at Sixt was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

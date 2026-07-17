@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pleasant Prairie, Wisconsin, United States |
-| Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R264384-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R265405-1) |
 
 ## About This Role
 
-This product manager position at Uline was posted on 2026-06-04.
+This data analyst position at Uline was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

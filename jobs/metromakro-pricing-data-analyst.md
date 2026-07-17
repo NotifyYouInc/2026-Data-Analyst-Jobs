@@ -1,16 +1,16 @@
-# Pricing Data Analyst at METRO/MAKRO
+# PRICING DATA ANALYST at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000130789110-pricing-data-analyst) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000136890019-pricing-data-analyst) |
 
 ## About This Role
 
-This data analyst position at METRO/MAKRO was posted on 2026-06-08.
+This data analyst position at METRO/MAKRO was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

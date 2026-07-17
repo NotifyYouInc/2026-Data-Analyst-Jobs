@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Newton, Massachusetts, United States |
+| Location | Colorado, US |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000129788665-senior-data-analyst) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000136903549-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at StepStone was posted on 2026-06-02.
+This data analyst position at StepStone was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

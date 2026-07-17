@@ -1,16 +1,16 @@
-# Data Operations Analyst  at NielsenIQ
+# Data Operations Analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134413979-data-operations-analyst) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136922535-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-26.
+This data analyst position at NielsenIQ was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
-| Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466073/operational-excellence-analyst-global-operational-excellence) |
+| Location | Milan, Lombardy, Italy |
+| Category | Strategy & Operations |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470775/operational-excellence-analyst-global-operational-excellence) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-07-06.
+This strategy & operations position at Amazon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

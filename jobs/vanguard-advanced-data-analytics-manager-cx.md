@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Advanced-Data-Analytics-Manager--CX_179064-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Advanced-Data-Analytics-Manager--CX_180010) |
 
 ## About This Role
 
-This data analyst position at Vanguard was posted on 2026-06-23.
+This data analyst position at Vanguard was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monzo](https://scoutify.ai/companies/monzo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/7893506) |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/8053177) |
 
 ## About This Role
 
-This corporate finance position at Monzo was posted on 2026-05-05.
+This data analyst position at Monzo was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

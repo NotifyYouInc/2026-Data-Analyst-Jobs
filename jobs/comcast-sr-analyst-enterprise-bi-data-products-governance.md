@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Analyst--Enterprise-BI-Data-Products---Governance_R439321-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Analyst--Enterprise-BI-Data-Products---Governance_R440521-1) |
 
 ## About This Role
 
-This data analyst position at Comcast was posted on 2026-06-23.
+This data analyst position at Comcast was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

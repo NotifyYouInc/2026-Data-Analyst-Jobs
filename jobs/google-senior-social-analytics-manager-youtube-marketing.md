@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
-| Category | Marketing |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXbhpGajC4eE9h0eW_Rd2xlmVP14_D-CMePhFc4xCzwzEjsACxwdTCHmxW40eAHU46IQtmghUlmUur8aP9a_JsGOE3H84S3-eWadUJaKZlWbRh0fTlfYavQ2yNmoUw%3D%3D_V2&loc=US&title=Senior+Social+Analytics+Manager) |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVlyCG4KokebZI83-Ixpsy5pifGiWVGT_Suylw8FYKLJEjsA1Ny_i0po5m9bWGysNIfOuschBofIxToRRAUb6KBg7FgimUmXhDupCbW4Y8MHsRxpYsjUi3hnZkvMlA%3D%3D_V2&loc=US&title=Senior+Social+Analytics+Manager) |
 
 ## About This Role
 
-This marketing position at Google was posted on 2026-06-05.
+This data analyst position at Google was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000132449487-cards-portfolio-analyst) |
+| Category | Quant Research |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000136867546-cards-portfolio-analyst) |
 
 ## About This Role
 
-This data analyst position at Blend360 was posted on 2026-06-16.
+This quant research position at Blend360 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cleveland, Ohio, United States |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Sales-Operations-Analyst_R-107443) |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Sales-Operations-Analyst_R-108846) |
 
 ## About This Role
 
-This revenue / sales operations position at MRI Software was posted on 2026-04-08.
+This data analyst position at MRI Software was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

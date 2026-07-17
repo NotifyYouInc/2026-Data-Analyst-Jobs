@@ -1,16 +1,16 @@
-# Senior Analyst - Data Acquisition at GSK
+# Senior Analyst, Data Acquisition at GSK
 
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---Data-Acquisition_439230) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_444494) |
 
 ## About This Role
 
-This data analyst position at GSK was posted on 2026-04-20.
+This data analyst position at GSK was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

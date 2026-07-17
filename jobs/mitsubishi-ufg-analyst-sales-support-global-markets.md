@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Sydney-Branch/Analyst--Sales-Support---Global-Markets_10075904-WD) |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Sydney-Branch/Analyst--Sales-Support---Global-Markets_10075885-WD) |
 
 ## About This Role
 
-This business analyst position at Mitsubishi UFG was posted on 2026-04-14.
+This data analyst position at Mitsubishi UFG was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Digital-Product-Analyst_R-8257-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Digital-Product-Analyst_R-9079) |
 
 ## About This Role
 
-This business analyst position at UMB Financial was posted on 2026-02-25.
+This data analyst position at UMB Financial was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

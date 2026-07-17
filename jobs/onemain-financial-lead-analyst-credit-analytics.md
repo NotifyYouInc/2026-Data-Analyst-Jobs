@@ -1,16 +1,16 @@
-# Lead Analyst – Credit Analytics at OneMain Financial
+# Lead Analyst, Credit Analytics at OneMain Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Lead-Analyst---Credit-Analytics_R2604-50244) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Lead-Analyst--Credit-Analytics_R2607-51646) |
 
 ## About This Role
 
-This data analyst position at OneMain Financial was posted on 2026-04-03.
+This data analyst position at OneMain Financial was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

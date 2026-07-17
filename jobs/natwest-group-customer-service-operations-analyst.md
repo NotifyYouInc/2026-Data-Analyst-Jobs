@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Customer-Service---Operations-Analyst_R-00278271) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Analyst_R-00281484) |
 
 ## About This Role
 
-This customer success position at NatWest Group was posted on 2026-05-13.
+This data analyst position at NatWest Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

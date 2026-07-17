@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7976950) |
+| Location | London, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8049475) |
 
 ## About This Role
 
-This business analyst position at DRW was posted on 2026-06-02.
+This data analyst position at DRW was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
