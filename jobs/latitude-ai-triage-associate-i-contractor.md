@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Latitude AI](https://scoutify.ai/companies/latitude-ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/8021962) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/8055141) |
 
 ## About This Role
 
-This data analyst position at Latitude AI was posted on 2026-06-22.
+This data analyst position at Latitude AI was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/KYC-Operations-Analyst-2_26959751-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst-2_26978329) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-05-26.
+This data analyst position at Citigroup was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

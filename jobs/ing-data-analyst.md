@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Data-Analyst_REQ-10115432-2) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Data-Analyst_REQ-10110620) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-06-19.
+This data analyst position at ING was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

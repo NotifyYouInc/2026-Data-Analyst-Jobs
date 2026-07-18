@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Product Marketing |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/00d0da34-6e63-4e23-8713-06faad148ef6) |
+| Location | London, England, United Kingdom |
+| Category | Go To Market Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/90820295-8155-43c1-82fd-3d40c8c124a7) |
 
 ## About This Role
 
-This product marketing position at Snowflake was posted on 2026-03-25.
+This go to market engineer position at Snowflake was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Capital-Markets-Operations-Sr-Analyst_AIOC-S01649450-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Operations-Sr-Analyst_AIOC-S01654255) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-08.
+This data analyst position at Accenture was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

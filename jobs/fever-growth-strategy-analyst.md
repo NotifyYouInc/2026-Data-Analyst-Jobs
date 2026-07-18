@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Growth Marketing |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4846559101) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4924805101) |
 
 ## About This Role
 
-This growth marketing position at Fever was posted on 2026-04-21.
+This data analyst position at Fever was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

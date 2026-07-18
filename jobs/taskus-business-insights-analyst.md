@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Batangas, Calabarzon, Philippines |
+| Location | Atlántico, CO |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Batangas-Batangas-Philippines/Business-Insights-Analyst_R_2606_7640) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Atlantico-Colombia/Business-Insights-Analyst_R_2607_8836) |
 
 ## About This Role
 
-This data analyst position at TaskUs was posted on 2026-06-15.
+This data analyst position at TaskUs was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

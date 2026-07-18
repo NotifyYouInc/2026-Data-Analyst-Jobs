@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Business-Intelligence-Developer_R-9109) |
+| Category | Data Analyst |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Business-Intelligence-Developer_R-9745) |
 
 ## About This Role
 
-This software engineer position at VSP Vision was posted on 2026-02-20.
+This data analyst position at VSP Vision was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

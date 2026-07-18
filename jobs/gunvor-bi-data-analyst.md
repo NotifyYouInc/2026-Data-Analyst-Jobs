@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Houston, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/London/BI-Data-Analyst_JR102567-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/BI-Data-Analyst_JR102720-1) |
 
 ## About This Role
 
-This data analyst position at Gunvor was posted on 2026-04-02.
+This data analyst position at Gunvor was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

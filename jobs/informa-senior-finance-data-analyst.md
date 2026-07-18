@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000136801126-senior-finance-data-analyst) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000137047244-senior-finance-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-07-09.
+This data analyst position at Informa was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

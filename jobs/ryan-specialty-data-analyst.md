@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Richmond, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/London---UK---Fenchurch/Data-Analyst_JR26-4735-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Richmond---Virginia/Data-Analyst_JR26-4964-1) |
 
 ## About This Role
 
-This data analyst position at Ryan Specialty was posted on 2026-05-28.
+This data analyst position at Ryan Specialty was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

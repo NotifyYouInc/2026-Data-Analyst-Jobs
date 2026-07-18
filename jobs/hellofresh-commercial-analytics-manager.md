@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8022965?gh_jid=8022965) |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8055048?gh_jid=8055048) |
 
 ## About This Role
 
-This business analyst position at HelloFresh was posted on 2026-06-24.
+This data analyst position at HelloFresh was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

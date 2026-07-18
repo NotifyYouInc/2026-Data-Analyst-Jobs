@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | San Jose, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Clinical-Data-Management-Analyst_R396493) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Clinical-Data-Management-Analyst_R407648) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-05-06.
+This data analyst position at Merck was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

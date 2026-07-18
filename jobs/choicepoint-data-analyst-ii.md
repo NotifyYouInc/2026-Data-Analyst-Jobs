@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Data-Analyst-II_R113364) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/United-Kingdom/Data-Analyst-II_R115890) |
 
 ## About This Role
 
-This data analyst position at ChoicePoint was posted on 2026-06-04.
+This data analyst position at ChoicePoint was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

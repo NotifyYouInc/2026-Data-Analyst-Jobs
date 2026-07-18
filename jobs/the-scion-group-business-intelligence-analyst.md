@@ -5,12 +5,12 @@
 | Company | [The Scion Group](https://scoutify.ai/companies/thesciongroupllc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8437716002) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8628525002) |
 
 ## About This Role
 
-This data analyst position at The Scion Group was posted on 2026-02-25.
+This data analyst position at The Scion Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

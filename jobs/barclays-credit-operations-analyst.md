@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Isle of Man |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Isle-of-Man-Eagle-Court/Credit-Operations-Analyst_JR-0000097109) |
+| Location | Monaco, Municipality of Monaco, Monaco |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Monaco-Le-Labor/Credit-Operations-Analyst_JR-0000114249-1) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-03-04.
+This data analyst position at Barclays was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

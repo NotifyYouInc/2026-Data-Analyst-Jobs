@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Owner-Lead-Analyst---HIH---Evernorth_26005882) |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Owner-Lead-Analyst---HIH---Evernorth_26007764) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-05-25.
+This data analyst position at Cigna was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

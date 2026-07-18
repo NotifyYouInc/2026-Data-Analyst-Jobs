@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leger](https://scoutify.ai/companies/leger2?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Leger2/744000132513649-analyste-de-recherche) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Leger2/744000137132309-analyste-de-recherche) |
 
 ## About This Role
 
-This data analyst position at Leger was posted on 2026-06-16.
+This data analyst position at Leger was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

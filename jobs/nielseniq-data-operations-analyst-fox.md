@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133562390-data-operations-analyst-fox) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137096739-data-operations-analyst-fox) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-23.
+This data analyst position at NielsenIQ was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

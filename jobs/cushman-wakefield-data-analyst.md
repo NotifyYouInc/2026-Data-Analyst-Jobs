@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/San-Jose-California-USA/Data-Analyst_R318761) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Singapore/Data-Analyst_R327874) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-06-18.
+This data analyst position at Cushman & Wakefield was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

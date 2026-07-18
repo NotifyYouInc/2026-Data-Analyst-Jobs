@@ -6,7 +6,7 @@
 | Location | Peachtree Corners, Georgia, United States |
 | Category | Data Analyst |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000136841879-global-customer-insights-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000136889780-global-customer-insights-intern) |
 
 ## About This Role
 

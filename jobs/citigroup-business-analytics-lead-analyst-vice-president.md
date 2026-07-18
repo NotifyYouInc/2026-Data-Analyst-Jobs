@@ -1,16 +1,16 @@
-# Business Analytics Lead Analyst- Vice President at Citigroup
+# Business Analytics Lead Analyst, Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jersey City, New Jersey, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Business-Analytics-Lead-Analyst--Vice-President_26962745) |
+| Location | London, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Business-Analytics-Lead-Analyst--Vice-President_26975578) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-15.
+This data analyst position at Citigroup was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

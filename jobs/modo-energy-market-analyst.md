@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Modo Energy](https://scoutify.ai/companies/modoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/modoenergy/jobs/4923063101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/modoenergy/jobs/4924102101) |
 
 ## About This Role
 

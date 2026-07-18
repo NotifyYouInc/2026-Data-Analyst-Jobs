@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Data-Eng--Mgmt---Governance-Analyst_R00339576) |
+| Location | Bengaluru, Karnataka, India |
+| Category | ESG / Sustainability |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Data-Eng--Mgmt---Governance-Analyst_AIOC-S01654405-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-06-30.
+This esg / sustainability position at Accenture was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

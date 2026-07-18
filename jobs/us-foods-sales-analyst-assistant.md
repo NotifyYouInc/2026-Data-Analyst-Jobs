@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [US Foods](https://scoutify.ai/companies/usfoods?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Perth Amboy, New Jersey, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Perth-Amboy-NJ/Sales-Analyst-Assistant_R278702) |
+| Location | Greensburg, Pennsylvania, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Greensburg-PA/Sales-Analyst-Assistant_R280449-1) |
 
 ## About This Role
 
-This business analyst position at US Foods was posted on 2026-04-27.
+This data analyst position at US Foods was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
