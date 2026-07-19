@@ -1,16 +1,16 @@
-# Market Analyst at Modo Energy
+# Junior Data Analyst at 63WebStudio
 
 | Field | Details |
 |-------|---------|
-| Company | [Modo Energy](https://scoutify.ai/companies/modoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [63WebStudio](https://scoutify.ai/companies/63webstudio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Lekki, Lagos, Nigeria |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/modoenergy/jobs/4924772101) |
+| Posted | 2019-06-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/63webstudio/743999690557424-junior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Modo Energy was posted on 2026-07-10.
+This data analyst position at 63WebStudio was posted on 2019-06-27.
 
 ## Get Real-Time Alerts
 

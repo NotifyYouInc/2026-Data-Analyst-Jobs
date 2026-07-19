@@ -1,16 +1,16 @@
-# Market Analyst at Modo Energy
+# Business Intelligence Engineer (BI) at Devsinc
 
 | Field | Details |
 |-------|---------|
-| Company | [Modo Energy](https://scoutify.ai/companies/modoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Devsinc](https://scoutify.ai/companies/devsinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Lahore, Punjab, Pakistan |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/modoenergy/jobs/4924772101) |
+| Posted | 2023-03-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devsinc/743999895990328-business-intelligence-engineer-bi) |
 
 ## About This Role
 
-This data analyst position at Modo Energy was posted on 2026-07-10.
+This data analyst position at Devsinc was posted on 2023-03-28.
 
 ## Get Real-Time Alerts
 

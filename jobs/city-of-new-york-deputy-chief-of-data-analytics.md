@@ -1,4 +1,4 @@
-# Data Analyst at City of New York
+# Deputy Chief of Data Analytics at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-07-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014047351-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014047586-deputy-chief-of-data-analytics) |
 
 ## About This Role
 

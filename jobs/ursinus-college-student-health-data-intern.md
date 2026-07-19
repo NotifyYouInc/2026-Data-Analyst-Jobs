@@ -1,16 +1,16 @@
-# Market Analyst at Modo Energy
+# Student - Health Data Intern at Ursinus College
 
 | Field | Details |
 |-------|---------|
-| Company | [Modo Energy](https://scoutify.ai/companies/modoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Ursinus College](https://scoutify.ai/companies/ocs-cx-oj113693?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Collegeville, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/modoenergy/jobs/4924772101) |
+| Posted | 2024-08-05 |
+| Apply | [View on company site](https://iaotqy.fa.ocs.oraclecloud.com/jobs/#61) |
 
 ## About This Role
 
-This data analyst position at Modo Energy was posted on 2026-07-10.
+This data analyst position at Ursinus College was posted on 2024-08-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Market Analyst at Modo Energy
+# Data Analyst & AI Citizen Developer at Euroclear
 
 | Field | Details |
 |-------|---------|
-| Company | [Modo Energy](https://scoutify.ai/companies/modoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Euroclear](https://scoutify.ai/companies/em2-cx-oj36347?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/modoenergy/jobs/4924772101) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#8849) |
 
 ## About This Role
 
-This data analyst position at Modo Energy was posted on 2026-07-10.
+This data analyst position at Euroclear was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

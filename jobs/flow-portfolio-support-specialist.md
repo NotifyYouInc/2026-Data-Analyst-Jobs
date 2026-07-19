@@ -1,16 +1,16 @@
-# Market Analyst at Modo Energy
+# Portfolio Support Specialist at Flow
 
 | Field | Details |
 |-------|---------|
-| Company | [Modo Energy](https://scoutify.ai/companies/modoenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Flow](https://scoutify.ai/companies/flow1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/modoenergy/jobs/4924772101) |
+| Posted | 2021-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FLOW1/743999734409798-portfolio-support-specialist) |
 
 ## About This Role
 
-This data analyst position at Modo Energy was posted on 2026-07-10.
+This data analyst position at Flow was posted on 2021-02-09.
 
 ## Get Real-Time Alerts
 
