@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Strategy & Operations |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/a160a25e-4333-4afb-b6d9-3eac324b7ac1) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/6c104209-69d5-4ad3-88cc-2dbe3302d9ac) |
 
 ## About This Role
 
-This strategy & operations position at enpal was posted on 2026-04-16.
+This data analyst position at enpal was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

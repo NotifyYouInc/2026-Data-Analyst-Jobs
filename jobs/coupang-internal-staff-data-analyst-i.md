@@ -5,12 +5,12 @@
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7920312?gh_jid=7920312) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8055015?gh_jid=8055015) |
 
 ## About This Role
 
-This data analyst position at Coupang Internal was posted on 2026-05-19.
+This data analyst position at Coupang Internal was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

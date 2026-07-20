@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Project Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data---Analytics-Manager---DA--VP_R-00272659) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data---Analytics-Manager---DA--VP_R-00280095-1) |
 
 ## About This Role
 
-This project manager position at NatWest Group was posted on 2026-03-30.
+This data analyst position at NatWest Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

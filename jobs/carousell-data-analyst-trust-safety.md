@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000134948889-data-analyst-trust-safety) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000137398708-data-analyst-trust-safety) |
 
 ## About This Role
 
-This data analyst position at Carousell was posted on 2026-06-30.
+This data analyst position at Carousell was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

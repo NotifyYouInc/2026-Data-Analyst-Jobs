@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/BI-Data-Analytics-Professional_R183618) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/BI-Data-Analytics-Professional_R185687) |
 
 ## About This Role
 
-This data analyst position at A.P. Moller - Maersk was posted on 2026-06-15.
+This data analyst position at A.P. Moller - Maersk was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

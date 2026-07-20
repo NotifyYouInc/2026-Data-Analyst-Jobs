@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Sustainability-Reporting-Analyst_R327240) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tokyo-Japan/Sustainability-Reporting-Analyst_R326095) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-07-07.
+This data analyst position at Cushman & Wakefield was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

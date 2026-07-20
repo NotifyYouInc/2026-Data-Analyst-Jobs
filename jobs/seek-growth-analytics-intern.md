@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000127123820-growth-analytics-intern) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000137363129-growth-analytics-intern) |
 
 ## About This Role
 
-This data analyst position at SEEK was posted on 2026-05-19.
+This data analyst position at SEEK was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

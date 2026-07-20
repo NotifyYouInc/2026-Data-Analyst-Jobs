@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Sales-Coverage-Support-Analyst--AS_R0426079) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Sales-Coverage-Support-Analyst--AS_R0424313) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-03-06.
+This data analyst position at Deutsche Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
