@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728041) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768987) |
 
 ## About This Role
 
-This data analyst position at JPMorgan Chase was posted on 2026-05-07.
+This data analyst position at JPMorgan Chase was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

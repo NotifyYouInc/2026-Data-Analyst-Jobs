@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Clearfield, Utah, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Computer-Operations-Analyst-2-3_R10230209) |
+| Location | Magna, Utah, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Computer-Operations-Analyst-2-3_R10237867) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-05-05.
+This data analyst position at Northrop Grumman was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

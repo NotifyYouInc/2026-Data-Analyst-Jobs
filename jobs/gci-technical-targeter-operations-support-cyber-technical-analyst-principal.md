@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=d0a03119-ba23-46c8-9126-5aec83478b47) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=c3ab9a34-7c0e-401f-8b59-b387381b1b59) |
 
 ## About This Role
 
-This offensive security & pentesting position at GCI was posted on 2026-02-17.
+This data analyst position at GCI was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

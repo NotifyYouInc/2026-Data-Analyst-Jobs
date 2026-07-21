@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000119993816-lead-data-analyst-wise-platform-pricing) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137431220-lead-data-analyst-wise-platform-pricing) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-04-10.
+This data analyst position at WISE was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Content Marketing |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckadQF00EKQ9k4NJ3dCDw-l4frf-qhqZxuq-_ObBPpFVDEjsACxwdTJPDHpXFowYJ5d5fVFB15UC9DsC-KK0-b9KygkypxbwYH4eko8uh96eM2LLIX2RUcZTu2SMi7g%3D%3D_V2&loc=US&title=Analyst+Relations+Insights+and+Activation+Manager) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZPs9sDJT2k-UfWbF_uFc09uLnXOaKSRpr6sk-IKd018EjsA1Ny_ix7gEytWQdBKAE-V_mCAKSNUd_CX2RSvLjjkJl2o2ySmh8-HiLMdv-Nephfk69MjRtoKhhr9Fw%3D%3D_V2&loc=US&title=Analyst+Relations+Insights+and+Activation+Manager) |
 
 ## About This Role
 
-This content marketing position at Google was posted on 2026-05-18.
+This data analyst position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

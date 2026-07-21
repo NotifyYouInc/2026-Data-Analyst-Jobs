@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Contagem, Minas Gerais, Brazil |
-| Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012305904-jr-customer-integration-analyst) |
+| Location | Araraquara, São Paulo, Brazil |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014053744-jr-customer-integration-analyst) |
 
 ## About This Role
 
-This customer success position at Wabtec was posted on 2026-03-25.
+This data analyst position at Wabtec was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

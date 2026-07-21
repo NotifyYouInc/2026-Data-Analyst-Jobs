@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Sales-Analyst_JR2016666) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Sales-Analyst_JR2020063) |
 
 ## About This Role
 
-This business analyst position at Nvidia was posted on 2026-04-20.
+This data analyst position at Nvidia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

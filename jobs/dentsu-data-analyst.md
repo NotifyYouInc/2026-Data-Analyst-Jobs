@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/India---Maharashtra--Pune---Baner---Amar-Madhuban-Tech-Park/Data-Analyst_R1119643) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Buenos-Aires/Data-Analyst_R1127267) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-04-13.
+This data analyst position at Dentsu was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

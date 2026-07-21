@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Technologique-d-exploitation_R2607336) |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Spcialiste-qualit--Intgration-de-donnes_R2609016-1) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-06-01.
+This data analyst position at Desjardins was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7025714) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7574707) |
 
 ## About This Role
 
-This data analyst position at FREENOW was posted on 2026-04-10.
+This data analyst position at FREENOW was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

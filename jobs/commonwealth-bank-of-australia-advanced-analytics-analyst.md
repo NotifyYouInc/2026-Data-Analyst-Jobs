@@ -5,12 +5,12 @@
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Advanced-Analytics-Analyst_REQ260799-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Advanced-Analytics-Analyst_REQ257861) |
 
 ## About This Role
 
-This data analyst position at Commonwealth Bank of Australia was posted on 2026-06-29.
+This data analyst position at Commonwealth Bank of Australia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

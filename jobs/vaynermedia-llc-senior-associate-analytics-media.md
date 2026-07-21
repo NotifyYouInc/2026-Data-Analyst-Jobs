@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VaynerMedia LLC](https://scoutify.ai/companies/vaynermedia-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Los Angeles, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://vaynermedia.com/careers?gh_jid=7815958) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://vaynermedia.com/careers?gh_jid=8008443) |
 
 ## About This Role
 
-This data analyst position at VaynerMedia LLC was posted on 2026-04-14.
+This data analyst position at VaynerMedia LLC was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Risk-Information-Technology-and-Data-Analyst_R102717) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Risk-Information-Technology-and-Data-Analyst_R104131) |
 
 ## About This Role
 
-This compliance & risk management position at Regions Bank was posted on 2026-05-19.
+This data analyst position at Regions Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

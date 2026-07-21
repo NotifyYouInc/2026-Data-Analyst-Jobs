@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135570670-experimentation-manager-cnbc-ms-now) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000137544174-experimentation-manager-cnbc-ms-now) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-07-02.
+This data analyst position at Versant was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

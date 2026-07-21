@@ -5,12 +5,12 @@
 | Company | [Precision Medicine Group](https://scoutify.ai/companies/precision-medicine-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5996752004) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6115218004) |
 
 ## About This Role
 
-This data analyst position at Precision Medicine Group was posted on 2026-05-15.
+This data analyst position at Precision Medicine Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000136909899-data-analytics-manager-elections) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000137475399-data-analytics-manager-elections) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-07-09.
+This data analyst position at Versant was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

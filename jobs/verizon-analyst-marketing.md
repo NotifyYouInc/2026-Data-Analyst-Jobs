@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Analyst-Marketing_R-1094913) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Analyst-Marketing_R-1096479) |
 
 ## About This Role
 
-This data analyst position at Verizon was posted on 2026-07-01.
+This data analyst position at Verizon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

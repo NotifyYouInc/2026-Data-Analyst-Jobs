@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Data-Analyst_REQ-1000046212) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Medelln-Antioquia-Colombia/Data-Analyst_REQ-1000049801) |
 
 ## About This Role
 
-This data analyst position at Stanley Black & Decker was posted on 2026-03-04.
+This data analyst position at Stanley Black & Decker was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

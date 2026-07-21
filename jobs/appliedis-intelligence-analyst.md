@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Intelligence-Analyst_JR2026001283) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Intelligence-Analyst_JR2026001298) |
 
 ## About This Role
 
-This data analyst position at Appliedis was posted on 2026-07-01.
+This data analyst position at Appliedis was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

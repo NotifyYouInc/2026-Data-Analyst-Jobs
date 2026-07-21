@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Digital-Asset-Operations---Analyst_26958601) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Digital-Asset-Operations---Analyst_26958608) |
 
 ## About This Role
 
-This asset management / portfolio management position at Citigroup was posted on 2026-05-06.
+This data analyst position at Citigroup was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

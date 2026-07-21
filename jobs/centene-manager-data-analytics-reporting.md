@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nevada, US |
+| Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-AZ/Manager--Data-Analytics---Reporting_1633670-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Manager--Data-Analytics---Reporting_1643483-1) |
 
 ## About This Role
 
-This data analyst position at Centene was posted on 2026-03-24.
+This data analyst position at Centene was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

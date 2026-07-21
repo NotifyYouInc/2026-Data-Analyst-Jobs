@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Germany |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000118191247-pricing-analyst-mwd) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137598360-pricing-analyst-mwd) |
 
 ## About This Role
 
-This data analyst position at METRO/MAKRO was posted on 2026-04-01.
+This data analyst position at METRO/MAKRO was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

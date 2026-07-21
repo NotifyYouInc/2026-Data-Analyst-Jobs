@@ -6,7 +6,7 @@
 | Location | Hiroshima, Hiroshima, Japan |
 | Category | Data Engineer |
 | Posted | 2026-07-12 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/Operations-Performance---Analytics-Engineer_JR105663) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/Operations-Performance---Analytics-Engineer_JR105662) |
 
 ## About This Role
 

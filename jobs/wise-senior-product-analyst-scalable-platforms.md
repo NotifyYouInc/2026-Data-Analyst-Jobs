@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135438099-senior-product-analyst-scalable-platforms) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137417689-senior-product-analyst-scalable-platforms) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-07-02.
+This data analyst position at WISE was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Longueuil, Quebec, Canada |
-| Category | Program Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Operations-Program-Engineer-Analyst_01832328) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Operations-Program-Engineer-Analyst_01854448-1) |
 
 ## About This Role
 
-This program manager position at RTX was posted on 2026-04-23.
+This data analyst position at RTX was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

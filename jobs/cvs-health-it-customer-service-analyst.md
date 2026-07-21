@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
-| Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/IT-Customer-Service-Analyst_R0897105) |
+| Location | Wisconsin, US |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Work-from-home/IT-Customer-Service-Analyst_R0967630) |
 
 ## About This Role
 
-This customer success position at CVS Health was posted on 2026-05-11.
+This data analyst position at CVS Health was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

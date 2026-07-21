@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Timişoara, Timiș County, Romania |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132338948-senior-data-analyst) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000137454115-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Endava was posted on 2026-06-16.
+This data analyst position at Endava was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

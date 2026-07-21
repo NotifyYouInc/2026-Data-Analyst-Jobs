@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Geospatial-Analyst--Mid_R0243653) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Geospatial-Analyst--Mid_R0244333) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-07-02.
+This data analyst position at Booz Allen was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

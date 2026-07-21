@@ -1,16 +1,16 @@
-# Technology Product Strategist (Cash Management Platform),  BlackRock Global Markets, Analyst at Blackrock
+# Technology Product Strategist (Cash Management Platform), BlackRock Global Markets, Analyst at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Gurugram-India/Technology-Product-Strategist--Cash-Management-Platform----BlackRock-Global-Markets--Analyst_R261350) |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Gurugram-India/Technology-Product-Strategist--Cash-Management-Platform---BlackRock-Global-Markets--Analyst_R261349) |
 
 ## About This Role
 
-This treasury & capital markets position at Blackrock was posted on 2026-05-05.
+This data analyst position at Blackrock was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

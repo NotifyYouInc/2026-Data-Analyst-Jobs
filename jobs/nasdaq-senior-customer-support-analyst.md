@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Mexico-City--Mariano-Escobedo/Senior-Customer-Support-Analyst_R0026071) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Mexico-City--Mariano-Escobedo/Senior-Customer-Support-Analyst_R0026438) |
 
 ## About This Role
 
-This customer success position at Nasdaq was posted on 2026-05-12.
+This data analyst position at Nasdaq was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

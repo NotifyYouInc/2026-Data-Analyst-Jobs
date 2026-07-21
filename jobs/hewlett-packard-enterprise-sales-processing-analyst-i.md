@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Sales-Processing-Analyst-I_1206195-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Sales-Processing-Analyst-I_1200784) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard Enterprise was posted on 2026-07-10.
+This data analyst position at Hewlett Packard Enterprise was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

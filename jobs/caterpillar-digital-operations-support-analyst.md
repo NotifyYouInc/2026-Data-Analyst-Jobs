@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Digital-Operations-Support-Analyst_R0000369424-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Digital-Operations-Support-Analyst_R0000376661) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-05-18.
+This data analyst position at Caterpillar was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

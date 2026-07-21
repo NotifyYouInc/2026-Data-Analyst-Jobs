@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Syracuse, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000134276589-business-intelligence-analytics-specialist) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000137459596-business-intelligence-analytics-specialist) |
 
 ## About This Role
 
-This data analyst position at Ramboll was posted on 2026-06-25.
+This data analyst position at Ramboll was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

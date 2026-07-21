@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kirkland, Washington, United States |
 | Category | Trust & Safety |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZwkn4YiMgV4JSltZQRmpSvLkAbwJQJAFgxJJgVPDd5mEjsACxwdTHLT6Zx3o3e0YJ3rXULIZ8_7cAHZtGE7qXxtvNuDXeq2xPYUl_FjvgklgwL6rrvzfGXvaJiPjg%3D%3D_V2&loc=US&title=Research+and+Development+Analyst) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV-rEQslx-5r9R8JEQDG_1Od4DcuV-SpRbmQ9Nz_JMgtEjsA1Ny_iwukmzYDX_G39pE-pVayeor9pqBNDNMe6_rmkLwBlk25ow-z-0UlLDbMbW1pIU3CfGciKGK8sA%3D%3D_V2&loc=US&title=Research+and+Development+Analyst) |
 
 ## About This Role
 
-This trust & safety position at Google was posted on 2026-06-08.
+This trust & safety position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

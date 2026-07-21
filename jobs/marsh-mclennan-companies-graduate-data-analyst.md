@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Birmingham, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Birmingham---Brindleyplace/Analyst-II---Advisory_R_353782) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-East/Graduate-Data-Analyst_R_356797) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-06-08.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
