@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Watertown, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135497810-business-intelligence-intern-fall) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137672769-business-intelligence-intern-fall) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-07-02.
+This data analyst position at Robert Bosch was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

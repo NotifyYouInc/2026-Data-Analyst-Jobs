@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Northfield, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Senior-Sales-Compensation-Analyst_R2605948) |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Senior-Sales-Compensation-Analyst_R2614048) |
 
 ## About This Role
 
-This business analyst position at Medline was posted on 2026-03-25.
+This data analyst position at Medline was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

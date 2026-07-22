@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8027781) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8063940) |
 
 ## About This Role
 
-This data analyst position at Coupang was posted on 2026-06-26.
+This data analyst position at Coupang was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

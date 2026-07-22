@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117585807-bi-developer) |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137796689-bi-developer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-03-30.
+This data analyst position at Experian was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

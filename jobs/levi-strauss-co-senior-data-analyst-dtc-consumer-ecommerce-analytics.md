@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/Senior-Data-Analyst--DTC--Consumer---Ecommerce-Analytics-_R-0153136) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Barcelona-Spain/Senior-Data-Analyst--DTC--Consumer---Ecommerce-Analytics-_R-0153130) |
 
 ## About This Role
 
-This data analyst position at Levi Strauss & Co. was posted on 2026-06-19.
+This data analyst position at Levi Strauss & Co. was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

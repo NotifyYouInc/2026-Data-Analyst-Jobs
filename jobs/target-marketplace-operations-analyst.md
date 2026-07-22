@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Marketplace-Operations-Analyst_R0000430607-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Marketplace-Operations-Analyst_R0000445002) |
 
 ## About This Role
 
-This business analyst position at Target was posted on 2026-02-25.
+This data analyst position at Target was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

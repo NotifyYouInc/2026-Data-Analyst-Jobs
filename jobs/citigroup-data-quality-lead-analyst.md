@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | Wilmington, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Data-Quality-Lead-Analyst_26965540) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Wilmington-Delaware-United-States/Data-Quality-Lead-Analyst_26978048) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-13.
+This data analyst position at Citigroup was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

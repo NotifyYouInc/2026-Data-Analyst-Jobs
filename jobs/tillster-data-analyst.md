@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tillster](https://scoutify.ai/companies/tillster?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/tillster/f1d42c66-7dd6-4d78-ab29-d29250d1d8ad) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tillster/1eecbde0-d6e5-41ff-8c1f-5c5313710598) |
 
 ## About This Role
 

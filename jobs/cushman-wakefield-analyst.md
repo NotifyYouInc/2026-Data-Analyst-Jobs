@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Hyderabad-India/Analyst_R319880) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Analyst_R322100) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-07-02.
+This data analyst position at Cushman & Wakefield was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

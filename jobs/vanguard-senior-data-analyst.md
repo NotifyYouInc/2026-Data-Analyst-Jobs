@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Dublin-Ireland/Senior-Data-Analyst_178934) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Senior-Data-Analyst_179964-1) |
 
 ## About This Role
 
-This data analyst position at Vanguard was posted on 2026-06-08.
+This data analyst position at Vanguard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

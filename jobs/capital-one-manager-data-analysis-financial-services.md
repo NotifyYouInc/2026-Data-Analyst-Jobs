@@ -1,16 +1,16 @@
-# Manager, Data Analysis -Financial Services at Capital One
+# Manager, Data Analysis (Financial Services) at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Manager--Data-Analysis--Financial-Services_R237594) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Manager--Data-Analysis--Financial-Services-_R246982-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-03-09.
+This data analyst position at Capital One was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

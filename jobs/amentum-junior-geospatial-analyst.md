@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fort Bragg, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NC-Fort-Bragg/Junior-Geospatial-Analyst_R0165281) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NC-Fort-Bragg/Junior-Geospatial-Analyst_R0165277-1) |
 
 ## About This Role
 
-This data analyst position at Amentum was posted on 2026-07-06.
+This data analyst position at Amentum was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

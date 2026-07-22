@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
-| Category | Marketing |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/So-Paulo-Brazil/Senior-Marketing-Analyst_R49386) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/So-Paulo-Brasil/Senior-Marketing-Analyst_R53539) |
 
 ## About This Role
 
-This marketing position at TD Synnex was posted on 2026-03-31.
+This data analyst position at TD Synnex was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

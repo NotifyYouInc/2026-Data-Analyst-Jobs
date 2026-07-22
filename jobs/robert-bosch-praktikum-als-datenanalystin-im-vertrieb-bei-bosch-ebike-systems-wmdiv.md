@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133321449-praktikum-als-datenanalystin-im-vertrieb-bei-bosch-ebike-systems-wmdiv) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137659491-praktikum-als-datenanalystin-im-vertrieb-bei-bosch-ebike-systems-wmdiv) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-06-22.
+This data analyst position at Robert Bosch was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Richardson, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Richardson-TX/Omnichannel-Data-Optimization-Analyst_R0063650-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Richardson-TX/Omnichannel-Data-Optimization-Analyst_R0064016) |
 
 ## About This Role
 
-This data analyst position at Geico was posted on 2026-05-18.
+This data analyst position at Geico was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

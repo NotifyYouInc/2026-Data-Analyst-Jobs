@@ -1,16 +1,16 @@
-# (Senior) Product Analyst (m/f/d) at Sixt
+# Senior Product Analyst (m/f/d) at Sixt
 
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000136030099-senior-product-analyst-mfd) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000137621209-senior-product-analyst-mfd) |
 
 ## About This Role
 
-This data analyst position at Sixt was posted on 2026-07-06.
+This data analyst position at Sixt was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

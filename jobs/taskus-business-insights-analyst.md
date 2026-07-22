@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlántico, CO |
+| Location | Cali, Valle del Cauca Department, Colombia |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Atlantico-Colombia/Business-Insights-Analyst_R_2607_8836) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Cali-Colombia---Remote/Business-Insights-Analyst_R_2607_9071) |
 
 ## About This Role
 
-This data analyst position at TaskUs was posted on 2026-07-10.
+This data analyst position at TaskUs was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

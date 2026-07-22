@@ -1,16 +1,16 @@
-# Data Management Analyst at Experian
+# Data Management - Analyst at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chile |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129044739-data-management-analyst) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137770584-data-management-analyst) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-05-28.
+This data analyst position at Experian was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

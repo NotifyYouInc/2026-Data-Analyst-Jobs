@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Regional-Qualification-Specialist_R2847356-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Regional-Qualification-Specialist_R2864595) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-03-17.
+This data analyst position at Sanofi was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

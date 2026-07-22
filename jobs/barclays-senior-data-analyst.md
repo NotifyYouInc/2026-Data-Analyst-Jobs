@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Data-Analyst_JR-0000114743-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Data-Analyst_JR-0000111740) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-06-04.
+This data analyst position at Barclays was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

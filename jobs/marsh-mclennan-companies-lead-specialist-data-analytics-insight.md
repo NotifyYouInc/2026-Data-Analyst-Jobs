@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Lead-Specialist---Data-Analytics---Insight_R_348537-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Lead-Specialist---Data-Analytics---Insight_R_348795-2) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-05-14.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

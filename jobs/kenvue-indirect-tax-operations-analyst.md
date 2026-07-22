@@ -5,12 +5,12 @@
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Indirect-Tax-Operations---Analyst_2607047517W) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Indirect-Tax-Operations---Analyst_2607047524W) |
 
 ## About This Role
 
-This data analyst position at Kenvue was posted on 2026-07-09.
+This data analyst position at Kenvue was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

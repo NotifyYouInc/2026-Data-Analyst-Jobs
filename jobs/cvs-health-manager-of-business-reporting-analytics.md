@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Florida, US |
-| Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Manager-of-Business-Reporting---Analytics_R0924526) |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Manager-of-Business-Reporting---Analytics_R0976555) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-05-22.
+This data analyst position at CVS Health was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

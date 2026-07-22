@@ -5,12 +5,12 @@
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Data-Operations-Intern--DVU-_2026-16131-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Data-Operations-Intern--DVU-_2026-16165) |
 
 ## About This Role
 
-This data analyst position at Swift was posted on 2026-06-18.
+This data analyst position at Swift was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

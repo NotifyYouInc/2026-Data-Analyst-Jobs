@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nordic](https://scoutify.ai/companies/nordic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
-| Category | Data Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/Business-Intelligence-Developer_R5575) |
+| Location | Philippines |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/Philippines/Business-Intelligence-Developer_R5806) |
 
 ## About This Role
 
-This data engineer position at Nordic was posted on 2026-04-16.
+This data analyst position at Nordic was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

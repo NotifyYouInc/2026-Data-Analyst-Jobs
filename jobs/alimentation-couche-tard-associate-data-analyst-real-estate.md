@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Associate-Data-Analyst---Real-Estate_R580379) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Associate-Data-Analyst---Real-Estate_R603809-1) |
 
 ## About This Role
 
-This data analyst position at Alimentation Couche-Tard was posted on 2026-04-16.
+This data analyst position at Alimentation Couche-Tard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

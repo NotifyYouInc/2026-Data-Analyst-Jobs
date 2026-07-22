@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137121570-kyc-operations-senior-analyst-total-service) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137753589-kyc-operations-senior-analyst-total-service) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-07-10.
+This data analyst position at WISE was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

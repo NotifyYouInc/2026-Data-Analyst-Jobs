@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Data-Assistant---Power---Renewables_JR2970) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Kuala-Lumpur-MY/Data-Assistant---Power---Renewables_JR3118-1) |
 
 ## About This Role
 
-This data analyst position at Wood Mackenzie was posted on 2026-05-20.
+This data analyst position at Wood Mackenzie was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

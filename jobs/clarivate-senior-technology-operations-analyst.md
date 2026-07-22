@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
-| Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/Senior-Technology-Operations-Analyst_JREQ135009-2) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Senior-Technology-Operations-Analyst_JREQ135842) |
 
 ## About This Role
 
-This devops engineer position at Clarivate was posted on 2026-03-12.
+This data analyst position at Clarivate was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

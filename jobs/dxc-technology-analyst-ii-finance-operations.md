@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Analyst-II-Finance-Operations_51574727-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Analyst-II-Finance-Operations_51585022-1) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-05-18.
+This data analyst position at DXC Technology was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

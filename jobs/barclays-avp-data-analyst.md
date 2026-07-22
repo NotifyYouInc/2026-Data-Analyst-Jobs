@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/AVP---Data-Analyst_JR-0000088291-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/AVP---Data-Analyst_JR-0000120499-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-02-19.
+This data analyst position at Barclays was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

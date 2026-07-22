@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Italy |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116426628-senior-power-bi-developer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137695561-senior-power-bi-developer) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-03-24.
+This data analyst position at Sopra Steria was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

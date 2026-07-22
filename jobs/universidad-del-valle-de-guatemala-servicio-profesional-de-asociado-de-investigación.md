@@ -5,12 +5,12 @@
 | Company | [Universidad del Valle de Guatemala](https://scoutify.ai/companies/universidaddelvalledeguatemala?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guatemala City, Guatemala, Guatemala |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000135070144-servicio-profesional-de-asociado-de-investigacion) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000137705959-servicio-profesional-de-asociado-de-investigacion) |
 
 ## About This Role
 
-This data analyst position at Universidad del Valle de Guatemala was posted on 2026-06-30.
+This data analyst position at Universidad del Valle de Guatemala was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

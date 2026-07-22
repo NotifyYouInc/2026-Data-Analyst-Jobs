@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Philippines---Pasig-City-Ortigas-Center-Glas-Tower/Sales-Support---Operations-Analyst--Hybrid---Night-Shift-_R432288) |
+| Category | Data Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Philippines---Pasig-City-Ortigas-Center-Glas-Tower/Sales-Support---Operations-Analyst--Hybrid---Night-Shift-_R440972) |
 
 ## About This Role
 
-This business analyst position at Comcast was posted on 2026-03-05.
+This data analyst position at Comcast was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

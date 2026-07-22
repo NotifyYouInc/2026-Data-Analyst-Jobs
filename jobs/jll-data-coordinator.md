@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Data-Coordinator_REQ484124) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Greater-Manchester-GBR/Data-Coordinator_REQ518245) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-16.
+This data analyst position at JLL was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

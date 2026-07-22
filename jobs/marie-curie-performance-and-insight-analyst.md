@@ -5,12 +5,12 @@
 | Company | [Marie Curie](https://scoutify.ai/companies/mariecurie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MarieCurie1/3743990012009808-performance-and-insight-analyst) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MarieCurie1/3743990014077086-performance-and-insight-analyst) |
 
 ## About This Role
 
-This data analyst position at Marie Curie was posted on 2026-03-06.
+This data analyst position at Marie Curie was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

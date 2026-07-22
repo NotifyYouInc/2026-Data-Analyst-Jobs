@@ -5,12 +5,12 @@
 | Company | [Yale](https://scoutify.ai/companies/yale?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New Haven, Connecticut, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://yale.wd1.myworkdayjobs.com/temporary_career_site/job/York-Street-55/Research-Assistant-1_136137WD) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://yale.wd1.myworkdayjobs.com/temporary_career_site/job/Congress-Ave-270/Research-Assistant-1_136671WD) |
 
 ## About This Role
 
-This data analyst position at Yale was posted on 2026-06-22.
+This data analyst position at Yale was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

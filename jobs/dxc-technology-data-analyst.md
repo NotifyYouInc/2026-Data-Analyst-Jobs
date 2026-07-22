@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---VA---FALLS-CHURCH/Data-Analyst_51584789) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Data-Analyst_51579943) |
 
 ## About This Role
 
-This data analyst position at DXC Technology was posted on 2026-07-09.
+This data analyst position at DXC Technology was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

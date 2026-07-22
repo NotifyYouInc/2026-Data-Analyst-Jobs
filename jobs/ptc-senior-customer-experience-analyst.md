@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Senior-Customer-Experience-Analyst_JR111595) |
+| Location | Boston, Massachusetts, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Senior-Customer-Experience-Analyst_JR112431) |
 
 ## About This Role
 
-This customer success position at PTC was posted on 2026-02-12.
+This data analyst position at PTC was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

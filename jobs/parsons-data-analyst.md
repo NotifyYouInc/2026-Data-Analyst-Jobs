@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Data-Analyst_R183007-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Data-Analyst_R183303) |
 
 ## About This Role
 
-This data analyst position at Parsons was posted on 2026-07-07.
+This data analyst position at Parsons was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

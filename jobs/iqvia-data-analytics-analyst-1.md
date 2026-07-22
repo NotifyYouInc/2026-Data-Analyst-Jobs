@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kathmandu, Bagmati Province, Nepal |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kathmandu-Nepal/Data-Analytics-Analyst-1_R1541874) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kathmandu-Nepal/Data-Analytics-Analyst-1_R1541876) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-06-04.
+This data analyst position at IQVIA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

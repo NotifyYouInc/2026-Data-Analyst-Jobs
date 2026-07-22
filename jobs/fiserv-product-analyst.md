@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hagerstown, Maryland, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Product-Analyst_R-10393330-1) |
+| Location | Omaha, Nebraska, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Product-Analyst_R-10398176) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-04-22.
+This data analyst position at Fiserv was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
