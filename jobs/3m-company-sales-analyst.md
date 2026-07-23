@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-Andhra-Pradesh-Hyderabad/Sales-Analyst_R01164365) |
+| Location | Georgia, US |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/Remote---Georgia/Sales-Analyst_R01167093) |
 
 ## About This Role
 
-This business analyst position at 3M Company was posted on 2026-06-11.
+This data analyst position at 3M Company was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

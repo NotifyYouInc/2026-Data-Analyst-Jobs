@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Database Administration |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Database-Analyst-III_J2456824) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Database-Analyst-III_J2457936) |
 
 ## About This Role
 
-This database administration position at Jabil was posted on 2026-07-10.
+This database administration position at Jabil was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

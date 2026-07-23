@@ -5,12 +5,12 @@
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/120-Corporate-Woods/Business-Intel-Developer-I_R272586) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/120-Corporate-Woods/Business-Intel-Developer-I_R272948) |
 
 ## About This Role
 
-This data analyst position at University of Rochester was posted on 2026-06-30.
+This data analyst position at University of Rochester was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

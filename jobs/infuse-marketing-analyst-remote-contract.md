@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4687716005) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4715614005) |
 
 ## About This Role
 
-This data analyst position at INFUSE was posted on 2026-04-22.
+This data analyst position at INFUSE was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/POL-WRO-12-FLR4/Analyst-II--Product-Technical-Support_JR0307606) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MANI-2305/Analyst-II--Product-Technical-Support_JR0306101) |
 
 ## About This Role
 
-This data analyst position at Fidelity National Information Services was posted on 2026-07-10.
+This data analyst position at Fidelity National Information Services was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

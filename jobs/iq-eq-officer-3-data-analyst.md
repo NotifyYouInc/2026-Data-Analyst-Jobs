@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000114361787-officer-3-data-analyst) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137894086-officer-3-data-analyst) |
 
 ## About This Role
 
-This data analyst position at IQ-EQ was posted on 2026-03-12.
+This data analyst position at IQ-EQ was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

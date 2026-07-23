@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hyderabad-GBS-India/GBS-Data-Analytics--Sr-Analyst_R19004) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Budapest-Hungary/GBS-Data-Analytics--Sr-Analyst_R19067) |
 
 ## About This Role
 
-This data analyst position at International Flavors & Fragrances was posted on 2026-07-09.
+This data analyst position at International Flavors & Fragrances was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

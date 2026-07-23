@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000137131919-marketing-analyst-6-month-contract) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000137855007-marketing-analyst-6-month-contract) |
 
 ## About This Role
 
-This data analyst position at Entain was posted on 2026-07-10.
+This data analyst position at Entain was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Upguard](https://scoutify.ai/companies/upguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.lever.co/upguard/30ed9221-4769-47ff-901b-3810ca26d0cc) |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.lever.co/upguard/71c49584-1d71-497f-abea-602d5607da09) |
 
 ## About This Role
 
-This it & systems administration position at Upguard was posted on 2026-04-30.
+This soc & incident response position at Upguard was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

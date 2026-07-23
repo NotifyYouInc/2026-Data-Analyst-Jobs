@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Space-Data-Analyst_REQ500150-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Canberra-ACT/Space-Data-Analyst_REQ517796) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-04-14.
+This data analyst position at JLL was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

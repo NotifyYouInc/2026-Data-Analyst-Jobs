@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lévis, Quebec, Canada |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/200-rue-des-Commandeurs-Lvis/Conseiller-ou-conseillre--Rponse-aux-incidents_R2607930) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dveloppement-et-pilotage-de-systme_R2608960) |
 
 ## About This Role
 
-This software engineer position at Desjardins was posted on 2026-06-11.
+This software engineer position at Desjardins was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

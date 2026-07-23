@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Birmingham, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBBirmingham---Chamberlain-Square/Project-Controls-Data---Reporting-Analyst_R-156572) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBLondonNova-North/Project-Controls-Data---Reporting-Analyst_R-152085) |
 
 ## About This Role
 
-This data analyst position at SNC-Lavalin was posted on 2026-05-28.
+This data analyst position at SNC-Lavalin was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

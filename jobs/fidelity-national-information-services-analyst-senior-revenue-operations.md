@@ -1,16 +1,16 @@
-# Analyst Senior, Revenue Operations at Fidelity National Information Services
+# Analyst Senior - Revenue Operations at Fidelity National Information Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Operations |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Analyst-Senior--Revenue-Operations_JR0306176) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Analyst-Senior---Revenue-Operations_JR0308111) |
 
 ## About This Role
 
-This operations position at Fidelity National Information Services was posted on 2026-05-18.
+This data analyst position at Fidelity National Information Services was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

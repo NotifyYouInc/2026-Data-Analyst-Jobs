@@ -1,16 +1,16 @@
-# Analista de Dados SR (Consumer Data) at Electrolux
+# Analista de Dados Sr. (Consumer Data) at Electrolux
 
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Curitiba, Paraná, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Curitiba/Analista-de-Dados-SR--Consumer-Data-_JR76016) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Curitiba/Analista-de-Dados-Sr--Consumer-Data-_JR79417) |
 
 ## About This Role
 
-This data analyst position at Electrolux was posted on 2026-03-02.
+This data analyst position at Electrolux was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Medellín, Antioquia, Colombia |
-| Category | Project Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000131144573-project-operations-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000137908439-project-operations-analyst) |
 
 ## About This Role
 
-This project manager position at J.S. Held was posted on 2026-06-09.
+This data analyst position at J.S. Held was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

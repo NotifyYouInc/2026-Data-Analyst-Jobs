@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tlaquepaque, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Customer-Master-Data-Analyst_3161942-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Customer-Master-Data-Analyst_3164174-1) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard (HP) was posted on 2026-06-22.
+This data analyst position at Hewlett Packard (HP) was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

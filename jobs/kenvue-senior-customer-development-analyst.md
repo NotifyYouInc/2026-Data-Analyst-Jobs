@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Summit, New Jersey, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-New-Jersey-Summit/Senior-Customer-Development-Analyst_2607046060W-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-New-Jersey-Summit/Senior-Customer-Development-Analyst_2607047551W) |
 
 ## About This Role
 
-This business analyst position at Kenvue was posted on 2026-06-05.
+This data analyst position at Kenvue was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

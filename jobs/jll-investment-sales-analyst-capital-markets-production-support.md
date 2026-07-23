@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Investment-Sales-Analyst---Capital-Markets--Production-Support_REQ501007) |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Denver-CO/Investment-Sales-Analyst---Capital-Markets--Production-Support_REQ522514) |
 
 ## About This Role
 
-This corporate finance position at JLL was posted on 2026-04-17.
+This data analyst position at JLL was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

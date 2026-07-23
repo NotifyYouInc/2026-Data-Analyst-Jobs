@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Senior-Data-Analyst_10154699-2) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Senior-Data-Analyst_10154789) |
 
 ## About This Role
 
-This data analyst position at Disney was posted on 2026-06-30.
+This data analyst position at Disney was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

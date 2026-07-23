@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Data Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Data-Analyst_R1536140) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Santiago-Chile/Data-Analyst_R1555014) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-05-26.
+This data analyst position at IQVIA was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

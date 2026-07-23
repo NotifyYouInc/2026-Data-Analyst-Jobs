@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kerala, IN |
 | Category | Data Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Lead-Data-Analyst_37146) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Trivandrum/Lead-Data-Analyst_39867-1) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-03-19.
+This data analyst position at Guidehouse was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

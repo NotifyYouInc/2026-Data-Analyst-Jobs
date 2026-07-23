@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441854/data-associate-alexa-shopping-alexa-shopping) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10474929/data-associate-alexa-shopping-alexa-shopping) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-06-08.
+This data analyst position at Amazon was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

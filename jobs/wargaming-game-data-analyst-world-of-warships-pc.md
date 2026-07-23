@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wargaming](https://scoutify.ai/companies/wargaming?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/wargamingen/jobs/7956125?gh_jid=7956125) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/wargamingen/jobs/7956130?gh_jid=7956130) |
 
 ## About This Role
 
-This data analyst position at Wargaming was posted on 2026-05-25.
+This data analyst position at Wargaming was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

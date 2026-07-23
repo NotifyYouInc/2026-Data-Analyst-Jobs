@@ -1,16 +1,16 @@
-# Data Operations Analyst (Castrol) at BP
+# Data Operations Analyst - Castrol at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Szeged, Csongrád, Hungary |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Szeged/Data-Operations-Analyst--Castrol-_RQ109643-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Data-Operations-Analyst---Castrol_RQ113455-1) |
 
 ## About This Role
 
-This data analyst position at BP was posted on 2026-04-24.
+This data analyst position at BP was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

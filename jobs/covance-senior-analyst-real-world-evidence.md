@@ -5,12 +5,12 @@
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Senior-Analyst--Real-World-Evidence_261999) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Senior-Analyst--Real-World-Evidence_261998) |
 
 ## About This Role
 
-This data analyst position at Covance was posted on 2026-04-24.
+This data analyst position at Covance was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
