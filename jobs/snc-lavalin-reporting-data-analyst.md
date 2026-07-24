@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Manchester, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBLondonNova-North/Reporting-Data-Analyst_R-151507) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBManchesterPiccadilly/Reporting-Data-Analyst_R-153215) |
 
 ## About This Role
 
-This data analyst position at SNC-Lavalin was posted on 2026-06-30.
+This data analyst position at SNC-Lavalin was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

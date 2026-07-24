@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000137437989-data-manager) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000138125979-data-manager) |
 
 ## About This Role
 
-This data analyst position at Psi Cro was posted on 2026-07-13.
+This data analyst position at Psi Cro was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

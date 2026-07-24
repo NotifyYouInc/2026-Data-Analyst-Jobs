@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Sales-Analyst_NX-3900) |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Sales-Analyst_NX-3902) |
 
 ## About This Role
 
-This corporate finance position at Nextracker was posted on 2026-05-20.
+This data analyst position at Nextracker was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

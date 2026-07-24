@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://flix.careers/job/8535455002?gh_jid=8535455002) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://flix.careers/job/8636433002?gh_jid=8636433002) |
 
 ## About This Role
 
-This data analyst position at Flix was posted on 2026-05-05.
+This data analyst position at Flix was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

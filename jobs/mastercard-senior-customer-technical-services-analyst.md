@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Operations |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Customer-Technical-Services-Analyst_R-270832) |
+| Location | Cairo, Cairo, Egypt |
+| Category | Data Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Cairo-Egypt/Senior-Customer-Technical-Services-Analyst_R-282615) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-02-24.
+This data analyst position at Mastercard was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

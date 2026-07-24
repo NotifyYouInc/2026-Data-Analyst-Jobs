@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137633584-mdm-analyst) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138252719-mdm-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-14.
+This data analyst position at NielsenIQ was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

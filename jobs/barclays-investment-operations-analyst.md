@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Investment-Operations-Analyst_JR-0000112470-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Investment-Operations-Analyst_JR-0000121761-1) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-05-13.
+This data analyst position at Barclays was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

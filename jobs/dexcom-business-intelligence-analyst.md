@@ -5,12 +5,12 @@
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Vilnius-Lithuania/Business-Intelligence-Analyst_JR117299-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Vilnius-Lithuania/Business-Intelligence-Analyst_JR119894-1) |
 
 ## About This Role
 
-This data analyst position at Dexcom was posted on 2026-03-17.
+This data analyst position at Dexcom was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

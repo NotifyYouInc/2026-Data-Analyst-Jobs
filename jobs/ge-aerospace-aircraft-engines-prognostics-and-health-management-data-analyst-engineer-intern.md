@@ -5,12 +5,12 @@
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Aircraft-Engines-Prognostics-and-Health-Management-Data-Analyst-Engineer--Intern-_R5036878) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Aircraft-Engines-Prognostics-and-Health-Management-Data-Analyst-Engineer--Intern-_R5036877-1) |
 
 ## About This Role
 
-This data analyst position at GE Aerospace was posted on 2026-07-01.
+This data analyst position at GE Aerospace was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

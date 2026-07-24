@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Financial-Data-and-Reporting-Operations-Analyst---Enterprise-Correspondence-Operations_26016928-2) |
+| Location | Pennington, New Jersey, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Financial-Data-and-Reporting-Operations-Analyst---Enterprise-Correspondence-Operations_26023984-2) |
 
 ## About This Role
 
-This business analyst position at Bank of America was posted on 2026-05-20.
+This data analyst position at Bank of America was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

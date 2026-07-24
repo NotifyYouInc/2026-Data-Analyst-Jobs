@@ -5,12 +5,12 @@
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shirebrook, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000137854177-data-analyst-sustainability) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000138069297-data-analyst-sustainability) |
 
 ## About This Role
 
-This data analyst position at SportsDirect.com Retail was posted on 2026-07-15.
+This data analyst position at SportsDirect.com Retail was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

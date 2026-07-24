@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amherst, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Amherst/Informatics-Consultant_R0878581-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Amherst/Informatics-Consultant_R0935628-1) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-05-21.
+This data analyst position at CVS Health was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

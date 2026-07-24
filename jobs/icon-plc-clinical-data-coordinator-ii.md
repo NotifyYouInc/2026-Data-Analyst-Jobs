@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Livingston, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Clinical-Data-Coordinator-II_JR154819) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Livingston/Clinical-Data-Coordinator-II_JR155972) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-07-14.
+This data analyst position at ICON plc was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

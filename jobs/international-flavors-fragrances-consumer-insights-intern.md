@@ -5,12 +5,12 @@
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hilversum-Liebergerweg-Netherlands/Consumer-Insights-Intern_R18197) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hilversum-Liebergerweg-Netherlands/Intern_R19776) |
 
 ## About This Role
 
-This data analyst position at International Flavors & Fragrances was posted on 2026-07-07.
+This data analyst position at International Flavors & Fragrances was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

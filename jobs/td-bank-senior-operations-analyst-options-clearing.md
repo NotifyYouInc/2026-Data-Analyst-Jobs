@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Operations-Analyst---Options-Clearing_R_1493176) |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Operations-Analyst---Options-Clearing_R_1500313) |
 
 ## About This Role
 
-This business analyst position at TD Bank was posted on 2026-06-04.
+This data analyst position at TD Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

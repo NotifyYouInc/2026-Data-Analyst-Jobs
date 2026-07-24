@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Analyst-Senior-Analyst--Product-Growth---GTM-Strategy_JR343543-1) |
+| Location | 4 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Analyst-Senior-Analyst--Product-Growth---GTM-Strategy_JR352177) |
 
 ## About This Role
 
-This strategy & operations position at Salesforce was posted on 2026-06-12.
+This data analyst position at Salesforce was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

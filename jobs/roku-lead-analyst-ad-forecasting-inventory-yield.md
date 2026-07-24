@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santa Monica, California, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8067004?gh_jid=8067004) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8069796?gh_jid=8069796) |
 
 ## About This Role
 
-This data analyst position at Roku was posted on 2026-07-15.
+This data analyst position at Roku was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

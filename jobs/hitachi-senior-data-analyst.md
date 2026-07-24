@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Senior-Data-Analyst_R01037009) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Senior-Data-Analyst_R0131440) |
 
 ## About This Role
 
-This data analyst position at Hitachi was posted on 2026-03-30.
+This data analyst position at Hitachi was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

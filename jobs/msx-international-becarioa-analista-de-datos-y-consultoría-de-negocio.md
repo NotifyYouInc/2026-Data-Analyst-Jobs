@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013641486-becarioa-analista-de-datos-y-consultoria-de-negocio) |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014125456-becarioa-analista-de-datos-y-consultoria-de-negocio) |
 
 ## About This Role
 
-This business analyst position at MSX International was posted on 2026-06-16.
+This data analyst position at MSX International was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

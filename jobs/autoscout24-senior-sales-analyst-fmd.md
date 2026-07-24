@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AutoScout24](https://scoutify.ai/companies/autoscout24?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/autoscout24/jobs/7775945003) |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/autoscout24/jobs/7806863003) |
 
 ## About This Role
 
-This business analyst position at AutoScout24 was posted on 2026-06-17.
+This data analyst position at AutoScout24 was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

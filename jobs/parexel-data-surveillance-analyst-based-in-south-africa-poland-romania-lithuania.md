@@ -5,12 +5,12 @@
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bloemfontein, Free State, South Africa |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/South-Africa-Bloemfontein-Remote/Data-Surveillance-Analyst---based-in-South-Africa--Poland--Romania--Lithuania_R0000043552) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Romania-Remote/Data-Surveillance-Analyst---based-in-South-Africa--Poland--Romania--Lithuania_R0000043712) |
 
 ## About This Role
 
-This data analyst position at Parexel was posted on 2026-07-14.
+This data analyst position at Parexel was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

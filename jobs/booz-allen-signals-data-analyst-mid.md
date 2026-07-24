@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Colorado, US |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/Signals-Data-Analyst--Mid_R0244177) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Signals-Data-Analyst--Mid_R0244752-1) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-07-10.
+This data analyst position at Booz Allen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

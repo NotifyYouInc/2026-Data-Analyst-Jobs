@@ -5,12 +5,12 @@
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Senior-Operations-Analyst_JR202637512) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Senior-Operations-Analyst_JR202637513) |
 
 ## About This Role
 
-This data analyst position at Auto Club Enterprises was posted on 2026-07-15.
+This data analyst position at Auto Club Enterprises was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

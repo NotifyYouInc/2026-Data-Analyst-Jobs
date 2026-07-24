@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intrum](https://scoutify.ai/companies/intrum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Amsterdam/Portfolio-Analyst_R9560) |
+| Location | Gent, Flanders, Belgium |
+| Category | Quant Research |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Gent/Portfolio-Analyst_R10448) |
 
 ## About This Role
 
-This asset management / portfolio management position at Intrum was posted on 2026-04-20.
+This quant research position at Intrum was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

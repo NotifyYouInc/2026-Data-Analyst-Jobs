@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Data-Analyst_R0124760) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Data-Analyst_R0124762) |
 
 ## About This Role
 
-This data analyst position at Hitachi was posted on 2026-06-25.
+This data analyst position at Hitachi was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

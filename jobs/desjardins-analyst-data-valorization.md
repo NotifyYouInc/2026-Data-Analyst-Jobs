@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-d-affaires-de-donnes--Assurance-de-dommages_R2608457) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Intelligence-d-affaires--BI-_R2516311) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-06-30.
+This data analyst position at Desjardins was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

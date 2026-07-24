@@ -5,12 +5,12 @@
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000110419835-senior-data-analyst-marketing-analytics-digital-insights-remote) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000138174799-senior-data-analyst-marketing-analytics-digital-insights-remote) |
 
 ## About This Role
 
-This data analyst position at Vericast was posted on 2026-02-20.
+This data analyst position at Vericast was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
