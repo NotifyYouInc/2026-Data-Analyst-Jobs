@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Securities-Operations-Specialist---Citizen-Development-Analytics-Transformation_R-547521-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Securities-Operations-Specialist---Citizen-Development-Analytics-Transformation_R-543300) |
 
 ## About This Role
 
-This strategy & operations position at Wells Fargo was posted on 2026-05-20.
+This strategy & operations position at Wells Fargo was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

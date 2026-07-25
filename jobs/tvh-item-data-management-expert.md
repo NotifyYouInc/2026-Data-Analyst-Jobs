@@ -5,12 +5,12 @@
 | Company | [TVH](https://scoutify.ai/companies/tvh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Olathe, Kansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Olathe/Item-Data-Management-Expert_JR105894) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Olathe/Item-Data-Management-Expert_JR106602) |
 
 ## About This Role
 
-This data analyst position at TVH was posted on 2026-04-10.
+This data analyst position at TVH was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oakville, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Oakville-ON/Senior-Analyst--Customer-Insights---Analytics_JR151391) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Oakville-ON/Senior-Analyst--Customer-Insights---Analytics_JR163136) |
 
 ## About This Role
 
-This data analyst position at Canadiantirecorporation was posted on 2026-06-10.
+This data analyst position at Canadiantirecorporation was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Novi, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Sales---Business-Analytics-Analyst--Engineering-Project-Management_R-54454-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Sales-Business-Analytics-Analyst-Engineering-Project-Management/32180) |
 
 ## About This Role
 
-This data analyst position at HARMAN International was posted on 2026-07-07.
+This data analyst position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

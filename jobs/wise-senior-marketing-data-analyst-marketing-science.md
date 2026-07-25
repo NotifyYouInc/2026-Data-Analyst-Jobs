@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124132059-senior-marketing-data-analyst-marketing-science) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138353494-senior-marketing-data-analyst-marketing-science) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-05-01.
+This data analyst position at WISE was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

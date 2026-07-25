@@ -6,7 +6,7 @@
 | Location | Owatonna, Minnesota, United States |
 | Category | Data Analyst |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138113085-associate-vehicle-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138177390-associate-vehicle-data-analyst) |
 
 ## About This Role
 

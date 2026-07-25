@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44135/Operations-Analyst-Sr---Retail-Bank-Operations_R227942-2) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Operations-Analyst-Sr---Retail-Bank-Operations_R219144-2) |
 
 ## About This Role
 
-This data analyst position at PNC Financial was posted on 2026-07-15.
+This data analyst position at PNC Financial was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

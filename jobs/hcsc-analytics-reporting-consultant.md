@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 14 locations |
+| Location | Nashville, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Analytics---Reporting-Consultant_R0047200-2) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Analytics---Reporting-Consultant_R0054910-1) |
 
 ## About This Role
 
-This data analyst position at HCSC was posted on 2026-02-26.
+This data analyst position at HCSC was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

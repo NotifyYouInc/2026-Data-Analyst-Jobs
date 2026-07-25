@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/KYC-Operations-Analyst----DUBAI_26977278) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/KYC-Operations-Analyst--UAE-Nationals-Only----DUBAI_26980291) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-14.
+This data analyst position at Citigroup was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

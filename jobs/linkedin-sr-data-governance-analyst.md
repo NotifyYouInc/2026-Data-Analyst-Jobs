@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000133075939-sr-data-governance-analyst) |
+| Category | Privacy & Data Protection |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000138375498-sr-data-governance-analyst) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-06-19.
+This privacy & data protection position at LinkedIn was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

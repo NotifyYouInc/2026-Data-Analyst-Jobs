@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Analyst_19039049) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Analyst--Data-Analytics---IP--Internet-Protocol--_19040470) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-05-13.
+This data analyst position at TransUnion was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

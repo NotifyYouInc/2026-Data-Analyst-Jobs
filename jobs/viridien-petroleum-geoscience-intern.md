@@ -5,12 +5,12 @@
 | Company | [Viridien](https://scoutify.ai/companies/cgg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Jakarta-Selatan-Indonesia/Petroleum-Geoscience-Intern_JR101349-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Jakarta-Selatan-Indonesia/Petroleum-Geoscience-Intern_JR101404-2) |
 
 ## About This Role
 
-This data analyst position at Viridien was posted on 2026-06-22.
+This data analyst position at Viridien was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Oxford, England, United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135481609-insight-analyst) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138313189-insight-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-02.
+This data analyst position at NielsenIQ was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

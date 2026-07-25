@@ -5,12 +5,12 @@
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Providence, Rhode Island, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Rhode-Island-Hospital/Clinical-Research-Assistant_JR-111154) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Rhode-Island-Hospital/Clinical-Research-Assistant_JR-111536) |
 
 ## About This Role
 
-This data analyst position at Brownhealth was posted on 2026-06-30.
+This data analyst position at Brownhealth was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

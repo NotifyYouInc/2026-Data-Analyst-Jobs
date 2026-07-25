@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Budapest---Budapest-Hungary/Automotive-Sourcing--Data--Analytics-and-Performance-Manager_R-53355-2026-1) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Automotive-Sourcing-Data-Analytics-and-Performance-Manager/31843) |
 
 ## About This Role
 
-This data analyst position at HARMAN International was posted on 2026-06-24.
+This talent acquisition / recruiting position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

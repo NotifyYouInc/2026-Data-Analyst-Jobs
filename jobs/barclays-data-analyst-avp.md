@@ -1,16 +1,16 @@
-# Data Analyst, AVP at Barclays
+# Data Analyst – AVP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Whippany, New Jersey, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Data-Analyst--AVP_JR-0000114604) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Analyst---AVP_JR-0000121214-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-05-22.
+This data analyst position at Barclays was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

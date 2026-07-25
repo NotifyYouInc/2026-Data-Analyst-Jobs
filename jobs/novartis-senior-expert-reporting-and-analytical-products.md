@@ -1,16 +1,16 @@
-# Senior Expert - Reporting and Analytical Products at Novartis
+# Senior Expert, Reporting and Analytical Products at Novartis
 
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Expert---Reporting-and-Analytical-Products_REQ-10072297-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Expert--Reporting-and-Analytical-Products_REQ-10083054) |
 
 ## About This Role
 
-This data analyst position at Novartis was posted on 2026-03-09.
+This data analyst position at Novartis was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

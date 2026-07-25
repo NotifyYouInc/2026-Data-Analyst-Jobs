@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Auburn, Washington, United States |
+| Location | Renton, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Business-Intelligence-Analyst_JR2026518053-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Business-Intelligence-Analyst_JR2026519150) |
 
 ## About This Role
 
-This data analyst position at Boeing was posted on 2026-07-16.
+This data analyst position at Boeing was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

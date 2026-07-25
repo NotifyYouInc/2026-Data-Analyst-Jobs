@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
-| Category | Account Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Treasury-Sales-Analyst_R0115393-1) |
+| Location | Atlanta, Georgia, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Treasury-Sales-Analyst_R0116935) |
 
 ## About This Role
 
-This account manager position at Truist was posted on 2026-06-08.
+This data analyst position at Truist was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

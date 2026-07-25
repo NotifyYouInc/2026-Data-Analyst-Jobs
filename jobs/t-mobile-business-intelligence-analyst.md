@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Business-Intelligence-Analyst_REQ349757) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Business-Intelligence-Analyst_REQ352715-1) |
 
 ## About This Role
 
-This data analyst position at T-Mobile was posted on 2026-04-01.
+This data analyst position at T-Mobile was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
