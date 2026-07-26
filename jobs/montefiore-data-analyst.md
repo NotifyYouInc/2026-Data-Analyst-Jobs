@@ -1,16 +1,16 @@
-# Sr Analyst, Data Analytics at PayPal
+# Data Analyst at Montefiore
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Montefiore](https://scoutify.ai/companies/montefiore?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | The Bronx, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0137125) |
+| Apply | [View on company site](https://montefiore.wd12.myworkdayjobs.com/mmc/job/334-East-148th-Street/Data-Analyst_JR231653-1) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-07-17.
+This data analyst position at Montefiore was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Analyst, Data Analytics at PayPal
+# Brokerage Operations Analyst at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
 | Category | Data Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0137125) |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Brokerage-Operations-Analyst_R260600447-2) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-07-17.
+This data analyst position at TIAA was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

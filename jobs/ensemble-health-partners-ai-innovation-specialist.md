@@ -1,16 +1,16 @@
-# Director, Analytics and Reporting (IKC) at DaVita
+# AI Innovation Specialist at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/19511---Pennsylvania-Remote/Director--Analytics-and-Reporting--IKC-_R0469303-1) |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/AI-Innovation-Specialist_R048169) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-07-17.
+This data analyst position at Ensemble Health Partners was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

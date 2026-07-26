@@ -1,16 +1,16 @@
-# Sr Analyst, Data Analytics at PayPal
+# Marketing Retention Analyst at Betmgminc
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Betmgminc](https://scoutify.ai/companies/betmgminc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New Jersey, US |
 | Category | Data Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0137125) |
+| Apply | [View on company site](https://betmgminc.wd5.myworkdayjobs.com/betmgm/job/Remote-New-Jersey/Marketing-Retention-Analyst_JR100759) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-07-17.
+This data analyst position at Betmgminc was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

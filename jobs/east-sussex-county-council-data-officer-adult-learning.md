@@ -1,16 +1,16 @@
-# Sr Analyst, Data Analytics at PayPal
+# Data Officer – Adult Learning at East Sussex County Council
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Company | [East Sussex County Council](https://scoutify.ai/companies/ocs-cx-oj32657?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Lewes, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0137125) |
+| Apply | [View on company site](https://fa-euru-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3846) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-07-17.
+This data analyst position at East Sussex County Council was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

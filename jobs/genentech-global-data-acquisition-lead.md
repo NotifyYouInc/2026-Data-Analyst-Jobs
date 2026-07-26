@@ -1,16 +1,16 @@
-# Sr Analyst, Data Analytics at PayPal
+# Global Data Acquisition Lead at Genentech
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
 | Category | Data Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0137125) |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Global-Data-Acquisition-Lead_202607-118298-1) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-07-17.
+This data analyst position at Genentech was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
