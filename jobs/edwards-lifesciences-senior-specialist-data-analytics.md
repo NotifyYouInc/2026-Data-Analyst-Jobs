@@ -5,12 +5,12 @@
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/China-Shanghai/Senior-Specialist--Data-Analytics_Req-47447) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/China-Shanghai/Senior-Specialist--Data-Analytics_Req-49511) |
 
 ## About This Role
 
-This data analyst position at Edwards Lifesciences was posted on 2026-04-20.
+This data analyst position at Edwards Lifesciences was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

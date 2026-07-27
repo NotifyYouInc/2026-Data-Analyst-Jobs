@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000131099819-consumer-data-analyst-fh) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000138573892-consumer-data-analyst-fh) |
 
 ## About This Role
 
-This data analyst position at Salomon was posted on 2026-06-09.
+This data analyst position at Salomon was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

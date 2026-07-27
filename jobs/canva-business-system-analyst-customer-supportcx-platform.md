@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001133237-business-system-analyst-customer-supportcx-platform) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001243597-business-system-analyst-customer-supportcx-platform) |
 
 ## About This Role
 
-This business analyst position at Canva was posted on 2026-06-04.
+This data analyst position at Canva was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

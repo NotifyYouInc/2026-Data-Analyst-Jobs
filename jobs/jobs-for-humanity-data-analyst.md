@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beirut, Beyrouth, Lebanon |
+| Location | Lebanon |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000133679299-data-analyst) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000138598018-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Jobs for Humanity was posted on 2026-06-23.
+This data analyst position at Jobs for Humanity was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

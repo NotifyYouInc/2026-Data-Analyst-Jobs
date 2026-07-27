@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Roodepoort, Gauteng, South Africa |
-| Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000127412099-lead-data-business-intelligence) |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000138598519-lead-data-business-intelligence) |
 
 ## About This Role
 
-This business analyst position at Standard Bank was posted on 2026-05-20.
+This data analyst position at Standard Bank was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

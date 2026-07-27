@@ -5,12 +5,12 @@
 | Company | [SingFuels](https://scoutify.ai/companies/singfuelspteltd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SingFuelsPteLtd/744000129643899-web3-digital-assets-analyst-sgep) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SingFuelsPteLtd/744000138550789-web3-digital-assets-analyst-sgep) |
 
 ## About This Role
 
-This data analyst position at SingFuels was posted on 2026-06-02.
+This data analyst position at SingFuels was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tlaquepaque, Jalisco, Mexico |
-| Category | Strategy & Operations |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/IDS-Air-Coordinator_3153151-1) |
+| Location | Singapore, Singapore |
+| Category | Data Analyst |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/Business-Operations-Analyst_3166082-1) |
 
 ## About This Role
 
-This strategy & operations position at Hewlett Packard (HP) was posted on 2026-04-01.
+This data analyst position at Hewlett Packard (HP) was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 
