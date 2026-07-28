@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000107887245-data-analyst) |
+| Location | Ruiru, Kiambu County, Kenya |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000138789039-data-analyst) |
 
 ## About This Role
 
-This data engineer position at Syngenta was posted on 2026-02-07.
+This data analyst position at Syngenta was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manama, Manama, Bahrain |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133588477-sr-analyst-logistics-performance) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000138791374-sr-analyst-logistics-performance) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-06-23.
+This data analyst position at Delivery Hero was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

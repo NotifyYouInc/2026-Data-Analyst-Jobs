@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7674622003) |
+| Location | Denver, Colorado, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7809734003) |
 
 ## About This Role
 
-This marketing position at Fivetran was posted on 2026-03-24.
+This data analyst position at Fivetran was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

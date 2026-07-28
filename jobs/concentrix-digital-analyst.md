@@ -1,16 +1,16 @@
-# Digital Analyst at Concentrix
+# Digital analyst at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Curitiba, Paraná, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/BRA-Curitiba---JOSE-LOUREIRO-371/Digital-Analyst_R1729017) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/BRA-Sao-Paulo/Digital-analyst_R1735099) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-07-02.
+This data analyst position at Concentrix was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

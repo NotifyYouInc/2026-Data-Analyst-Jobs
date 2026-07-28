@@ -5,12 +5,12 @@
 | Company | [Harbor](https://scoutify.ai/companies/harbor?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/harborglobal/jobs/5161314007) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/harborglobal/jobs/5191073007) |
 
 ## About This Role
 
-This data analyst position at Harbor was posted on 2026-06-10.
+This data analyst position at Harbor was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

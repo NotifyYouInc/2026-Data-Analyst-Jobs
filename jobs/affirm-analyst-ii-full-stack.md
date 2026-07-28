@@ -1,16 +1,16 @@
-# Analyst II, Full Stack at Affirm
+# Analyst II, Full Stack  at Affirm
 
 | Field | Details |
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7726632003) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7804953003) |
 
 ## About This Role
 
-This software engineer position at Affirm was posted on 2026-05-14.
+This software engineer position at Affirm was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Senior-Data-Analyst_40860) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Senior-Data-Analyst_41959) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-07-02.
+This data analyst position at Guidehouse was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

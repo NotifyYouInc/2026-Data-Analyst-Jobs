@@ -5,12 +5,12 @@
 | Company | [Ferrovial](https://scoutify.ai/companies/ferrovial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Junior-Field-Systems-Analyst_JR17129) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Junior-Field-Systems-Analyst_JR18355) |
 
 ## About This Role
 
-This business analyst position at Ferrovial was posted on 2026-04-28.
+This business analyst position at Ferrovial was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

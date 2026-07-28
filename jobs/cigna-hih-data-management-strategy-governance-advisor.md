@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Data-Management-Strategy---Governance-Advisor_25011820) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Data-Management-Strategy---Governance-Advisor_26007627) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-04-29.
+This data analyst position at Cigna was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

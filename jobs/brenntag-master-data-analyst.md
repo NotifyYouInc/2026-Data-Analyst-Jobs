@@ -5,12 +5,12 @@
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Łódź, Łódź Voivodeship, Poland |
 | Category | Data Analyst |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/dPoland/Master-Data-Analyst_JR110370) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/dPoland/Master-Data-Analyst_JR111582) |
 
 ## About This Role
 
-This data analyst position at Brenntag was posted on 2026-05-30.
+This data analyst position at Brenntag was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

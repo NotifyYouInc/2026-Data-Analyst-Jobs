@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137803625-senior-tableau-developer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000138789029-senior-tableau-developer) |
 
 ## About This Role
 
-This data analyst position at Mattel was posted on 2026-07-15.
+This data analyst position at Mattel was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

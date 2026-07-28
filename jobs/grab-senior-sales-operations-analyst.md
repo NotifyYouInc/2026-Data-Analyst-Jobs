@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138053219-senior-sales-operations-analyst) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138772750-senior-sales-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-07-16.
+This data analyst position at Grab was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

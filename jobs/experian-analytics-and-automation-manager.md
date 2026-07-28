@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nottingham, England, United Kingdom |
-| Category | Project Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132439939-analytics-and-automation-manager) |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138691870-analytics-and-automation-manager) |
 
 ## About This Role
 
-This project manager position at Experian was posted on 2026-06-16.
+This data analyst position at Experian was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

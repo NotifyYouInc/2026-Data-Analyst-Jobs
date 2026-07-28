@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Stockport, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133616099-data-and-insight-analyst) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138615819-data-and-insight-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-23.
+This data analyst position at NielsenIQ was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

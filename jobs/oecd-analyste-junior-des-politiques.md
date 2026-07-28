@@ -5,12 +5,12 @@
 | Company | [OECD](https://scoutify.ai/companies/oecd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000134983269-analyste-junior-des-politiques) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000138806720-analyste-junior-des-politiques) |
 
 ## About This Role
 
-This data analyst position at OECD was posted on 2026-06-30.
+This data analyst position at OECD was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Operations |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Sales-Operations-Analyst---Shockwave-Medical_R-060114-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Sales-Operations-Analyst---Shockwave-Medical_R-089294-1) |
 
 ## About This Role
 
-This operations position at Johnson & Johnson was posted on 2026-03-03.
+This data analyst position at Johnson & Johnson was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

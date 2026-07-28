@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Antonio-Texas-United-States/KYC-Operations-Senior-Analyst_26957262) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/KYC-Operations-Senior-Analyst_26980649) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-05-01.
+This data analyst position at Citigroup was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

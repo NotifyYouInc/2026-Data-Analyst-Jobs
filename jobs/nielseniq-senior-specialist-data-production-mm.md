@@ -1,16 +1,16 @@
-# Senior Specialist, Data Production MM at NielsenIQ
+# Senior Specialist, Data Production MM  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136730659-senior-specialist-data-production-mm) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138777159-senior-specialist-data-production-mm) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-09.
+This data analyst position at NielsenIQ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

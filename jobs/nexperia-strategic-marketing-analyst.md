@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Manchester/Strategic-Marketing-Analyst_R-20014358) |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Manchester/Strategic-Marketing-Analyst_R-20015165) |
 
 ## About This Role
 
-This strategy / management consulting position at Nexperia was posted on 2026-06-01.
+This data analyst position at Nexperia was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

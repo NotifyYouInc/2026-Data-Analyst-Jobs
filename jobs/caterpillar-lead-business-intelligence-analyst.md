@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Lead-Business-Intelligence-Analyst_R0000365370) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Singapore-Singapore/Lead-Business-Intelligence-Analyst_R0000382659) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-04-28.
+This data analyst position at Caterpillar was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Max Mara](https://scoutify.ai/companies/maxmara?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Italy |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MaxMaraFashionGroup/744000135185336-brand-crm-analyst-internship) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MaxMaraFashionGroup/744000138639410-brand-crm-analyst-internship) |
 
 ## About This Role
 
-This data analyst position at Max Mara was posted on 2026-07-01.
+This data analyst position at Max Mara was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

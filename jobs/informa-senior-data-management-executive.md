@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000129903619-senior-data-management-executive) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000138776409-senior-data-management-executive) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-06-03.
+This data analyst position at Informa was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

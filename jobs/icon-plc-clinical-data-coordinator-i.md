@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Poland-Warsaw/Clinical-Data-Coordinator-I_JR154766) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/CDC-II_JR142313-1) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-07-08.
+This data analyst position at ICON plc was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

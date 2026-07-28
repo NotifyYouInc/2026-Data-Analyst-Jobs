@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Data-Analyst_R-0022350-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Data-Analyst_R-0023485) |
 
 ## About This Role
 
-This data analyst position at AGL Energy was posted on 2026-03-05.
+This data analyst position at AGL Energy was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

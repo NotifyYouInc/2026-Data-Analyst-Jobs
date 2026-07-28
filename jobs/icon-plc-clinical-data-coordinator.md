@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Poland-Warsaw/Clinical-Data-Coordinator_JR154778) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Clinical-Data-Coordinator_JR156152) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-07-10.
+This data analyst position at ICON plc was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

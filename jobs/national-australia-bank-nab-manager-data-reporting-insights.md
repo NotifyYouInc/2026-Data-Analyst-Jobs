@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vietnam |
-| Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Manager--Data-Reporting---Insights_JR119365-2) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Manager--Data-Reporting---Insights_JR119940) |
 
 ## About This Role
 
-This business analyst position at National Australia Bank (NAB) was posted on 2026-06-09.
+This data analyst position at National Australia Bank (NAB) was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

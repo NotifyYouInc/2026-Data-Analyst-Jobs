@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Geospatial-Analyst_R-00184956) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Geospatial-Analyst_R-00187600) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-06-06.
+This data analyst position at Leidos was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hartford, Connecticut, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Clinical-Data-Quality-Reviewer---On-site_00661019) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Clinical-Data-Quality-Reviewer---On-site_00681808) |
 
 ## About This Role
 
-This data analyst position at Trinity Health was posted on 2026-04-16.
+This data analyst position at Trinity Health was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
