@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000133110269-manager-media-analytics-insights) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000138894784-manager-media-analytics-insights) |
 
 ## About This Role
 
-This data analyst position at Blend360 was posted on 2026-06-19.
+This data analyst position at Blend360 was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

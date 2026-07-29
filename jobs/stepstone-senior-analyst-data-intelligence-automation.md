@@ -1,16 +1,16 @@
-# Senior Analyst Data Intelligence & Automation at StepStone
+# (Senior) Analyst Data Intelligence & Automation at StepStone
 
 | Field | Details |
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000138672379-senior-analyst-data-intelligence-automation) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000138790059-senior-analyst-data-intelligence-automation) |
 
 ## About This Role
 
-This data analyst position at StepStone was posted on 2026-07-20.
+This data analyst position at StepStone was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

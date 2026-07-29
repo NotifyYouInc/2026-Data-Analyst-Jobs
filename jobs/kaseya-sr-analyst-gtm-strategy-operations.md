@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Miami, Florida, United States |
-| Category | Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5981464004/?gh_jid=5981464004) |
+| Location | Medellín, Antioquia, Colombia |
+| Category | Go To Market Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6115950004/?gh_jid=6115950004) |
 
 ## About This Role
 
-This operations position at Kaseya was posted on 2026-05-12.
+This go to market engineer position at Kaseya was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

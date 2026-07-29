@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Clinical-Data-Coordinator-II_JR154070) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Clinical-Data-Coordinator-II_JR148656) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-07-20.
+This data analyst position at ICON plc was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

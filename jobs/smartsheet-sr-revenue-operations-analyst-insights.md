@@ -1,16 +1,16 @@
-# Sr. Revenue Operations Analyst - Insights at Smartsheet
+#  Sr. Revenue Operations Analyst - Insights at Smartsheet
 
 | Field | Details |
 |-------|---------|
 | Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7868817) |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/8078179) |
 
 ## About This Role
 
-This operations position at Smartsheet was posted on 2026-04-29.
+This data analyst position at Smartsheet was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Financial Crimes & AML |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109776641-kyc-operations-senior-analyst-deactivations) |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138846591-kyc-operations-senior-analyst-deactivations) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-02-17.
+This data analyst position at WISE was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

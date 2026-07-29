@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7905665?gh_jid=7905665) |
+| Location | Aurora, Colorado, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8017490?gh_jid=8017490) |
 
 ## About This Role
 
-This business analyst position at HelloFresh was posted on 2026-05-12.
+This data analyst position at HelloFresh was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

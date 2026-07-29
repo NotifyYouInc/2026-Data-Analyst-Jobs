@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montreuil, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000131385649-alternant-bac4bac5-data-power-bi-metro-ligne-rouge-l151617-hf) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000138862354-alternant-bac4bac5-data-power-bi-metro-ligne-rouge-l151617-hf) |
 
 ## About This Role
 
-This data analyst position at Egis was posted on 2026-06-10.
+This data analyst position at Egis was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

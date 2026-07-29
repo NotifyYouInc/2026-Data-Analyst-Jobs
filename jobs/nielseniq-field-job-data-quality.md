@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138501889-field-job-data-quality) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138828170-field-job-data-quality) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-19.
+This data analyst position at NielsenIQ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

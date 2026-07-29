@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ConvaTec Group](https://scoutify.ai/companies/convatec-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/FLD-London-Remote-Workers/Corporate-Complaints-Data-Analyst_JR00017696) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/FLD-Mexico-Field-Force/Post-Market-Complaints-Data-Analyst_JR00020290) |
 
 ## About This Role
 
-This data analyst position at ConvaTec Group was posted on 2026-04-30.
+This data analyst position at ConvaTec Group was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

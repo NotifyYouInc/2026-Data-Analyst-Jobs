@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paramaribo, Paramaribo District, Suriname |
+| Location | Texas City, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990013998591-125768-taxonomy-analyst-language-specific) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014215516-125768-taxonomy-analyst-language-specific) |
 
 ## About This Role
 
-This data analyst position at Lifted, an Upwork Company™ was posted on 2026-07-09.
+This data analyst position at Lifted, an Upwork Company™ was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

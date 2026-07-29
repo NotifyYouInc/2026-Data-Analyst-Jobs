@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pretoria, Gauteng, South Africa |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000135008459-data-manager-in-clinical-trials) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000138903170-data-manager-in-clinical-trials) |
 
 ## About This Role
 
-This data analyst position at Psi Cro was posted on 2026-06-30.
+This data analyst position at Psi Cro was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126949959-customer-service-analyst) |
+| Location | Taiwan |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138985879-customer-service-analyst) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-05-18.
+This data analyst position at NielsenIQ was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

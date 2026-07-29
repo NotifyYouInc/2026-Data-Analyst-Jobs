@@ -1,16 +1,16 @@
-# Reporting and Automation data Analyst - (Tableau / Python) at Citigroup
+# Reporting and Automation Data Analyst - Tableau / Python at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Reporting-and-Automation-data-Analyst----Tableau---Python-_26976102) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Reporting-and-Automation-Data-Analyst---Tableau---Python_26976106) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-09.
+This data analyst position at Citigroup was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

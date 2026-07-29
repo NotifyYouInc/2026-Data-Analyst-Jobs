@@ -1,16 +1,16 @@
-#  Senior Data Analyst - Treasury at Ebury
+# Senior Data Analyst - Treasury at Ebury
 
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Málaga, Andalusia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4925863101) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4934329101) |
 
 ## About This Role
 
-This data analyst position at Ebury was posted on 2026-07-13.
+This data analyst position at Ebury was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000137827792-working-student-product-data-analytics) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000138876325-working-student-product-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Redcare Pharmacy was posted on 2026-07-15.
+This data analyst position at Redcare Pharmacy was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

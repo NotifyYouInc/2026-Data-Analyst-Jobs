@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Montefiore](https://scoutify.ai/companies/montefiore?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | The Bronx, New York, United States |
+| Location | New York, US |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://montefiore.wd12.myworkdayjobs.com/mmc/job/334-East-148th-Street/Data-Analyst_JR231653-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://montefiore.wd12.myworkdayjobs.com/mmc/job/334-East-148th-Street/Data-Analyst_JR231654-1) |
 
 ## About This Role
 
-This data analyst position at Montefiore was posted on 2026-07-17.
+This data analyst position at Montefiore was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

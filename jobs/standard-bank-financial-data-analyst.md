@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint Helier, St Helier, Jersey |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000138154561-financial-data-analyst) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000138911599-financial-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Standard Bank was posted on 2026-07-16.
+This data analyst position at Standard Bank was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

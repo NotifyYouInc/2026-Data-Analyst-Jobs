@@ -5,12 +5,12 @@
 | Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/6c104209-69d5-4ad3-88cc-2dbe3302d9ac) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/46850bf0-a13c-40a1-a4e3-5ea1b5cd9d53) |
 
 ## About This Role
 
-This data analyst position at enpal was posted on 2026-07-13.
+This data analyst position at enpal was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

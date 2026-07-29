@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Senior-Associate--Data-Manager--Clinical-Data-Sciences_4960452) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece---Athens---N-Psychiko/Senior-Associate--Data-Manager--Clinical-Data-Sciences_4960782) |
 
 ## About This Role
 
-This data analyst position at Pfizer was posted on 2026-07-15.
+This data analyst position at Pfizer was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

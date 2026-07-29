@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Thāne, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Muntinlupa-City/Data-Analyst_R1740176) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Thane---11th-Floor-G-Corp-Tech-Park-Ghodbunder-Road/Data-Analyst_R1742056) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-06-23.
+This data analyst position at Concentrix was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

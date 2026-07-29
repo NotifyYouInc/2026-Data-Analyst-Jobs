@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/BIG---Zielinskiego-Krakow/Senior-Financial-Reporting-Analyst--Associate-2_R-787380) |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Senior-Financial-Reporting-Analyst--Associate-2_R-792947) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-05.
+This data analyst position at State Street was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

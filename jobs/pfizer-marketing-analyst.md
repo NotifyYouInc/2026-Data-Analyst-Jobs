@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Marketing |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Mexico---Mexico-City/Marketing-Analyst_4952980) |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Mexico---Mexico-City/Marketing-Analyst_4960985) |
 
 ## About This Role
 
-This marketing position at Pfizer was posted on 2026-03-04.
+This data analyst position at Pfizer was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

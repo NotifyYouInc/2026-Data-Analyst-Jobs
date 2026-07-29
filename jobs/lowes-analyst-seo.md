@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst---SEO_JR-02529002-1) |
+| Category | Growth Marketing |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst---SEO_JR-02568759-1) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-06-30.
+This growth marketing position at Lowe's was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

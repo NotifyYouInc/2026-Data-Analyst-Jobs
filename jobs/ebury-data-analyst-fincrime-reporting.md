@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4918365101) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4934342101) |
 
 ## About This Role
 
-This data analyst position at Ebury was posted on 2026-07-03.
+This data analyst position at Ebury was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

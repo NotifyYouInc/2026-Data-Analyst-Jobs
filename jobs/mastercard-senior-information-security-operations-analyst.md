@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Information-Security-Operations-Analyst_R-277482) |
+| Location | Pune, Maharashtra, India |
+| Category | SOC & Incident Response |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Information-Security-Operations-Analyst_R-284531-1) |
 
 ## About This Role
 
-This security engineer position at Mastercard was posted on 2026-05-06.
+This soc & incident response position at Mastercard was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

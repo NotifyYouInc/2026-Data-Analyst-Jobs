@@ -5,12 +5,12 @@
 | Company | [REPA GROUP](https://scoutify.ai/companies/repa-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cesena, Emilia-Romagna, Italy |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/repagroup/744000138646035-data-analyst) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/repagroup/744000138801179-data-analyst) |
 
 ## About This Role
 
-This data analyst position at REPA GROUP was posted on 2026-07-20.
+This data analyst position at REPA GROUP was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

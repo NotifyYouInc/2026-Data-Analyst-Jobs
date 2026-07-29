@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Assistant-Manager_JR-0000105283-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Assistant-Manager_JR-0000120683-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-04-28.
+This data analyst position at Barclays was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

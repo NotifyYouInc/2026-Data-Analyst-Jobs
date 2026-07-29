@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000136793284-security-operations-analyst) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000138909890-security-operations-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Entain was posted on 2026-07-09.
+This soc & incident response position at Entain was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Westgate Resorts](https://scoutify.ai/companies/westgateresorts?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ocoee, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WestgateResorts/744000137726770-business-intelligence-engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WestgateResorts/744000138949274-business-intelligence-engineer) |
 
 ## About This Role
 
-This data analyst position at Westgate Resorts was posted on 2026-07-14.
+This data analyst position at Westgate Resorts was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

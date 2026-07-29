@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | São José dos Pinhais, Paraná, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014178186-analista-de-dados-jr) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014212386-analista-de-dados-jr) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-07-20.
+This data analyst position at MSX International was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

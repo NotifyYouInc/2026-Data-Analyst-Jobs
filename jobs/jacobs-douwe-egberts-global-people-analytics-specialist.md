@@ -5,12 +5,12 @@
 | Company | [Jacobs Douwe Egberts](https://scoutify.ai/companies/jacobsdouweegberts?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000138272319-global-people-analytics-specialist) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000138865679-global-people-analytics-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at Jacobs Douwe Egberts was posted on 2026-07-17.
+This human resources / people ops position at Jacobs Douwe Egberts was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

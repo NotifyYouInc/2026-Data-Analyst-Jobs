@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2K](https://scoutify.ai/companies/2k?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7747465003) |
+| Location | Novato, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7787506003) |
 
 ## About This Role
 
-This data engineer position at 2K was posted on 2026-05-27.
+This data analyst position at 2K was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

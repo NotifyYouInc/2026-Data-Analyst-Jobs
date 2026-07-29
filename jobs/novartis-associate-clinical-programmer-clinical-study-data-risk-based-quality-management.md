@@ -1,0 +1,22 @@
+# Associate Clinical Programmer - Clinical Study Data, Risk based Quality Management & Monitoring at Novartis
+
+| Field | Details |
+|-------|---------|
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Barcelona-Gran-Va/Associate-Clinical-Programmer---Clinical-Study-Data--Risk-based-Quality-Management---Monitoring_REQ-10082420-1) |
+
+## About This Role
+
+This software engineer position at Novartis was posted on 2026-07-21.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

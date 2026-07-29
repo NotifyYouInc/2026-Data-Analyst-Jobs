@@ -1,16 +1,16 @@
-# Sr. Clinical Data Associate at Thermo Fisher Scientific
+# Sr Clinical Data Associate at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Sr-Clinical-Data-Associate_R-01359990) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Sr-Clinical-Data-Associate_R-01356141) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-07-17.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
