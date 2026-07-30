@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Security-Operations-Analyst-II---Security-Compliance-Center_R-102544-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Security-Operations-Analyst-II---Security-Compliance-Center_R-102545) |
 
 ## About This Role
 
-This soc & incident response position at Expedia was posted on 2026-03-19.
+This soc & incident response position at Expedia was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

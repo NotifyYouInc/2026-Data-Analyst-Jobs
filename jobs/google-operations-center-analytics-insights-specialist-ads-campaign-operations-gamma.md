@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google Operations Center](https://scoutify.ai/companies/google-operations-center?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Haryana, IN |
+| Location | Illinois, US |
 | Category | Marketing Operations |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://google.wd501.myworkdayjobs.com/GOCJobs/job/IN-GUR-TIP2/Analytics---Insights-Specialist---Ads-Campaign-Operations---Gamma_JR4208) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://google.wd501.myworkdayjobs.com/GOCJobs/job/US-REMOTE-IL/Analytics---Insights-Specialist---Ads-Campaign-Operations---Gamma_JR1823) |
 
 ## About This Role
 
-This marketing operations position at Google Operations Center was posted on 2026-03-23.
+This marketing operations position at Google Operations Center was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

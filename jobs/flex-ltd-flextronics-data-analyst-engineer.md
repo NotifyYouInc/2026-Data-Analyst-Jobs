@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Israel |
-| Category | Data Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Israel-Migdal-Ha-Emek/Data-Debug-Analyst-Engineer_WD209849) |
+| Location | Suzhou, Jiangsu, China |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Suzhou/Data-Analyst-Engineer_WD225333) |
 
 ## About This Role
 
-This data engineer position at FLEX LTD. Flextronics was posted on 2026-05-19.
+This data analyst position at FLEX LTD. Flextronics was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

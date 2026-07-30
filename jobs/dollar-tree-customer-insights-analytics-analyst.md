@@ -5,12 +5,12 @@
 | Company | [Dollar Tree](https://scoutify.ai/companies/dollar-tree?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chesapeake, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Customer-Insights---Analytics-Analyst_R-287139) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Customer-Insights---Analytics-Analyst_R-299811) |
 
 ## About This Role
 
-This data analyst position at Dollar Tree was posted on 2026-07-09.
+This data analyst position at Dollar Tree was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

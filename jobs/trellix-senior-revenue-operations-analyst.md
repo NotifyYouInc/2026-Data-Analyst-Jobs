@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Singapore/Senior-Revenue-Operations-Analyst_JR0037091) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/India-Bangalore/Senior-Revenue-Operations-Analyst_JR0037754) |
 
 ## About This Role
 
-This revenue / sales operations position at Trellix was posted on 2026-02-24.
+This data analyst position at Trellix was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

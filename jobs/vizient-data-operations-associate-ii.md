@@ -1,16 +1,16 @@
-# Data Operations, Associate II at Vizient
+# Data Operations Associate II at Vizient
 
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Centennial, Colorado, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Centennial-CO-80111/Data-Operations--Associate-II_33765R-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Data-Operations-Associate-II_34469R) |
 
 ## About This Role
 
-This data analyst position at Vizient was posted on 2026-07-07.
+This data analyst position at Vizient was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

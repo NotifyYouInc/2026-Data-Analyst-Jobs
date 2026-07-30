@@ -5,12 +5,12 @@
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000134684219-junior-analyst) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000139217289-junior-analyst) |
 
 ## About This Role
 
-This data analyst position at SportsDirect.com Retail was posted on 2026-06-29.
+This data analyst position at SportsDirect.com Retail was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

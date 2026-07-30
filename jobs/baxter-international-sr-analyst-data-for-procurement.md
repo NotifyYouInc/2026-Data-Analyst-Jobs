@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Guadalajara-Jalisco/SR-Analyst--Data-for-Procurement_JR-201319) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Guadalajara-Jalisco/SR-Analyst--Data-for-Procurement_JR-205930-1) |
 
 ## About This Role
 
-This business analyst position at Baxter International was posted on 2026-04-29.
+This data analyst position at Baxter International was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Assistant-II_RQ4072054) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/20-Shattuck-Street--Boston-Thorn-Research-Building/Research-Assistant-II_RQ4073190) |
 
 ## About This Role
 
-This data analyst position at Mass General Brigham was posted on 2026-07-10.
+This data analyst position at Mass General Brigham was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

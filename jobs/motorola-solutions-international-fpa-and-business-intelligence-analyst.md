@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Argentina |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Offsite/International-FP-A-and-Business-Intelligence-Analyst_R63841) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/International-FP-A-and-Business-Intelligence-Analyst_R66683) |
 
 ## About This Role
 
-This corporate finance position at Motorola Solutions was posted on 2026-04-14.
+This data analyst position at Motorola Solutions was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

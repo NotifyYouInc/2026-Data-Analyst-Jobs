@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deloitte NZ](https://scoutify.ai/companies/deloitte-nz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deloittenz/6000000001144898-bi-developer) |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deloittenz/6000000001252579-bi-developer) |
 
 ## About This Role
 
-This data engineer position at Deloitte NZ was posted on 2026-06-10.
+This data analyst position at Deloitte NZ was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

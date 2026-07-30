@@ -5,12 +5,12 @@
 | Company | [Vetoquinol](https://scoutify.ai/companies/vetoquinol?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Magny-Vernois, Bourgogne, France |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vetoquinol/744000135042437-alternance-analyste-de-donnees-supply-chain-groupe-fh) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vetoquinol/744000139024049-alternance-analyste-de-donnees-supply-chain-groupe-fh) |
 
 ## About This Role
 
-This data analyst position at Vetoquinol was posted on 2026-06-30.
+This data analyst position at Vetoquinol was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

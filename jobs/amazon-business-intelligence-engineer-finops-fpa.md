@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380996/business-intelligence-engineer-finops-fp-a) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10482187/business-intelligence-engineer-finops-fp-a) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Amazon was posted on 2026-04-01.
+This data analyst position at Amazon was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

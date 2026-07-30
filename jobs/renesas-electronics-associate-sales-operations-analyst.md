@@ -1,16 +1,16 @@
-# Associate Sales Operations Analyst  at Renesas Electronics
+# Associate Sales Operations Analyst at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000121137588-associate-sales-operations-analyst) |
+| Location | Austin, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139122439-associate-sales-operations-analyst) |
 
 ## About This Role
 
-This revenue / sales operations position at Renesas Electronics was posted on 2026-04-16.
+This data analyst position at Renesas Electronics was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

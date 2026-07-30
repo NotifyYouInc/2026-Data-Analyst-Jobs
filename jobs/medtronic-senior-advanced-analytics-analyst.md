@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colombia |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Senior-Advanced-Analytics-Analyst_R62270-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Singapore-Singapore-Singapore/Senior-Advanced-Analytics-Analyst_R72681-1) |
 
 ## About This Role
 
-This data analyst position at Medtronic was posted on 2026-04-07.
+This data analyst position at Medtronic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

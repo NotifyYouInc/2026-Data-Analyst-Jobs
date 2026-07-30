@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000127810355-cash-operations-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000139194909-cash-operations-analyst) |
 
 ## About This Role
 
-This corporate finance position at IFS was posted on 2026-05-22.
+This data analyst position at IFS was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

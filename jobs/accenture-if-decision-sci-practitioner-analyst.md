@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/I-F-Decision-Sci-Practitioner-Analyst_AIOC-S01655512-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/I-F-Decision-Sci-Practitioner-Sr-Analyst_AIOC-S01637160-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-07-16.
+This data analyst position at Accenture was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

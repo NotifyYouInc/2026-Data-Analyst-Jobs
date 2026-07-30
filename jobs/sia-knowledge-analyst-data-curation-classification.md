@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000131815287-knowledge-analyst-data-curation-classification) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000139199106-knowledge-analyst-data-curation-classification) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-06-12.
+This data analyst position at SIA was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Analytics-Manager-2_R10232237) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Analytics-Manager-2_R10241763) |
 
 ## About This Role
 
-This data analyst position at Northrop Grumman was posted on 2026-05-13.
+This data analyst position at Northrop Grumman was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

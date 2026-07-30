@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
-| Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133051901-analyst-project-controller-reporting-performance-analytics-powerbi) |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000139084121-analyst-project-controller-reporting-performance-analytics-powerbi) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-06-19.
+This accounting position at AECOM was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

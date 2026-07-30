@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000138861905-praktikum-datenkonsolidierung-im-environmental-engineering-mwd-ref95444o) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139056419-praktikum-datenkonsolidierung-im-environmental-engineering-mwd-ref95444o) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-07-21.
+This data analyst position at Continental was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

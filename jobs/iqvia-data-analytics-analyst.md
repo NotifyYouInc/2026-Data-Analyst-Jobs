@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kathmandu, Bagmati Province, Nepal |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kathmandu-Nepal/Data-Analytics-Analyst_R1549786) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Lisbon-Portugal/Data-Analytics-Analyst_R1559349) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-06-26.
+This data analyst position at IQVIA was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | Corporate Development & M&A |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---VA---Herndon---2235-Monroe-Street/Senior-Business-Intelligence---Transaction-Analyst_R311287-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---VA---Herndon---2235-Monroe-Street/Senior-Business-Intelligence---Transaction-Analyst_R329510) |
 
 ## About This Role
 
-This corporate development & m&a position at Cushman & Wakefield was posted on 2026-03-18.
+This data analyst position at Cushman & Wakefield was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

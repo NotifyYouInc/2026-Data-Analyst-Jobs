@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Clinical-Data-Coordinator_JR156152) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Argentina-Buenos-Aires/Clinical-Data-Coordinator_JR154949) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-07-20.
+This data analyst position at ICON plc was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

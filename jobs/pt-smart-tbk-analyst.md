@@ -1,16 +1,16 @@
-# Analyst at PT SMART Tbk
+# ANALYST at PT SMART Tbk
 
 | Field | Details |
 |-------|---------|
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dumai, Riau, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/Dumai/Analyst_R-26000518-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/Dumai/ANALYST_R-25000189) |
 
 ## About This Role
 
-This data analyst position at PT SMART Tbk was posted on 2026-06-22.
+This data analyst position at PT SMART Tbk was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

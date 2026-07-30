@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Georgia, US |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000137906231-nasa-quality-data-analyst-customer-onsite) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000139122369-nasa-quality-data-analyst-customer-onsite) |
 
 ## About This Role
 
-This data analyst position at Expeditors International of Washington was posted on 2026-07-15.
+This data analyst position at Expeditors International of Washington was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

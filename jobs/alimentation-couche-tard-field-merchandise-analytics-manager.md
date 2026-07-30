@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Greenwood Village, Colorado, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B130-Greenwood-Village-CO/Field-Merchandise-Analytics-Manager_R570011) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-MCM-Columbus-IN/Field-Merchandise-Analytics-Manager_R607222) |
 
 ## About This Role
 
-This data analyst position at Alimentation Couche-Tard was posted on 2026-03-09.
+This data analyst position at Alimentation Couche-Tard was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

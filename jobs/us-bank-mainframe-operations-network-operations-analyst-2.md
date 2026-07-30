@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Mainframe-Operations--Network-Operations-Analyst-2-_2026-0010075) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Mainframe-Operations--Network-Operations-Analyst-2-_2026-0021760) |
 
 ## About This Role
 
-This it & systems administration position at U.S. Bank was posted on 2026-05-01.
+This data analyst position at U.S. Bank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
