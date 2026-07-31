@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Goleta, California, United States |
+| Location | Tucson, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Principal-Analyst-Data-Manager_01858797) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Principal-Analyst-Data-Manager_01861560) |
 
 ## About This Role
 
-This data analyst position at RTX was posted on 2026-07-14.
+This data analyst position at RTX was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

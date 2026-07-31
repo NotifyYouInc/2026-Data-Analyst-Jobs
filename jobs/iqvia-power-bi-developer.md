@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Software-Developer_R1481614-7) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Power-BI-Developer_R1542536-1) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-04-22.
+This data analyst position at IQVIA was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

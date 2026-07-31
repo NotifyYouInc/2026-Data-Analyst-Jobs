@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Frimley, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---Surrey-Frimley/Customer-Supply-Chain-Analyst---Ops-Team_33232) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---Surrey-Frimley/Customer-Supply-Chain-Analyst---Ops-Team_33627) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-06-09.
+This data analyst position at SC Johnson was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

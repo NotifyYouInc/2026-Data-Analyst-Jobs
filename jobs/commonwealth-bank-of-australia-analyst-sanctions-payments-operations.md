@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Analyst-Sanctions-Payments-Operations_REQ256978) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Analyst-Sanctions-Payments-Operations_REQ262435) |
 
 ## About This Role
 
-This financial crimes & aml position at Commonwealth Bank of Australia was posted on 2026-05-01.
+This data analyst position at Commonwealth Bank of Australia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

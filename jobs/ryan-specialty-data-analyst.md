@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Richmond---Virginia/Data-Analyst_JR26-4964-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Chicago---Illinois---Wacker/Data-Analyst_JR26-5029-1) |
 
 ## About This Role
 
-This data analyst position at Ryan Specialty was posted on 2026-07-10.
+This data analyst position at Ryan Specialty was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

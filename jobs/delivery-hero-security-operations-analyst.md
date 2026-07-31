@@ -1,16 +1,16 @@
-# Security Operations Analyst  at Delivery Hero
+# Security Operations Analyst at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | SOC & Incident Response |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127993349-security-operations-analyst) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139245139-security-operations-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Delivery Hero was posted on 2026-05-23.
+This soc & incident response position at Delivery Hero was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

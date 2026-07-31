@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Spain |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000137717459-director-business-intelligence) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000139362439-director-business-intelligence) |
 
 ## About This Role
 
-This data analyst position at Cint was posted on 2026-07-14.
+This data analyst position at Cint was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

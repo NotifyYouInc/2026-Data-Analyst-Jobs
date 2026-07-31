@@ -5,12 +5,12 @@
 | Company | [AJ Bell](https://scoutify.ai/companies/ajbell1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000138805784-senior-bi-developer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000139289605-senior-bi-developer) |
 
 ## About This Role
 
-This data analyst position at AJ Bell was posted on 2026-07-21.
+This data analyst position at AJ Bell was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

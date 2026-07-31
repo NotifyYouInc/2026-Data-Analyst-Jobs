@@ -1,16 +1,16 @@
-# Commercial Analytics Manager at Amgen
+# Commercial Analytics, Manager at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Thousand Oaks, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Commercial-Analytics-Manager_R-243908) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Commercial-Analytics--Manager_R-250228) |
 
 ## About This Role
 
-This data analyst position at Amgen was posted on 2026-05-29.
+This data analyst position at Amgen was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

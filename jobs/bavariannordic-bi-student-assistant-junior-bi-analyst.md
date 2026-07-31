@@ -5,12 +5,12 @@
 | Company | [Bavariannordic](https://scoutify.ai/companies/bavariannordic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denmark |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bavariannordic.wd103.myworkdayjobs.com/bavariannordic/job/Kvistgaard/BI-Student-Assistant---Junior-BI-Analyst_JR101398) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://bavariannordic.wd103.myworkdayjobs.com/bavariannordic/job/Kvistgaard/BI-Student-Assistant---Junior-BI-Analyst_JR101399) |
 
 ## About This Role
 
-This data analyst position at Bavariannordic was posted on 2026-05-28.
+This data analyst position at Bavariannordic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

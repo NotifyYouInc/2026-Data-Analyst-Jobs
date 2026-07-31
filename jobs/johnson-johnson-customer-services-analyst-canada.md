@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Customer-Services-Analyst--Canada-_R-074398) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Customer-Services-Analyst--Canada-_R-074399-2) |
 
 ## About This Role
 
-This customer success position at Johnson & Johnson was posted on 2026-05-21.
+This data analyst position at Johnson & Johnson was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

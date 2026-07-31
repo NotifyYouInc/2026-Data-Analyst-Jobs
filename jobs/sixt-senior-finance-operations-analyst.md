@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000132259184-senior-finance-operations-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000139361979-senior-finance-operations-analyst) |
 
 ## About This Role
 
-This corporate finance position at Sixt was posted on 2026-06-15.
+This data analyst position at Sixt was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

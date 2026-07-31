@@ -1,16 +1,16 @@
-# Clinical Data Specialist at Medtronic
+# Clinical Data  Specialist at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mumbai-Maharashtra-India/Clinical-Data-Specialist_R62185-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mumbai-Maharashtra-India/Clinical-Data--Specialist_R71736) |
 
 ## About This Role
 
-This data analyst position at Medtronic was posted on 2026-03-24.
+This data analyst position at Medtronic was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

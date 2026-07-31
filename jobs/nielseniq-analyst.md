@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Minnesota, US |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129651904-analyst) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139360419-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-02.
+This data analyst position at NielsenIQ was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

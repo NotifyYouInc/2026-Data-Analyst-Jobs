@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133039429-consultant-data-visualization-experimente) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139292989-consultant-data-visualization-experimente) |
 
 ## About This Role
 
-This data analyst position at ALTEN was posted on 2026-06-19.
+This data analyst position at ALTEN was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

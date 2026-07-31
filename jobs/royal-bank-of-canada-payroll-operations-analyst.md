@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Accounting |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Payroll-Operations-Analyst_R-0000171516-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Payroll-Operations-Analyst_R-0000181657-1) |
 
 ## About This Role
 
-This accounting position at Royal Bank of Canada was posted on 2026-05-11.
+This data analyst position at Royal Bank of Canada was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

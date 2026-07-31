@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Ludvika, Dalarna, Sweden |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/IT-Business-Intelligence-Analyst---BST-GI_R0134819) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/IT-Business-Intelligence-Analyst---BST-GI_R0134818) |
 
 ## About This Role
 
-This data analyst position at Hitachi was posted on 2026-07-08.
+This data analyst position at Hitachi was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

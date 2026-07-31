@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Customer-Contact-Comms-Senior-Analyst-Voice_AIOC-S01634800-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Customer-Contact-Comms-Senior-Analyst-Voice_AIOC-S01656970-1) |
 
 ## About This Role
 
-This compliance & risk management position at Accenture was posted on 2026-06-12.
+This data analyst position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

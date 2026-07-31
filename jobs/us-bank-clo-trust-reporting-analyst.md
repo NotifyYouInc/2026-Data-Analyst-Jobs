@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/CLO-Trust-Reporting-Analyst_2026-0021012) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/CLO-Trust-Reporting-Analyst_2026-0021701) |
 
 ## About This Role
 
-This data analyst position at U.S. Bank was posted on 2026-07-21.
+This data analyst position at U.S. Bank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

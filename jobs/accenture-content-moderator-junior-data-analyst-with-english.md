@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Trust & Safety |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Content-Moderator--Junior-Data-Analyst--with-English_14404127) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Content-Moderator--Junior-Data-Analyst--with-English_R00346482) |
 
 ## About This Role
 
-This trust & safety position at Accenture was posted on 2026-05-28.
+This data analyst position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

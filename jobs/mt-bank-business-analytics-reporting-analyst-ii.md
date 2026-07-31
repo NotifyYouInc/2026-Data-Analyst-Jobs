@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
-| Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Getzville-NY/Business-Analytics---Reporting-Analyst-II_R82741-1) |
+| Location | Amherst, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Amherst-NY/Business-Analytics---Reporting-Analyst-II_R88350-1) |
 
 ## About This Role
 
-This business analyst position at M&T Bank was posted on 2026-02-10.
+This data analyst position at M&T Bank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

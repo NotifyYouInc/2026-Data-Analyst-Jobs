@@ -5,12 +5,12 @@
 | Company | [Ultra Cleaning Service](https://scoutify.ai/companies/ultra-cleaning-service?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ult1005uch/JobBoard/93be8725-1d6c-4162-aba5-e796cf8ea1b5/OpportunityDetail?opportunityId=045ddc97-5e2b-4d2a-8871-1e0917e860ef) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ult1005uch/JobBoard/93be8725-1d6c-4162-aba5-e796cf8ea1b5/OpportunityDetail?opportunityId=1e250a4e-ffcf-4645-9251-364c023435b8) |
 
 ## About This Role
 
-This data analyst position at Ultra Cleaning Service was posted on 2026-06-10.
+This data analyst position at Ultra Cleaning Service was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

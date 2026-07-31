@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Operations |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Strategic-Operations-Analyst_JR0146531) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Strategic-Operations-Analyst_JR0149545-1) |
 
 ## About This Role
 
-This operations position at McKesson was posted on 2026-05-08.
+This data analyst position at McKesson was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

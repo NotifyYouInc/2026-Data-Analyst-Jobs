@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ledcor Group of Companies](https://scoutify.ai/companies/ledcor-group-of-companies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Edmonton-AB/Business-Intelligence-Specialist_R28596) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ledcor.wd3.myworkdayjobs.com/ledcor_external/job/Vancouver-BC/Business-Intelligence-Specialist_R29974) |
 
 ## About This Role
 
-This data analyst position at Ledcor Group of Companies was posted on 2026-04-27.
+This data analyst position at Ledcor Group of Companies was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

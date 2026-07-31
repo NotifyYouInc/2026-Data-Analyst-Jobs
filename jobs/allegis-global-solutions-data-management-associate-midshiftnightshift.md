@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Leadership Development Program |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000128969929-data-management-associate-midshiftnightshift) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000139518690-data-management-associate-midshiftnightshift) |
 
 ## About This Role
 
-This leadership development program position at Allegis Global Solutions was posted on 2026-05-28.
+This leadership development program position at Allegis Global Solutions was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

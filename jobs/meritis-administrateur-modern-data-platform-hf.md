@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000137121868-administrateur-modern-data-platform-hf) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000139279664-administrateur-modern-data-platform-hf) |
 
 ## About This Role
 
-This data engineer position at Meritis was posted on 2026-07-10.
+This data engineer position at Meritis was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

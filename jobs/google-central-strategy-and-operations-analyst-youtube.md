@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbs8g5nFwcss0PeWRVUn1c2KA-67Ij2fqiMTnWvl16TMEjsA1Ny_i5A-3l-KJFmFVBE6KdVy-vLCg2mAl1d_ixGJYhObv3X45YaHn0L04utk2jES9HNyCwhY-nrM-Q%3D%3D_V2&loc=US&title=Central+Strategy+and+Operations+Analyst) |
+| Category | Data Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUBk3u--6Le6Yobw0Ip8CVRSvmfV5K0ejWtNF9X7MBgnEjsA1Ny_i6XuIueN7ebZ5rH8pSNOBeGxA1rTDAllWTGxONu2mnYGD6M5_f9Yu5Pt2KFqhhEs1FsJiNPhqA%3D%3D_V2&loc=US&title=Central+Strategy+and+Operations+Analyst) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-06-15.
+This data analyst position at Google was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

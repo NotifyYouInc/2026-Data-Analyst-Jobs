@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Getzville-NY/Business-Analytics---Reporting-Analyst-I_R88092) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/Business-Analytics---Reporting-Analyst-I_R88186) |
 
 ## About This Role
 
-This data analyst position at M&T Bank was posted on 2026-07-15.
+This data analyst position at M&T Bank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

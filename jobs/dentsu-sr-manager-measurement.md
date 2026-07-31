@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Michigan--Eastern-Time/Sr-Manager--Measurement_R1126313) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Michigan--Eastern-Time/Sr-Manager--Measurement_R1128230) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-07-10.
+This data analyst position at Dentsu was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

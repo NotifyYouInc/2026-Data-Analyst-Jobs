@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Privacy & Data Protection |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Corp-Functions-Data-Steward_545645-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Corp-Functions-Data-Steward_545646-1) |
 
 ## About This Role
 
-This privacy & data protection position at Haleon was posted on 2026-07-09.
+This privacy & data protection position at Haleon was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
