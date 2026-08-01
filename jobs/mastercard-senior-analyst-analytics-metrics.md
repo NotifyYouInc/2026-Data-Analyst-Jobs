@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Analyst--Analytics---Metrics_R-279068) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Senior-Analyst--Analytics---Metrics_R-280737) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-06-05.
+This data analyst position at Mastercard was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

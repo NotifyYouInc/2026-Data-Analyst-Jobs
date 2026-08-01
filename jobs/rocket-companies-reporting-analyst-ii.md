@@ -5,12 +5,12 @@
 | Company | [Rocket Companies](https://scoutify.ai/companies/quickenloans?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Highlands Ranch, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Highlands-Ranch---9135-South-Ridgeline-Blvd/Reporting-Analyst-II_R-082233) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Highlands-Ranch---9135-South-Ridgeline-Blvd/Reporting-Analyst-II_R-083553) |
 
 ## About This Role
 
-This data analyst position at Rocket Companies was posted on 2026-04-29.
+This data analyst position at Rocket Companies was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

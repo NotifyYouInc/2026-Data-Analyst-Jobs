@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sailauf, Bavaria, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Sailauf-DE/Sales-Analyst--m-f-x-_R00245280) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Sailauf-DE/Sales-Analyst--m-f-x-_R00251703) |
 
 ## About This Role
 
-This corporate finance position at Magna was posted on 2026-05-29.
+This data analyst position at Magna was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Analyst Intern at Criteo
+# Data Analyst- Intern at Criteo
 
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Barcelona/Data-Analyst-Intern_r20405) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/Data-Analyst--Intern_r20878) |
 
 ## About This Role
 
-This data analyst position at Criteo was posted on 2026-03-11.
+This data analyst position at Criteo was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

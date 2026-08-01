@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Hyderabad-IN/Data-Associate_JR2955) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Gurugram-IN/Data-Associate_JR3169) |
 
 ## About This Role
 
-This data analyst position at Wood Mackenzie was posted on 2026-05-20.
+This data analyst position at Wood Mackenzie was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

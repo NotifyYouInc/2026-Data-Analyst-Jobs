@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckerWRJR8sBt7Lu1W6UCPMcHpOvN_Q5A_KVpNZqDZ0tQAEjsA1Ny_i0D-AH78u7vLej7lYalC4yLuFjBzqB2IzHbQ2xQPR7PW0Jj8loWbLfFm15uBpE7_Rhap_roFUQ%3D%3D_V2&loc=IN&title=Senior+Engineering+Analyst) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW88lG4CzDYBPItD5wkYEAKmnYiLLn70i2n2suL3o5k4EjsA1Ny_i1GO3Fs8DZrosNahncohQItg2xWXRCYXJmSqc4WBMjebP6mKxu0hwX0XXDGNBtdeXgeGmllzdw%3D%3D_V2&loc=IE&title=Senior+Engineering+Analyst) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-07-14.
+This data analyst position at Google was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

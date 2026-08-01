@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
-| Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-BI-Developer---Digital-IPA--freelance-_724776WD) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-BI-Developer---Digital-IPA--freelance-_747391WD) |
 
 ## About This Role
 
-This data engineer position at PwC was posted on 2026-04-27.
+This data analyst position at PwC was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Odenton, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Analyst_R-00187928) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Data-Analyst_R-00188097) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-07-23.
+This data analyst position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

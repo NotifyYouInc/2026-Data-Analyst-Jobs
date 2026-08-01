@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-fonctionnel-ou-analyste-fonctionnelle_R2609400-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Spcialiste-assurance-qualit--Standards-et-mthodologies_R2609512) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-07-22.
+This data analyst position at Desjardins was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

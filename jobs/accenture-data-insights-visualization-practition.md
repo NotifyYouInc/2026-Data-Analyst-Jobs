@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Insights---Visualization-Practition_ATCI-5470716-S2060245-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Insights---Visualization-Practition_ATCI-5676179-S2060565-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-07-23.
+This data analyst position at Accenture was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Business-Intelligence-Consultant_R-556868) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Business-Intelligence-Consultant_R-561514) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-07-15.
+This technology / it consulting position at Wells Fargo was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

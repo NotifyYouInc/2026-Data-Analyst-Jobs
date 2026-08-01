@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Four Seasons Hotels](https://scoutify.ai/companies/four-seasons-hotels?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Office-Toronto/Analyst--Residential-Operations_REQ10375136) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Corporate-Headquarters-Toronto/Analyst--Residential-Operations_REQ10387002) |
 
 ## About This Role
 
-This business analyst position at Four Seasons Hotels was posted on 2026-03-18.
+This data analyst position at Four Seasons Hotels was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

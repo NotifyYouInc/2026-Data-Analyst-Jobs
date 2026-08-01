@@ -5,12 +5,12 @@
 | Company | [Analysys Mason](https://scoutify.ai/companies/analysys-mason?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/analysysmason1/744000137663625-research-analyst-space) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/analysysmason1/744000139562665-research-analyst-space) |
 
 ## About This Role
 
-This data analyst position at Analysys Mason was posted on 2026-07-14.
+This data analyst position at Analysys Mason was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

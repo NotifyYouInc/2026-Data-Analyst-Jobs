@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Kochi, Kerala, India |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Dalian-Liaoning-China/Data-Team-Lead_R1546874) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Data-Team-Lead_R1556717) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-07-07.
+This data analyst position at IQVIA was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

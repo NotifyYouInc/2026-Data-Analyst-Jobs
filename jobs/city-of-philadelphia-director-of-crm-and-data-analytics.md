@@ -5,12 +5,12 @@
 | Company | [City of Philadelphia](https://scoutify.ai/companies/city-of-philadelphia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofphiladelphia/744000131473969-director-of-crm-and-data-analytics) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofphiladelphia/744000139672069-director-of-crm-and-data-analytics) |
 
 ## About This Role
 
-This data analyst position at City of Philadelphia was posted on 2026-06-10.
+This data analyst position at City of Philadelphia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

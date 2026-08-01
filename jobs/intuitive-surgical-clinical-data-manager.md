@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000136029919-clinical-data-manager) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000139664709-clinical-data-manager) |
 
 ## About This Role
 
-This data analyst position at Intuitive Surgical was posted on 2026-07-06.
+This data analyst position at Intuitive Surgical was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

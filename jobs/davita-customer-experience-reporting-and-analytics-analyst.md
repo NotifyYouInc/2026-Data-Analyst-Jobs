@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nashville, Tennessee, United States |
-| Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00760---Team-Liberty-Malvern-Business-Office/Customer-Experience-Reporting-and-Analytics-Analyst_R0443217) |
+| Location | United States |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00760---Team-Liberty-Malvern-Business-Office/Customer-Experience-Reporting-and-Analytics-Analyst_R0469844) |
 
 ## About This Role
 
-This customer success position at DaVita was posted on 2026-02-10.
+This data analyst position at DaVita was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kraken](https://scoutify.ai/companies/kraken?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/38a2321f-d5a6-4a3e-8639-5e93a1042d0e) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/7c697b76-8d13-4825-808d-0d1dcd98ffd0) |
 
 ## About This Role
 
-This data analyst position at Kraken was posted on 2026-04-30.
+This data analyst position at Kraken was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

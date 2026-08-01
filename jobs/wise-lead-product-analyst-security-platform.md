@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138611445-lead-product-analyst-security-platform) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139693889-lead-product-analyst-security-platform) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-07-20.
+This data analyst position at WISE was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

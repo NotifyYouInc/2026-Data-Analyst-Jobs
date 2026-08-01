@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Somerville, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Assistant-I_RQ4073358) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Research-Assistant-I_RQ4073174) |
 
 ## About This Role
 
-This data analyst position at Mass General Brigham was posted on 2026-07-22.
+This data analyst position at Mass General Brigham was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

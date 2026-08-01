@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Location | Bayan Lepas, Penang, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139202990-engineer) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000139606620-engineer) |
 
 ## About This Role
 
-This data analyst position at Renesas Electronics was posted on 2026-07-23.
+This data analyst position at Renesas Electronics was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

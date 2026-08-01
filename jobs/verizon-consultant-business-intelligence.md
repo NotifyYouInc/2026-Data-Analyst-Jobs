@@ -1,16 +1,16 @@
-# Consultant - Business Intelligence at Verizon
+# Consultant-Business Intelligence at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Consultant---Business-Intelligence_R-1095845-1) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Consultant-Business-Intelligence_R-1098667) |
 
 ## About This Role
 
-This data analyst position at Verizon was posted on 2026-07-03.
+This data analyst position at Verizon was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Sr-Manager--Data-Analyst---Risk-Mgmt-Product_R246172-2) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Sr-Manager--Data-Analyst---Risk-Mgmt-Product_R247730-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-07-09.
+This data analyst position at Capital One was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

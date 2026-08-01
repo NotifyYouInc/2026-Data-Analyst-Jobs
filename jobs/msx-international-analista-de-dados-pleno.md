@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014220005-analista-de-dados-pleno) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014269186-analista-de-dados-pleno) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-07-22.
+This data analyst position at MSX International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

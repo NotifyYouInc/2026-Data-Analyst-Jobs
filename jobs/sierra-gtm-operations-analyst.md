@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Operations |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/21a4df49-1b95-4fe9-b375-af6cf69c0812) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/f608f09d-fd99-4eac-978a-264e6ae99a17) |
 
 ## About This Role
 
-This operations position at Sierra was posted on 2026-03-08.
+This data analyst position at Sierra was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

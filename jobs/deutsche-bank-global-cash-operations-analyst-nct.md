@@ -1,16 +1,16 @@
-# Global Cash Operations Analyst, NCT at Deutsche Bank
+# Global Cash Operations Analyst - NCT at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Payments-Processing-Analyst--NCT_R0408967) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Taipei/Global-Cash-Operations-Analyst---NCT_R0437109) |
 
 ## About This Role
 
-This financial crimes & aml position at Deutsche Bank was posted on 2026-04-22.
+This data analyst position at Deutsche Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

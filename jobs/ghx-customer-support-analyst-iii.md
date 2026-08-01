@@ -1,16 +1,16 @@
-# Customer Support Analyst III at GHX
+# Customer Support Analyst III    at GHX
 
 | Field | Details |
 |-------|---------|
 | Company | [GHX](https://scoutify.ai/companies/ghx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4703965005) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4717682005) |
 
 ## About This Role
 
-This customer success position at GHX was posted on 2026-06-09.
+This data analyst position at GHX was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
