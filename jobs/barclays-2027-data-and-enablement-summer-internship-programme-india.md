@@ -1,16 +1,16 @@
-# Data Operations Analyst  at NielsenIQ
+# 2027 Data and Enablement Summer Internship Programme India at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139820739-data-operations-analyst) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/XMLNAME-2027-Data-and-Enablement-Summer-Internship-Programme-India_JR-0000124124) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-25.
+This data analyst position at Barclays was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

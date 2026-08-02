@@ -1,4 +1,4 @@
-# Senior Data Analyst at City of New York
+# Deputy Director, Data Analytics at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283036-senior-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283096-deputy-director-data-analytics) |
 
 ## About This Role
 

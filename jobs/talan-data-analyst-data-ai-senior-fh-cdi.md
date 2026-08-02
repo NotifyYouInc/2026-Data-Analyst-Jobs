@@ -1,16 +1,16 @@
-# Senior Data Analyst at City of New York
+# Data Analyst Data & AI Senior - F/H - CDI at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283036-senior-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139826969-data-analyst-data-ai-senior-fh-cdi) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-07-25.
+This data analyst position at Talan was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Analyst at City of New York
+# Senior Market Data Analyst at Man Group
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014283036-senior-data-analyst) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4936438101) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-07-25.
+This data analyst position at Man Group was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

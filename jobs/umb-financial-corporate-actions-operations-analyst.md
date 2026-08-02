@@ -1,16 +1,16 @@
-# Associate Data Analyst at Appliedis
+# Corporate Actions Operations Analyst at UMB Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Clarksburg, West Virginia, United States |
+| Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 4 locations |
 | Category | Data Analyst |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Clarksburg-WV/Associate-Data-Analyst_JR2026001300) |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Corporate-Actions-Operations-Analyst_R-9127) |
 
 ## About This Role
 
-This data analyst position at Appliedis was posted on 2026-07-24.
+This data analyst position at UMB Financial was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
