@@ -6,7 +6,7 @@
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/So-Paulo---Barueri/Sales-Manager---Senior-Analyst_R00269676) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/So-Paulo---Barueri/Sales-Manager---Senior-Analyst_R00347017) |
 
 ## About This Role
 

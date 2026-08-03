@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000110146015-digital-marketing-analyst-french-speaker-smw) |
+| Category | Data Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000139963359-digital-marketing-analyst-french-speaker-smw) |
 
 ## About This Role
 
-This digital / performance marketing position at natixis-in-portugal was posted on 2026-02-19.
+This data analyst position at natixis-in-portugal was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | 4 locations |
 | Category | Data Analyst |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5351089008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5367934008) |
 
 ## About This Role
 

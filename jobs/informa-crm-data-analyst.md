@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | George Town, Penang, Malaysia |
+| Location | Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000139040020-crm-data-analyst) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000139941961-crm-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-07-22.
+This data analyst position at Informa was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
