@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Foodstuffs](https://scoutify.ai/companies/foodstuffs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.lever.co/foodstuffs/86a06f73-bb37-4bc9-8a25-480b2e0240b6) |
 
 ## About This Role
 
-This data analyst position at Foodstuffs was posted on 2026-07-27.
+This data engineer position at Foodstuffs was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Merrimack, New Hampshire, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Associate-Analyst--Global-Product---Markets-Information_2130338-2) |
 
 ## About This Role
 
-This data analyst position at Fidelity was posted on 2026-07-25.
+This business analyst position at Fidelity was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

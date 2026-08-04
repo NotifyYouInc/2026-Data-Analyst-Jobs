@@ -5,12 +5,12 @@
 | Company | [Analysys Mason](https://scoutify.ai/companies/analysys-mason?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/analysysmason1/744000138828130-research-analyst) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/analysysmason1/744000140036006-research-analyst) |
 
 ## About This Role
 
-This data analyst position at Analysys Mason was posted on 2026-07-21.
+This data analyst position at Analysys Mason was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

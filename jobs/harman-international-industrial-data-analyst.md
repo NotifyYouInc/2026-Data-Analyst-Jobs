@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Juárez, Chiapas, Mexico |
-| Category | Data Analyst |
+| Category | Industrial Automation |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Industrial-Data-Analyst/32409) |
 
 ## About This Role
 
-This data analyst position at HARMAN International was posted on 2026-07-24.
+This industrial automation position at HARMAN International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

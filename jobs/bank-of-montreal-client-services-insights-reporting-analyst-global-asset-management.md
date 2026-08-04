@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Canada |
-| Category | Data Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Client-Services-Insights---Reporting-Analyst--Global-Asset-Management_R260021482) |
 
 ## About This Role
 
-This data analyst position at Bank of Montreal was posted on 2026-07-24.
+This asset management / portfolio management position at Bank of Montreal was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

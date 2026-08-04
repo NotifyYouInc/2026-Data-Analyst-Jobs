@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000136845823-business-marketing-analyst-pricing-and-planning) |
+| Category | Business Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000140077039-business-marketing-analyst-pricing-and-planning) |
 
 ## About This Role
 
-This data analyst position at SanDisk was posted on 2026-07-09.
+This business analyst position at SanDisk was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

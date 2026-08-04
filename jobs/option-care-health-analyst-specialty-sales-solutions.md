@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Option Care Health](https://scoutify.ai/companies/optioncare?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bannockburn, Illinois, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Bannockburn-IL/Analyst---Specialty-Sales---Solutions_R36360) |
 
 ## About This Role
 
-This data analyst position at Option Care Health was posted on 2026-07-24.
+This business analyst position at Option Care Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

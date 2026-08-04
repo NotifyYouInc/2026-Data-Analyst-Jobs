@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Argentina |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Argentina---Remote/Database-Analyst--Associate---Clinical-Data-Collection-Strategies_4955799) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---Pearl-River/Database-Analyst--Associate---Clinical-Data-Collection-Strategies_4960718-2) |
 
 ## About This Role
 
-This data analyst position at Pfizer was posted on 2026-04-29.
+This data analyst position at Pfizer was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135-Building-8/Senior-Manager---Data-Analytics---Insight_R_343180) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Senior-Manager---Data-Analytics---Insight_R_357190-1) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-07-22.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

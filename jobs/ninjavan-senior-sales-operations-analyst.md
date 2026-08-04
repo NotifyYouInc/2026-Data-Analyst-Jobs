@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ninjavan](https://scoutify.ai/companies/ninjavan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.lever.co/ninjavan/1adeeae4-321c-4be6-996f-715bb1988b7c) |
 
 ## About This Role
 
-This data analyst position at Ninjavan was posted on 2026-07-27.
+This operations position at Ninjavan was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

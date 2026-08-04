@@ -5,12 +5,12 @@
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | QA Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/INMumbaiEmbassy-247-Park/Water-Quality-Analyst-Modeller_R-151608) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/INMumbaiEmbassy-247-Park/Water-Quality-Analyst-Modeller_R-159675) |
 
 ## About This Role
 
-This qa engineer position at AtkinsRéalis was posted on 2026-04-20.
+This qa engineer position at AtkinsRéalis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

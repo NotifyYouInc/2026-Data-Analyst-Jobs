@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medimpact](https://scoutify.ai/companies/medimpact?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Diego, California, United States |
-| Category | Data Analyst |
+| Category | QA Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Business-Operations-Technical-Analyst_JR102706-1) |
 
 ## About This Role
 
-This data analyst position at Medimpact was posted on 2026-07-25.
+This qa engineer position at Medimpact was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

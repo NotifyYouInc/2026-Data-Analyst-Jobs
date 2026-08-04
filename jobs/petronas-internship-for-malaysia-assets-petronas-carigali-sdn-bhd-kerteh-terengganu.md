@@ -1,16 +1,16 @@
-# Internship for Malaysia Assets, PETRONAS Carigali Sdn. Bhd., Kerteh, Terengganu at PETRONAS
+# Internship for Malaysia Assets, PETRONAS Carigali Sdn. Bhd., Kerteh Terengganu at PETRONAS
 
 | Field | Details |
 |-------|---------|
 | Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Terengganu, MY |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29101) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#28909) |
 
 ## About This Role
 
-This data analyst position at PETRONAS was posted on 2026-07-13.
+This data analyst position at PETRONAS was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000136746540-bi-developer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000139969329-bi-developer) |
 
 ## About This Role
 
-This data analyst position at Fastmarkets was posted on 2026-07-09.
+This data analyst position at Fastmarkets was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

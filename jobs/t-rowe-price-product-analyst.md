@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T. Rowe Price](https://scoutify.ai/companies/t-rowe-price?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Owings Mills, Maryland, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Product-Analyst_81563-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Product-Analyst_82749) |
 
 ## About This Role
 
-This business analyst position at T. Rowe Price was posted on 2026-05-14.
+This data analyst position at T. Rowe Price was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

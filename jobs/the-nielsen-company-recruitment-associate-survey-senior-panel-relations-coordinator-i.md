@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014243056-recruitment-associate-survey-senior-panel-relations-coordinator-i) |
+| Category | Data Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014309496-recruitment-associate-survey-senior-panel-relations-coordinator-i) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at The Nielsen Company was posted on 2026-07-23.
+This data analyst position at The Nielsen Company was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

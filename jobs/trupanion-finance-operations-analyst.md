@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trupanion](https://scoutify.ai/companies/trupanion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000136540119-finance-operations-analyst) |
+| Category | Accounting |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trupanion1/744000140069859-finance-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at Trupanion was posted on 2026-07-08.
+This accounting position at Trupanion was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

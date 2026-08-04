@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
-| Category | Data Analyst |
+| Category | Project Manager |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Analista-de-datos-y-gestor-de-proyectos--Ciudad-de-Mxico--Cuauhtmoc-_JR00110291) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-24.
+This project manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

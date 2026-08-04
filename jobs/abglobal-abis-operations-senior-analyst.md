@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Pune-India/ABIS-Operations-Senior-Analyst_R0018080-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Pune-India/ABIS-Operations-Senior-Analyst_R0019228-1) |
 
 ## About This Role
 
-This business analyst position at Abglobal was posted on 2026-05-07.
+This data analyst position at Abglobal was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

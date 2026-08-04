@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Omaha-NE-6750/Sr-Operations-Analyst_R17402) |
 
 ## About This Role
 
-This data analyst position at Pacific Life was posted on 2026-07-25.
+This business analyst position at Pacific Life was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

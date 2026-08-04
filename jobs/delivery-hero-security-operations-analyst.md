@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139245139-security-operations-analyst) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140166191-security-operations-analyst) |
 
 ## About This Role
 
-This soc & incident response position at Delivery Hero was posted on 2026-07-23.
+This soc & incident response position at Delivery Hero was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

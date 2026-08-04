@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beaverton, Oregon, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Analyst--Finance-Operations-Technology-Enablement_R-87815) |
 
 ## About This Role
 
-This data analyst position at Nike was posted on 2026-07-24.
+This business analyst position at Nike was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

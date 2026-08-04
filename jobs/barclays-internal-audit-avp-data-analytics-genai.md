@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Internal-Audit-AVP--Data-Analytics-GenAI_JR-0000124571) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Internal-Audit-AVP--Data-Analytics-GenAI_JR-0000124774) |
 
 ## About This Role
 
-This accounting position at Barclays was posted on 2026-07-23.
+This accounting position at Barclays was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

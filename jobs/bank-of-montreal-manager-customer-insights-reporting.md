@@ -5,12 +5,12 @@
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Customer-Insights---Reporting_R260018574) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Customer-Insights---Reporting_R260021684) |
 
 ## About This Role
 
-This data analyst position at Bank of Montreal was posted on 2026-07-03.
+This data analyst position at Bank of Montreal was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

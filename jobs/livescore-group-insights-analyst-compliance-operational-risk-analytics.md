@@ -5,12 +5,12 @@
 | Company | [LiveScore Group ](https://scoutify.ai/companies/livescore-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/livescore9/jobs/8593777002) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/livescore9/jobs/8651251002) |
 
 ## About This Role
 
-This compliance & risk management position at LiveScore Group  was posted on 2026-06-16.
+This compliance & risk management position at LiveScore Group  was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

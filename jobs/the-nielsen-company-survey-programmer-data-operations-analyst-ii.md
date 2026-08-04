@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013998005-survey-programmer-data-operations-analyst-ii) |
+| Category | Data Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014293846-survey-programmer-data-operations-analyst-ii) |
 
 ## About This Role
 
-This software engineer position at The Nielsen Company was posted on 2026-07-09.
+This data analyst position at The Nielsen Company was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

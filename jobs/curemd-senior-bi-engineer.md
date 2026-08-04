@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CureMD](https://scoutify.ai/companies/curemd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lahore, Punjab, Pakistan |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://curemd.wd1.myworkdayjobs.com/curemd/job/Lahore/Senior-BI-Engineer_JR102279) |
 
 ## About This Role
 
-This data analyst position at CureMD was posted on 2026-07-24.
+This data engineer position at CureMD was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

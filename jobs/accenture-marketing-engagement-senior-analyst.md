@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Marketing-Engagement-Senior-Analyst_AIOC-S01642487-1) |
+| Category | Marketing Operations |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Marketing-Engagement-Senior-Analyst_AIOC-S01657836-1) |
 
 ## About This Role
 
-This marketing position at Accenture was posted on 2026-04-30.
+This marketing operations position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

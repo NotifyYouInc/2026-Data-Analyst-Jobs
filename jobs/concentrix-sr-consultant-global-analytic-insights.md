@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---GBF-Tower-2-Bridgetowne/Sr-Consultant--Global-Analytic-Insights_R1746944) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Makati-City---Glorietta/Sr-Consultant--Global-Analytic-Insights_R1746942) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-07-20.
+This data analyst position at Concentrix was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

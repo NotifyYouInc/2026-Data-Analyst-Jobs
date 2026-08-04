@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Plata Card](https://scoutify.ai/companies/plata-card?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico |
-| Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.bancoplata.mx/vacancy/details?id=4549307008&gh_jid=4549307008) |
+| Category | Data Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/platacard/jobs/5372098008) |
 
 ## About This Role
 
-This business analyst position at Plata Card was posted on 2026-04-15.
+This data analyst position at Plata Card was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

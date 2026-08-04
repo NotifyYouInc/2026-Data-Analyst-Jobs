@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JustMarkets](https://scoutify.ai/companies/justmarkets?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
-| Category | Data Analyst |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4926214101) |
 
 ## About This Role
 
-This data analyst position at JustMarkets was posted on 2026-07-25.
+This fp&a / strategic finance position at JustMarkets was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

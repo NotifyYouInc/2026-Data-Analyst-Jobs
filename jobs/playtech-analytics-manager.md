@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000138322888-analytics-manager) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000139998259-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Playtech was posted on 2026-07-17.
+This data analyst position at Playtech was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

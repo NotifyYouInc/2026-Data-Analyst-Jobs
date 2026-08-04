@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139911604-kyc-operations-analyst-platform) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-07-27.
+This compliance & risk management position at WISE was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

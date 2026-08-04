@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 12 locations |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/8080784) |
 
 ## About This Role
 
-This data analyst position at DoorDash was posted on 2026-07-25.
+This operations position at DoorDash was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

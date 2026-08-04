@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malvern, Arkansas, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Junior-Investment-Data-Analyst_176893) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Junior-Investment-Data-Analyst_180519-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Vanguard was posted on 2026-04-23.
+This asset management / portfolio management position at Vanguard was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Customer-Master-Data-Analyst_R2859079) |
+| Category | Data Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Customer-Master-Data-Analyst_R2865053) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-05-22.
+This data analyst position at Sanofi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sant Cugat del Vallès, Catalonia, Spain |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Graduate-Business-Intelligence-Analyst---EMEA-Print-Category_3161225-1) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard (HP) was posted on 2026-07-27.
+This business analyst position at Hewlett Packard (HP) was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

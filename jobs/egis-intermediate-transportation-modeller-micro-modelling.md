@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ontario, CA |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000139594589-intermediate-transportation-modeller-micro-modelling) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000140063020-intermediate-transportation-modeller-micro-modelling) |
 
 ## About This Role
 
-This data analyst position at Egis was posted on 2026-07-24.
+This data analyst position at Egis was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

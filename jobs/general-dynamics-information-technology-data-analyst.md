@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Data-Analyst_RQ223053-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Analyst_RQ222444) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-06-25.
+This data analyst position at General Dynamics Information Technology was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

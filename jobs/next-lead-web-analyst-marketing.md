@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Next](https://scoutify.ai/companies/em2-cx-oj74502?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Leicester, England, United Kingdom |
-| Category | Data Analyst |
+| Category | Marketing |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://ekeq.fa.em2.oraclecloud.com/jobs/#76244) |
 
 ## About This Role
 
-This data analyst position at Next was posted on 2026-07-27.
+This marketing position at Next was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Beijing, Beijing, China |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Content-Analyst_R0120848-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Senior-Content-Analyst_R0121614-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-07-09.
+This data analyst position at LSEG was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Reporting-and-Analytics-Specialist_R000070055) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Reporting-and-Analytics-Specialist_R000072579) |
 
 ## About This Role
 
-This data analyst position at Chevron was posted on 2026-03-27.
+This data analyst position at Chevron was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

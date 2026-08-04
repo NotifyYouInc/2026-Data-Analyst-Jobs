@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAA Quebec](https://scoutify.ai/companies/caa-quebec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Sales Leadership |
+| Category | Growth Marketing |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://caaquebec.wd3.myworkdayjobs.com/carrierescaa-quebec/job/Qubec/Analyste-en-optimisation-du-taux-de-conversion--CRO-_CAA101119) |
 
 ## About This Role
 
-This sales leadership position at CAA Quebec was posted on 2026-07-24.
+This growth marketing position at CAA Quebec was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

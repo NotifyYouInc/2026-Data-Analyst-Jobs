@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Spijkenisse, South Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000133072820-proficiency-test-specialist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000140011720-proficiency-test-specialist) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-19.
+This data analyst position at SGS was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

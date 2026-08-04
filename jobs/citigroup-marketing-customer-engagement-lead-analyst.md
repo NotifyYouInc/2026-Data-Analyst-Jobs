@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Schaumburg, Illinois, United States |
-| Category | Marketing |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Schaumburg-Illinois-United-States/Marketing-Customer-Engagement-Lead-Analyst_26946860) |
+| Category | Marketing Operations |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Schaumburg-Illinois-United-States/Marketing-Customer-Engagement-Lead-Analyst_26980416) |
 
 ## About This Role
 
-This marketing position at Citigroup was posted on 2026-04-27.
+This marketing operations position at Citigroup was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

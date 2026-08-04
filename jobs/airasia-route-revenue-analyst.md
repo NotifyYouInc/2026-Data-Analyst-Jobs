@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Financial Analyst |
+| Category | Data Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Bangkok---Don-Mueang/Route-Revenue-Analyst_JR0035022) |
 
 ## About This Role
 
-This financial analyst position at Airasia was posted on 2026-07-27.
+This data analyst position at Airasia was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Analyst |
+| Category | Accounting |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/MX-DF-MEXICO-CITY-AVENIDA-ANTONIO-DOVALI-JAIME-70/Tax-Operations-Analyst_R166624) |
 
 ## About This Role
 
-This data analyst position at Baker Hughes was posted on 2026-07-24.
+This accounting position at Baker Hughes was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

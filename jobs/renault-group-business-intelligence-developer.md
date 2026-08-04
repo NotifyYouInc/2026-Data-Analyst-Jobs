@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malta |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/St-julians/Business-Intelligence-Developer_JOBREQ_50272275-1) |
 
 ## About This Role
 
-This data analyst position at Renault Group was posted on 2026-07-25.
+This data engineer position at Renault Group was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

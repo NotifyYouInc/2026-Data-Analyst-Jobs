@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Financial Crimes & AML |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Brisbane-Office---Newstead-Village/Fraud-and-Scams-Operations-Analyst_JR101398) |
+| Category | Data Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Brisbane-Office---Newstead-Village/Fraud-and-Scams-Operations-Analyst_JR101683-1) |
 
 ## About This Role
 
-This financial crimes & aml position at Boq was posted on 2026-06-01.
+This data analyst position at Boq was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

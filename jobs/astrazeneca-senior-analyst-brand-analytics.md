@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Analyst---Brand-Analytics_R-252812-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Analyst---Brand-Analytics_R-255123) |
 
 ## About This Role
 
-This data analyst position at AstraZeneca was posted on 2026-07-20.
+This data analyst position at AstraZeneca was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

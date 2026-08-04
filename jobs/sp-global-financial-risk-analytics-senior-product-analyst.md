@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Financial-Risk-Analytics---Senior-Product-Analyst_330001-1) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-07-24.
+This business analyst position at S&P Global was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

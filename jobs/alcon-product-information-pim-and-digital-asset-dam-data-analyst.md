@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Product-Information--PIM--and-Digital-Asset--DAM--Data-Analyst_R-2026-47838-1) |
 
 ## About This Role
 
-This data analyst position at Alcon was posted on 2026-07-27.
+This asset management / portfolio management position at Alcon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

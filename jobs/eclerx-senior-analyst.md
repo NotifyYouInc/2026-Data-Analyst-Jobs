@@ -1,16 +1,16 @@
-# SENIOR ANALYST at eClerx
+# Senior Analyst at eClerx
 
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Chandigarh, Chandigarh, India |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83826) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83376) |
 
 ## About This Role
 
-This data analyst position at eClerx was posted on 2026-07-10.
+This data analyst position at eClerx was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
