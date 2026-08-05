@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tampa-FL/Operations-Research-Analyst--Senior_R0236667-1) |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tampa-FL/Operations-Research-Analyst--Senior_R0245457) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-03-24.
+This data scientist position at Booz Allen was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

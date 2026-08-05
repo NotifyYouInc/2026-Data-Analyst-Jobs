@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | China |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/China/AD-Commercial-Analytics---Insights_R-257229-1) |
 
 ## About This Role
 
-This data analyst position at AstraZeneca was posted on 2026-07-28.
+This data scientist position at AstraZeneca was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

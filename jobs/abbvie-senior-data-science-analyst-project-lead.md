@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
-| Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013223556-senior-data-science-analyst-project-lead) |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014310546-senior-data-science-analyst-project-lead) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-05-20.
+This data scientist position at AbbVie was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

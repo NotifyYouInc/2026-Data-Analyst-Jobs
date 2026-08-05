@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Analyst--Data-Science-and-Analytics_19040969) |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Analyst--Data-Science-and-Analytics_19041381) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-06-12.
+This data scientist position at TransUnion was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

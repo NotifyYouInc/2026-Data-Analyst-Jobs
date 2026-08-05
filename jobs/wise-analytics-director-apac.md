@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Leadership Development Program |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133279749-analytics-director-apac) |
+| Category | Data Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140382109-analytics-director-apac) |
 
 ## About This Role
 
-This leadership development program position at WISE was posted on 2026-06-22.
+This data analyst position at WISE was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Almaty, Almaty, Kazakhstan |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131849320-customer-success-analyst) |
+| Location | Pasig City, National Capital Region, Philippines |
+| Category | Data Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140252289-customer-success-analyst) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-06-12.
+This data analyst position at NielsenIQ was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

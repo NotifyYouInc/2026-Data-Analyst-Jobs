@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Digital Virgo](https://scoutify.ai/companies/digital-virgo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Casablanca, Casablanca-Settat, Morocco |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/digitalvirgo/744000121369152-business-marketing-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/digitalvirgo/744000140256054-business-marketing-analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Digital Virgo was posted on 2026-04-17.
+This business analyst position at Digital Virgo was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

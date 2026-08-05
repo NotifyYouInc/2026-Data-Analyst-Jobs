@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Treasury-Sales-Analyst_R0116935) |
+| Location | West Palm Beach, Florida, United States |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Ft-Lauderdale-FL/Treasury-Sales-Analyst_R0117164) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-07-17.
+This treasury & capital markets position at Truist was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

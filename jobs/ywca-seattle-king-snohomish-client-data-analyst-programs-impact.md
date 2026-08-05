@@ -1,0 +1,22 @@
+# Client Data Analyst – Programs & Impact at YWCA Seattle King Snohomish
+
+| Field | Details |
+|-------|---------|
+| Company | [YWCA Seattle King Snohomish](https://scoutify.ai/companies/ywca-seattle-king-snohomish?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Seattle, Washington, United States |
+| Category | Data Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.lever.co/ywcaworks/bc040e15-0596-47fc-97a0-9eedae1936b6) |
+
+## About This Role
+
+This data analyst position at YWCA Seattle King Snohomish was posted on 2026-07-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

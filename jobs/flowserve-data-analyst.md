@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Debrecen, Hajdú-Bihar, Hungary |
+| Location | Mexico |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Debrecen-Hungary/Data-Analyst_R-19505) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/MX_Mexico_WFH/Data-Analyst_R-20362) |
 
 ## About This Role
 
-This data analyst position at Flowserve was posted on 2026-05-29.
+This data analyst position at Flowserve was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

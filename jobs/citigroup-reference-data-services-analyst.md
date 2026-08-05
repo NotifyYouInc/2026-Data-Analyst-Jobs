@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
+| Location | Argentina |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Reference-Data-Services-Analyst_26980576) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Martinez--Argentina/Reference-Data-Services-Analyst_26982916-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-22.
+This data analyst position at Citigroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

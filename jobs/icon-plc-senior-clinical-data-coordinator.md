@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Poland-Warsaw/Senior-Clinical-Data-Coordinator_JR150898) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Argentina-Buenos-Aires/Senior-Clinical-Data-Coordinator_JR156314) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-06-17.
+This data analyst position at ICON plc was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

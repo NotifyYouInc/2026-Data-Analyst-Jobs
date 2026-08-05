@@ -1,0 +1,22 @@
+# BI Specialist - Digital Commercial (10 months temporary contract) at H&M Group
+
+| Field | Details |
+|-------|---------|
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
+| Category | Data Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000140411471-bi-specialist-digital-commercial-10-months-temporary-contract) |
+
+## About This Role
+
+This data analyst position at H&M Group was posted on 2026-07-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -5,12 +5,12 @@
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Associate--Services-Business-Intelligence_R031218-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Associate--Services-Business-Intelligence_R031400) |
 
 ## About This Role
 
-This data analyst position at Ciena was posted on 2026-07-06.
+This data analyst position at Ciena was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

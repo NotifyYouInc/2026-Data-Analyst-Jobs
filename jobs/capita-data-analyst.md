@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capita](https://scoutify.ai/companies/capita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/Home-Based---GBR/Data-Analyst_10120537-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://capita.wd3.myworkdayjobs.com/capitaglobal/job/London/Data-Analyst_10120686-1) |
 
 ## About This Role
 
-This data analyst position at Capita was posted on 2026-07-15.
+This data analyst position at Capita was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

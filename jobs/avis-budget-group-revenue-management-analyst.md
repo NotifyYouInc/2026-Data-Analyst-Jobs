@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avis Budget Group](https://scoutify.ai/companies/avisbudget?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | Bracknell, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Revenue-Management-Analyst_R0188983) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Revenue-Management-Analyst_R0189888-1) |
 
 ## About This Role
 
-This data analyst position at Avis Budget Group was posted on 2026-07-14.
+This data analyst position at Avis Budget Group was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

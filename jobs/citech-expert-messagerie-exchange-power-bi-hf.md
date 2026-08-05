@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000139964524-expert-messagerie-exchange-power-bi-hf) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000140394949-expert-messagerie-exchange-power-bi-hf) |
 
 ## About This Role
 
-This it & systems administration position at CITECH was posted on 2026-07-27.
+This it & systems administration position at CITECH was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

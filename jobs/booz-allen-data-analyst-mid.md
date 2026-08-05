@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Data-Analyst--Mid_R0245026) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0245563-1) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-07-22.
+This data analyst position at Booz Allen was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8471219002?gh_jid=8471219002) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://sumup.com/careers/positions/8653381002?gh_jid=8653381002) |
 
 ## About This Role
 
-This data analyst position at SumUp Payments was posted on 2026-03-20.
+This data analyst position at SumUp Payments was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

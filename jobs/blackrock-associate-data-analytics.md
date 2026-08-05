@@ -1,16 +1,16 @@
-# Associate, Data Analytics at Blackrock
+# Associate , Data Analytics at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate--Data-Analytics_R263881) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Associate---Data-Analytics_R263878) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-05-06.
+This data analyst position at Blackrock was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

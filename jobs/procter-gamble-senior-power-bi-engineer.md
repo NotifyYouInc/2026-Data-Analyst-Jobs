@@ -5,12 +5,12 @@
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Data Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Warsaw/Senior-Power-BI-Engineer_R000146647) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Warsaw/Senior-Power-BI-Engineer_R000154300) |
 
 ## About This Role
 
-This data engineer position at Procter & Gamble was posted on 2026-06-10.
+This data engineer position at Procter & Gamble was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

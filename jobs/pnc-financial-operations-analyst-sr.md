@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Operations-Analyst-Sr_R215701-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44135/Operations-Analyst-Sr_R230376-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-01.
+This business analyst position at PNC Financial was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

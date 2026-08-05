@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Account Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/GA---Atlanta/Inside-Sales-Account-Rep-Analyst---Agency-AM_R00313967) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-3565-Piedmont-Rd-NE-ACN-Ops/Advertising-Sales-Rep-Analyst---Agency-Account-Manager_R00347525) |
 
 ## About This Role
 
-This account manager position at Accenture was posted on 2026-04-28.
+This account manager position at Accenture was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

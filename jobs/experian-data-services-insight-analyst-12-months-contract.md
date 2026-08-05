@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139568580-data-services-insight-analyst-12-months-contract) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140382155-data-services-insight-analyst-12-months-contract) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-07-24.
+This data analyst position at Experian was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

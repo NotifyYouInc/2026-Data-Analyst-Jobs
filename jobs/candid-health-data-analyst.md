@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Candid Health](https://scoutify.ai/companies/candidhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Candid Health](https://scoutify.ai/companies/candid-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/candidhealth/88570d36-be12-4ab2-b25a-0e012dc669eb) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/candid-health/jobs/gBUkjM1-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Candid Health was posted on 2026-07-22.
+This data analyst position at Candid Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Botucatu, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000139986647-analista-de-inteligencia) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000140240849-analista-de-inteligencia) |
 
 ## About This Role
 
-This data analyst position at QIMA was posted on 2026-07-27.
+This data analyst position at QIMA was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

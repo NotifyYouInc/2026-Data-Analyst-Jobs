@@ -5,12 +5,12 @@
 | Company | [Gong.io](https://scoutify.ai/companies/gongio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4660218006) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4697159006) |
 
 ## About This Role
 
-This data analyst position at Gong.io was posted on 2026-06-04.
+This data analyst position at Gong.io was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

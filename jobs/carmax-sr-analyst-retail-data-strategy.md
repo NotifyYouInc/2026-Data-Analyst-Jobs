@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Retail-Data-Strategy_JR-178481) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Retail-Data-Strategy_JR-182641) |
 
 ## About This Role
 
-This data engineer position at CarMax was posted on 2026-05-27.
+This strategy & operations position at CarMax was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

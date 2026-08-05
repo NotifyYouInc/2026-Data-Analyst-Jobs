@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000139309636-junior-hr-analytics-manager-equity-compensation-all-genders) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000140385569-junior-hr-analytics-manager-equity-compensation-all-genders) |
 
 ## About This Role
 
-This data analyst position at About You was posted on 2026-07-23.
+This human resources / people ops position at About You was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

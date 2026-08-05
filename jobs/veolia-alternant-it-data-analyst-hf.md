@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138056649-alternant-it-data-analyst-hf) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140254509-alternant-it-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-07-16.
+This data analyst position at Veolia was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

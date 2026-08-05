@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Nottingham, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst_R247244-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Senior-Data-Analyst_R242627-2) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-07-22.
+This data analyst position at Capital One was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
