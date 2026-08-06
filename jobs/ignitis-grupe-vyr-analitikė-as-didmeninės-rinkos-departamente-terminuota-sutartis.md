@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000139306836-vyr-analitike-as-didmenines-rinkos-departamente-terminuota-sutartis) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140612599-vyr-analitike-as-didmenines-rinkos-departamente-terminuota-sutartis) |
 
 ## About This Role
 
-This data analyst position at Ignitis Grupe was posted on 2026-07-23.
+This data analyst position at Ignitis Grupe was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

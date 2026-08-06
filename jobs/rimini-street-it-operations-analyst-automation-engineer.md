@@ -5,12 +5,12 @@
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/IT-Operations-Analyst---Automation-Engineer_R-102047-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/IT-Operations-Analyst---Automation-Engineer_R-102046-1) |
 
 ## About This Role
 
-This industrial automation position at Rimini Street was posted on 2026-02-23.
+This industrial automation position at Rimini Street was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

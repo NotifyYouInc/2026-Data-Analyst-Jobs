@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Financial Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/South-Africa-Johannesburg/Clinical-Data-Risk-Analyst_JR156008) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Clinical-Data-Risk-Analyst_JR156768) |
 
 ## About This Role
 
-This financial analyst position at ICON plc was posted on 2026-07-22.
+This compliance & risk management position at ICON plc was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

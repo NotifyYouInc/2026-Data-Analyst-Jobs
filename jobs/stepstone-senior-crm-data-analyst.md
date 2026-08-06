@@ -5,12 +5,12 @@
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000139027884-senior-crm-data-analyst) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000140626919-senior-crm-data-analyst) |
 
 ## About This Role
 
-This data analyst position at StepStone was posted on 2026-07-22.
+This data analyst position at StepStone was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
 | Category | Product Marketing |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000140061859-market-research-analyst) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000140492129-market-research-analyst) |
 
 ## About This Role
 
-This product marketing position at Blend360 was posted on 2026-07-27.
+This product marketing position at Blend360 was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

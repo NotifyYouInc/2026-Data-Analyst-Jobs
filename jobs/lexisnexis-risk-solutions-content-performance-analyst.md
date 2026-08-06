@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ohio, US |
+| Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Ohio/Content-Performance-Analyst_R112058) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-Based---Poland/Content-Performance-Analyst_R116207) |
 
 ## About This Role
 
-This data analyst position at LexisNexis Risk Solutions was posted on 2026-04-20.
+This data analyst position at LexisNexis Risk Solutions was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

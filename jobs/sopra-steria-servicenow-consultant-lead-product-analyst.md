@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122636805-servicenow-consultant-lead-product-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140604810-servicenow-consultant-lead-product-analyst) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-04-24.
+This data analyst position at Sopra Steria was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

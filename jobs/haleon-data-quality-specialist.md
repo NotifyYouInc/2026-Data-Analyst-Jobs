@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Data-Quality-Specialist_545384) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Data-Quality-Specialist_545839) |
 
 ## About This Role
 
-This data analyst position at Haleon was posted on 2026-07-03.
+This data analyst position at Haleon was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

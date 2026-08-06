@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Singapore, Singapore |
 | Category | Operations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/569ba29b-de35-4bce-a16c-e27cb9b683ea) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/6c246883-6335-413e-9183-ece94780590c) |
 
 ## About This Role
 
-This operations position at Sierra was posted on 2026-03-11.
+This operations position at Sierra was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

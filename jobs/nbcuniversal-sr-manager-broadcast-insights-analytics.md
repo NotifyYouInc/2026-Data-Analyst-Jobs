@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000133624033-sr-manager-broadcast-insights-analytics) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000140467449-sr-manager-broadcast-insights-analytics) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-06-23.
+This data analyst position at NBCUniversal was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Saint Louis, Michigan, United States |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Spatial-Data-Manager_R326839) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Spatial-Data-Manager_R328986) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-07-07.
+This data analyst position at Cushman & Wakefield was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

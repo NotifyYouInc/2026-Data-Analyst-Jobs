@@ -5,12 +5,12 @@
 | Company | [Transat](https://scoutify.ai/companies/transat?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000133617255-analyst-business-intelligence) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000140541679-analyst-business-intelligence) |
 
 ## About This Role
 
-This data analyst position at Transat was posted on 2026-06-23.
+This data analyst position at Transat was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

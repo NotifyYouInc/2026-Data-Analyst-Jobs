@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Springfield, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Springfield/Data-Analyst---GEOINT-Technical-SME_R181248) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Springfield/Data-Analyst---GEOINT-Technical-SME_R183791-1) |
 
 ## About This Role
 
-This data analyst position at Parsons was posted on 2026-05-22.
+This data analyst position at Parsons was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

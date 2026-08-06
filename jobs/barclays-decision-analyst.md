@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/XMLNAME--Decision-Analyst_JR-0000125217-3) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/XMLNAME--Decision-Analyst_JR-0000125218-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-07-28.
+This data analyst position at Barclays was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

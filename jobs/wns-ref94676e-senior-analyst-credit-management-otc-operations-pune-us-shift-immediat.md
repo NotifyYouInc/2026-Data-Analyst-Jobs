@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126499058-ref94676e-senior-analyst-credit-management-otc-operations-pune-us-shift-immediate-joiners-pref) |
+| Category | Data Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000140491795-ref94676e-senior-analyst-credit-management-otc-operations-pune-us-shift-immediate-joiners-pref) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-05-14.
+This data analyst position at WNS was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Augsburg University](https://scoutify.ai/companies/augsburg-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/augsburguniversity-minneapolismn/744000138932267-gift-and-data-integrity-senior-specialist) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/augsburguniversity-minneapolismn/744000140511779-gift-and-data-integrity-senior-specialist) |
 
 ## About This Role
 
-This data analyst position at Augsburg University was posted on 2026-07-21.
+This data analyst position at Augsburg University was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

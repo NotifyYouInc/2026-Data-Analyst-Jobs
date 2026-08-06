@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santa Fe, Jalisco, Mexico |
-| Category | Data Analyst |
+| Category | Customer Success |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Santa-F-Mexico/Analyst--Customer-Collaboration--CLD-_R-173545-1) |
 
 ## About This Role
 
-This data analyst position at Mondelez International was posted on 2026-07-29.
+This customer success position at Mondelez International was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Troy5151-Corporate-Drive112300/Marketing-Analytics-Lead_19978) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Marketing-Analytics-Lead_20833) |
 
 ## About This Role
 
-This data analyst position at Flagstar was posted on 2026-05-29.
+This data analyst position at Flagstar was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

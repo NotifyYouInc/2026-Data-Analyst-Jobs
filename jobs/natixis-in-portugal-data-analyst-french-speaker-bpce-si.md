@@ -1,16 +1,16 @@
-# Data Analyst (French Speaker) | BPCE SI at natixis-in-portugal
+# Data Analyst (French Speaker) | BPCE-SI at natixis-in-portugal
 
 | Field | Details |
 |-------|---------|
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Portugal |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000113195287-data-analyst-french-speaker-bpce-si) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000140438639-data-analyst-french-speaker-bpce-si) |
 
 ## About This Role
 
-This data analyst position at natixis-in-portugal was posted on 2026-03-06.
+This data analyst position at natixis-in-portugal was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

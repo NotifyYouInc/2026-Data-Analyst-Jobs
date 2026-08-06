@@ -5,12 +5,12 @@
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Human-Resources-Data-Analyst_R-0260003) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Sioux-Falls/Human-Resources-Data-Analyst_R-0269567-1) |
 
 ## About This Role
 
-This human resources / people ops position at Sanford Health was posted on 2026-05-07.
+This human resources / people ops position at Sanford Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

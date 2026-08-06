@@ -1,16 +1,16 @@
-# Sr Data Analyst at Gartner
+# Sr Data Analyst  at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Data-Analyst_111807) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Data-Analyst-_112638) |
 
 ## About This Role
 
-This data analyst position at Gartner was posted on 2026-07-08.
+This data analyst position at Gartner was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

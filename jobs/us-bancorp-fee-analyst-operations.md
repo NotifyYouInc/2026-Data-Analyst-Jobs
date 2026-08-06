@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Fee-Analyst---Operations_2026-0014635) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Fee-Analyst---Operations_2026-0022146) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bancorp was posted on 2026-06-02.
+This data analyst position at U.S. Bancorp was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

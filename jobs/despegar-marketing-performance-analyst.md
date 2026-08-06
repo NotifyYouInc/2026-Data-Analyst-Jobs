@@ -5,12 +5,12 @@
 | Company | [Despegar](https://scoutify.ai/companies/despegar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/despegar/65fd07c5-2f30-4021-a260-56418a25eab8) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.lever.co/despegar/a14a0c7d-65ba-41a8-bb58-e6cbbf09c234) |
 
 ## About This Role
 
-This data analyst position at Despegar was posted on 2026-04-20.
+This data analyst position at Despegar was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

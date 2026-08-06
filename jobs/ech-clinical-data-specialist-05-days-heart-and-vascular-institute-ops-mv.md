@@ -5,12 +5,12 @@
 | Company | [Ech](https://scoutify.ai/companies/ech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ech.wd5.myworkdayjobs.com/ech/job/Mountain-View-CA/Clinical-Data-Specialist---05---Days---Heart-and-Vascular-Institute-OPS---MV_R00017439) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ech.wd5.myworkdayjobs.com/ech/job/Mountain-View-CA/Clinical-Data-Specialist---05---Days---Heart-and-Vascular-Institute-OPS---MV_R00017555) |
 
 ## About This Role
 
-This data analyst position at Ech was posted on 2026-07-21.
+This data analyst position at Ech was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

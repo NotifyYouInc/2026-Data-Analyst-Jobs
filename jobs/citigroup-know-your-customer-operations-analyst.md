@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Know-Your-Customer-Operations-Analyst_26955294) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Data Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Know-Your-Customer-Operations-Analyst_26966284) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-04-14.
+This data analyst position at Citigroup was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

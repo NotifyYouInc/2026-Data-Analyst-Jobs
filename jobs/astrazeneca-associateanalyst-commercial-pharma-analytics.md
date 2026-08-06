@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Associate-Analyst---Commercial-Pharma-Analytics_R-255022-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Associate-Analyst---Commercial-Pharma-Analytics_R-255023) |
 
 ## About This Role
 
-This data analyst position at AstraZeneca was posted on 2026-06-23.
+This data analyst position at AstraZeneca was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

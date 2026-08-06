@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collective Health](https://scoutify.ai/companies/collective-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.collectivehealth.com/apply/?gh_jid=7689606) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.collectivehealth.com/apply/?gh_jid=8065575) |
 
 ## About This Role
 
-This data analyst position at Collective Health was posted on 2026-04-14.
+This data analyst position at Collective Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

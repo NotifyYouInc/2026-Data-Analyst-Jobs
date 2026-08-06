@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000131940870-data-validator-junior-rbs) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000140543249-data-validator-junior-rbs) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-06-12.
+This data analyst position at SGS was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

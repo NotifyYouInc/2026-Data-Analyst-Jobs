@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Recup-Credito-II_Req1554096-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Recup-Credito-II_Req1586595) |
 
 ## About This Role
 
-This data analyst position at Santander was posted on 2026-03-24.
+This data analyst position at Santander was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

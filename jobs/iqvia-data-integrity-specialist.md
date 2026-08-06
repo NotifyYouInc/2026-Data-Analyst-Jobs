@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
-| Category | Trust & Safety |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Taguig-City-Philippines/Data-Integrity-Specialist_R1535255) |
+| Category | Data Analyst |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Taguig-City-Philippines/Data-Integrity-Specialist_R1532198) |
 
 ## About This Role
 
-This trust & safety position at IQVIA was posted on 2026-05-07.
+This data analyst position at IQVIA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

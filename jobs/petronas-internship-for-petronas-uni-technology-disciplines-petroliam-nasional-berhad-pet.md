@@ -5,12 +5,12 @@
 | Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bangi, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29344) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29427) |
 
 ## About This Role
 
-This data analyst position at PETRONAS was posted on 2026-07-28.
+This data analyst position at PETRONAS was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

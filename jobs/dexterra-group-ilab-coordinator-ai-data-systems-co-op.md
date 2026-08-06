@@ -5,12 +5,12 @@
 | Company | [Dexterra Group](https://scoutify.ai/companies/dexterragroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dexterra/744000131745164-ilab-coordinator-ai-data-systems-co-op) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dexterra/744000140536634-ilab-coordinator-ai-data-systems-co-op) |
 
 ## About This Role
 
-This data analyst position at Dexterra Group was posted on 2026-06-11.
+This data analyst position at Dexterra Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

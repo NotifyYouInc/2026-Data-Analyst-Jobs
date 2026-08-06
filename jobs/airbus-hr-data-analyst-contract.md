@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-VA/HR-Data-Analyst--Contract-_JR10401168) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-VA/HR-Data-Analyst--Contract-_JR10432619) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-03-24.
+This data analyst position at Airbus was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Fraud Sr. Analyst at Delivery Hero
+# Fraud Sr Analyst at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126327299-fraud-sr-analyst) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140451267-fraud-sr-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-05-13.
+This data analyst position at Delivery Hero was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

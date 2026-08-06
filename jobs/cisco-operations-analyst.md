@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seoul-Republic-of-Korea/Operations-Analyst_2016647-1) |
+| Location | Minato, Wakayama, Japan |
+| Category | Business Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Operations-Analyst_2018423) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-07-24.
+This business analyst position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

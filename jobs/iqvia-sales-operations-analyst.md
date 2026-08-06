@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Taguig-City-Philippines/Sales-Operations-Analyst_R1535955) |
+| Category | Operations |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Taguig-City-Philippines/Sales-Operations-Analyst_R1548201) |
 
 ## About This Role
 
-This revenue / sales operations position at IQVIA was posted on 2026-04-22.
+This operations position at IQVIA was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

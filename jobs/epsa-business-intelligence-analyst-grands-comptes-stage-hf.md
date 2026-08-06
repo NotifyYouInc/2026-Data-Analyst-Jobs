@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EPSA](https://scoutify.ai/companies/epsa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000139548745-business-intelligence-analyst-grands-comptes-stage-hf) |
+| Category | Business Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSA/744000140460169-business-intelligence-analyst-grands-comptes-stage-hf) |
 
 ## About This Role
 
-This data analyst position at EPSA was posted on 2026-07-24.
+This business analyst position at EPSA was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

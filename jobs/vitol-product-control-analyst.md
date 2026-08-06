@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vitol](https://scoutify.ai/companies/vitol?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/vitol/744000140397799-product-control-analyst) |
 
 ## About This Role
 
-This corporate finance position at Vitol was posted on 2026-07-29.
+This data analyst position at Vitol was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

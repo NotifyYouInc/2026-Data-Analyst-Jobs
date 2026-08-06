@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | San Jose, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7667248888101685509/detail) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7667613782697232693/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-07-28.
+This business analyst position at TikTok was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
