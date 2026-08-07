@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Durban, KwaZulu-Natal, South Africa |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133387745-realtime-analyst) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000140672258-realtime-analyst) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-06-22.
+This data analyst position at WNS was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

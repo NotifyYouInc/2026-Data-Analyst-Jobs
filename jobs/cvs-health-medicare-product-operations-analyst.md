@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hartford, Connecticut, United States |
-| Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicare-Product-Operations-Analyst_R0895809-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicare-Product-Operations-Analyst_R0971728) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-05-06.
+This business analyst position at CVS Health was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

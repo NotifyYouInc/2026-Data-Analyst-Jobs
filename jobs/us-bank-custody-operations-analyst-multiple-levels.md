@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Saint Paul, Minnesota, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Custody-Operations-Analyst--multiple-levels-_2026-0012080-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Custody-Operations-Analyst--multiple-levels-_2026-0022692) |
 
 ## About This Role
 
-This business analyst position at U.S. Bank was posted on 2026-05-07.
+This business analyst position at U.S. Bank was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

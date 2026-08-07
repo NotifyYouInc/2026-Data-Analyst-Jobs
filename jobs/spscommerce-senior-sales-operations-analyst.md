@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | United States |
 | Category | Operations |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/US-MN-Minneapolis-Office/Senior-Sales-Operations-Analyst_R-000679) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/United-States-Remote/Senior-Sales-Operations-Analyst_R-001079) |
 
 ## About This Role
 
-This operations position at Spscommerce was posted on 2026-04-17.
+This operations position at Spscommerce was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

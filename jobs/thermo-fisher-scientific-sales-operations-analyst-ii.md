@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Sales-Operations-Analyst-II_R-01361795-1) |
+| Location | Hsinchu, Taiwan, Taiwan |
+| Category | Operations |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hsinchu-Taiwan/Sales-Operations-Analyst-II_R-01362229) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-07-23.
+This operations position at Thermo Fisher Scientific was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seattle, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8063943?gh_jid=8063943) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8095493?gh_jid=8095493) |
 
 ## About This Role
 
-This data analyst position at Coupang Internal was posted on 2026-07-15.
+This data analyst position at Coupang Internal was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

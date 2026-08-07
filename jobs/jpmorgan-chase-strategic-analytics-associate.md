@@ -1,16 +1,16 @@
-# Strategic Analytics - Associate at JPMorgan Chase
+# Strategic Analytics Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | Strategy & Operations |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741705) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774037) |
 
 ## About This Role
 
-This strategy & operations position at JPMorgan Chase was posted on 2026-04-30.
+This strategy & operations position at JPMorgan Chase was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

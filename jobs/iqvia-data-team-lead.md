@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Data-Team-Lead_R1556717) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bloemfontein-South-Africa/Data-Team-Lead_R1560914) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-07-24.
+This data analyst position at IQVIA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

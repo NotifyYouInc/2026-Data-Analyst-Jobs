@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Lviv, Lviv, Ukraine |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000113188732-senior-data-analyst) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000140721492-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Sigma Software was posted on 2026-03-06.
+This data analyst position at Sigma Software was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

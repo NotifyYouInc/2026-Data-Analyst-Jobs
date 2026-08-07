@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Seattle, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8063942) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8095492) |
 
 ## About This Role
 
-This data analyst position at Coupang was posted on 2026-07-15.
+This data analyst position at Coupang was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

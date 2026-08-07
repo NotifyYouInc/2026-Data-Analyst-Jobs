@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint Paul, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Business-Technology-Analyst---Operations_2026-0012731) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Business-Technology-Analyst---Operations_2026-0021896) |
 
 ## About This Role
 
-This business analyst position at U.S. Bank was posted on 2026-06-01.
+This business analyst position at U.S. Bank was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

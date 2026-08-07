@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Digital-Operations-Support-Analyst_R0000376661) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Business Analyst |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Sao-Paulo-So-Paulo/Digital-Operations-Support-Analyst_R0000385313) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-07-13.
+This business analyst position at Caterpillar was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

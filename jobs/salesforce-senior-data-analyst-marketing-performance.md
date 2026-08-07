@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Analyst--Marketing-Performance_JR318859) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Data-Analyst--Marketing-Performance_JR354334) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-02-24.
+This data analyst position at Salesforce was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

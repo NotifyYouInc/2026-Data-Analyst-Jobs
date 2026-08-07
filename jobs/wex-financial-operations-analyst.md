@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/London-UK/Financial-Operations-Analyst_R21618) |
+| Category | Data Analyst |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/London-UK/Financial-Operations-Analyst_R22312) |
 
 ## About This Role
 
-This corporate finance position at Wex was posted on 2026-04-27.
+This data analyst position at Wex was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

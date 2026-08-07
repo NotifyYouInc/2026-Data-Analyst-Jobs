@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/FINANCIAL-DATA-ANALYST-I--Temporal-_JR00106112) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/FINANCIAL-DATA-ANALYST-I--Temporal-_JR00110933-1) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-05.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

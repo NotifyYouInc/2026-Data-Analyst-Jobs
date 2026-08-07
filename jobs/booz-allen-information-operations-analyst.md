@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Information-Operations-Analyst_R0244271) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Information-Operations-Analyst_R0245739-1) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-07-13.
+This cybersecurity engineer position at Booz Allen was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

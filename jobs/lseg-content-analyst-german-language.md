@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Content-Analyst---German-Language_R0116524-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Content-Analyst---German-Language_R0120306-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-02-27.
+This data analyst position at LSEG was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

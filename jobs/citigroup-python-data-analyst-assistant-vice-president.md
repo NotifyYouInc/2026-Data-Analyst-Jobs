@@ -1,16 +1,16 @@
-# Python Data Analyst- Assistant Vice President at Citigroup
+# Python Data Analyst, Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jacksonville, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Python-Data-Analyst--Assistant-Vice-President_26948500) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Python-Data-Analyst--Assistant-Vice-President_26947976) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-21.
+This data analyst position at Citigroup was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

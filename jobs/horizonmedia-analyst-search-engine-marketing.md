@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Horizonmedia](https://scoutify.ai/companies/horizonmedia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Marketing |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/Los-Angeles-California/Analyst--Search-Engine-Marketing_R0017327) |
+| Location | New York City, New York, United States |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Analyst--Search-Engine-Marketing_R0017376) |
 
 ## About This Role
 
-This marketing position at Horizonmedia was posted on 2026-07-28.
+This digital / performance marketing position at Horizonmedia was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

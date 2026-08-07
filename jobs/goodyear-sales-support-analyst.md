@@ -5,12 +5,12 @@
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/Sales-Support-Analyst_JR-40108202) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/Sales-Support-Analyst_JR-40108417) |
 
 ## About This Role
 
-This business analyst position at Goodyear was posted on 2026-06-16.
+This business analyst position at Goodyear was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

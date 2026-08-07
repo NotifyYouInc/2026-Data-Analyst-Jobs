@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Data-Analyst--AVP_R-00278224) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Analyst--AVP_R-00282651) |
 
 ## About This Role
 
-This data analyst position at NatWest Group was posted on 2026-05-12.
+This data analyst position at NatWest Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

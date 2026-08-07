@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10487996/digital-associate-ring-data-engineering-services) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10488031/digital-associate-ring-data-engineering-services) |
 
 ## About This Role
 

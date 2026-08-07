@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Maple Grove, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Maple-Grove/Associate-Clinical-Data-Manager_31156521-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Maple-Grove/Associate-Clinical-Data-Manager_31157712-1) |
 
 ## About This Role
 
-This data analyst position at Abbott was posted on 2026-07-20.
+This data analyst position at Abbott was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
