@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florence, Alabama, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Inventory-Analyst-I_J2455306) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Inventory-Analyst-I_J2459603) |
 
 ## About This Role
 
-This data analyst position at Jabil was posted on 2026-07-29.
+This data analyst position at Jabil was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

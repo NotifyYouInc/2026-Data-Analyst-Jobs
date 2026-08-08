@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mexico-City-Mexico-Mexico/Becario-de-Ingeniera-de-Cadena-de-Valor_JR-202603118) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mexico-City-Mexico-Mexico/Becario-de-Ingeniera-de-Cadena-de-Valor_JR-202615528) |
 
 ## About This Role
 
-This data analyst position at General Motors was posted on 2026-02-18.
+This data analyst position at General Motors was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

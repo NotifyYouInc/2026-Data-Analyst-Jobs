@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst---Customer-Support_R0121359-1) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst---Customer-Support_R0121150-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-07-13.
+This customer success position at LSEG was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

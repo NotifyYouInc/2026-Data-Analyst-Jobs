@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Advanced-Analytics-Analyst_R69534-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Advanced-Analytics-Analyst_R72782) |
 
 ## About This Role
 
-This data analyst position at Medtronic was posted on 2026-07-29.
+This data analyst position at Medtronic was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Portugal |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000134456889-reporting-analytics-application-specialist) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000140904865-reporting-analytics-application-specialist) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-06-26.
+This data analyst position at Continental was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

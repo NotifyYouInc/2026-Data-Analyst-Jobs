@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Strategy & Operations |
+| Category | Business Analyst |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200662375/senior-business-operations-analyst-enterprise-technology-services) |
 
 ## About This Role
 
-This strategy & operations position at Apple was posted on 2026-07-30.
+This business analyst position at Apple was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475) |
+| Location | Toronto, Ontario, Canada |
+| Category | Data Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653) |
 
 ## About This Role
 
-This business analyst position at Samsara was posted on 2026-06-11.
+This data analyst position at Samsara was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

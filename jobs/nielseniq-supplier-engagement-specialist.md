@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113999817-supplier-engagement-specialist) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140909809-supplier-engagement-specialist) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-11.
+This data analyst position at NielsenIQ was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Strong-Memorial-Hospital/Data-Analyst-II_R269987) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Saunders-Research-Building/Data-Analyst-II_R273458) |
 
 ## About This Role
 
-This data analyst position at University of Rochester was posted on 2026-04-02.
+This data analyst position at University of Rochester was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

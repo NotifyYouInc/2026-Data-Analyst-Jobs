@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137119230-werkstudent-data-engineer-analyst-mwd) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140928709-werkstudent-data-engineer-analyst-mwd) |
 
 ## About This Role
 
-This data engineer position at Sopra Steria was posted on 2026-07-10.
+This data engineer position at Sopra Steria was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | 11 locations |
 | Category | Operations |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Sales-Operations-Analyst_R0057851-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Riverwoods-IL/Sales-Operations-Analyst_R0058815) |
 
 ## About This Role
 
-This operations position at Wolters Kluwer was posted on 2026-06-01.
+This operations position at Wolters Kluwer was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

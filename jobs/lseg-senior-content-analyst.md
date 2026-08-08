@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Senior-Content-Analyst_R0121614-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Content-Analyst_R0120950-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-07-28.
+This data analyst position at LSEG was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

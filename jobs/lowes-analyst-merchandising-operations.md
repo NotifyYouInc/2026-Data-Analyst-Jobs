@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mooresville, North Carolina, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Analyst-Merchandising-Operations_JR-02572111) |
+| Category | Business Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Analyst-Merchandising-Operations_JR-02599174) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-07-09.
+This business analyst position at Lowe's was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

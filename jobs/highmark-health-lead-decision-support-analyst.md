@@ -5,12 +5,12 @@
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arkansas, US |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Lead-Decision-Support-Analyst_J283458) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Lead-Decision-Support-Analyst_J285224-1) |
 
 ## About This Role
 
-This data analyst position at Highmark Health was posted on 2026-07-02.
+This data analyst position at Highmark Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

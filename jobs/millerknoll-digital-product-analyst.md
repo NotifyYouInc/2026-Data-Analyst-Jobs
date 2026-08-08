@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MillerKnoll](https://scoutify.ai/companies/millerknoll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Digital-Product-Analyst_JR109339-1) |
+| Location | Michigan, US |
+| Category | Business Analyst |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland/Digital-Product-Analyst_JR109472-1) |
 
 ## About This Role
 
-This data analyst position at MillerKnoll was posted on 2026-07-13.
+This business analyst position at MillerKnoll was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

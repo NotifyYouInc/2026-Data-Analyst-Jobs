@@ -5,12 +5,12 @@
 | Company | [Averna](https://scoutify.ai/companies/averna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000139683666-analyste-de-donnees-ia) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000141001029-analyste-de-donnees-ia) |
 
 ## About This Role
 
-This data analyst position at Averna was posted on 2026-07-24.
+This data analyst position at Averna was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

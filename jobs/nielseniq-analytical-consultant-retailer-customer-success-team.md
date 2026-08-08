@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Customer Success Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139303099-analytical-consultant-retailer-customer-success-team) |
+| Category | Data Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140880188-analytical-consultant-retailer-customer-success-team) |
 
 ## About This Role
 
-This customer success manager position at NielsenIQ was posted on 2026-07-23.
+This data analyst position at NielsenIQ was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

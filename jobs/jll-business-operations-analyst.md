@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Business-Operations-Analyst_REQ520519) |
+| Location | Atlanta, Georgia, United States |
+| Category | Database Administration |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Business-Operations-Analyst_REQ525083) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-07-10.
+This database administration position at JLL was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

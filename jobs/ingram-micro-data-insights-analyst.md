@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Buffalo-NY-United-States-of-America/Data-Insights-Analyst_R-115714) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Buffalo-NY-United-States-of-America/Data-Insights-Analyst_R-116696) |
 
 ## About This Role
 
-This data analyst position at Ingram Micro was posted on 2026-06-23.
+This data analyst position at Ingram Micro was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

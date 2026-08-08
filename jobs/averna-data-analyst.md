@@ -5,12 +5,12 @@
 | Company | [Averna](https://scoutify.ai/companies/averna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Zapopan, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000140271809-data-analyst) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000140907350-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Averna was posted on 2026-07-28.
+This data analyst position at Averna was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

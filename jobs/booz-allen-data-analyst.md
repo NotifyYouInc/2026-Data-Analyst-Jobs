@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Okinawa, JP |
+| Location | Ashburn, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Uruma-City-Okinawa/Data-Analyst_R0243998) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Data-Analyst_R0245756) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-07-09.
+This data analyst position at Booz Allen was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

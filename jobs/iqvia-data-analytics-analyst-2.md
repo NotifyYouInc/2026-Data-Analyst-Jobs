@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manila-Philippines/Data-Analytics-Analyst-2_R1539105) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Data-Analytics-Analyst-2_R1550100-1) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-05-26.
+This data analyst position at IQVIA was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

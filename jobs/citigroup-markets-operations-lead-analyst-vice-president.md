@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Lead-Analyst--Vice-President-_26945219) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Lead-Analyst--Vice-President-_26981407) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-03-13.
+This compliance & risk management position at Citigroup was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
