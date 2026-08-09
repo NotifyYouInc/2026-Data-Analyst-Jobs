@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/skelar/643f64b2-ba01-413e-b8da-7cadf297521c) |
 
 ## About This Role
 
-This business analyst position at SKELAR was posted on 2026-07-31.
+This strategy & operations position at SKELAR was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

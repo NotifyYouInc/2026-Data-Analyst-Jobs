@@ -1,16 +1,16 @@
-# Sr Analyst at Vizient
+# Internship for PRPC UF Dep Utility Facilities, PRPC Utilities And Facilities Sdn. Bhd. at Pengerang, Johor at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Pengerang, Johor, Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Sr-Analyst_34172R) |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29490) |
 
 ## About This Role
 
-This data analyst position at Vizient was posted on 2026-08-02.
+This data analyst position at PETRONAS was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

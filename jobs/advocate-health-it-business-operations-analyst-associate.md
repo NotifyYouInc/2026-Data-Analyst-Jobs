@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/IT-Business-Operations-Analyst-Associate_R256935) |
 
 ## About This Role
 
-This business analyst position at Advocate Health was posted on 2026-08-01.
+This strategy & operations position at Advocate Health was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

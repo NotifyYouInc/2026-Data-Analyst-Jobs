@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
+| Category | Sales & Trading |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Advisory-Sales---Trading-Analyst_PT-JR041502) |
 
 ## About This Role
 
-This quant research position at Morgan Stanley was posted on 2026-07-30.
+This sales & trading position at Morgan Stanley was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

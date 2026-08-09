@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Strategic-Insights-Analyst--VP---State-Street-Investment-Management_R-795428) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-07-31.
+This strategy & operations position at State Street was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Business-Operations-Analyst-and-Executive-Assistant-to-the-VP_R155910-1) |
 
 ## About This Role
 
-This business analyst position at The Ohio State University was posted on 2026-08-01.
+This strategy & operations position at The Ohio State University was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
