@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# Optimisation Data Analyst at Adyen
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8059209) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at Adyen was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

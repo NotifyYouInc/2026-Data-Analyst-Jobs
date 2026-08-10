@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# Measurement Partner CoE Intern (Measurement) - 2027 Start at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7668618624274434357/detail) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at TikTok was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Research-Manager_R1121670-3) |
+| Location | 2 locations |
+| Category | UX Researcher |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Research-Manager_R1125817-2) |
 
 ## About This Role
 
-This data analyst position at Dentsu was posted on 2026-07-02.
+This ux researcher position at Dentsu was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

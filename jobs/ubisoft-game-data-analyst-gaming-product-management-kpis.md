@@ -1,16 +1,16 @@
-# Analyst, Customer & Product Support at AlphaSense India
+# Game Data Analyst (Gaming Product Management KPIs) at Ubisoft
 
 | Field | Details |
 |-------|---------|
-| Company | [AlphaSense India](https://scoutify.ai/companies/alphasense-india?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Customer Success |
+| Category | Product Manager |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasenseindia/jobs/8632429002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000141171479-game-data-analyst-gaming-product-management-kpis) |
 
 ## About This Role
 
-This customer success position at AlphaSense India was posted on 2026-08-03.
+This product manager position at Ubisoft was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

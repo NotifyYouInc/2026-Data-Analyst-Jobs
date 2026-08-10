@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | UX Researcher |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Sydney-AU-AIA-Australia/Reporting---Insights-Manager_JR-65444) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Melbourne-AU-AIA-Australia/Reporting---Insights-Manager_JR-68782) |
 
 ## About This Role
 
-This ux researcher position at AIA Group was posted on 2026-04-22.
+This ux researcher position at AIA Group was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# Analyst – Leasing Data at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst---Leasing-Data_REQ525790) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at JLL was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Analytics Analyst SAS/Python at Citigroup
+# Analyst - L&TD Operations at SNC-Lavalin
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Learning & Development |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst-SAS-Python_26978658) |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst---L-TD-Operations_R-160229-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-03.
+This learning & development position at SNC-Lavalin was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

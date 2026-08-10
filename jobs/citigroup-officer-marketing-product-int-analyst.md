@@ -1,16 +1,16 @@
-# Business Analytics Analyst SAS/Python at Citigroup
+# Officer, Marketing Product Int Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Location | Kowloon, Hong Kong |
+| Category | Product Manager |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst-SAS-Python_26978658) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Marketing-Product-Int-Analyst_26983437) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-03.
+This product manager position at Citigroup was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

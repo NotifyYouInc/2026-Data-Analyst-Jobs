@@ -1,16 +1,16 @@
-# Analyst, Customer & Product Support at AlphaSense
+# DataOps Manager at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Data Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8632430002) |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7821127003) |
 
 ## About This Role
 
-This customer success position at AlphaSense was posted on 2026-08-03.
+This data engineer position at Toss was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

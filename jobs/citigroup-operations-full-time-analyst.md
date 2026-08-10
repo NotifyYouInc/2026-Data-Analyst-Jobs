@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Leadership Development Program |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Operations-Full-Time-Analyst_26978678) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Operations-Full-Time-Analyst_26978676) |
 
 ## About This Role
 
-This leadership development program position at Citigroup was posted on 2026-07-30.
+This leadership development program position at Citigroup was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

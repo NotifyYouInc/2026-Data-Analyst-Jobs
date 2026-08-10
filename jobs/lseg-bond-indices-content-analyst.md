@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# Bond Indices Content Analyst at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Bond-Indices-Content-Analyst_R0121366-1) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at LSEG was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# MTS Data analyst at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/MTS-Data-analyst_R0137721-1) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at Hitachi was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

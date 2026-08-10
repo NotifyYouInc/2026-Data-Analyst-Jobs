@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# Data Management & Infrastructure Associate at Novartis
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Moscow, Moscow, Russia |
 | Category | Data Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-City/Data-Management---Infrastructure-Associate_REQ-10084559-1) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at Novartis was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

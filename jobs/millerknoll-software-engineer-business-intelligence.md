@@ -1,16 +1,16 @@
-# Business Analytics Analyst SAS/Python at Citigroup
+# Software Engineer – Business Intelligence at MillerKnoll
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [MillerKnoll](https://scoutify.ai/companies/millerknoll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Software Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst-SAS-Python_26978658) |
+| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Software-Engineer---Business-Intelligence_JR109501-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-03.
+This software engineer position at MillerKnoll was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

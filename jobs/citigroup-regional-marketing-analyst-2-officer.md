@@ -1,16 +1,16 @@
-# Business Analytics Analyst SAS/Python at Citigroup
+# Regional Marketing Analyst 2 - Officer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Location | Shanghai, Shanghai, China |
+| Category | Field & Event Marketing |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst-SAS-Python_26978658) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Shanghai-Shanghai-China/Regional-Marketing-Analyst-2---Officer_26983065) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-03.
+This field & event marketing position at Citigroup was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

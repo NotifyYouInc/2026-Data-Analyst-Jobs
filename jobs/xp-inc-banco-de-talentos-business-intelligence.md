@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# Banco de Talentos | Business Intelligence at XP Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [XP Inc.](https://scoutify.ai/companies/xpinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xpinc/jobs/8601401002) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at XP Inc. was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

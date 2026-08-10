@@ -1,16 +1,16 @@
-# Business Analytics Analyst SAS/Python at Citigroup
+# BI Manager at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst-SAS-Python_26978658) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/BI-Manager_R1128399-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-03.
+This data analyst position at Dentsu was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

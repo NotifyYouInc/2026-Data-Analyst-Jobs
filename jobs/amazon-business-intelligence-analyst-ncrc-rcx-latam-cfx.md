@@ -1,16 +1,16 @@
-# Business Analytics Analyst SAS/Python at Citigroup
+# Business Intelligence Analyst, NCRC & RCX, LATAM CFX at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst-SAS-Python_26978658) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489986/business-intelligence-analyst-ncrc-rcx-latam-cfx) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-03.
+This data analyst position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

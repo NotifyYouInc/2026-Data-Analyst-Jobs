@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# RCP ANALYST I at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Lima, Lima Province, Peru |
 | Category | Data Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/RCP-ANALYST-I_JR00111041) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

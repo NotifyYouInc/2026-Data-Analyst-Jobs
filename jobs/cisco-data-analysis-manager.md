@@ -1,16 +1,16 @@
-# Field Sales Insight Manager at Red Bull
+# Data Analysis Manager at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141131299-field-sales-insight-manager) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Analysis-Manager_2019881-1) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-08-02.
+This data analyst position at Cisco was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 
