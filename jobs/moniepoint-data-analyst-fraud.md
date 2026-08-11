@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nigeria |
+| Location | Spain |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4912002101) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4943301101) |
 
 ## About This Role
 
-This data analyst position at Moniepoint was posted on 2026-06-30.
+This data analyst position at Moniepoint was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Peoria, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000385342) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Business-Intelligence-Analyst_R0000386267) |
 
 ## About This Role
 
-This data analyst position at Caterpillar Inc. was posted on 2026-07-28.
+This data analyst position at Caterpillar Inc. was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

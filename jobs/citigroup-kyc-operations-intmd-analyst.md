@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/KYC-Operations-Intmd-Analyst_26951532) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/KYC-Operations-Intmd-Analyst_26983736) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-04-02.
+This data analyst position at Citigroup was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

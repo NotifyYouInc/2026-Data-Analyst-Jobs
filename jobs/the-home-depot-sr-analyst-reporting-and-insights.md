@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Smyrna, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/SMYRNA-PACES-SUMMIT---9125/Sr-Analyst--Reporting-and-Insights_Req178426-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/SMYRNA-PACES-SUMMIT---9125/Sr-Analyst--Reporting-and-Insights_Req188890) |
 
 ## About This Role
 
-This data analyst position at The Home Depot was posted on 2026-04-27.
+This data analyst position at The Home Depot was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

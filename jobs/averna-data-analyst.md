@@ -6,7 +6,7 @@
 | Location | Zapopan, Jalisco, Mexico |
 | Category | Data Analyst |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000140907350-data-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000140961159-data-analyst) |
 
 ## About This Role
 

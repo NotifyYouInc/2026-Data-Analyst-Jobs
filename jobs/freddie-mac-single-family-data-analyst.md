@@ -5,12 +5,12 @@
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Analyst_JR15836) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Analyst_JR17440) |
 
 ## About This Role
 
-This data analyst position at Freddie Mac was posted on 2026-04-13.
+This data analyst position at Freddie Mac was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

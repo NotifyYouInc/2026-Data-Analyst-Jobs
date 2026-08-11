@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Growth Marketing |
+| Category | Data Analyst |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/Fabric---Home-Care-Category-Growth-Development-Manager---Interlomas_R000156442) |
 
 ## About This Role
 
-This growth marketing position at Procter & Gamble was posted on 2026-08-01.
+This data analyst position at Procter & Gamble was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

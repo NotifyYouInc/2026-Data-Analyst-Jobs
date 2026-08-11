@@ -5,12 +5,12 @@
 | Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000140245975-senior-analytics-consultant) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000141273609-senior-analytics-consultant) |
 
 ## About This Role
 
-This data analyst position at Hiflylabs was posted on 2026-07-28.
+This data analyst position at Hiflylabs was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

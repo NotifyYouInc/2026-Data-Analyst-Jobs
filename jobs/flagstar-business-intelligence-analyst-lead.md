@@ -5,12 +5,12 @@
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Business-Intelligence-Analyst-Lead_19695) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Business-Intelligence-Analyst-Lead_20829) |
 
 ## About This Role
 
-This data analyst position at Flagstar was posted on 2026-04-21.
+This data analyst position at Flagstar was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

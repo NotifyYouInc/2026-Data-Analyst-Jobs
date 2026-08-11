@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Irving, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aurora-Illinois---United-States-of-America/Regional-Analyst-1-Customer-Experience_R00210457-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irving-Texas---United-States-of-America/Regional-Analyst-1-Customer-Experience_R00212336-1) |
 
 ## About This Role
 
-This business analyst position at Nissan was posted on 2026-06-08.
+This business analyst position at Nissan was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

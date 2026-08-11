@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | New York, US |
 | Category | Operations |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hsinchu-Taiwan/Sales-Operations-Analyst-II_R-01362229) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-York-USA/Sales-Operations-Analyst-II_R-01360991) |
 
 ## About This Role
 

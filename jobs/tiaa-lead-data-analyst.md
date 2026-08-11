@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Lead-Data-Analyst_R251200136-2) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Lead-Data-Analyst_R260500020-2) |
 
 ## About This Role
 
-This data analyst position at TIAA was posted on 2026-06-11.
+This data analyst position at TIAA was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

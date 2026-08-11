@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135663517-research-executive) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141215225-research-executive) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-03.
+This data analyst position at NielsenIQ was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

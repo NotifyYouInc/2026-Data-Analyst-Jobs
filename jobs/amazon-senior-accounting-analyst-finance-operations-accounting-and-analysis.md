@@ -1,16 +1,16 @@
-# Senior Accounting Analyst, Finance Operations Accounting and Analysis at Amazon
+# Senior Accounting Analyst , Finance Operations Accounting and Analysis at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449268/senior-accounting-analyst-finance-operations-accounting-and-analysis) |
+| Location | Beijing, CN |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491193/senior-accounting-analyst-finance-operations-accounting-and-analysis) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-15.
+This accounting position at Amazon was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

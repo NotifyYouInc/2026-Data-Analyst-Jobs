@@ -6,7 +6,7 @@
 | Location | Buffalo, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Enterprise-Data-Analyst-Senior_R88623-1) |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Enterprise-Data-Analyst-Senior_R88756) |
 
 ## About This Role
 

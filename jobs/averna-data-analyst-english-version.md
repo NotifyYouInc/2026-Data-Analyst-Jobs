@@ -6,7 +6,7 @@
 | Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000140907839-data-analyst-english-version) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Averna1/744000140961355-data-analyst-english-version) |
 
 ## About This Role
 

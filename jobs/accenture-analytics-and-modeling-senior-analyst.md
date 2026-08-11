@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Analytics-and-Modeling-Senior-Analyst_AIOC-S01657393-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Senior-Analyst_AIOC-S01659005-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-07-24.
+This data analyst position at Accenture was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

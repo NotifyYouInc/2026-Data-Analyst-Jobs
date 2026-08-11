@@ -5,12 +5,12 @@
 | Company | [Epta](https://scoutify.ai/companies/ocs-cx-oj37867?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://fa-eukp-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2738) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://fa-eukp-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2854) |
 
 ## About This Role
 
-This data analyst position at Epta was posted on 2026-06-23.
+This data analyst position at Epta was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

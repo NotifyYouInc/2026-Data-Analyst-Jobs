@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138263400-analytics-insights-home-panel) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141230287-analytics-insights-home-panel) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-17.
+This data analyst position at NielsenIQ was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

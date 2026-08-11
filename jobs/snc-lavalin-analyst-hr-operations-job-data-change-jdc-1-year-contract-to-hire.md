@@ -1,16 +1,16 @@
-# Analyst- HR Operations : Job Data Change (JDC) : 1 Year Contract to Hire at SNC-Lavalin
+# Analyst- HR Operations- Job Data Change (JDC)- 1 Year Contract to Hire at SNC-Lavalin
 
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst--HR-Operations---Job-Data-Change--JDC----1-Year-Contract-to-Hire_R-156269) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst--HR-Operations--Job-Data-Change--JDC---1-Year-Contract-to-Hire_R-161051) |
 
 ## About This Role
 
-This data analyst position at SNC-Lavalin was posted on 2026-07-09.
+This human resources / people ops position at SNC-Lavalin was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | Braşov, Brașov County, Romania |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000116412527-senior-powerbi-dev) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000141218360-senior-powerbi-dev) |
 
 ## About This Role
 
-This data analyst position at Endava was posted on 2026-03-24.
+This data analyst position at Endava was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | QA Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Governance-Quality-Analyst_26979198) |
 
 ## About This Role
 
-This qa engineer position at Citigroup was posted on 2026-08-03.
+This data analyst position at Citigroup was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

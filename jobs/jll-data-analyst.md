@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Data-Analyst_REQ516772) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Data-Analyst_REQ525844) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-23.
+This data analyst position at JLL was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

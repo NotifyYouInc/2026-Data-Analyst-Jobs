@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Quality---AI-Readiness-Product-Analyst_R2866759) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Data-Quality---AI-Readiness-Product-Analyst_R2866934) |
 
 ## About This Role
 
-This data engineer position at Sanofi was posted on 2026-07-31.
+This data engineer position at Sanofi was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

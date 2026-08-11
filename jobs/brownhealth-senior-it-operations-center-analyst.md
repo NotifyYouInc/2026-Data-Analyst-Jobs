@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Providence, Rhode Island, United States |
+| Location | University, Florida, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Senior-IT-Operations-Center-Analyst_JR-110054) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Senior-IT-Operations-Center-Analyst_JR-112082) |
 
 ## About This Role
 
-This it & systems administration position at Brownhealth was posted on 2026-05-22.
+This it & systems administration position at Brownhealth was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
