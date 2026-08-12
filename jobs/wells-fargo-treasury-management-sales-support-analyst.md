@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Treasury-Management-Sales-Support-Analyst_R-549064) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Treasury-Management-Sales-Support-Analyst_R-563986) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-06-10.
+This business analyst position at Wells Fargo was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

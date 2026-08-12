@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7893751?gh_jid=7893751) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8101596?gh_jid=8101596) |
 
 ## About This Role
 
-This data analyst position at Coupang Internal was posted on 2026-05-05.
+This data analyst position at Coupang Internal was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

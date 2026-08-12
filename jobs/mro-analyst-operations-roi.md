@@ -5,12 +5,12 @@
 | Company | [MRO](https://scoutify.ai/companies/mro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://recruiting.ultipro.com/mro1000mroc/JobBoard/84de441e-f248-432e-9857-ba2a003c4f55/OpportunityDetail?opportunityId=23c27349-ce37-4b49-91af-232774da4c52) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://recruiting.ultipro.com/mro1000mroc/JobBoard/84de441e-f248-432e-9857-ba2a003c4f55/OpportunityDetail?opportunityId=a095a5ca-dcef-4827-a233-6aa04053f0b7) |
 
 ## About This Role
 
-This data analyst position at MRO was posted on 2026-07-30.
+This data analyst position at MRO was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

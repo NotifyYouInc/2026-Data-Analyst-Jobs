@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5671791-S2057583-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5689770-S2062629-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-07.
+This data analyst position at Accenture was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

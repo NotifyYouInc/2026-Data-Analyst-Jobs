@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136730599-sap-piposcpi-lead-product-analyst) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141648767-sap-piposcpi-lead-product-analyst) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-07-09.
+This data analyst position at Sopra Steria was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

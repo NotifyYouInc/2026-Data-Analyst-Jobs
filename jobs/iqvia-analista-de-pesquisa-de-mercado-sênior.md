@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/So-Paulo-Brazil/Analista-de-Pesquisa-de-Mercado-Snior_R1559173) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/So-Paulo-Brazil/Analista-de-Pesquisa-de-Mercado-Snior_R1559174) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-07-23.
+This data analyst position at IQVIA was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

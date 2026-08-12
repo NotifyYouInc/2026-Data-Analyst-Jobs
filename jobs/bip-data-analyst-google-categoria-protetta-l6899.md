@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BIP](https://scoutify.ai/companies/ocs-cx-oj14025?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Italy |
+| Location | Palermo, Sicily, Italy |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2276) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2340) |
 
 ## About This Role
 
-This data analyst position at BIP was posted on 2026-05-05.
+This data analyst position at BIP was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

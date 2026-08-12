@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Analyst--Finance-Operations_20179133) |
+| Location | Ohio, US |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Senior-Analyst--Finance-Operations_20184955) |
 
 ## About This Role
 
-This corporate finance position at Cardinal Health was posted on 2026-04-20.
+This data analyst position at Cardinal Health was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

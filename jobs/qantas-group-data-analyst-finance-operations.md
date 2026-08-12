@@ -6,7 +6,7 @@
 | Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001277651-data-analyst-finance-operations) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001280875-data-analyst-finance-operations) |
 
 ## About This Role
 

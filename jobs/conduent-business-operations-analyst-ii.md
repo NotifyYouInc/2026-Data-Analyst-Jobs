@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conduent](https://scoutify.ai/companies/us2-cx-oj25423?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | National Capital Region, PH |
-| Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#23847) |
+| Location | Philippines |
+| Category | Strategy & Operations |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://egua.fa.us2.oraclecloud.com/jobs/#24501) |
 
 ## About This Role
 
-This data analyst position at Conduent was posted on 2026-07-15.
+This strategy & operations position at Conduent was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

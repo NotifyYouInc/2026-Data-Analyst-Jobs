@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-559464) |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-546991-1) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-07-10.
+This data analyst position at Wells Fargo was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

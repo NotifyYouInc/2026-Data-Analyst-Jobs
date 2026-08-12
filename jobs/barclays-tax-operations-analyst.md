@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Tax-Operations-Analyst_JR-0000102002) |
+| Location | Whippany, New Jersey, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Tax-Operations-Analyst_JR-0000117810-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-04-14.
+This data analyst position at Barclays was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

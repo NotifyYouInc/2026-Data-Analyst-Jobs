@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Portugal---Lisbon/Commercial-Analytics-Senior-Associate_R-241995) |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Portugal---Lisbon/Commercial-Analytics-Senior-Associate_R-252084) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-04-09.
+This data analyst position at Amgen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

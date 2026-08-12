@@ -5,12 +5,12 @@
 | Company | [Poshmark](https://scoutify.ai/companies/poshmark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Redwood City, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/poshmark/0d86cc2f-daea-40cf-b1d8-e704f586b21e) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/poshmark/5b09efdf-f6d7-4826-896d-517b2da1739c) |
 
 ## About This Role
 
-This data analyst position at Poshmark was posted on 2026-07-23.
+This data analyst position at Poshmark was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

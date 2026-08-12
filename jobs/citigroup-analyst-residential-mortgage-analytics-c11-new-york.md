@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Analyst---Residential-Mortgage-Analytics---C11---NEW-YORK_26961768-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Analyst---Residential-Mortgage-Analytics---C11---NEW-YORK_26983509) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-20.
+This data analyst position at Citigroup was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

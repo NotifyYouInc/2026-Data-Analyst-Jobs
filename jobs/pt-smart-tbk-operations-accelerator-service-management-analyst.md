@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Operations-Accelerator---Service-Management-Analyst_R-26001031) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Operations-Accelerator---Service-Management-Analyst_R-26001203) |
 
 ## About This Role
 
-This data analyst position at PT SMART Tbk was posted on 2026-07-07.
+This it & systems administration position at PT SMART Tbk was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

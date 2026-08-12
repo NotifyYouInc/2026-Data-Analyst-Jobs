@@ -5,12 +5,12 @@
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Business-Intelligence-Manager_152794-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Business-Intelligence-Manager_160847-1) |
 
 ## About This Role
 
-This data analyst position at Lloyds Bank was posted on 2026-02-26.
+This data analyst position at Lloyds Bank was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

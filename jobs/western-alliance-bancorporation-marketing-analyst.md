@@ -5,12 +5,12 @@
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Westlake Village, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Westlake-Village-CA/Marketing-Analyst_R13058-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Westlake-Village-CA/Marketing-Analyst_R13519-1) |
 
 ## About This Role
 
-This data analyst position at Western Alliance Bancorporation was posted on 2026-05-12.
+This data analyst position at Western Alliance Bancorporation was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

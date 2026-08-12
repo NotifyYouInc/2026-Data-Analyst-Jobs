@@ -6,7 +6,7 @@
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141266380-data-governance-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141284849-data-governance-analyst) |
 
 ## About This Role
 

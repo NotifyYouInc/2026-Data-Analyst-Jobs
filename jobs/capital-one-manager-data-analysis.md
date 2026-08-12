@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | National Capital Region, PH |
+| Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Alabang-Muntinlupa-City/Manager--Data-Analysis_R245768) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Alabang-Muntinlupa-City/Manager--Data-Analysis_R248308) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-07-02.
+This data analyst position at Capital One was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Thāne, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Analyst---Transaction-Monitoring-Operations_R-10399114) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Analyst---Transaction-Monitoring-Operations_R-10399115) |
 
 ## About This Role
 
-This data analyst position at Fiserv was posted on 2026-07-21.
+This data analyst position at Fiserv was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

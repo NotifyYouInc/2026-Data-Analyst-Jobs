@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Northampton, England, United Kingdom |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Senior-Data---Insights-Analyst_JR-0000118744-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Senior-Data---Insights-Analyst_JR-0000120972-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-07-10.
+This data analyst position at Barclays was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

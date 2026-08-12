@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Product-Analyst_R40044) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Product-Analyst_R40774) |
 
 ## About This Role
 
-This business analyst position at Duke Energy was posted on 2026-06-08.
+This business analyst position at Duke Energy was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

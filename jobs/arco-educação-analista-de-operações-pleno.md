@@ -5,12 +5,12 @@
 | Company | [Arco Educação](https://scoutify.ai/companies/arco-educao?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6111202004) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6133701004) |
 
 ## About This Role
 
-This data analyst position at Arco Educação was posted on 2026-07-08.
+This data analyst position at Arco Educação was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

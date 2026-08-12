@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Accounting |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000130819064-junior-hr-operations-payroll-analyst-theyshehe) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141465779-junior-hr-operations-payroll-analyst-theyshehe) |
 
 ## About This Role
 
-This accounting position at Delivery Hero was posted on 2026-06-08.
+This human resources / people ops position at Delivery Hero was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

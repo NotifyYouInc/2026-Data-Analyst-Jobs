@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/USON-AP-Customer-Account-Analyst_JR0144108) |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-The-Woodlands/USON-AP-Customer-Account-Analyst_JR0151371) |
 
 ## About This Role
 
-This corporate finance position at McKesson was posted on 2026-03-10.
+This data analyst position at McKesson was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

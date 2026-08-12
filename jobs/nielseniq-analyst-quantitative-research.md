@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121957735-analyst-quantitative-research) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141629419-analyst-quantitative-research) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-21.
+This data analyst position at NielsenIQ was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Despegar](https://scoutify.ai/companies/despegar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Marketing |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.lever.co/despegar/12ea1fc9-45ad-4184-b865-501752aed9a1) |
+| Category | Data Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.lever.co/despegar/12aecbbb-b720-46af-ac84-f493e8a1c441) |
 
 ## About This Role
 
-This marketing position at Despegar was posted on 2026-05-21.
+This data analyst position at Despegar was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

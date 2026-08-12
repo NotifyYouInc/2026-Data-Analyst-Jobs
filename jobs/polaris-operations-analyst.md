@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Medina, Ohio, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Medina-MN-USA/Operations-Analyst_R30350) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Huntsville/Operations-Analyst_R30252) |
 
 ## About This Role
 
-This data analyst position at Polaris was posted on 2026-07-08.
+This data analyst position at Polaris was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

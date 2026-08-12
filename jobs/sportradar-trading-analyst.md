@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000131827312-trading-analyst) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000141452980-trading-analyst) |
 
 ## About This Role
 
-This data analyst position at Sportradar was posted on 2026-06-12.
+This data analyst position at Sportradar was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
