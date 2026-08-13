@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111767883-business-intelligence-associate-chinese-speaker) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141834999-business-intelligence-associate-chinese-speaker) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-02-27.
+This data analyst position at NielsenIQ was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

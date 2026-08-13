@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Business---Product-Analyst_JR-0000121982) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-08-04.
+This data analyst position at Barclays was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

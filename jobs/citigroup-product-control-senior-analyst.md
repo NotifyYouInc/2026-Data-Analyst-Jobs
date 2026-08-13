@@ -6,7 +6,7 @@
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Product-Control-Senior-Analyst_26983823) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Product-Control-Senior-Analyst_26983163) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Minato, Wakayama, Japan |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Client-Operations-Delivery-Analyst_2015262) |
+| Location | San José, San José, Costa Rica |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-Costa-Rica/Client-Operations-Delivery-Analyst_2017454-1) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-06-04.
+This data analyst position at Cisco was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

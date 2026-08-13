@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales & Trading |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Risk-Management-Solutions--RMS--Sales-Coverage-Analyst_R0444707) |
 
 ## About This Role
 
-This sales & trading position at Deutsche Bank was posted on 2026-08-04.
+This data analyst position at Deutsche Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

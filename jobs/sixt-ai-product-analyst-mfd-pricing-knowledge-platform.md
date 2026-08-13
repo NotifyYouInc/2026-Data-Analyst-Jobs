@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141277979-ai-product-analyst-mfd-pricing-knowledge-platform) |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141643079-ai-product-analyst-mfd-pricing-knowledge-platform) |
 
 ## About This Role
 
-This ai / llm engineer position at Sixt was posted on 2026-08-03.
+This data analyst position at Sixt was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Sales & Trading |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777159) |
 
 ## About This Role
 
-This sales & trading position at JPMorgan Chase was posted on 2026-08-05.
+This data analyst position at JPMorgan Chase was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

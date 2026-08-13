@@ -5,12 +5,12 @@
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Digital-Analyst_R198664) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Digital-Analyst_R207681) |
 
 ## About This Role
 
-This data analyst position at Shell was posted on 2026-03-25.
+This data analyst position at Shell was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

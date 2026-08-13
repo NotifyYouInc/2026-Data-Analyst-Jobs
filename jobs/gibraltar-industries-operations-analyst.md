@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Gibraltar Industries](https://scoutify.ai/companies/gibraltar-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Gibraltar Industries](https://scoutify.ai/companies/gibraltar-industries?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://gibraltar.rec.pro.ukg.net/GIB1002GIBIN/JobBoard/bcc50adc-fc2e-4805-aab3-6a34b5abb8ad/OpportunityDetail?opportunityId=1d57a742-2efc-4703-8e33-36d09c2237d4) |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://gibraltar.rec.pro.ukg.net/GIB1002GIBIN/JobBoard/ec03ae70-6d19-4e13-8576-caab2d725c12/OpportunityDetail?opportunityId=1d57a742-2efc-4703-8e33-36d09c2237d4) |
 
 ## About This Role
 
-This business analyst position at Gibraltar Industries was posted on 2026-08-03.
+This data analyst position at Gibraltar Industries was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

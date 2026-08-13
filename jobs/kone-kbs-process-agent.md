@@ -5,12 +5,12 @@
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/KBS-Process-Agent_R0660216) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/KBS-Process-Agent_R0661116) |
 
 ## About This Role
 
-This data analyst position at Kone was posted on 2026-05-14.
+This data analyst position at Kone was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

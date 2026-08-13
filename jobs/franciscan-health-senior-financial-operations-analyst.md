@@ -5,12 +5,12 @@
 | Company | [Franciscan Health](https://scoutify.ai/companies/franciscan-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mishawaka, Indiana, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://franciscanalliance.wd5.myworkdayjobs.com/fa_external_career_site/job/Franciscan-Corporate-Office/Senior-Financial-Operations-Analyst_R-130149) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://franciscanalliance.wd5.myworkdayjobs.com/fa_external_career_site/job/Franciscan-Corporate-Office/Senior-Financial-Operations-Analyst_R-130528) |
 
 ## About This Role
 
-This data analyst position at Franciscan Health was posted on 2026-07-25.
+This data analyst position at Franciscan Health was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

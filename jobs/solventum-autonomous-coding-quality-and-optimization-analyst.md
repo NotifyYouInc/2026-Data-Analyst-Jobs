@@ -5,12 +5,12 @@
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-California-Irvine/Autonomous-Coding-Quality-and-Optimization-Analyst_R01132201) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-California-Irvine/Autonomous-Coding-Quality-and-Optimization-Analyst_R01132707) |
 
 ## About This Role
 
-This data analyst position at Solventum was posted on 2026-07-23.
+This data analyst position at Solventum was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

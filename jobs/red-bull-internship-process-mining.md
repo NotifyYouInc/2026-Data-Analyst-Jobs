@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Data Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000140884719-internship-process-mining) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141734802-internship-process-mining) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-07-31.
+This data analyst position at Red Bull was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

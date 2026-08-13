@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Transamerica](https://scoutify.ai/companies/transamerica?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Technology-Operations-Analyst---World-Financial-Group_R20062334) |
 
 ## About This Role
 
-This business analyst position at Transamerica was posted on 2026-08-05.
+This data analyst position at Transamerica was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

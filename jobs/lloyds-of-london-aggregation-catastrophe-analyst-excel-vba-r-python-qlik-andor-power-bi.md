@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyd's of London](https://scoutify.ai/companies/lloyd-s-of-london?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Actuary / Insurance Analytics |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://lloyds.wd3.myworkdayjobs.com/lloyds-of-london/job/Lloyds-UK-London/Aggregation---Catastrophe-Analyst---Excel-VBA--R--Python--Qlik-and-or-Power-BI_R5168-2) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Lloyd's of London was posted on 2026-08-05.
+This data analyst position at Lloyd's of London was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 5 locations |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R265821) |
 
 ## About This Role
 
-This business analyst position at Uline was posted on 2026-08-04.
+This data analyst position at Uline was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

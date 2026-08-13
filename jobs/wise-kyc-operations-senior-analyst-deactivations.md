@@ -6,7 +6,7 @@
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Data Analyst |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141494605-kyc-operations-senior-analyst-deactivations) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141538900-kyc-operations-senior-analyst-deactivations) |
 
 ## About This Role
 

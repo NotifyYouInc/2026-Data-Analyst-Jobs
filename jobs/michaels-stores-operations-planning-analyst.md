@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Operations-Planning-Analyst_R00319489-1) |
 
 ## About This Role
 
-This business analyst position at Michaels Stores was posted on 2026-08-05.
+This data analyst position at Michaels Stores was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

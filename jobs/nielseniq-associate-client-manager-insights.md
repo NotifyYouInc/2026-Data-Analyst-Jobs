@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | White Plains, New York, United States |
-| Category | Account Manager |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141629869-associate-client-manager-insights) |
 
 ## About This Role
 
-This account manager position at NielsenIQ was posted on 2026-08-05.
+This data analyst position at NielsenIQ was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

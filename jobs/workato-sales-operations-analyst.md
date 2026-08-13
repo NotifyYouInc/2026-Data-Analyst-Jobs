@@ -5,12 +5,12 @@
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Operations |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8587205002#open-roles) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8686898002#open-roles) |
 
 ## About This Role
 
-This operations position at Workato was posted on 2026-06-11.
+This operations position at Workato was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

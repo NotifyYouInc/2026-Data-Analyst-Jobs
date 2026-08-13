@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Dallas-Texas-United-States-of-America/Business-Information-Analytics-Manager_PT-JR041605) |
 
 ## About This Role
 
-This business analyst position at Morgan Stanley was posted on 2026-08-04.
+This data analyst position at Morgan Stanley was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

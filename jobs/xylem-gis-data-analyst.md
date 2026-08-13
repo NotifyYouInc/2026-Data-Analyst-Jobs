@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Calamba, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Makati/GIS-Data-Analyst_R47962-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Calamba/GIS-Data-Analyst_R49978) |
 
 ## About This Role
 
-This data analyst position at Xylem was posted on 2026-04-29.
+This data analyst position at Xylem was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

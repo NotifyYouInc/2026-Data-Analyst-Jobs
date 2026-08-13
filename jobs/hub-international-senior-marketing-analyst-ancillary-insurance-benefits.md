@@ -5,12 +5,12 @@
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Atlanta-GA/Senior-Marketing-Analyst--Ancillary-Insurance-Benefits_R0037649-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Berkeley-Heights-NJ/Senior-Marketing-Analyst--Ancillary-Insurance-Benefits_R0037984) |
 
 ## About This Role
 
-This data analyst position at HUB International was posted on 2026-07-20.
+This data analyst position at HUB International was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

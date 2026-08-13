@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/COL-Bogota---Mallplaza---Avenida-Calle-19--28---80/Professional--BI-Analyst--TCF-_R1748243) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-KL-Sentral---NU-Tower-2-Level-21-30-31-38--40/Professional--BI-Analyst--TCF-_R1748299) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-07-30.
+This data analyst position at Concentrix was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

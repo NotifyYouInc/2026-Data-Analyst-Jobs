@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Marketing Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Principal-Marketing---Product-Marketing-Analyst_RP1038261-1) |
 
 ## About This Role
 
-This marketing operations position at F5 was posted on 2026-08-04.
+This data analyst position at F5 was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

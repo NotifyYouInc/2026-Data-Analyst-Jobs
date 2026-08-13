@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_179881-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_179965-1) |
 
 ## About This Role
 
-This data analyst position at Vanguard was posted on 2026-07-23.
+This data analyst position at Vanguard was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

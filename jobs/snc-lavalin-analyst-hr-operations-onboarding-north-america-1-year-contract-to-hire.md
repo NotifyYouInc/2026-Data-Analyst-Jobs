@@ -1,16 +1,16 @@
-# Analyst: HR Operations- Onboarding- North America - 1 Year Contract to Hire at SNC-Lavalin
+# Analyst: HR Operations- Onboarding- North America- 1 Year Contract to Hire at SNC-Lavalin
 
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst--HR-Operations--Onboarding--North-America---1-Year-Contract-to-Hire_R-157026-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst--HR-Operations--Onboarding--North-America--1-Year-Contract-to-Hire_R-161241) |
 
 ## About This Role
 
-This human resources / people ops position at SNC-Lavalin was posted on 2026-06-05.
+This data analyst position at SNC-Lavalin was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

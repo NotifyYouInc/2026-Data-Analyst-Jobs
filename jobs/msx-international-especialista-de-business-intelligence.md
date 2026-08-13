@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012520143-especialista-de-business-intelligence) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014462756-especialista-de-business-intelligence) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-04-08.
+This data analyst position at MSX International was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

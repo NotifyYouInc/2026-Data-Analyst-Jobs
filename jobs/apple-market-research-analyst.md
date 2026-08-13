@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Product Marketing |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200675046/market-research-analyst) |
 
 ## About This Role
 
-This product marketing position at Apple was posted on 2026-08-04.
+This data analyst position at Apple was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Sanctions-Operations-Analyst-Bilingual_26975913) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Sanctions-Operations-Analyst-Bilingual_26983000) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-08.
+This data analyst position at Citigroup was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

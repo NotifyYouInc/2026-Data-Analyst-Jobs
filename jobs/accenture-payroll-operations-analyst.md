@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Payroll-Operations-Analyst_AIOC-S01658169-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Payroll-Operations-Analyst_AIOC-S01659644-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-07-30.
+This data analyst position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

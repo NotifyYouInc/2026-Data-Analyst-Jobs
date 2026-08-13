@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Marketing Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Marketing-Analyst_10332036) |
 
 ## About This Role
 
-This marketing operations position at Toyota was posted on 2026-08-05.
+This data analyst position at Toyota was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

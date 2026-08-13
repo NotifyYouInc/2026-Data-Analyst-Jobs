@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blink UX](https://scoutify.ai/companies/blink-ux?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Digital / Performance Marketing |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jobs.lever.co/blinkux/ecb6097e-6fca-4b12-ab54-4035b216f9e9) |
 
 ## About This Role
 
-This digital / performance marketing position at Blink UX was posted on 2026-08-04.
+This data analyst position at Blink UX was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

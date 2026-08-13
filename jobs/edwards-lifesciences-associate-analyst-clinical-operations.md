@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Associate-Analyst--Clinical-Operations_Req-49651) |
 
 ## About This Role
 
-This business analyst position at Edwards Lifesciences was posted on 2026-08-05.
+This data analyst position at Edwards Lifesciences was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

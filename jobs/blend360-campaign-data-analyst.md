@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000137132369-campaign-data-analyst) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141727049-campaign-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Blend360 was posted on 2026-07-10.
+This data analyst position at Blend360 was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

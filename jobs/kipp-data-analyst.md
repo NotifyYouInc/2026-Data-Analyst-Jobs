@@ -5,12 +5,12 @@
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000141319711-data-analyst) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000141766504-data-analyst) |
 
 ## About This Role
 
-This data analyst position at KIPP was posted on 2026-08-03.
+This data analyst position at KIPP was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

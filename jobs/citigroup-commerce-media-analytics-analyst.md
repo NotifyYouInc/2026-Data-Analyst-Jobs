@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Scientist |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Commerce---Media-Analytics-Analyst_26974099) |
+| Category | Data Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Commerce---Media-Analytics-Analyst_26974092) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-07-03.
+This data analyst position at Citigroup was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

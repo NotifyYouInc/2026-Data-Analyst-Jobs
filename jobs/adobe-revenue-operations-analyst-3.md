@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Operations |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Revenue-Operations-Analyst-3_R168470) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Revenue-Operations-Analyst-3_R170851) |
 
 ## About This Role
 
-This operations position at Adobe was posted on 2026-05-07.
+This operations position at Adobe was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

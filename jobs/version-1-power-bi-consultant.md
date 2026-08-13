@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000117258358-power-bi-consultant) |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000141746469-power-bi-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Version 1 was posted on 2026-03-27.
+This data analyst position at Version 1 was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

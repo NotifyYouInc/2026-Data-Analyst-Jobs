@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Commercial---Wholesale-Operations-Analyst_Req1598815-1) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-08-04.
+This data analyst position at Santander was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

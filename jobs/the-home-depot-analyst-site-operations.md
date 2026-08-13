@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Analyst---Site-Operations_Req188206) |
 
 ## About This Role
 
-This business analyst position at The Home Depot was posted on 2026-08-04.
+This data analyst position at The Home Depot was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

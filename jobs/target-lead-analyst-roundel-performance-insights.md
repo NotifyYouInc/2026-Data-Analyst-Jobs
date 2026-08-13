@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Analyst--Roundel---Performance---Insights_R0000436546) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Analyst--Roundel---Performance---Insights_R0000448207) |
 
 ## About This Role
 
-This data analyst position at Target was posted on 2026-04-24.
+This data analyst position at Target was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

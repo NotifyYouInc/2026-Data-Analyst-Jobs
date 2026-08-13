@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Analyst--Business-Unit---Sales-Strategy_R-105414) |
 
 ## About This Role
 
-This strategy & operations position at Heinz was posted on 2026-08-04.
+This data analyst position at Heinz was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lendable](https://scoutify.ai/companies/lendable?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Virginia, Minnesota, United States |
-| Category | Growth Marketing |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lendable/9a2cc4b9-7a03-4a8e-a459-78a6f8ab4b49) |
+| Location | London, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lendable/eb217993-5f94-480d-a7e3-41c4bfaae2c9) |
 
 ## About This Role
 
-This growth marketing position at Lendable was posted on 2026-05-13.
+This data analyst position at Lendable was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

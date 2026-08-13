@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141490639-research-executive) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141750854-research-executive) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-04.
+This data analyst position at NielsenIQ was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000141472565-analytics-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000141573450-analytics-lead) |
 
 ## About This Role
 

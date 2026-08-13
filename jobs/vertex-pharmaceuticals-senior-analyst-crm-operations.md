@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vertex Pharmaceuticals](https://scoutify.ai/companies/vrtx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Senior-Analyst--CRM-Operations_REQ-29765) |
 
 ## About This Role
 
-This business analyst position at Vertex Pharmaceuticals was posted on 2026-08-04.
+This data analyst position at Vertex Pharmaceuticals was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

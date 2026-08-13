@@ -1,16 +1,16 @@
-# Associate Director, Emerging Channel Insights & Analytics -Market Access & Patient Services at AbbVie
+# Associate Director, Emerging Channel Insights & Analytics -Market Access & Patient Services (Remote) at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irvine, California, United States |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014316336-associate-director-emerging-channel-insights-analytics-market-access-patient-services) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014450876-associate-director-emerging-channel-insights-analytics-market-access-patient-services-remote) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-07-28.
+This data analyst position at AbbVie was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gandhinagar, Gujarat, India |
 | Category | Data Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Gandhinagar/Analyst--Supply-Chain-Planning_R261377) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Gandhinagar/Analyst--Supply-Chain-Planning_R264289) |
 
 ## About This Role
 
-This data analyst position at Analog Devices was posted on 2026-03-31.
+This data analyst position at Analog Devices was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

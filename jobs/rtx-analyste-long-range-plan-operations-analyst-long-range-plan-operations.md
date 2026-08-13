@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Longueuil, Quebec, Canada |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Analyste-Long-Range-Plan-Operations---Analyst--Long-Range-Plan-Operations_01863750) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-08-04.
+This data analyst position at RTX was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

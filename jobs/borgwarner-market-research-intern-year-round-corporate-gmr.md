@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auburn Hills, Michigan, United States |
-| Category | Product Marketing |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Market-Research-Intern--Year-Round-----Corporate---GMR--_R2026-3095) |
 
 ## About This Role
 
-This product marketing position at BorgWarner was posted on 2026-08-04.
+This data analyst position at BorgWarner was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

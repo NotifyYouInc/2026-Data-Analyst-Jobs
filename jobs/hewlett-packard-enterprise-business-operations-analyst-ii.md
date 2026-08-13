@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aguadilla, Aguadilla, Puerto Rico |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Business-Operations-Analyst-II_1209405) |
 
 ## About This Role
 
-This strategy & operations position at Hewlett Packard Enterprise was posted on 2026-08-04.
+This data analyst position at Hewlett Packard Enterprise was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

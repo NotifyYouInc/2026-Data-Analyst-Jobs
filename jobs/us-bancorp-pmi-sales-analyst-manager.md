@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Account Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/PMI-Sales-Analyst-Manager_2026-0012888) |
+| Location | Dallas, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Dallas-TX/PMI-Sales-Analyst-Manager_2026-0023116) |
 
 ## About This Role
 
-This account manager position at U.S. Bancorp was posted on 2026-05-21.
+This data analyst position at U.S. Bancorp was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

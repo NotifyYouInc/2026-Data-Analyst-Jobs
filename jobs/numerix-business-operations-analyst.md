@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Numerix](https://scoutify.ai/companies/numerix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
-| Category | Strategy & Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5217507008) |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.numerix.com/numerix-job-opportunities?gh_jid=5380850008) |
 
 ## About This Role
 
-This strategy & operations position at Numerix was posted on 2026-05-12.
+This data analyst position at Numerix was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
