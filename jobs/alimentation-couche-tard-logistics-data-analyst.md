@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Logistics-Data-Analyst_R561618) |
+| Category | Data Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Logistics-Data-Analyst_R610319) |
 
 ## About This Role
 
-This operations position at Alimentation Couche-Tard was posted on 2026-02-04.
+This data analyst position at Alimentation Couche-Tard was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVC-Mexico-City-Marketing--Sales/Senior-Data-Analyst_JR89013-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVC-Mexico-City-Marketing--Sales/Senior-Data-Analyst_JR93030) |
 
 ## About This Role
 
-This data analyst position at Marriott Vacations Worldwide was posted on 2026-03-24.
+This data analyst position at Marriott Vacations Worldwide was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

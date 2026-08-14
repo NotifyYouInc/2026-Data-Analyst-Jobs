@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | 22 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Reston-VA/Sr-Data-Analyst_R2026-2492) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/New-York-NY/Sr-Data-Analyst_R2026-2798) |
 
 ## About This Role
 
-This data analyst position at DLA Piper was posted on 2026-05-22.
+This data analyst position at DLA Piper was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

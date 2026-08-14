@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Analyst-I---Trial-Analytics--Insights---Planning--TAIP-_R1601194) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Analyst-I---Trial-Analytics--Insights---Planning--TAIP-_R1599688) |
 
 ## About This Role
 
-This data analyst position at Bristol-Myers Squibb was posted on 2026-04-09.
+This data analyst position at Bristol-Myers Squibb was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

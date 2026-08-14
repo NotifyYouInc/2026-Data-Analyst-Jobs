@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | McLean, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Senior-Data-Analyst_41959) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Senior-Data-Analyst_41521) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-07-20.
+This data analyst position at Guidehouse was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

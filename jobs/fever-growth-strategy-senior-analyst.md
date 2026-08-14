@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4924807101) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4947424101) |
 
 ## About This Role
 
-This data analyst position at Fever was posted on 2026-07-10.
+This data analyst position at Fever was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

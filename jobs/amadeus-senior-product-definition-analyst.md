@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Madrid-Head-Office/Senior-Product-Definition-Analyst_R33504-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Pune/Senior-Product-Definition-Analyst_R36468-1) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-03-17.
+This data analyst position at Amadeus was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

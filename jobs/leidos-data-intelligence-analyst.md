@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Fort Worth, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Intelligence-Analyst_R-00188584) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Data-Intelligence-Analyst_R-00188867) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-08-01.
+This data analyst position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

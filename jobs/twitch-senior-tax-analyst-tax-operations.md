@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twitch](https://scoutify.ai/companies/twitch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8458022002) |
+| Location | San Francisco, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8687968002) |
 
 ## About This Role
 
-This corporate finance position at Twitch was posted on 2026-03-10.
+This data analyst position at Twitch was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

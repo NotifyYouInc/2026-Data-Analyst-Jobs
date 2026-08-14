@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior-Specialist---Instrument-Modelling_J68342-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior-Specialist---Instrument-Modelling_J68341) |
 
 ## About This Role
 
-This corporate finance position at Fil was posted on 2026-06-04.
+This data analyst position at Fil was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

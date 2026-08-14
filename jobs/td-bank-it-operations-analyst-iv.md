@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Operations-Analyst-IV_R_1500708-1) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Operations-Analyst-IV_R_1502867) |
 
 ## About This Role
 
-This data analyst position at TD Bank was posted on 2026-07-23.
+This it & systems administration position at TD Bank was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

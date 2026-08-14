@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Houston, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Trust-Reporting-Analyst_2026-0022403) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/Trust-Reporting-Analyst_2026-0023111-1) |
 
 ## About This Role
 
-This data analyst position at U.S. Bank was posted on 2026-07-30.
+This data analyst position at U.S. Bank was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

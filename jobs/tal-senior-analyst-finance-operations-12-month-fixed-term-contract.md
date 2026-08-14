@@ -5,12 +5,12 @@
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000137367829-senior-analyst-finance-operations-12-month-fixed-term-contract) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000142044494-senior-analyst-finance-operations-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This data analyst position at TAL was posted on 2026-07-13.
+This data analyst position at TAL was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

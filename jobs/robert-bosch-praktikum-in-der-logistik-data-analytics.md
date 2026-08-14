@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lohr am Main, Bavaria, Germany |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141716839-praktikum-in-der-logistik-data-analytics) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141914929-praktikum-in-der-logistik-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-08-05.
+This data analyst position at Robert Bosch was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

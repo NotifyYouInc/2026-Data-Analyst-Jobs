@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Pune/Product-Definition-Analyst-4_R36020-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-4_R36096-2) |
 
 ## About This Role
 
-This data analyst position at Amadeus was posted on 2026-07-28.
+This data analyst position at Amadeus was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

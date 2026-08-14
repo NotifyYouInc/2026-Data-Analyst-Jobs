@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malaysia |
-| Category | Data Analyst |
+| Category | Leadership Development Program |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Graduate-Trainee---Marketing---Communication--Business-Campaign---Analytics-_JR0000024692) |
 
 ## About This Role
 
-This data analyst position at Hong Leong Bank was posted on 2026-08-06.
+This leadership development program position at Hong Leong Bank was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

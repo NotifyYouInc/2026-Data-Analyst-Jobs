@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Malaysia |
-| Category | ESG / Sustainability |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000117567837-sustainability-data-energy-analyst) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000142056627-sustainability-data-energy-analyst) |
 
 ## About This Role
 
-This esg / sustainability position at SanDisk was posted on 2026-03-30.
+This data analyst position at SanDisk was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

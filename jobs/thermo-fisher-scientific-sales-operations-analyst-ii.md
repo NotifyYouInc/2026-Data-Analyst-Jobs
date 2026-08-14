@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | Hillsboro, Oregon, United States |
 | Category | Operations |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-New-York-USA/Sales-Operations-Analyst-II_R-01360991) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Sales-Operations-Analyst-II_R-01361288-1) |
 
 ## About This Role
 
-This operations position at Thermo Fisher Scientific was posted on 2026-07-31.
+This operations position at Thermo Fisher Scientific was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

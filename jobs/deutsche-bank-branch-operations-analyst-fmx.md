@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Lisbon-Rua-Castilho-20/Branch-Operations-Analyst--f-m-x-_R0378804) |
+| Location | Luxembourg, Luxembourg, Luxembourg |
+| Category | Data Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Luxembourg-2-Blvd-K-Adenauer/Branch-Operations-Analyst--f-m-x-_R0441404-1) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-05-07.
+This data analyst position at Deutsche Bank was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Intermediate-Application-Specialist_R238560) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Intermediate-Application-Specialist_R255435) |
 
 ## About This Role
 
-This data analyst position at Advocate Health was posted on 2026-05-18.
+This data analyst position at Advocate Health was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

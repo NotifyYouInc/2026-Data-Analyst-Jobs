@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poznań, Greater Poland, Poland |
-| Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000141217000-junior-financial-reporting-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000141885734-junior-financial-reporting-analyst) |
 
 ## About This Role
 
-This accounting position at O-I Glass was posted on 2026-08-03.
+This data analyst position at O-I Glass was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Horizonmedia](https://scoutify.ai/companies/horizonmedia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Senior-Analyst--Analytics_R0017231) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/Los-Angeles-California/Senior-Analyst--Analytics_R0016893) |
 
 ## About This Role
 
-This data analyst position at Horizonmedia was posted on 2026-07-27.
+This data analyst position at Horizonmedia was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

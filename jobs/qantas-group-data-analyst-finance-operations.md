@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001280875-data-analyst-finance-operations) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001293839-data-analyst-finance-operations) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-03.
+This data analyst position at Qantas Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

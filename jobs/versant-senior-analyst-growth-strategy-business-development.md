@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000139133959-senior-analyst-growth-strategy-business-development) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000142044054-senior-analyst-growth-strategy-business-development) |
 
 ## About This Role
 
-This data analyst position at Versant was posted on 2026-07-22.
+This data analyst position at Versant was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

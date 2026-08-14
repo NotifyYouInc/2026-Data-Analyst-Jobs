@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Addepar](https://scoutify.ai/companies/addepar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8548107002) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/addepar1/jobs/8686947002) |
 
 ## About This Role
 
-This data analyst position at Addepar was posted on 2026-05-28.
+This data analyst position at Addepar was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

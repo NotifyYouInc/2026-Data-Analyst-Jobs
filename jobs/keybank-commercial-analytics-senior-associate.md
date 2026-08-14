@@ -1,16 +1,16 @@
-# Commercial Analytics - Senior Associate at KeyBank
+# Commercial Analytics, Senior Associate at KeyBank
 
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Commercial-Analytics---Senior-Associate_R-39191) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Commercial-Analytics--Senior-Associate_R-41353) |
 
 ## About This Role
 
-This data analyst position at KeyBank was posted on 2026-04-27.
+This data analyst position at KeyBank was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

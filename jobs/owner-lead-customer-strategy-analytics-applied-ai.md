@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Owner](https://scoutify.ai/companies/owner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/owner/2113febe-4742-43e5-a7cd-72d754d26cdf) |
+| Category | Data Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/owner/b935695a-b8e3-451b-ac09-6961b5c604d2) |
 
 ## About This Role
 
-This customer success position at Owner was posted on 2026-06-10.
+This data analyst position at Owner was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vila Nova de Gaia, Porto, Portugal |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Vila-Nova-De-Gaia-Portugal/Business-Intelligence-Analyst_JR-023652-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Bangalore-India/Business-Intelligence-Analyst_JR-023746) |
 
 ## About This Role
 
-This data analyst position at Avnet was posted on 2026-08-03.
+This data analyst position at Avnet was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

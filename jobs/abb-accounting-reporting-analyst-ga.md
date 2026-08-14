@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst---GA_JR00042370) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst---GA_JR00042366) |
 
 ## About This Role
 
-This data analyst position at ABB was posted on 2026-07-22.
+This data analyst position at ABB was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

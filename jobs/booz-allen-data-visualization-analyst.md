@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bremerton, Washington, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bremerton-WA/Data-Visualization-Analyst_R0235105) |
+| Location | Lexington Park, Maryland, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Data-Visualization-Analyst_R0246172) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-04.
+This data analyst position at Booz Allen was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

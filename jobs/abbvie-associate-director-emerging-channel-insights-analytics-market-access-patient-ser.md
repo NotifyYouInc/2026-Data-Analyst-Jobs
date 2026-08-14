@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014450876-associate-director-emerging-channel-insights-analytics-market-access-patient-services-remote) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014457555-associate-director-emerging-channel-insights-analytics-market-access-patient-services-remote) |
 
 ## About This Role
 
