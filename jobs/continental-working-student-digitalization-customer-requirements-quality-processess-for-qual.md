@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000141877761-working-student-digitalization-customer-requirements-quality-processess-for-quality-management-mfd-ref98154h) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000142080401-working-student-digitalization-customer-requirements-quality-processess-for-quality-management-mfd-ref98154h) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-08-06.
+This data analyst position at Continental was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

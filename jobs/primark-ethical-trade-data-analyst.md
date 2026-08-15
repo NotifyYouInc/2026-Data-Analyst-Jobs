@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000141516166-ethical-trade-data-analyst) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000142091405-ethical-trade-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Primark was posted on 2026-08-04.
+This data analyst position at Primark was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fort Bragg, North Carolina, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Strategic-Assessment-and-Influence-Analyst_RQ218157-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Strategic-Assessment-and-Influence-Analyst_RQ225825-1) |
 
 ## About This Role
 
-This strategy & operations position at General Dynamics Information Technology was posted on 2026-04-09.
+This data analyst position at General Dynamics Information Technology was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | ESG / Sustainability |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Quality-and-Governance-Analyst-1_REQ500383) |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Quality-and-Governance-Analyst-1_REQ498023) |
 
 ## About This Role
 
-This esg / sustainability position at JLL was posted on 2026-04-22.
+This data analyst position at JLL was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

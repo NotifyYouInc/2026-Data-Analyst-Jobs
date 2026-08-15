@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Manager-Senior---Marketing---Customer-Analytics_R223059-2) |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/DE---Wilmington-19801/Business-Analytics-Manager-Senior---Marketing---Customer-Analytics_R226920-2) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-05-14.
+This data analyst position at PNC Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Platforms Analyst (National Geographic) at Disney
+# Data Platforms Analyst - National Geographic at Disney
 
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Washington-DC-USA/Data-Platforms-Analyst--National-Geographic-_10149626) |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Washington-DC-USA/Data-Platforms-Analyst---National-Geographic_10157646) |
 
 ## About This Role
 
-This data engineer position at Disney was posted on 2026-05-05.
+This data analyst position at Disney was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

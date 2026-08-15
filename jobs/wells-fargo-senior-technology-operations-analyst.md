@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Technology-Operations-Analyst_R-551402) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Technology-Operations-Analyst_R-565444) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-06-09.
+This data analyst position at Wells Fargo was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

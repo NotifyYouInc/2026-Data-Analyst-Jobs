@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
-| Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/ZAF-Cape-Town---10-Rua-Da-Gama-St-Foreshore-Cape-Town/Insight-Manager_R1736948-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurugram---2nd-3rd-and-4th-Flrs-RMZ-Infinity/Insight-Manager_R1746504) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-06-08.
+This data analyst position at Concentrix was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

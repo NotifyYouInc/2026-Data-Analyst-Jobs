@@ -5,12 +5,12 @@
 | Company | [AB InBev  | Growth Group](https://scoutify.ai/companies/ab-inbev-growth-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8571401002) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8675651002) |
 
 ## About This Role
 
-This data analyst position at AB InBev  | Growth Group was posted on 2026-06-19.
+This data analyst position at AB InBev  | Growth Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

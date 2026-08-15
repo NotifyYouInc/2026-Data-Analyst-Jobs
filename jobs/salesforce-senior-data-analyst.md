@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Senior-Data-Analyst_JR335747-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Senior-Data-Analyst_JR355477) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-04-28.
+This data analyst position at Salesforce was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

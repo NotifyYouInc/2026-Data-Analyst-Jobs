@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Moka, Moka, Mauritius |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000137677310-client-operations-analyst-group-risk-and-compliance) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000142135819-client-operations-analyst-group-risk-and-compliance) |
 
 ## About This Role
 
-This data analyst position at Ocorian was posted on 2026-07-14.
+This data analyst position at Ocorian was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

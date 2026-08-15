@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bolivia |
+| Location | Santa Cruz de la Sierra, Santa Cruz Department, Bolivia |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000136289009-marketing-analyst) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000142223029-marketing-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-07-07.
+This data analyst position at Delivery Hero was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

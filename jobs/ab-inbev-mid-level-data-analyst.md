@@ -1,16 +1,16 @@
-# Mid Level Data Analyst  at AB InBev
+# Mid Level Data Analyst at AB InBev
 
 | Field | Details |
 |-------|---------|
 | Company | [AB InBev](https://scoutify.ai/companies/bees?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bees/jobs/8590379002) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bees/jobs/8675653002) |
 
 ## About This Role
 
-This data analyst position at AB InBev was posted on 2026-07-28.
+This data analyst position at AB InBev was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

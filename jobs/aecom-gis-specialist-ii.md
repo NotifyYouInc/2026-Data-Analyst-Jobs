@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133068689-gis-specialist-ii) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000142173900-gis-specialist-ii) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-06-19.
+This data analyst position at AECOM was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

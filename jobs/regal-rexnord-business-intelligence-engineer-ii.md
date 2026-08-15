@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jiangsu, CN |
-| Category | Data Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Changzhou-City-Jiangsu-China/Business-Intelligence-Engineer-II_R26_00175) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/Business-Intelligence-Engineer-II_R26_03990) |
 
 ## About This Role
 
-This data engineer position at Regal Rexnord was posted on 2026-04-17.
+This data analyst position at Regal Rexnord was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

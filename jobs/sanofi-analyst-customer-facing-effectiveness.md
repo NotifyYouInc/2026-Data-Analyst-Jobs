@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst---Customer-Facing-Effectiveness_R2858540) |
+| Category | Operations |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst---Customer-Facing-Effectiveness_R2866819) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-06-10.
+This operations position at Sanofi was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Brightli](https://scoutify.ai/companies/brightli?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Springfield-MO/Business-Support-Data-Analyst_R-25004) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Springfield-MO/Business-Support-Data-Analyst_R-25690) |
 
 ## About This Role
 
-This data analyst position at Brightli was posted on 2026-06-26.
+This data analyst position at Brightli was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office/Analyst---Operational-Reporting-Enablement_R29061) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office/Analyst---Operational-Reporting-Enablement_R33744) |
 
 ## About This Role
 
-This data analyst position at Allstate was posted on 2026-05-01.
+This data analyst position at Allstate was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

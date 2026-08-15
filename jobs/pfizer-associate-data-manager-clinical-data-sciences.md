@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Associate-Data-Manager--Clinical-Data-Sciences_4960826) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Associate-Data-Manager--Clinical-Data-Sciences_4961707) |
 
 ## About This Role
 
-This data analyst position at Pfizer was posted on 2026-07-17.
+This data analyst position at Pfizer was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

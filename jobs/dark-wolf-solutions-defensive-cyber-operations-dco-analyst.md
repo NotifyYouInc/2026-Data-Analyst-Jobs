@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7758568003) |
+| Location | Ogden, Utah, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7836247003) |
 
 ## About This Role
 
-This security engineer position at Dark Wolf Solutions was posted on 2026-06-01.
+This data analyst position at Dark Wolf Solutions was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

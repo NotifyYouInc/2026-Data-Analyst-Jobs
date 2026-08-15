@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000123446119-workday-reporting-specialist) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000142121509-workday-reporting-specialist) |
 
 ## About This Role
 
-This data analyst position at Syngenta was posted on 2026-04-28.
+This data analyst position at Syngenta was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

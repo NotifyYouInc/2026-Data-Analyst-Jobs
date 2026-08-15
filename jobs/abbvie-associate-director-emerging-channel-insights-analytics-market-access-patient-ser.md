@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014457555-associate-director-emerging-channel-insights-analytics-market-access-patient-services-remote) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014479616-associate-director-emerging-channel-insights-analytics-market-access-patient-services-remote) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-08-05.
+This data analyst position at AbbVie was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
