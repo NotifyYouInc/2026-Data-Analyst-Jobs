@@ -1,16 +1,16 @@
-# Register your interest: Senior Power BI Developer at LinkedIn
+# Senior Data Analyst at Priceline
 
 | Field | Details |
 |-------|---------|
-| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142383518-register-your-interest-senior-power-bi-developer) |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Senior-Data-Analyst_R5777) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-08-08.
+This data analyst position at Priceline was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

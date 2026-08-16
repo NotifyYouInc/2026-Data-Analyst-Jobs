@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000110317926-senior-gl-closing-reporting-analyst) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000142366849-senior-gl-closing-reporting-analyst) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-02-20.
+This data analyst position at Louis Dreyfus was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
