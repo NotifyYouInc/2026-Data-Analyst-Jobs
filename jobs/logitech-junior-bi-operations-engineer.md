@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Chennai-India/Junior-BI-Operations-Engineer_147666) |
 
 ## About This Role
 
-This data analyst position at Logitech was posted on 2026-08-07.
+This data engineer position at Logitech was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

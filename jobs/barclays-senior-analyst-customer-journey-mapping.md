@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/Senior-Analyst---Customer-Journey-Mapping_JR-0000123845-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-08-07.
+This business analyst position at Barclays was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

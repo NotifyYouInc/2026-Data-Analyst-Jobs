@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parachute Health](https://scoutify.ai/companies/parachute-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/parachutehealth/jobs/4932660007) |
 
 ## About This Role
 
-This data analyst position at Parachute Health was posted on 2026-08-07.
+This data engineer position at Parachute Health was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

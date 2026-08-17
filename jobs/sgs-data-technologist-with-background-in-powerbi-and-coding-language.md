@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Las Piñas, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121664546-data-technologist-with-background-in-powerbi-and-coding-language) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000142553159-data-technologist-with-background-in-powerbi-and-coding-language) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-04-20.
+This data analyst position at SGS was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

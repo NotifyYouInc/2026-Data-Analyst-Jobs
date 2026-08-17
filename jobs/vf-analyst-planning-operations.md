@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--MYS--Kuala-Lumpur--KL-Office/Analyst--Planning-Operations_R-20260806-0044-1) |
 
 ## About This Role
 
-This data analyst position at VF was posted on 2026-08-07.
+This business analyst position at VF was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Data Analyst |
+| Category | Privacy & Data Protection |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Marketing-Data-Governance-Lead_R-144551) |
 
 ## About This Role
 
-This data analyst position at Coca-Cola was posted on 2026-08-07.
+This privacy & data protection position at Coca-Cola was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

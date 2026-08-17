@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endurance](https://scoutify.ai/companies/endurance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Purchase, New York, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://endurance.wd103.myworkdayjobs.com/sompointernational/job/Purchase-New-York/Claim-Operations-Analyst_R4370) |
 
 ## About This Role
 
-This data analyst position at Endurance was posted on 2026-08-07.
+This business analyst position at Endurance was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

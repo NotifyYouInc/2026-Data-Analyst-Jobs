@@ -1,16 +1,16 @@
-# Data analyst  (H/F) at Thales
+# Data analyst (H/F) at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Data-analyst---H-F-_R0336964-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Data-analyst--H-F-_R0336939-2) |
 
 ## About This Role
 
-This data analyst position at Thales was posted on 2026-08-06.
+This data analyst position at Thales was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

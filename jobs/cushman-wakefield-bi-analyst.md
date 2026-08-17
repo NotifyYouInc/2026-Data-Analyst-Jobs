@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/BI-Analyst_R290913-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Wework/BI-Analyst_R328024) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-05-06.
+This data analyst position at Cushman & Wakefield was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

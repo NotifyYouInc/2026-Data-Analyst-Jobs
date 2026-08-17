@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Karnataka, IN |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote---IND---Karnataka/Business-Intelligence-Developer_R26_872) |
 
 ## About This Role
 
-This data analyst position at Arctic Wolf was posted on 2026-08-07.
+This data engineer position at Arctic Wolf was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

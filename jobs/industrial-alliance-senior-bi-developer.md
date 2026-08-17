@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Toronto-Ontario/Senior-BI-Developer_JR10025175) |
 
 ## About This Role
 
-This data analyst position at Industrial Alliance was posted on 2026-08-07.
+This data engineer position at Industrial Alliance was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

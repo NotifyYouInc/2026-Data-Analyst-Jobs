@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila/Product-Analyst-II--Loyalty-Solutions-_R36744) |
 
 ## About This Role
 
-This data analyst position at Amadeus was posted on 2026-08-07.
+This business analyst position at Amadeus was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

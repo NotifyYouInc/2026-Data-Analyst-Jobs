@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Securian Financial Group](https://scoutify.ai/companies/hq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint Paul, Minnesota, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Business-Operations-Analyst---Reinsurance-Administration_R-010738-1) |
 
 ## About This Role
 
-This data analyst position at Securian Financial Group was posted on 2026-08-07.
+This business analyst position at Securian Financial Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

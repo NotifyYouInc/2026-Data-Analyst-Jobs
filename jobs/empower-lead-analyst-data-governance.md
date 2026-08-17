@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
+| Category | Privacy & Data Protection |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Analyst-Data-Governance_R0061334-1) |
 
 ## About This Role
 
-This data analyst position at Empower was posted on 2026-08-07.
+This privacy & data protection position at Empower was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

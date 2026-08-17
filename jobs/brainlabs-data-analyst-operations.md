@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brainlabs](https://scoutify.ai/companies/brainlabs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
-| Category | Data Analyst |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainlabs/jobs/4942097101) |
 
 ## About This Role
 
-This data analyst position at Brainlabs was posted on 2026-08-07.
+This data engineer position at Brainlabs was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

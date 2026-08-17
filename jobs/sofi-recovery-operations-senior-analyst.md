@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://sofi.com/careers/job/7835815003?gh_jid=7835815003) |
 
 ## About This Role
 
-This data analyst position at SoFi was posted on 2026-08-07.
+This business analyst position at SoFi was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

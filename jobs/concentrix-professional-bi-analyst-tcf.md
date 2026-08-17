@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-KL-Sentral---NU-Tower-2-Level-21-30-31-38--40/Professional--BI-Analyst--TCF-_R1748299) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur-Nu-Tower-2/Professional--BI-Analyst--TCF-_R1752070) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-08-06.
+This data analyst position at Concentrix was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Coronado, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Coronado/Operations-Analyst-Technician_RQ220895-1) |
+| Location | Fort Bragg, North Carolina, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Operations-Analyst-Technician_RQ225819-2) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-05-31.
+This data analyst position at General Dynamics Information Technology was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
