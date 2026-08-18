@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Analytics---Insights-Associate_34203R-1) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Analytics---Insights-Associate_34485R) |
 
 ## About This Role
 
-This data analyst position at Vizient was posted on 2026-07-15.
+This data analyst position at Vizient was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, AR |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ARG---Buenos-Aires---Munro/Business-Intelligence-Engineer---Senior-Specialist_R411230-1) |
 
 ## About This Role
 
-This data engineer position at Merck was posted on 2026-08-07.
+This data analyst position at Merck was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

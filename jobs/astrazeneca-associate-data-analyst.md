@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate---Data-Analyst_R-256128) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate---Data-Analyst_R-257903-1) |
 
 ## About This Role
 
-This data analyst position at AstraZeneca was posted on 2026-07-15.
+This data analyst position at AstraZeneca was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Data-Strategist_R-00187054-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Data-Strategist_R-00189250) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-07-14.
+This data analyst position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

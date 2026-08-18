@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Building-Analytics-Engineer_WD30276472) |
 
 ## About This Role
 
-This data engineer position at Johnson Controls was posted on 2026-08-10.
+This data analyst position at Johnson Controls was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

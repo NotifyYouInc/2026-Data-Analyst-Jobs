@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Card_R245310-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Card_R248928-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-06-24.
+This data analyst position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

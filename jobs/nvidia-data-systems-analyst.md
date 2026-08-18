@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hsinchu, Taiwan, Taiwan |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Data-Systems-Analyst_JR2020799) |
 
 ## About This Role
 
-This business analyst position at Nvidia was posted on 2026-08-10.
+This data analyst position at Nvidia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

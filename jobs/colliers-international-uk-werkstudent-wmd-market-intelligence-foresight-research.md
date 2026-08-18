@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Düsseldorf, North Rhine-Westphalia, Germany |
+| Location | Frankfurt am Main, Hesse, Germany |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000141928454-werkstudent-wmd-market-intelligence-foresight-research) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000142591340-werkstudent-wmd-market-intelligence-foresight-research) |
 
 ## About This Role
 
-This data analyst position at Colliers International UK was posted on 2026-08-06.
+This data analyst position at Colliers International UK was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

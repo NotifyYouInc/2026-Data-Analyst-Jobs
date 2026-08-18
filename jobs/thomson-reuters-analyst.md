@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | McLean, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst_JREQ196033) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst_JREQ202842) |
 
 ## About This Role
 
-This data analyst position at Thomson Reuters was posted on 2026-06-04.
+This data analyst position at Thomson Reuters was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

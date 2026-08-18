@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kirkland, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVU35UafoKfSdHS5e7VZ5Gk2Qs6PmJlvUgtoGN-PezfBEjsACxwdTM2aoyR_43WofJR_dA39Js_C6Qtl8QFxVxC0HsNy3Os7pjWFhdU05PQHaJxIATIi9QFHgDA9GA%3D%3D_V2&loc=US&title=Business+Intelligence+Developer) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWXzg1mSX0i0hFydI0GaP8zKqBJGldFIYFq5-5De4_kJEjsA1Ny_i8WJduI0n4sS-zPrd4xTqeDtKvEmPjoGWxmwaHDOWISCwFVIsEEe8JsRTfhr8bo--3L2GHibBw%3D%3D_V2&loc=US&title=Business+Intelligence+Developer) |
 
 ## About This Role
 
-This corporate finance position at Google was posted on 2026-06-09.
+This data analyst position at Google was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

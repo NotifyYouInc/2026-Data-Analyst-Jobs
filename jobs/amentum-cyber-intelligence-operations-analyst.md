@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wahiawā, Hawaii, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-HI-Wahiawa/Cyber-Intelligence-Operations-Analyst_R0160834) |
+| Location | Hawaii, US |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-HI-Pearl-Harbor/Cyber-Intelligence-Operations-Analyst_R0167941) |
 
 ## About This Role
 
-This security engineer position at Amentum was posted on 2026-05-07.
+This data analyst position at Amentum was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

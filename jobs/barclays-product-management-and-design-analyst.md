@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Product-Management-and-Design-Analyst_JR-0000091646-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Product-Management-and-Design-Analyst_JR-0000107125) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-05-11.
+This data analyst position at Barclays was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

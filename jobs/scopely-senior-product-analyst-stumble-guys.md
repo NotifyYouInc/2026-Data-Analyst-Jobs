@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Dundee, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5285387008?gh_jid=5285387008) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5384536008?gh_jid=5384536008) |
 
 ## About This Role
 
-This data analyst position at Scopely was posted on 2026-06-30.
+This data analyst position at Scopely was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

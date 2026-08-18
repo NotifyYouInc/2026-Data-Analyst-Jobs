@@ -5,12 +5,12 @@
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/New-York/Sr-Data-Analyst_r20518) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/New-York/Sr-Data-Analyst_r20930) |
 
 ## About This Role
 
-This data analyst position at Criteo was posted on 2026-04-02.
+This data analyst position at Criteo was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

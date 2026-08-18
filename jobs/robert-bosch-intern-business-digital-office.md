@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142109829-intern-business-digital-office) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142785089-intern-business-digital-office) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-08-07.
+This data analyst position at Robert Bosch was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

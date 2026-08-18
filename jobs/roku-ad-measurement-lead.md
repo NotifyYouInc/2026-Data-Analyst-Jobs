@@ -5,12 +5,12 @@
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8000996?gh_jid=8000996) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8119497?gh_jid=8119497) |
 
 ## About This Role
 
-This data analyst position at Roku was posted on 2026-06-11.
+This data analyst position at Roku was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

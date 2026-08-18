@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Senior-Analyst---Insurance-Operations_R_356149) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Senior-Analyst---Insurance-Operations_R_356146) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-08-07.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

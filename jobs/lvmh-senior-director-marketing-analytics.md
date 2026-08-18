@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LVMH](https://scoutify.ai/companies/lvmhperfumescosmetics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LVMHPerfumesCosmetics/744000142184259-senior-director-marketing-analytics) |
 
 ## About This Role
 
-This marketing operations position at LVMH was posted on 2026-08-07.
+This data analyst position at LVMH was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

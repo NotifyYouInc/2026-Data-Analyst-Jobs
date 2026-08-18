@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Senior-Data-Analytics-Consultant_38560) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Senior-Data-Analytics-Consultant_42932) |
 
 ## About This Role
 
-This technology / it consulting position at Guidehouse was posted on 2026-04-17.
+This data analyst position at Guidehouse was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

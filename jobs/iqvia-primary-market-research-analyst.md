@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Product Marketing |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Analyst_R1554092) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mumbai-India/Primary-Market-Research-Analyst_R1553970) |
 
 ## About This Role
 
-This product marketing position at IQVIA was posted on 2026-07-13.
+This data analyst position at IQVIA was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

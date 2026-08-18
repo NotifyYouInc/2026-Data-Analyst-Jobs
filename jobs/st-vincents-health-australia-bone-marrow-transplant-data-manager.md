@@ -5,12 +5,12 @@
 | Company | [St Vincent's Health Australia](https://scoutify.ai/companies/st-vincent-s-health-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://svha.wd3.myworkdayjobs.com/svha_svha/job/NSW---Sydney-CBD-Inner-West-and-Eastern-Suburbs/Bone-Marrow-Transplant-Data-Manager_JR148738) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://svha.wd3.myworkdayjobs.com/svha_svha/job/NSW---Sydney-CBD-Inner-West-and-Eastern-Suburbs/Bone-Marrow-Transplant-Data-Manager_JR150592) |
 
 ## About This Role
 
-This data analyst position at St Vincent's Health Australia was posted on 2026-05-26.
+This data analyst position at St Vincent's Health Australia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

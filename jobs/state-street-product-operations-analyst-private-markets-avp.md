@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Burlington, North Carolina, United States |
-| Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Operations-Analyst--Private-Markets-AVP_R-786886) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Product-Operations-Analyst--Private-Markets-AVP_R-794507-1) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-03-27.
+This data analyst position at State Street was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Analyst |
+| Category | Customer Success |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kuala-Lumpur-Malaysia/Technical-Customer-Support-Analyst_26008506) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-08-10.
+This customer success position at Cigna was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

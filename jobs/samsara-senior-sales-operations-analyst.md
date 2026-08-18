@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Operations |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7555223?gh_jid=7555223) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8103641?gh_jid=8103641) |
 
 ## About This Role
 
-This operations position at Samsara was posted on 2026-04-27.
+This data analyst position at Samsara was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

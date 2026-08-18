@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belfort, Bourgogne, France |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000133517035-flying-doc-hf) |
+| Location | Poissy, Île-de-France, France |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142679474-flying-doc-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN Canada was posted on 2026-06-23.
+This data analyst position at ALTEN Canada was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5160419008) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5365783008) |
 
 ## About This Role
 
-This business analyst position at WPP Media was posted on 2026-04-10.
+This data analyst position at WPP Media was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

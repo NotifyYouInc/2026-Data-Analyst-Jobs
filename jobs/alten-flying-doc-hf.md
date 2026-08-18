@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poissy, Île-de-France, France |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133514432-flying-doc-hf) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142679474-flying-doc-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-06-23.
+This data analyst position at ALTEN was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tennessee, US |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Remote/Product-Analyst-II_JR0151716-1) |
 
 ## About This Role
 
-This business analyst position at McKesson was posted on 2026-08-08.
+This data analyst position at McKesson was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Mumbai-One-World-Center/Senior-Research-Analyst--Flows_R0120641-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Mumbai-One-World-Center/Senior-Research-Analyst--Flows_R0121918) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-07-06.
+This data analyst position at LSEG was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

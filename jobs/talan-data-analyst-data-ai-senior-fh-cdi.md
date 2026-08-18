@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139826969-data-analyst-data-ai-senior-fh-cdi) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000142592809-data-analyst-data-ai-senior-fh-cdi) |
 
 ## About This Role
 
-This data analyst position at Talan was posted on 2026-07-25.
+This data analyst position at Talan was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

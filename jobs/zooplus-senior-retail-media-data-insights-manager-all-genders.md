@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zooplus](https://scoutify.ai/companies/zooplusse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | UX Researcher |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000138355591-senior-retail-media-data-insights-manager-all-genders) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000142645989-senior-retail-media-data-insights-manager-all-genders) |
 
 ## About This Role
 
-This ux researcher position at Zooplus was posted on 2026-07-17.
+This data analyst position at Zooplus was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

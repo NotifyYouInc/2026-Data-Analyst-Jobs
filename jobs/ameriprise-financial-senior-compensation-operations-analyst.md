@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Human Resources / People Ops |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Senior-Compensation-Operations-Analyst_R26_2799) |
+| Location | London, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/London-United-Kingdom/Senior-Compensation-Operations-Analyst_R26_3162-1) |
 
 ## About This Role
 
-This human resources / people ops position at Ameriprise Financial was posted on 2026-07-27.
+This data analyst position at Ameriprise Financial was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

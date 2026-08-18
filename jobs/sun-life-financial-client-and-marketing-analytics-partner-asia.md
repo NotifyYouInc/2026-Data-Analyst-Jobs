@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hong Kong Island, Hong Kong |
-| Category | Marketing Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taikoo-Shing-Hong-Kong-Island/Client-and-Marketing-Analytics-Partner--Asia_JR00126180-4) |
 
 ## About This Role
 
-This marketing operations position at Sun Life Financial was posted on 2026-08-10.
+This data analyst position at Sun Life Financial was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

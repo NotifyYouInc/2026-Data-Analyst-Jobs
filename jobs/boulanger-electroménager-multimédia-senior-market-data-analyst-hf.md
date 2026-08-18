@@ -5,12 +5,12 @@
 | Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lesquin, Hauts-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000140696229-senior-market-data-analyst-hf) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000142786429-senior-market-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at Boulanger Electroménager & Multimédia was posted on 2026-07-30.
+This data analyst position at Boulanger Electroménager & Multimédia was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

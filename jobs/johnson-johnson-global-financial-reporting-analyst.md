@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Global-Financial-Reporting-Analyst_R-088466) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Global-Financial-Reporting-Analyst_R-092414) |
 
 ## About This Role
 
-This accounting position at Johnson & Johnson was posted on 2026-07-31.
+This data analyst position at Johnson & Johnson was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

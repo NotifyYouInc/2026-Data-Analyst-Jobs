@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Market-Analytics-Manager_R4042398-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Market-Analytics-Manager_R4044900-1) |
 
 ## About This Role
 
-This business analyst position at GE HealthCare was posted on 2026-06-16.
+This data analyst position at GE HealthCare was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

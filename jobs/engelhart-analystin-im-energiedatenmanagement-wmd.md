@@ -5,12 +5,12 @@
 | Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8027940) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/7812701) |
 
 ## About This Role
 
-This data analyst position at Engelhart was posted on 2026-06-25.
+This data analyst position at Engelhart was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

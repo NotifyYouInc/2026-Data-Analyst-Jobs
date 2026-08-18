@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7805688?gh_jid=7805688) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8110755?gh_jid=8110755) |
 
 ## About This Role
 
-This business analyst position at Okta was posted on 2026-04-17.
+This data analyst position at Okta was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

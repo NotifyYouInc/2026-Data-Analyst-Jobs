@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Senior-Data-Analyst---Product-Delivery_WD30265408) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hyderabad-Andhra-Pradesh-India/Senior-Data-Analyst---Product-Delivery_WD30276388-1) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-03-26.
+This data analyst position at Johnson Controls was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
