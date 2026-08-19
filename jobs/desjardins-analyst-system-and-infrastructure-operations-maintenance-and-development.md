@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Responsable-assurance-qualit--Guidewire_R2609910) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-d-affaires--Systme-BSA--Guidewire_R2609989) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-08-08.
+This it & systems administration position at Desjardins was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

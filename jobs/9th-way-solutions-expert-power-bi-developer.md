@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [9th Way Solutions](https://scoutify.ai/companies/9th-way-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5222568008) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5386484008) |
 
 ## About This Role
 
-This data engineer position at 9th Way Solutions was posted on 2026-05-15.
+This data analyst position at 9th Way Solutions was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

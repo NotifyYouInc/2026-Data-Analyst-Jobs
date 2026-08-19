@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Customer Success |
+| Category | Data Analyst |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kuala-Lumpur---Corporate/Senior-Analyst-Product-Support_R_361649) |
 
 ## About This Role
 
-This customer success position at Marsh & McLennan Companies was posted on 2026-08-11.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

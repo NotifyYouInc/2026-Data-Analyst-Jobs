@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Investment Banking |
+| Category | Data Analyst |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) |
 
 ## About This Role
 
-This investment banking position at Truist was posted on 2026-08-11.
+This data analyst position at Truist was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

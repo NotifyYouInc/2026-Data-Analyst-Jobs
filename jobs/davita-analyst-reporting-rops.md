@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irvine, California, United States |
+| Location | Brentwood, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/02896---The-Grove-Irvine-Corp-West-Admin/Analyst--Reporting--ROPS-_R0465594) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/02821---Team-Music-City/Analyst--Reporting--ROPS-_R0471620) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-06-25.
+This data analyst position at DaVita was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

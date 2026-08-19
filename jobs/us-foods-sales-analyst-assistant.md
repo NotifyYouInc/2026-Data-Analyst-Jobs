@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [US Foods](https://scoutify.ai/companies/usfoods?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Greensburg, Pennsylvania, United States |
+| Location | Buffalo, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Greensburg-PA/Sales-Analyst-Assistant_R280449-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Buffalo-NY/Sales-Analyst-Assistant_R281452-1) |
 
 ## About This Role
 
-This data analyst position at US Foods was posted on 2026-07-11.
+This data analyst position at US Foods was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

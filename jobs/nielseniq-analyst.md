@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Minnesota, US |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141330170-analyst) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142942540-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-03.
+This data analyst position at NielsenIQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

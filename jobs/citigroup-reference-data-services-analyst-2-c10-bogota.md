@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Reference-Data-Services-Analyst-2---C10---BOGOTA_26978667) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Reference-Data-Services-Analyst-2---C10---BOGOTA_26983651) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-15.
+This data analyst position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

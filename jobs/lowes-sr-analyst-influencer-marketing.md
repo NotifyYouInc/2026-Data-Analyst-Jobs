@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mooresville, North Carolina, United States |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Analyst-Influencer-Marketing_JR-02513545) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Analyst-Influencer-Marketing_JR-02613145) |
 
 ## About This Role
 
-This digital / performance marketing position at Lowe's was posted on 2026-05-27.
+This data analyst position at Lowe's was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

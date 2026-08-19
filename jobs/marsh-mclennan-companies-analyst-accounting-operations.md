@@ -1,16 +1,16 @@
-# Analyst, Accounting Operations at Marsh & McLennan Companies
+# Analyst - Accounting Operations at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kuala-Lumpur---Corporate/Analyst--Accounting-Operations_R_347966) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Analyst---Accounting-Operations_R_359331-1) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-06-11.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

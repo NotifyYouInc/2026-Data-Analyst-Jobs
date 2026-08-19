@@ -5,12 +5,12 @@
 | Company | [Spokane Teachers Credit Union (STCU)](https://scoutify.ai/companies/spokaneteacherscreditunionstcu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Liberty Lake, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/STCU1/744000142520659-financial-reporting-analyst-ii) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/STCU1/744000142896549-financial-reporting-analyst-ii) |
 
 ## About This Role
 
-This data analyst position at Spokane Teachers Credit Union (STCU) was posted on 2026-08-09.
+This data analyst position at Spokane Teachers Credit Union (STCU) was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

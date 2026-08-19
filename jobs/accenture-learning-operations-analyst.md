@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Learning-Operations-Analyst_AIOC-S01656942-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Learning-Operations-Analyst_AIOC-S01660488-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-07-23.
+This data analyst position at Accenture was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

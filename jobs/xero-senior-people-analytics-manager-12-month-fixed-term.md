@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/eba2b57b-e6ba-4e6d-9251-062a60c339fd) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/2090766c-15b1-49f1-88e4-98d7ef013db3) |
 
 ## About This Role
 
-This data analyst position at Xero was posted on 2026-07-24.
+This data analyst position at Xero was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

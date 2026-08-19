@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Defensive-Cyber-Operations-Analyst_R-00178201) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Defensive-Cyber-Operations-Analyst_R-00189268) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-03-12.
+This data analyst position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

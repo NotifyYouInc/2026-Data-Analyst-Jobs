@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Chiyoda, Tokyo, Japan |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Pune-Maharashtra-India/D-A-and-Master-Data-Specialist_R-089368-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Chiyoda-Tokyo-Japan/D-A-and-Master-Data-Specialist_R-091738) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-07-20.
+This data analyst position at Johnson & Johnson was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

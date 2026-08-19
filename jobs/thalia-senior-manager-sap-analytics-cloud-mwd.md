@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thalia](https://scoutify.ai/companies/thaliabchergmbh1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hagen, North Rhine-Westphalia, Germany |
+| Location | Münster, North Rhine-Westphalia, Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000140021401-senior-manager-sap-analytics-cloud-mwd) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000143032229-senior-manager-sap-analytics-cloud-mwd) |
 
 ## About This Role
 
-This data analyst position at Thalia was posted on 2026-07-27.
+This data analyst position at Thalia was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

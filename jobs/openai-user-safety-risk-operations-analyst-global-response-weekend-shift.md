@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/d990222d-ecf1-417f-a248-6e962b5a18e0) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/af508ed6-e657-44df-beb8-3c31ae73492b) |
 
 ## About This Role
 
-This data analyst position at OpenAI was posted on 2026-08-03.
+This data analyst position at OpenAI was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

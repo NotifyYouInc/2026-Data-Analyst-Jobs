@@ -5,12 +5,12 @@
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Data---Insights-Consultant_JR_00139658-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Data---Insights-Consultant_JR_00144299-1) |
 
 ## About This Role
 
-This data analyst position at Rabobank was posted on 2026-04-29.
+This data analyst position at Rabobank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Baltimore-MD/Treasury-Sales-Analyst_R0117401) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Iselin-NJ/Treasury-Sales-Analyst_R0117165-1) |
 
 ## About This Role
 
-This treasury & capital markets position at Truist was posted on 2026-07-31.
+This data analyst position at Truist was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

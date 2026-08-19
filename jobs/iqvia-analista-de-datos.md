@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bogota-Colombia/Analista-de-Datos_R1553744) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mexico-City-Mexico/Analista-de-Datos_R1553730) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-06-24.
+This data analyst position at IQVIA was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

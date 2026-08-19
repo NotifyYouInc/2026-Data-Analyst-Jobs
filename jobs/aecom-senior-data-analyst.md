@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140161760-senior-data-analyst) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000142837275-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-07-28.
+This data analyst position at AECOM was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Expert at NielsenIQ
+# Expert  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vadodara, Gujarat, India |
-| Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133020584-expert) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142847829-expert) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-06-19.
+This data analyst position at NielsenIQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

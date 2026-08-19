@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Canadian-Consumer-Credit-Risk-Reporting_R260017988) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Canadian-Consumer-Credit-Risk-Reporting_R260022897) |
 
 ## About This Role
 
-This business analyst position at Bank of Montreal was posted on 2026-06-23.
+This data analyst position at Bank of Montreal was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pennsylvania, US |
-| Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Operations-Analyst-I--Transfer-Agency-Services_R0036919-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Operations-Analyst-I--Transfer-Agency-Services_R0037497-1) |
 
 ## About This Role
 
-This business analyst position at SEI Investments was posted on 2026-06-12.
+This data analyst position at SEI Investments was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

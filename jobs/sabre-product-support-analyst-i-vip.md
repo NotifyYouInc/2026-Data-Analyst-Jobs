@@ -1,16 +1,16 @@
-# Product Support Analyst I VIP at Sabre
+# Product Support Analyst I - VIP at Sabre
 
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Product-Support-Analyst-I-VIP_JR107635) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Product-Support-Analyst-I---VIP_JR108487) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-04-01.
+This data analyst position at Sabre was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

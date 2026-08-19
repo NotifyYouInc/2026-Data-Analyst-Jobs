@@ -5,12 +5,12 @@
 | Company | [ACCEL Schools](https://scoutify.ai/companies/accel-schools?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ohio, US |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/accelschools/jobs/7738480003) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/accelschools/jobs/7855998003) |
 
 ## About This Role
 
-This data analyst position at ACCEL Schools was posted on 2026-05-27.
+This data analyst position at ACCEL Schools was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

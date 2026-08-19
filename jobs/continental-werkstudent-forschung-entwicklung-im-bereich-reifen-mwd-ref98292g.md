@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000142582500-werkstudent-forschung-entwicklung-im-bereich-reifen-mwd-ref98292g) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000142822220-werkstudent-forschung-entwicklung-im-bereich-reifen-mwd-ref98292g) |
 
 ## About This Role
 
-This data analyst position at Continental was posted on 2026-08-10.
+This data analyst position at Continental was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

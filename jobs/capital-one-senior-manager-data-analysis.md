@@ -1,16 +1,16 @@
-# Senior Manager- Data Analysis at Capital One
+# Senior Manager, Data Analysis at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Data-Analysis_R225512-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Data-Analysis_R249018-1) |
 
 ## About This Role
 
-This data analyst position at Capital One was posted on 2026-07-14.
+This data analyst position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

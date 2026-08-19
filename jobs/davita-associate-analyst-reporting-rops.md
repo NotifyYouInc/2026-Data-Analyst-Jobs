@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Federal Way, Washington, United States |
+| Location | Malvern, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Reporting--ROPS-_R0458627) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00760---Team-Liberty-Malvern-Business-Office/Associate-Analyst--Reporting--ROPS-_R0472633) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-05-19.
+This data analyst position at DaVita was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
