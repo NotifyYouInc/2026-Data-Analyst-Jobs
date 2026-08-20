@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | China |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Analyst_JR-68475-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Analyst_JR-69069) |
 
 ## About This Role
 
-This data analyst position at AIA Group was posted on 2026-07-21.
+This data analyst position at AIA Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

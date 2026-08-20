@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trustpilot](https://scoutify.ai/companies/trustpilot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://corporate.trustpilot.com/careers/job/8078990?gh_jid=8078990) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://corporate.trustpilot.com/careers/job/8124332?gh_jid=8124332) |
 
 ## About This Role
 
-This data analyst position at Trustpilot was posted on 2026-08-11.
+This data analyst position at Trustpilot was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

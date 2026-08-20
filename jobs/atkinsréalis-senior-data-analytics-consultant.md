@@ -5,12 +5,12 @@
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBristolThe-Hub/Senior-Data-Analytics-Consultant_R-160236) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBLondonNova-North/Senior-Data-Analytics-Consultant_R-161829) |
 
 ## About This Role
 
-This data analyst position at AtkinsRéalis was posted on 2026-08-10.
+This data analyst position at AtkinsRéalis was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

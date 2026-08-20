@@ -5,12 +5,12 @@
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7782366003) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7858799003) |
 
 ## About This Role
 
-This data analyst position at dunnhumby was posted on 2026-07-03.
+This data analyst position at dunnhumby was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Analytics-and-Modeling-Analyst_R00349384) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Analytics-and-Modeling-Analyst_R00350644) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-08-05.
+This data analyst position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

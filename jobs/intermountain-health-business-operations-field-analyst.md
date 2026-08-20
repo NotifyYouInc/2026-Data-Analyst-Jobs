@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Billings, Montana, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Business-Operations-Field-Analyst_R150958) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Intermountain-Health-LDS-Hospital/Business-Operations-Field-Analyst_R179720) |
 
 ## About This Role
 
-This data analyst position at Intermountain Health was posted on 2026-04-27.
+This data analyst position at Intermountain Health was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

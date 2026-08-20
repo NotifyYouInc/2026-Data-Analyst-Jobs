@@ -5,12 +5,12 @@
 | Company | [ISS | Institutional Shareholder Services](https://scoutify.ai/companies/iss-institutional-shareholder-services?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Makati-City-Philippines/Junior-Data-Analyst---Governance-Data--Open-to-Fresh-Graduates-_JR_9644) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Makati-City-Philippines/Junior-Data-Analyst---Governance-Data--Open-to-Fresh-Graduates-_JR_10327) |
 
 ## About This Role
 
-This data analyst position at ISS | Institutional Shareholder Services was posted on 2026-02-16.
+This data analyst position at ISS | Institutional Shareholder Services was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

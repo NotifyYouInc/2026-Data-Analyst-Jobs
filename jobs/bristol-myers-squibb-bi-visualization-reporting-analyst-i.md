@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/BI-Visualization---Reporting-Analyst-I_R1598742) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/BI-Visualization---Reporting-Analyst-I_R1605314) |
 
 ## About This Role
 
-This data analyst position at Bristol-Myers Squibb was posted on 2026-03-03.
+This data analyst position at Bristol-Myers Squibb was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

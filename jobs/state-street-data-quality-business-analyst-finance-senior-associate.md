@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Data-Quality-Business-Analyst--Finance---Senior-Associate_R-791796) |
+| Category | Data Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Data-Quality-Business-Analyst--Finance---Senior-Associate_R-795974) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-06-05.
+This data analyst position at State Street was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Analyst, Business Analytics at CVS Health
+# Senior Analyst - Business Analytics at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Texas, US |
+| Location | Connecticut, US |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Senior-Analyst--Business-Analytics_R0895129) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Senior-Analyst---Business-Analytics_R0980150) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-04-29.
+This data analyst position at CVS Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

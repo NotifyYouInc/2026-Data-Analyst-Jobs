@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Singapore---Singapore/Specialist--Data-Analytics--Digital---eCommerce-CoA--APAC_R-53039-2026) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Specialist-Data-Analytics-Digital-eCommerce-CoA-APAC/32507) |
 
 ## About This Role
 
-This data analyst position at HARMAN International was posted on 2026-04-29.
+This data analyst position at HARMAN International was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

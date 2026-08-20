@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 5 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst---Bilingual_R265485-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst---Bilingual_R266454) |
 
 ## About This Role
 
-This data analyst position at Uline was posted on 2026-07-15.
+This data analyst position at Uline was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

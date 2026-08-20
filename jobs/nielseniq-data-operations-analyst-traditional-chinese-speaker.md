@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Subang Jaya, Selangor, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142056935-data-operations-analyst-traditional-chinese-speaker) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143221399-data-operations-analyst-traditional-chinese-speaker) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-07.
+This data analyst position at NielsenIQ was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

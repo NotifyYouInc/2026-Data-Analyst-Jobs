@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Statistician-Data-Analyst_RQ220537-2) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Statistician-Data-Analyst_RQ226086-2) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-05-20.
+This data analyst position at General Dynamics Information Technology was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Overland Park, Kansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Senior-Financial-Reporting-Analyst_R2026-1056) |
+| Category | Data Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Senior-Financial-Reporting-Analyst_R2026-1455) |
 
 ## About This Role
 
-This corporate finance position at QTS was posted on 2026-05-20.
+This data analyst position at QTS was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

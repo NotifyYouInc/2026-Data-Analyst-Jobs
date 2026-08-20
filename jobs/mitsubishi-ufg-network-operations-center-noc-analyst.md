@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Network-Operations-Center--NOC--Analyst_10073788-WD-1) |
 
 ## About This Role
 
-This data analyst position at Mitsubishi UFG was posted on 2026-08-11.
+This cybersecurity engineer position at Mitsubishi UFG was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Specialist--Clinical-Data-Reporting_R48587) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Specialist--Clinical-Data-Reporting_R48589-1) |
 
 ## About This Role
 
-This data analyst position at Regeneron was posted on 2026-06-24.
+This data analyst position at Regeneron was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

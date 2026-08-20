@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136013845-analista-de-dados-senior-crm-pme) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000143094871-analista-de-dados-senior-crm-pme) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-07-06.
+This data analyst position at Experian was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Reference Data Management Junior Analyst - APAC shift at Citigroup
+# Reference Data Management Junior Analyst - APAC Shift at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Reference-Data-Management-Junior-Analyst---APAC-shift_26970854) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Reference-Data-Management-Junior-Analyst---APAC-Shift_26984772) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-06-12.
+This data analyst position at Citigroup was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

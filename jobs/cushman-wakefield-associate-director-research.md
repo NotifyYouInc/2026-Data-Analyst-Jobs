@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Sydney/Associate-Director--Research_R328201) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---MYS---Kuala-Lumpur---32-11-Q-Sentral-2A-Jalan-Stesen-Sentral-2-Kuala-Lumpur-Sentral/Associate-Director--Research_R331095) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-08-06.
+This data analyst position at Cushman & Wakefield was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

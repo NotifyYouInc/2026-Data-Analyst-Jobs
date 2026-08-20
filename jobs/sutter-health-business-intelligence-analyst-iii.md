@@ -5,12 +5,12 @@
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Business-Intelligence-Analyst-III_R-134579) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Business-Intelligence-Analyst-III_R-136981-1) |
 
 ## About This Role
 
-This data analyst position at Sutter Health was posted on 2026-07-01.
+This data analyst position at Sutter Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Senior-Analyst--Analytics---Metrics_R-280737) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Senior-Analyst--Analytics---Metrics_R-281522-1) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-07-23.
+This data analyst position at Mastercard was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

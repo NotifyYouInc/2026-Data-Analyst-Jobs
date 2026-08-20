@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Senior-Business-Intelligence-Analyst_JR0151368) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Senior-Business-Intelligence-Analyst_JR0151887) |
 
 ## About This Role
 
-This data analyst position at McKesson was posted on 2026-07-29.
+This data analyst position at McKesson was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

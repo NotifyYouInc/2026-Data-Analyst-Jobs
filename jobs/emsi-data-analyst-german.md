@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Emsi](https://scoutify.ai/companies/economicmodeling?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Poland |
+| Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.lever.co/economicmodeling/9c15705d-8aff-45fb-b845-ac50ae4789a4) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.lever.co/economicmodeling/ed9541ee-f502-4246-8dc2-5bd5cf94b6a1) |
 
 ## About This Role
 
-This data analyst position at Emsi was posted on 2026-04-03.
+This data analyst position at Emsi was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

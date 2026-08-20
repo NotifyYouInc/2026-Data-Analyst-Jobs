@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Analyst_2015069-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst_2019165) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-06-22.
+This data analyst position at Cisco was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

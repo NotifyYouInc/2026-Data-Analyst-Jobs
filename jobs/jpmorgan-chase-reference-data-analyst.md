@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766496) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778561) |
 
 ## About This Role
 
-This data analyst position at JPMorgan Chase was posted on 2026-07-06.
+This data analyst position at JPMorgan Chase was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

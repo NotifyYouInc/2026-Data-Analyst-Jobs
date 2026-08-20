@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBWhitehavenRutherford-House/Data-Analyst_R-155833) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBLondonNova-North/Data-Analyst_R-150863-2) |
 
 ## About This Role
 
-This data analyst position at SNC-Lavalin was posted on 2026-06-15.
+This data analyst position at SNC-Lavalin was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

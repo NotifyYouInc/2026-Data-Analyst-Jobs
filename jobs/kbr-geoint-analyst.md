@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ohio, US |
 | Category | Data Analyst |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/GEOINT-Analyst_R2127937) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/GEOINT-Analyst_R2128132) |
 
 ## About This Role
 
-This data analyst position at KBR was posted on 2026-08-08.
+This data analyst position at KBR was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

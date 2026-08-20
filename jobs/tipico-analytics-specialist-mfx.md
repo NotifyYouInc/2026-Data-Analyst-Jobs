@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malta |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000141886430-analytics-specialist-mfx) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000143038801-analytics-specialist-mfx) |
 
 ## About This Role
 
-This data analyst position at Tipico was posted on 2026-08-06.
+This data analyst position at Tipico was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

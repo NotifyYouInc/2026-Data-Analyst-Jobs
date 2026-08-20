@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Fremont, California, United States |
-| Category | Business Development |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Arizona---Remote---USA/Sr-Sales-Analyst_NX-3601) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-North-Bldg-California---USA/Sr-Sales-Analyst_NX-4281) |
 
 ## About This Role
 
-This business development position at Nextracker was posted on 2026-03-12.
+This data analyst position at Nextracker was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

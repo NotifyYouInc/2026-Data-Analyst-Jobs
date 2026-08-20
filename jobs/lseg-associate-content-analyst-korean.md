@@ -1,16 +1,16 @@
-# Associate Content Analyst-Korean at LSEG
+# Associate Content Analyst (Korean) at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Associate-Content-Analyst-Korean_R0118014-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Associate-Content-Analyst--Korean-_R0120153) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-04-21.
+This data analyst position at LSEG was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

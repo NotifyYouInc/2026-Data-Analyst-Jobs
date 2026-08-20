@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shield AI](https://scoutify.ai/companies/shieldai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.lever.co/shieldai/8e9e5ff8-b706-4c64-8f7e-3102d1e8458c) |
+| Category | Data Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.lever.co/shieldai/f7ab0fef-4b0e-4f3a-8b92-98e1998ae0ad) |
 
 ## About This Role
 
-This software engineer position at Shield AI was posted on 2026-04-14.
+This data analyst position at Shield AI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

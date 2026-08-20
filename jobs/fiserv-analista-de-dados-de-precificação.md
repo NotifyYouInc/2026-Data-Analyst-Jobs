@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sao-Paulo---Paulista-Brazil/Analista-de-Dados-de-Precificao_R-10399672) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sao-Paulo---Paulista-Brazil/Analista-de-Dados-de-Precificao_R-10400491) |
 
 ## About This Role
 
-This data analyst position at Fiserv was posted on 2026-07-28.
+This data analyst position at Fiserv was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Marketing Science Senior Analyst  at Critical Mass
+# Marketing Science, Senior Analyst at Critical Mass
 
 | Field | Details |
 |-------|---------|
 | Company | [Critical Mass](https://scoutify.ai/companies/critical-mass?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Jose, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/8008264) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/8073200) |
 
 ## About This Role
 
-This data analyst position at Critical Mass was posted on 2026-06-26.
+This data analyst position at Critical Mass was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

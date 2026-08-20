@@ -1,16 +1,16 @@
-# Senior Data Analytics Manager at WISE
+# Senior Data Analytics Manager  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000142786399-senior-data-analytics-manager) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143171409-senior-data-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-08-11.
+This data analyst position at WISE was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

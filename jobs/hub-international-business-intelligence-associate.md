@@ -5,12 +5,12 @@
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Norwell, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Norwell-MA/Business-Intelligence-Associate_R0037970) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Norwell-MA/Business-Intelligence-Associate_R0038142) |
 
 ## About This Role
 
-This data analyst position at HUB International was posted on 2026-08-10.
+This data analyst position at HUB International was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

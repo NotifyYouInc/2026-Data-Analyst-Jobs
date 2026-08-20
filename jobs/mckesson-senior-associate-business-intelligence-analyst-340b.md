@@ -5,12 +5,12 @@
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-NC-Cary/Senior-Associate-Business-Intelligence-Analyst---340B_JR0145420) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-NC-Cary/Senior-Associate-Business-Intelligence-Analyst---340B_JR0151291) |
 
 ## About This Role
 
-This data analyst position at McKesson was posted on 2026-04-07.
+This data analyst position at McKesson was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

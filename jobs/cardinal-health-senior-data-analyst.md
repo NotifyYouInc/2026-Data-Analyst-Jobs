@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Data-Analyst_20176509-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Data-Analyst_20185427) |
 
 ## About This Role
 
-This data analyst position at Cardinal Health was posted on 2026-04-29.
+This data analyst position at Cardinal Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
