@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | Millington, Tennessee, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0246622) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Millington-TN/Data-Analyst--Mid_R0246792) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152863) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154850) |
 
 ## About This Role
 
-This data analyst position at Honeywell was posted on 2026-07-20.
+This data analyst position at Honeywell was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

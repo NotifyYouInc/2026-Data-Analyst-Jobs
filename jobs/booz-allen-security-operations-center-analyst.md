@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Security-Operations-Center-Analyst_R0240082) |
+| Location | Columbia, South Carolina, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Columbia-MD/Security-Operations-Center-Analyst_R0246874) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-05-14.
+This data analyst position at Booz Allen was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

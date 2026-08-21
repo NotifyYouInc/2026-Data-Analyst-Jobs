@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Quant Research |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-795339) |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-796023-1) |
 
 ## About This Role
 
-This quant research position at State Street was posted on 2026-07-30.
+This data analyst position at State Street was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

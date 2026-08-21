@@ -1,16 +1,16 @@
-# Jr. Data Analyst  at NielsenIQ
+# Jr. Data Analyst at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137952695-jr-data-analyst) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143326844-jr-data-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-15.
+This data analyst position at NielsenIQ was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

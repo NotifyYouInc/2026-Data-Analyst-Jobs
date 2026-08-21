@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141538900-kyc-operations-senior-analyst-deactivations) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143313400-kyc-operations-senior-analyst-deactivations) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-08-04.
+This data analyst position at WISE was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

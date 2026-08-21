@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7834907) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8128786) |
 
 ## About This Role
 
-This data analyst position at DRW was posted on 2026-06-03.
+This data analyst position at DRW was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

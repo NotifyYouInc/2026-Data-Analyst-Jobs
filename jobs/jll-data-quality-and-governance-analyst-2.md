@@ -1,16 +1,16 @@
-# Data Quality and Governance Analyst-2 at JLL
+# Data Quality and Governance Analyst 2 at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | ESG / Sustainability |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Quality-and-Governance-Analyst-2_REQ504277-1) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Data-Quality-and-Governance-Analyst-2_REQ503569) |
 
 ## About This Role
 
-This esg / sustainability position at JLL was posted on 2026-05-05.
+This data analyst position at JLL was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

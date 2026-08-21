@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Content Marketing |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014051075-senior-data-quaity-support-ii-video-content-analyst-strategist) |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014579535-senior-data-quaity-support-ii-video-content-analyst-strategist) |
 
 ## About This Role
 
-This content marketing position at The Nielsen Company was posted on 2026-07-13.
+This data analyst position at The Nielsen Company was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

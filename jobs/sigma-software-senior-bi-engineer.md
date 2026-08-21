@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000128699499-senior-bi-engineer) |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000143342377-senior-bi-engineer) |
 
 ## About This Role
 
-This data engineer position at Sigma Software was posted on 2026-05-27.
+This data analyst position at Sigma Software was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

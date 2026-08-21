@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Database Administration |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Analyst--IT-Operations_WD222069) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Analyst--IT-Operations_WD225138) |
 
 ## About This Role
 
-This database administration position at FLEX LTD. Flextronics was posted on 2026-05-28.
+This it & systems administration position at FLEX LTD. Flextronics was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

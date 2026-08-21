@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141675389-kyc-operations-senior-analyst-sma) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143255074-kyc-operations-senior-analyst-sma) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-08-05.
+This data analyst position at WISE was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

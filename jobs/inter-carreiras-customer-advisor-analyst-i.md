@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4661481005?gh_jid=4661481005) |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4720700005?gh_jid=4720700005) |
 
 ## About This Role
 
-This customer success position at Inter Carreiras was posted on 2026-02-19.
+This data analyst position at Inter Carreiras was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

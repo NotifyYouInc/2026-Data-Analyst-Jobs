@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Philippines-Manila-One-Le-Grand-Tower-Manila---One-Le-Grand/Research-Analyst_R32876) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Hyderabad-IND/Research-Analyst_R32948) |
 
 ## About This Role
 
-This data analyst position at FactSet was posted on 2026-08-03.
+This data analyst position at FactSet was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Manager--Integrated-Data-Analytics_R207473) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Manager--Integrated-Data-Analytics_R221642) |
 
 ## About This Role
 
-This data analyst position at Corewell Health was posted on 2026-04-22.
+This data analyst position at Corewell Health was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

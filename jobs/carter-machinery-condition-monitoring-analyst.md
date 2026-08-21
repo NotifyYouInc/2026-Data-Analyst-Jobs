@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carter Machinery](https://scoutify.ai/companies/carter-machinery?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Chesapeake, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://recruiting.ultipro.com/car1060crtm/JobBoard/2625b169-13d2-4dbc-a867-a2ef29e59ef2/OpportunityDetail?opportunityId=4be04a2c-974f-4d6b-be93-8e2fe033caa1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://recruiting.ultipro.com/car1060crtm/JobBoard/2625b169-13d2-4dbc-a867-a2ef29e59ef2/OpportunityDetail?opportunityId=6afaad96-23e6-4a9a-976c-74236fc1a9c2) |
 
 ## About This Role
 
-This data analyst position at Carter Machinery was posted on 2026-07-14.
+This data analyst position at Carter Machinery was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/SGP-Singapore-1-Raffles-Quay/Senior-Research-Specialist--Oil_R0120486-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Mumbai-Prism-Towers/Senior-Research-Specialist--Oil_R0119966-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-07-02.
+This data analyst position at LSEG was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

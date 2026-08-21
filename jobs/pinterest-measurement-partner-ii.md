@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7678712) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7480764) |
 
 ## About This Role
 
-This data analyst position at Pinterest was posted on 2026-08-11.
+This data analyst position at Pinterest was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

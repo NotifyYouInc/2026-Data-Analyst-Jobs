@@ -5,12 +5,12 @@
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lawrenceville, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000142642729-business-intelligence-manager) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000143341129-business-intelligence-manager) |
 
 ## About This Role
 
-This data analyst position at National Vision was posted on 2026-08-10.
+This data analyst position at National Vision was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

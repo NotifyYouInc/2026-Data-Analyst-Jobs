@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVpyfbZbUNv6c-Ldhl5E8FfQdH-LDEPgE4DeCnrXUSPlEjsA1Ny_i5i6I9r-dvy283VWcyFv5UNJu8J0gSWwi5CiLex_RjqUzecS-dpqLX_Wyt1sDy3odxCj0822VA%3D%3D_V2&loc=US&title=Senior+Analytical+Lead) |
+| Location | Atlanta, Georgia, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd5BNYTeyWCQQt6Mzs_T1czknJabxXFcRYvStCdufz1lEjsA1Ny_iz_-E3MPhvmO7goNMCn_JXM_RfijH-uyuXRZwTcJh7yQ4q0pZw7-bMBD9k1iD5W7KqejfAoTaA%3D%3D_V2&loc=US&title=Senior+Analytical+Lead) |
 
 ## About This Role
 
-This business analyst position at Google was posted on 2026-06-15.
+This data analyst position at Google was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

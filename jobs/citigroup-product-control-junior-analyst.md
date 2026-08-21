@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Product-Control-Junior-Analyst_26955279) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Product-Control-Junior-Analyst_26985235) |
 
 ## About This Role
 
-This accounting position at Citigroup was posted on 2026-08-03.
+This data analyst position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

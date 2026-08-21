@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7678251) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7678738) |
 
 ## About This Role
 
-This data analyst position at Pinterest was posted on 2026-06-22.
+This data analyst position at Pinterest was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Marketplace Operations Analyst, B2B SaaS (remote in Kazakhstan) at Mirantis
+# Marketplace Operations Analyst - B2B SaaS (remote in Kazakhstan) at Mirantis
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Almaty, Almaty, Kazakhstan |
 | Category | Data Analyst |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000142988929-marketplace-operations-analyst-b2b-saas-remote-in-kazakhstan) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000143187229-marketplace-operations-analyst-b2b-saas-remote-in-kazakhstan) |
 
 ## About This Role
 

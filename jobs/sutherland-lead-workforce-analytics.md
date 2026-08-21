@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barranquilla, Atlántico, Colombia |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000141972639-lead-workforce-analytics) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000143389848-lead-workforce-analytics) |
 
 ## About This Role
 
-This data analyst position at Sutherland was posted on 2026-08-06.
+This data analyst position at Sutherland was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

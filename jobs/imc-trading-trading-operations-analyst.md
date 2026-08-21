@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4874411101) |
+| Location | Hong Kong, Hong Kong |
+| Category | Data Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4951143101) |
 
 ## About This Role
 
-This business analyst position at IMC Trading was posted on 2026-06-02.
+This data analyst position at IMC Trading was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

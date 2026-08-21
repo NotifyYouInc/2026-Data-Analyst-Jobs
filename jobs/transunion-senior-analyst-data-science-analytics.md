@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Senior-Analyst--Data-Science---Analytics_19040326) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Senior-Analyst--Data-Science---Analytics_19041611) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-04-24.
+This data analyst position at TransUnion was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

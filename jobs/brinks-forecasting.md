@@ -5,12 +5,12 @@
 | Company | [Brink's](https://scoutify.ai/companies/brink-s?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Jakarta/FORECASTING_R78094) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Jakarta/FORECASTING_R78511) |
 
 ## About This Role
 
-This data analyst position at Brink's was posted on 2026-08-12.
+This data analyst position at Brink's was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

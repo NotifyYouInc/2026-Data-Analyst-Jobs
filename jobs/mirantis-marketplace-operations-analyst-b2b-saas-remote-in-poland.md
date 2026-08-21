@@ -1,4 +1,4 @@
-# Marketplace Operations Analyst, B2B SaaS (remote in Poland) at Mirantis
+# Marketplace Operations Analyst - B2B SaaS (remote in Poland) at Mirantis
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Poznań, Greater Poland, Poland |
 | Category | Data Analyst |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000143128189-marketplace-operations-analyst-b2b-saas-remote-in-poland) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000143186839-marketplace-operations-analyst-b2b-saas-remote-in-poland) |
 
 ## About This Role
 

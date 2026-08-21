@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Spatial-Data-Manager_R328986) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---VA---Richmond---501-S-5th-Street/Spatial-Data-Manager_R332366) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-07-29.
+This data analyst position at Cushman & Wakefield was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# KYC Operations Analyst at Citigroup
+# KYC Operations Analyst. at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Astana--Kazakhstan/KYC-Operations-Analyst_26978365) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/KYIV-Ukraine/KYC-Operations-Analyst_26984398) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-23.
+This data analyst position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

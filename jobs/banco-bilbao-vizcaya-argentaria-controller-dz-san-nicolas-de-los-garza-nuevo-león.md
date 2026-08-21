@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | García, Nuevo León, Mexico |
-| Category | Data Analyst |
+| Category | Accounting |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/GARZA-GARCA-VALLE-SENA-3785/Controller-DZ--San-Nicolas-de-los-Garza--Nuevo-Len-_JR00109863) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-13.
+This accounting position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Senior-Power-BI-Developer_R-137017) |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Senior-Power-BI-Developer_R-139499) |
 
 ## About This Role
 
-This data engineer position at Ferguson was posted on 2026-05-27.
+This data analyst position at Ferguson was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

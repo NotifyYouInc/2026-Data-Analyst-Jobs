@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Go To Market Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/90820295-8155-43c1-82fd-3d40c8c124a7) |
+| Location | Menlo Park, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/c6034a32-de0f-407f-b9cb-7e05b4d20c99) |
 
 ## About This Role
 
-This go to market engineer position at Snowflake was posted on 2026-07-10.
+This data analyst position at Snowflake was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

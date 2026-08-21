@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Guadalajara/Business-system-data-analyst_R-10065680) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Business-system-data-analyst_R-10065871) |
 
 ## About This Role
 
-This data analyst position at NXP Semiconductors was posted on 2026-07-24.
+This data analyst position at NXP Semiconductors was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
