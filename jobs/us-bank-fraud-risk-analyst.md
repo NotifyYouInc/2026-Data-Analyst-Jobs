@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 8 locations |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Fraud-Risk-Analyst_2026-0022446-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Fraud-Risk-Analyst_2026-0022534) |
 
 ## About This Role
 
-This data analyst position at U.S. Bank was posted on 2026-07-29.
+This data analyst position at U.S. Bank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

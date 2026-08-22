@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-Missouri---St-Louis---Clayton/Data-Management-Analyst_J00176512) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-Missouri---St-Louis---Clayton/Data-Management-Analyst_J00178496) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-04-22.
+This data analyst position at Equifax was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

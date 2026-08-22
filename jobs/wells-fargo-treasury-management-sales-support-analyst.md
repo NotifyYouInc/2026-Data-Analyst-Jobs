@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Treasury-Management-Sales-Support-Analyst_R-563986) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/Treasury-Management-Sales-Support-Analyst_R-567147-1) |
 
 ## About This Role
 
-This data analyst position at Wells Fargo was posted on 2026-08-04.
+This data analyst position at Wells Fargo was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

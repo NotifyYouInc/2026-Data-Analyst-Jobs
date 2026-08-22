@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Physical Therapy](https://scoutify.ai/companies/usphysicaltherapy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990014520956-financial-reporting-analyst) |
+| Category | Accounting |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990014604756-financial-reporting-analyst) |
 
 ## About This Role
 
-This data analyst position at U.S. Physical Therapy was posted on 2026-08-10.
+This accounting position at U.S. Physical Therapy was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | La Jolla, California, United States |
-| Category | Operations |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000141955159-sr-sales-operations-analyst-salesforce-administrator) |
+| Category | Data Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143601959-sr-sales-operations-analyst-salesforce-administrator) |
 
 ## About This Role
 
-This operations position at Renesas Electronics was posted on 2026-08-06.
+This data analyst position at Renesas Electronics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

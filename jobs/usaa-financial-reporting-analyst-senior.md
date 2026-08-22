@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Financial-Reporting-Analyst-Senior_R0117512) |
+| Location | 2 locations |
+| Category | Accounting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Financial-Reporting-Analyst-Senior_R0119914) |
 
 ## About This Role
 
-This corporate finance position at USAA was posted on 2026-05-18.
+This accounting position at USAA was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [City of Philadelphia](https://scoutify.ai/companies/city-of-philadelphia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofphiladelphia/744000126102072-lead-gis-analyst) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofphiladelphia/744000143562589-lead-gis-analyst) |
 
 ## About This Role
 
-This data analyst position at City of Philadelphia was posted on 2026-05-12.
+This data analyst position at City of Philadelphia was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

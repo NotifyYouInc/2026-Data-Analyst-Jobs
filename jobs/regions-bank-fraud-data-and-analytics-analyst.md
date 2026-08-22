@@ -5,12 +5,12 @@
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Fraud-Data-and-Analytics-Analyst_R104627-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Fraud-Data-and-Analytics-Analyst_R105220) |
 
 ## About This Role
 
-This data analyst position at Regions Bank was posted on 2026-08-11.
+This data analyst position at Regions Bank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

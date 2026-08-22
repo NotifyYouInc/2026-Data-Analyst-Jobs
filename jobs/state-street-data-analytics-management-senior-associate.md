@@ -1,16 +1,16 @@
-# Data Analytics & Management - Senior Associate at State Street
+# Data Analytics & Management, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Data Analyst |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Data-Analytics---Management---Senior-Associate_R-784806) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Data-Analytics---Management--Senior-Associate_R-796000) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-03-01.
+This data analyst position at State Street was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

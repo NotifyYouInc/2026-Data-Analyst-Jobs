@@ -1,16 +1,16 @@
-# Sales Operations Semi-Senior Analyst at Accenture
+# Sales Operations | Semi Senior Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires-Parque-Patricios/Sales-Operations-Semi-Senior-Analyst_R00318950) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Data Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires-Parque-Patricios/Sales-Operations---Semi-Senior-Analyst_R00351201) |
 
 ## About This Role
 
-This revenue / sales operations position at Accenture was posted on 2026-04-13.
+This data analyst position at Accenture was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

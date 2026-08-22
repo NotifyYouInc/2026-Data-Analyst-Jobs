@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Waterloo, Wallonia, Belgium |
-| Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Senior-Analyst--Product-Delivery_R-273859) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Senior-Analyst--Product-Delivery_R-286770) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-04-22.
+This data analyst position at Mastercard was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Classification, Standards and Definitions Partner - Job Architecture & Skills at Sanofi
+# Data Classification, Standards and Definitions Partner — Job Architecture & Skills at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Classification--Standards-and-Definitions-Partner---Job-Architecture---Skills_R2866943) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Data-Classification--Standards-and-Definitions-Partner---Job-Architecture---Skills_R2866941) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-07-31.
+This data analyst position at Sanofi was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Sorocaba, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Sales-Analyst_NX-4319) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Sorocaba-Sao-Paulo---BRA/Sales-Analyst_NX-4313) |
 
 ## About This Role
 
-This data analyst position at Nextracker was posted on 2026-07-19.
+This data analyst position at Nextracker was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

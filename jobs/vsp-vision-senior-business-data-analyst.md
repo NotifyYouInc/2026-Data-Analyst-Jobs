@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rancho Cordova, California, United States |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Rancho-Cordova-CA/Senior-Business-Data-Analyst_R-9667) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Business-Data-Analyst_R-9869-1) |
 
 ## About This Role
 
-This data analyst position at VSP Vision was posted on 2026-06-26.
+This data analyst position at VSP Vision was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

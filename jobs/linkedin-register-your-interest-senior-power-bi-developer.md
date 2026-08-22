@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142383518-register-your-interest-senior-power-bi-developer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143534187-register-your-interest-senior-power-bi-developer) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-08-08.
+This data analyst position at LinkedIn was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

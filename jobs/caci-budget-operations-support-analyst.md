@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Budget-Operations---Support-Analyst_325717) |
+| Category | Data Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Budget-Operations---Support-Analyst_330573) |
 
 ## About This Role
 
-This corporate finance position at CACI was posted on 2026-05-05.
+This data analyst position at CACI was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

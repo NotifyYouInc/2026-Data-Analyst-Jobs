@@ -5,12 +5,12 @@
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Edinburgh/Data---Recon-Team-Lead_R11970-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Edinburgh/Data---Recon-Team-Lead_R3107-1) |
 
 ## About This Role
 
-This data analyst position at Clearwateranalytics was posted on 2026-07-15.
+This data analyst position at Clearwateranalytics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

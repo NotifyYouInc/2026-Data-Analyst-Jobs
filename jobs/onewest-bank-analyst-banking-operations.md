@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Analyst---Banking-Operations_24470-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Analyst---Banking-Operations_24789-2) |
 
 ## About This Role
 
-This business analyst position at OneWest Bank was posted on 2026-06-05.
+This data analyst position at OneWest Bank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

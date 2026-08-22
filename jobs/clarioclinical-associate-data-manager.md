@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Costa Rica |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Costa-Rica-Remote/Associate-Data-Manager_R18013) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Budapest/Associate-Data-Manager_R18050) |
 
 ## About This Role
 
-This data analyst position at Clarioclinical was posted on 2026-07-27.
+This data analyst position at Clarioclinical was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

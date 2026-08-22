@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurugram---2nd-3rd-and-4th-Flrs-RMZ-Infinity/Insight-Manager_R1746504) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/SWE-Kalmar---Borgmstaregatan-5/Insight-Manager_R1748359-1) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-08-07.
+This data analyst position at Concentrix was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

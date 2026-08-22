@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Human Resources / People Ops |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000138036169-specialist-people-analytics) |
+| Category | Data Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000143488529-specialist-people-analytics) |
 
 ## About This Role
 
-This human resources / people ops position at Delivery Hero was posted on 2026-07-16.
+This data analyst position at Delivery Hero was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woodward Governor](https://scoutify.ai/companies/woodward?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/IT-Compliance---Product-Security-Analyst_JR111734) |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/IT-Compliance---Product-Security-Analyst_JR112799-1) |
 
 ## About This Role
 
-This security engineer position at Woodward Governor was posted on 2026-06-12.
+This data analyst position at Woodward Governor was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

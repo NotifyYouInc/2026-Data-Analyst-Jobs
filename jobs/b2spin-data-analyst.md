@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [B2Spin](https://scoutify.ai/companies/b2spin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Serbia |
+| Location | Malta |
 | Category | Data Analyst |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/b2spin/7843cfc3-cbe1-4f8b-a3a5-579dcdec0e37) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/b2spin/54bdd699-8879-49e9-8e4b-a6709a80380b) |
 
 ## About This Role
 

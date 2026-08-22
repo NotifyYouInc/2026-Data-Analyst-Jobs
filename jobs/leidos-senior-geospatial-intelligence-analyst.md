@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Senior-Geospatial-Intelligence-Analyst_R-00185492) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Senior-Geospatial-Intelligence-Analyst_R-00189612-1) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-06-17.
+This data analyst position at Leidos was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
