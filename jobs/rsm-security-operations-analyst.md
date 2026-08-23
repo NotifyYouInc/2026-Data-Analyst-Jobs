@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
-| Category | Data Analyst |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Security-Operations-Analyst_JR120671) |
 
 ## About This Role
 
-This data analyst position at RSM was posted on 2026-08-14.
+This soc & incident response position at RSM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

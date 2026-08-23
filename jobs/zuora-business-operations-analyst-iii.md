@@ -1,16 +1,16 @@
-# Quality Assurance, Reporting & Operations Analyst at Fiserv
+# Business Operations Analyst III at Zuora
 
 | Field | Details |
 |-------|---------|
-| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Thāne, Maharashtra, India |
+| Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Foster City, California, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Quality-Assurance--Reporting---Operations-Analyst_R-10399140) |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/8103489?gh_jid=8103489) |
 
 ## About This Role
 
-This data analyst position at Fiserv was posted on 2026-08-15.
+This data analyst position at Zuora was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

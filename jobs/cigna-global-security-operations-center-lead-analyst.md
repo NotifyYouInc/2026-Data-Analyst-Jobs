@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bloomfield, New Jersey, United States |
-| Category | Data Analyst |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Global-Security-Operations-Center---Lead-Analyst_26010012-1) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-08-13.
+This soc & incident response position at Cigna was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
