@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Assoc Sales Comp Admin Analyst at Medtronic
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Gurgaon-Haryana-India/Assoc-Sales-Comp-Admin-Analyst_R74255-1) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at Medtronic was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

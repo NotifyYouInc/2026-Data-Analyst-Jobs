@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466005/business-intelligence-engineer-flex-analytics) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503259/business-intelligence-engineer-flex-analytics) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-07-06.
+This data analyst position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

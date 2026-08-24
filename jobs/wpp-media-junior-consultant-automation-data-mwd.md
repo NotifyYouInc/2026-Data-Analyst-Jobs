@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Junior Consultant Automation & Data (m/w/d) at WPP Media
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Vienna, Vienna, Austria |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5390608008) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at WPP Media was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

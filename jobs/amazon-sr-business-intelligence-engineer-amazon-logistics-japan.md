@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Sr. Business Intelligence Engineer, Amazon Logistics Japan at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Tokyo, JP |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503252/sr-business-intelligence-engineer-amazon-logistics-japan) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Specialist, Data Production MM (Fresh Graduates Welcome) at NielsenIQ
+# Intern for Gas Planning and Optimisation in Integrated Hydrocarbon Management PETRONAS at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143745019-senior-specialist-data-production-mm-fresh-graduates-welcome) |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29725) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-17.
+This data analyst position at PETRONAS was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

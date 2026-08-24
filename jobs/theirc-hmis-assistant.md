@@ -1,16 +1,16 @@
-# Senior Product Analyst  at Navan
+# HMIS Assistant at Theirc
 
 | Field | Details |
 |-------|---------|
-| Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Somalia |
 | Category | Data Analyst |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8126660) |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Garowe-Somalia/HMIS-Assistant_JR00004580) |
 
 ## About This Role
 
-This data analyst position at Navan was posted on 2026-08-16.
+This data analyst position at Theirc was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

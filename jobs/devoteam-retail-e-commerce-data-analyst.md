@@ -1,16 +1,16 @@
-# Senior Product Analyst  at Navan
+# Retail & E-Commerce | Data Analyst at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Porto, Porto, Portugal |
 | Category | Data Analyst |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8126660) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000143702688-retail-e-commerce-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Navan was posted on 2026-08-16.
+This data analyst position at Devoteam was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

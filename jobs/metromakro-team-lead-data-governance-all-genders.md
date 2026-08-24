@@ -1,16 +1,16 @@
-# Senior Product Analyst  at Navan
+# Team Lead Data Governance (all genders) at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
-| Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Data Analyst |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8126660) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000143689209-team-lead-data-governance-all-genders) |
 
 ## About This Role
 
-This data analyst position at Navan was posted on 2026-08-16.
+This data analyst position at METRO/MAKRO was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

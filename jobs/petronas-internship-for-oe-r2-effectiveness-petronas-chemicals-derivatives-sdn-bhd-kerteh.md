@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Internship for OE R2 Effectiveness, PETRONAS Chemicals Derivatives Sdn. Bhd., Kerteh, Terengganu at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Terengganu, MY |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29635) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at PETRONAS was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

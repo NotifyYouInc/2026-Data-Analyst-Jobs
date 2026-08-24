@@ -1,16 +1,16 @@
-# IND-Associate Analyst at Lowe's
+# Senior Insights Analyst at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
-| Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst_JR-02610165) |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Insights-Analyst_JREQ202700) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-08-17.
+This data analyst position at Thomson Reuters was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000143295877-analyst-trust-safety-operations) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000143470720-analyst-trust-safety-operations) |
 
 ## About This Role
 
-This data analyst position at Cint was posted on 2026-08-13.
+This data analyst position at Cint was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

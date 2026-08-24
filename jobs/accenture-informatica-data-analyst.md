@@ -1,16 +1,16 @@
-# Senior Specialist, Data Production MM (Fresh Graduates Welcome) at NielsenIQ
+# Informatica Data Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143745019-senior-specialist-data-production-mm-fresh-graduates-welcome) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Vertical-Corp-Tower-B/CPM-Developer_14272631) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-17.
+This data analyst position at Accenture was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

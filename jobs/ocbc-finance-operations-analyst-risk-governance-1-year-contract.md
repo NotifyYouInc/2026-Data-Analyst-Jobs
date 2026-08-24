@@ -1,16 +1,16 @@
-# Senior Research Specialist, Oil at LSEG
+# Finance Operations Analyst-Risk & Governance (1 year Contract) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/SGP-Singapore-1-Raffles-Quay/Senior-Research-Specialist--Oil_R0120490-1) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Finance-Operations-Analyst-Risk---Governance--1-year-Contract-_JR00010248) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-08-17.
+This data analyst position at OCBC was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

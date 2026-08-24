@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Analytics & Insights Team Lead at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Vietnam |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Ho-Chi-Minh-City-Area/Analytics---Insights-Team-Lead_JR80989) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at UOB Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

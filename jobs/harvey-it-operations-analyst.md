@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | IT & Systems Administration |
+| Category | Data Analyst |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/harvey/88905094-1b46-41e1-a88a-cae239431b04) |
 
 ## About This Role
 
-This it & systems administration position at Harvey was posted on 2026-08-13.
+This data analyst position at Harvey was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

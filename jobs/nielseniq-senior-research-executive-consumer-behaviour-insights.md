@@ -1,12 +1,12 @@
-# Senior Specialist, Data Production MM (Fresh Graduates Welcome) at NielsenIQ
+# Senior Research Executive, Consumer & Behaviour Insights at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143745019-senior-specialist-data-production-mm-fresh-graduates-welcome) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143737449-senior-research-executive-consumer-behaviour-insights) |
 
 ## About This Role
 

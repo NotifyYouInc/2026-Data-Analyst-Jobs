@@ -1,16 +1,16 @@
-# IND-Associate Analyst at Lowe's
+# Account and Reporting Analyst - Intercompany at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Accounting |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst_JR-02610165) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Account-and-Reporting-Analyst---Intercompany_JR00042554) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-08-17.
+This accounting position at ABB was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ISS | Institutional Shareholder Services](https://scoutify.ai/companies/iss-institutional-shareholder-services?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Mumbai-India/Junior-Data-Analyst_JR_10054) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Mumbai-India/Junior-Data-Analyst_JR_10252) |
 
 ## About This Role
 
-This data analyst position at ISS | Institutional Shareholder Services was posted on 2026-07-09.
+This data analyst position at ISS | Institutional Shareholder Services was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

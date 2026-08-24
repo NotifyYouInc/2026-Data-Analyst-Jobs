@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Senior Analytics Manager (Geo and IoT) at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143742259-senior-analytics-manager-geo-and-iot) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at Grab was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

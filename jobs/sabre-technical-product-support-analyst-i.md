@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Technical Product Support Analyst I at Sabre
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Uruguay |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Technical-Product-Support-Analyst-I_JR108540) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at Sabre was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

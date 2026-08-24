@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Financial Analyst IV - FP&A Technology & Data at M&T Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Buffalo, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Financial-Analyst-IV---FP-A-Technology---Data_R88923-1) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at M&T Bank was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

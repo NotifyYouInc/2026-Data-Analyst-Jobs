@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# Yield Analyst Associate  at carsales
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000143703609-yield-analyst-associate) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at carsales was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

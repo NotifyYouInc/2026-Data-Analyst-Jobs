@@ -5,12 +5,12 @@
 | Company | [Bloomberg Industry Group](https://scoutify.ai/companies/bloomberg-industry-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Data-Analytics-Manager--Senior_141178) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Data-Analytics-Manager--Senior_143340) |
 
 ## About This Role
 
-This data analyst position at Bloomberg Industry Group was posted on 2026-03-30.
+This data analyst position at Bloomberg Industry Group was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

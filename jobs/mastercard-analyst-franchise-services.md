@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Analyst--Franchise-Services_R-274440) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Analyst--Franchise-Services_R-287899) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-04-16.
+This data analyst position at Mastercard was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

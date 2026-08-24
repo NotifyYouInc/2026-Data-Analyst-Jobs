@@ -1,16 +1,16 @@
-# Senior Campaign Analyst at Qantas Group
+# GC Sales Finance PART Analyst at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001318377-senior-campaign-analyst) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675943/gc-sales-finance-part-analyst) |
 
 ## About This Role
 
-This data analyst position at Qantas Group was posted on 2026-08-17.
+This data analyst position at Apple was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

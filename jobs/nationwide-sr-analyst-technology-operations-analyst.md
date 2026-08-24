@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | IT & Systems Administration |
+| Category | Data Analyst |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Analyst--Technology-Operations-Analyst_099505-1) |
 
 ## About This Role
 
-This it & systems administration position at Nationwide was posted on 2026-08-14.
+This data analyst position at Nationwide was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
