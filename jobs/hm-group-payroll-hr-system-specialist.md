@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
 | Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000137441499-payroll-hr-system-specialist) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000143827669-payroll-hr-system-specialist) |
 
 ## About This Role
 
-This accounting position at H&M Group was posted on 2026-07-13.
+This accounting position at H&M Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

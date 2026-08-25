@@ -5,12 +5,12 @@
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/India---Chennai/Associate-STEM-Content-Analyst---Polymer_JREQ135432-2) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/India---Chennai/Associate-STEM-Content-Analyst---Polymer_JREQ136108-1) |
 
 ## About This Role
 
-This data analyst position at Clarivate was posted on 2026-07-06.
+This data analyst position at Clarivate was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LVMH](https://scoutify.ai/companies/lvmhperfumescosmetics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jersey City, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LVMHPerfumesCosmetics/744000135406329-analyst-global-forecasting) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LVMHPerfumesCosmetics/744000143922079-analyst-global-forecasting) |
 
 ## About This Role
 
-This data analyst position at LVMH was posted on 2026-07-02.
+This data analyst position at LVMH was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

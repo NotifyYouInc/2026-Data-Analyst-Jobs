@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ogden, Utah, United States |
+| Location | Birmingham, Alabama, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Ogden-UT-USA/BI-Data-Analyst_R26_0000025462) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/BI-Data-Analyst_R26_0000027053) |
 
 ## About This Role
 
-This data analyst position at Genuine Parts Company was posted on 2026-08-11.
+This data analyst position at Genuine Parts Company was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

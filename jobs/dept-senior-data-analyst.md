@@ -1,16 +1,16 @@
-# Senior, Data Analyst at DEPT®
+# Senior Data Analyst at DEPT®
 
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Argentina |
+| Location | Buenos Aires, AR |
 | Category | Data Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7977411) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8137736) |
 
 ## About This Role
 
-This data analyst position at DEPT® was posted on 2026-06-02.
+This data analyst position at DEPT® was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

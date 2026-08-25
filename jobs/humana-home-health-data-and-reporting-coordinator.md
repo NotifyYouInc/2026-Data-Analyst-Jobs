@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Miramar, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Miramar-FL/Home-Health-Data-and-Reporting-Coordinator_R-419014) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Miramar-FL/Home-Health-Data-and-Reporting-Coordinator_R-427059) |
 
 ## About This Role
 
-This data analyst position at Humana was posted on 2026-06-12.
+This data analyst position at Humana was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

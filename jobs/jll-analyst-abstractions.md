@@ -1,16 +1,16 @@
-# Analyst - Abstractions at JLL
+# Analyst- Abstractions at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst---Abstractions_REQ513280) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst--Abstractions_REQ528603) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-07-06.
+This data analyst position at JLL was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

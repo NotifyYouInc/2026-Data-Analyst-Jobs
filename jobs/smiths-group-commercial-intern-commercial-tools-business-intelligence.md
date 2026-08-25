@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Slough, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009-commercial-intern-commercial-tools-business-intelligence) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899-commercial-intern-commercial-tools-business-intelligence) |
 
 ## About This Role
 
-This data analyst position at Smiths Group was posted on 2026-07-28.
+This data analyst position at Smiths Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

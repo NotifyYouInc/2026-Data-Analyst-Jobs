@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Manager---Metrics--Analytics---Reporting_R_339698) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Manager---Metrics--Analytics---Reporting_R_357137) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-05-13.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

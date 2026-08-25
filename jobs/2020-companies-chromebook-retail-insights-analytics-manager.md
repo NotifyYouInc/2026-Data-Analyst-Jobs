@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Austin-TX/Chromebook-Retail-Insights---Analytics-Manager_REQ_109134) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Dallas-TX/Chromebook-Retail-Insights---Analytics-Manager_REQ_110787) |
 
 ## About This Role
 
-This business analyst position at 2020 Companies was posted on 2026-07-29.
+This data analyst position at 2020 Companies was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

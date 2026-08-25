@@ -1,16 +1,16 @@
-# Senior Product Analyst at Delivery Hero
+# (Senior) Product Analyst at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139096244-senior-product-analyst) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000143985069-senior-product-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-07-22.
+This data analyst position at Delivery Hero was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

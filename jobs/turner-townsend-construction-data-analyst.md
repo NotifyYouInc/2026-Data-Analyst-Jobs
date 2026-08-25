@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000140283262-construction-data-analyst) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000143931729-construction-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Turner & Townsend was posted on 2026-07-28.
+This data analyst position at Turner & Townsend was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

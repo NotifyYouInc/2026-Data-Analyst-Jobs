@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beaverton, Oregon, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Analyst--Product-Finance_R-88347-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Analyst--Product-Finance_R-89937) |
 
 ## About This Role
 
-This data analyst position at Nike was posted on 2026-07-20.
+This data analyst position at Nike was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

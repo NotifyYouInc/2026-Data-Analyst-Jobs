@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000139922118-power-bi-reporting-pune) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000143823570-power-bi-reporting-pune) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-07-27.
+This data analyst position at WNS was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

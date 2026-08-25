@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_DetKorp_Katowice-ul-Sokolska-34/Expert---Data-Analyst_PB_AS_0258197) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Warszawa-ul-Puawska-2/Expert---Data-Analyst_REQ-10119789) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-07-15.
+This data analyst position at ING was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

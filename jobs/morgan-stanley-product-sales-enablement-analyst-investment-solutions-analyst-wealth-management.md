@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Product-Sales-Enablement-Analyst--Investment-Solutions--Analyst--Wealth-Management_PT-JR037558) |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Product-Sales-Enablement-Analyst--Investment-Solutions--Analyst--Wealth-Management_PT-JR042429) |
 
 ## About This Role
 
-This corporate finance position at Morgan Stanley was posted on 2026-05-20.
+This data analyst position at Morgan Stanley was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

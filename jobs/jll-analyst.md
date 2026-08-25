@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Analyst_REQ520760) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Analyst_REQ520762) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-07-22.
+This data analyst position at JLL was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7480764) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8107389) |
 
 ## About This Role
 
-This data analyst position at Pinterest was posted on 2026-08-13.
+This data analyst position at Pinterest was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

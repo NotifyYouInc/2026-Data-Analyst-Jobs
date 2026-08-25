@@ -5,12 +5,12 @@
 | Company | [KordaMentha](https://scoutify.ai/companies/kordamentha?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001259358-associate-forensic-data-analytics) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kordamentha/6000000001323163-associate-forensic-data-analytics) |
 
 ## About This Role
 
-This data analyst position at KordaMentha was posted on 2026-07-26.
+This data analyst position at KordaMentha was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

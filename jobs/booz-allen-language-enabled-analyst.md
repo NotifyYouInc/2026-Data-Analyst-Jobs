@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ohio, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wright-Patterson-AFB-OH/Language-Enabled-Analyst_R0244589-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Language-Enabled-Analyst_R0247109) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-07-16.
+This data analyst position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

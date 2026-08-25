@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Business-Intelligence-Consultant_R-529556) |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Business-Intelligence-Consultant_R-567877) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-03-26.
+This data analyst position at Wells Fargo was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

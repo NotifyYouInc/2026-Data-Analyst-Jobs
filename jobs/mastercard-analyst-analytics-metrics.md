@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Purchase, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Analyst--Analytics---Metrics_R-280386) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Analyst--Analytics---Metrics_R-288069) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-06-16.
+This data analyst position at Mastercard was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

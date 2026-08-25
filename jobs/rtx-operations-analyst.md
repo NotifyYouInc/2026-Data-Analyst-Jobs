@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Westford, Massachusetts, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Operations-Analyst_01850746) |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Operations-Analyst_01867596) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-06-08.
+This data analyst position at RTX was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

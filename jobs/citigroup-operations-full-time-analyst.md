@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Leadership Development Program |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Operations-Full-Time-Analyst_26977880) |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Operations-Full-Time-Analyst_26976512) |
 
 ## About This Role
 
-This leadership development program position at Citigroup was posted on 2026-08-07.
+This data analyst position at Citigroup was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

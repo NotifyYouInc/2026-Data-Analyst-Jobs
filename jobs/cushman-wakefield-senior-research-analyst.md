@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Seoul, Seoul, South Korea |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/Senior-Research-Analyst_R331073) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Seoul-Korea-Republic-of/Senior-Research-Analyst_R332276) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-08-12.
+This data analyst position at Cushman & Wakefield was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

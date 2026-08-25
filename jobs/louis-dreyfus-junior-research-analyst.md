@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karachi, Sindh, Pakistan |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000133533079-junior-research-analyst) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000143760080-junior-research-analyst) |
 
 ## About This Role
 
-This data analyst position at Louis Dreyfus was posted on 2026-06-23.
+This data analyst position at Louis Dreyfus was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

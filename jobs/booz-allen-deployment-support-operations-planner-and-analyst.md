@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tacoma, Washington, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tacoma-WA/Deployment-Support-Operations-Planner-and-Analyst_R0236345) |
+| Location | Fort Dix, New Jersey, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Dix-NJ/Deployment-Support-Operations-Planner-and-Analyst_R0246818) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-03-19.
+This data analyst position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

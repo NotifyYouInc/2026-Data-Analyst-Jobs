@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Panchshil/Analyst---Accounting-Operations_R_359331-1) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kuala-Lumpur---Corporate/Analyst---Accounting-Operations_R_361172) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-08-12.
+This accounting position at Marsh & McLennan Companies was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

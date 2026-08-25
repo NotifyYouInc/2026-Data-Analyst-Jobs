@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000134433404-senior-product-analyst-shop-analytics-all-genders) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000143810689-senior-product-analyst-shop-analytics-all-genders) |
 
 ## About This Role
 
-This data analyst position at About You was posted on 2026-06-26.
+This data analyst position at About You was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

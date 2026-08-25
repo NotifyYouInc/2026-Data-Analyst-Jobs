@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montreuil, Île-de-France, France |
-| Category | ESG / Sustainability |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000132401299-consultant-data-gestion-de-patrimoine-et-efficacite-energetique-hf) |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000143845178-consultant-data-gestion-de-patrimoine-et-efficacite-energetique-hf) |
 
 ## About This Role
 
-This esg / sustainability position at Egis was posted on 2026-06-16.
+This data analyst position at Egis was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

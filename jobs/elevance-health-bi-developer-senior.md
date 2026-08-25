@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 6 locations |
-| Category | Data Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/BI-Developer-Senior_JR192987) |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/BI-Developer-Senior_JR204072-1) |
 
 ## About This Role
 
-This data engineer position at Elevance Health was posted on 2026-06-01.
+This data analyst position at Elevance Health was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

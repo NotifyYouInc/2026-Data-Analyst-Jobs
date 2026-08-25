@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4715614005) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4724926005) |
 
 ## About This Role
 
-This data analyst position at INFUSE was posted on 2026-07-15.
+This data analyst position at INFUSE was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

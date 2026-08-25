@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000139941961-crm-data-analyst) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000143993139-crm-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-07-27.
+This data analyst position at Informa was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

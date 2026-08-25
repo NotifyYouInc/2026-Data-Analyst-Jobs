@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FNBO](https://scoutify.ai/companies/firstnational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Sr-Financial---Data-Analyst_R-20260708) |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Sr-Financial---Data-Analyst_R-20261448) |
 
 ## About This Role
 
-This corporate finance position at FNBO was posted on 2026-04-28.
+This data analyst position at FNBO was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

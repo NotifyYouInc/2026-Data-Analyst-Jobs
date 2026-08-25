@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sinch](https://scoutify.ai/companies/ocs-cx-oj97122?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brazil |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://iaings.fa.ocs.oraclecloud.com/jobs/#1203) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://iaings.fa.ocs.oraclecloud.com/jobs/#1002) |
 
 ## About This Role
 
-This data analyst position at Sinch was posted on 2026-07-02.
+This data analyst position at Sinch was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

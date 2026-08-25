@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | Menands, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Buffalo-NY/Hourly-Project-Assistant-II_JR-0002256) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Menands-NY/Hourly-Project-Assistant-II_JR-0002278) |
 
 ## About This Role
 
-This data analyst position at Health Research was posted on 2026-08-12.
+This data analyst position at Health Research was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

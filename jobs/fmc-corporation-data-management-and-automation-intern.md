@@ -5,12 +5,12 @@
 | Company | [FMC Corporation](https://scoutify.ai/companies/fmc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Switzerland |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/Geneva-Switzerland/Data-Management-and-Automation-Intern_R-1586) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/Geneva-Switzerland/Data-Management-and-Automation-Intern_R-2175) |
 
 ## About This Role
 
-This data analyst position at FMC Corporation was posted on 2026-03-24.
+This data analyst position at FMC Corporation was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

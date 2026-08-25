@@ -5,12 +5,12 @@
 | Company | [Jobber](https://scoutify.ai/companies/jobber?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jobber/417ab4a7-cc26-4af5-9da3-72898f0c86be) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jobber/12cd6b75-0dc9-4198-9c5d-98f58fa3f08a) |
 
 ## About This Role
 
-This data analyst position at Jobber was posted on 2026-05-01.
+This data analyst position at Jobber was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

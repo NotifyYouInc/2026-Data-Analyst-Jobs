@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Bucharest/Analytics---Insights-Partner_0000034074) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Istanbul/Analytics---Insights-Partner_0000031980) |
 
 ## About This Role
 
-This data analyst position at LEGO was posted on 2026-04-28.
+This data analyst position at LEGO was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Assoc-Spclst--Clinical-Data-Mgmt_R405891) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Assoc-Spclst--Clinical-Data-Mgmt_R407825) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-07-01.
+This data analyst position at Merck was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tây Ninh, Tay Ninh, Vietnam |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000134710599-data-analyst-demand-and-capacity-planning) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000143979840-data-analyst-demand-and-capacity-planning) |
 
 ## About This Role
 
-This data analyst position at Avery Dennison Corporation was posted on 2026-06-29.
+This data analyst position at Avery Dennison Corporation was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

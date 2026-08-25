@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ovar, Aveiro, Portugal |
+| Location | Braga, Braga, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132519309-data-analyst-fmdiv) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143804029-data-analyst-fmdiv) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-06-17.
+This data analyst position at Robert Bosch was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139572589-senior-marketing-data-analyst-python) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000143805349-senior-marketing-data-analyst-python) |
 
 ## About This Role
 
-This data analyst position at Blend360 was posted on 2026-07-24.
+This data analyst position at Blend360 was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

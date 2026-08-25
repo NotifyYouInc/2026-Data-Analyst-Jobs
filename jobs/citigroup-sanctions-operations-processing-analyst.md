@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York, US |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Sanctions-Operations-Processing-Analyst_26983276) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NIRLON-KNOWLEDGE-PARK-BLOCK-B4-B5/Sanctions-Operations-Processing-Analyst_26934488) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-05.
+This data analyst position at Citigroup was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

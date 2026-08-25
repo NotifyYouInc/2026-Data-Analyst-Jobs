@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Sales-Operations-Analyst_14514210-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Sales-Operations-Analyst_R00351234) |
 
 ## About This Role
 

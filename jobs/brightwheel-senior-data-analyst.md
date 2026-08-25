@@ -5,12 +5,12 @@
 | Company | [Brightwheel](https://scoutify.ai/companies/brightwheel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/brightwheel/c563de5f-b6a2-4e6b-86ad-143a03e2060b) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/brightwheel/f52b8dc4-9805-4e19-a0b3-3da71686ac26) |
 
 ## About This Role
 
-This data analyst position at Brightwheel was posted on 2026-08-12.
+This data analyst position at Brightwheel was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
