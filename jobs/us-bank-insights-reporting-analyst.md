@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Insights---Reporting-Analyst_2026-0010886) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Insights---Reporting-Analyst_2026-0024732) |
 
 ## About This Role
 
-This data analyst position at U.S. Bank was posted on 2026-05-06.
+This data analyst position at U.S. Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

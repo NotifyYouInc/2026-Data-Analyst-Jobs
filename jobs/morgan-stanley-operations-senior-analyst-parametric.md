@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Operations-Senior-Analyst---Parametric_PT-JR041664-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Operations-Senior-Analyst---Parametric_PT-JR041663-1) |
 
 ## About This Role
 
-This data analyst position at Morgan Stanley was posted on 2026-08-11.
+This data analyst position at Morgan Stanley was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

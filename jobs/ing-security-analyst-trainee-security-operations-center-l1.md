@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Katowice, Silesia, Poland |
-| Category | SOC & Incident Response |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Katowice-Zabrska-19/Security-Analyst-Trainee---Security-Operations-Center-L1_REQ-10114456-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Katowice-Zabrska-19/Security-Analyst-Trainee---Security-Operations-Center-L1_REQ-10120103-1) |
 
 ## About This Role
 
-This soc & incident response position at ING was posted on 2026-05-08.
+This data analyst position at ING was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

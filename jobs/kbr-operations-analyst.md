@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Operations-Analyst_R2120639) |
+| Location | Ohio, US |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Operations-Analyst_R2128548) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-03-18.
+This data analyst position at KBR was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

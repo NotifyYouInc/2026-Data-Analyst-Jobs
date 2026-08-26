@@ -5,12 +5,12 @@
 | Company | [Georgetown University Medical Center](https://scoutify.ai/companies/georgetown-university-medical-center?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/Medical-Center/Research-Data-Coordinator-2_JR26510) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/Medical-Center/Research-Data-Coordinator-2_JR26947-1) |
 
 ## About This Role
 
-This data analyst position at Georgetown University Medical Center was posted on 2026-07-22.
+This data analyst position at Georgetown University Medical Center was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

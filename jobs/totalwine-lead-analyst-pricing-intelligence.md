@@ -5,12 +5,12 @@
 | Company | [Totalwine](https://scoutify.ai/companies/totalwine?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Lead-Analyst--Pricing-Intelligence_JR107274) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Lead-Analyst--Pricing-Intelligence_JR108226) |
 
 ## About This Role
 
-This data analyst position at Totalwine was posted on 2026-06-12.
+This data analyst position at Totalwine was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

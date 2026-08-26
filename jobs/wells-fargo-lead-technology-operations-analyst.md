@@ -1,16 +1,16 @@
-# Lead Technology operations Analyst at Wells Fargo
+# Lead Technology Operations Analyst at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Technology-operations-Analyst_R-562102) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Lead-Technology-Operations-Analyst_R-566244) |
 
 ## About This Role
 
-This data analyst position at Wells Fargo was posted on 2026-08-11.
+This data analyst position at Wells Fargo was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

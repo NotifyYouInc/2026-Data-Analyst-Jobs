@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-03-02 |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Supply-Chain-Planning-Analyst--Analytics-_R0000354158) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Caterpillar was posted on 2026-03-02.
+This data analyst position at Caterpillar was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

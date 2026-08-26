@@ -5,12 +5,12 @@
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Colombia |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/6685976003) |
 
 ## About This Role
 
-This data analyst position at Sezzle was posted on 2026-02-23.
+This data analyst position at Sezzle was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

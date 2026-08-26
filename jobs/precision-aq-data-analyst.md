@@ -5,12 +5,12 @@
 | Company | [Precision AQ](https://scoutify.ai/companies/precision-aq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/precisionaq/jobs/5970732004) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/precisionaq/jobs/5809140004) |
 
 ## About This Role
 
-This data analyst position at Precision AQ was posted on 2026-04-21.
+This data analyst position at Precision AQ was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

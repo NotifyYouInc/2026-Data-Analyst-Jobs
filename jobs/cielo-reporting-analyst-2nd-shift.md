@@ -5,12 +5,12 @@
 | Company | [Cielo](https://scoutify.ai/companies/cielo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mandaluyong City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000143230220-reporting-analyst-2nd-shift) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cielo2/744000144003229-reporting-analyst-2nd-shift) |
 
 ## About This Role
 
-This data analyst position at Cielo was posted on 2026-08-13.
+This data analyst position at Cielo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

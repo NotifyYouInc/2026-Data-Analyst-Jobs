@@ -5,12 +5,12 @@
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Know-Your-Customer--KYC--Analyst_R13578) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Know-Your-Customer--KYC--Analyst_R13668) |
 
 ## About This Role
 
-This data analyst position at Western Alliance Bancorporation was posted on 2026-08-08.
+This data analyst position at Western Alliance Bancorporation was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

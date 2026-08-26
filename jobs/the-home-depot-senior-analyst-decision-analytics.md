@@ -1,16 +1,16 @@
-# Senior Analyst - Decision Analytics at The Home Depot
+# Senior Analyst, Decision Analytics at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Analyst---Decision-Analytics_Req177460) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Analyst--Decision-Analytics_Req190160) |
 
 ## About This Role
 
-This data analyst position at The Home Depot was posted on 2026-04-21.
+This data analyst position at The Home Depot was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

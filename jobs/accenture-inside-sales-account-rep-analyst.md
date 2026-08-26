@@ -1,16 +1,16 @@
-# Inside Sales Account Rep Analyst at Accenture
+# Inside Sales Account Rep - Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Sales |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/GA---Atlanta/Inside-Sales-Account-Rep-Analyst_14593453-1) |
+| Location | Heredia, Heredia Province, Costa Rica |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Inside-Sales-Account-Rep---Analyst_R00272785) |
 
 ## About This Role
 
-This sales position at Accenture was posted on 2026-08-03.
+This data analyst position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

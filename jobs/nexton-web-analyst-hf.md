@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Montpellier, Occitanie, France |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000133099876-web-analyst-hf) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000144105609-web-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at Nexton was posted on 2026-06-19.
+This data analyst position at Nexton was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

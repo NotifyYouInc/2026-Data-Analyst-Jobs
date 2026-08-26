@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Sales-Operations-Analyst_R00351234) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Sales-Operations-Analyst_AIOC-S01661412-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-08-14.
+This data analyst position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

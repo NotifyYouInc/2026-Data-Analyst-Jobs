@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Motive](https://scoutify.ai/companies/gomotive?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pakistan |
-| Category | QA Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8483667002) |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8705039002) |
 
 ## About This Role
 
-This qa engineer position at Motive was posted on 2026-04-13.
+This data analyst position at Motive was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

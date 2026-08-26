@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000135022384-management-information-analyst) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000144039505-management-information-analyst) |
 
 ## About This Role
 
-This data analyst position at Legal & General was posted on 2026-06-30.
+This data analyst position at Legal & General was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

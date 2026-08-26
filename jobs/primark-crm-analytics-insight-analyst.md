@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000139047914-crm-analytics-insight-analyst) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000144233919-crm-analytics-insight-analyst) |
 
 ## About This Role
 
-This data analyst position at Primark was posted on 2026-07-22.
+This data analyst position at Primark was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

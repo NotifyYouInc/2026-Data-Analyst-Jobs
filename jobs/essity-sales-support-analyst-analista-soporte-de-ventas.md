@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Medellín, Antioquia, Colombia |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Medellin--Colombia/Sales-Support-Analyst---Analista-Soporte-de-Ventas_Essity261617) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Bogot-Colombia/Sales-Support-Analyst---Analista-Soporte-de-Ventas_Essity263466) |
 
 ## About This Role
 
-This business analyst position at Essity was posted on 2026-04-29.
+This data analyst position at Essity was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

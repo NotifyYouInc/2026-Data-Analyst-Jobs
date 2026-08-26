@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vestmark, Inc.](https://scoutify.ai/companies/vestmark-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wakefield, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vestmark/jobs/7616400) |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vestmark/jobs/8112523) |
 
 ## About This Role
 
-This business analyst position at Vestmark, Inc. was posted on 2026-05-05.
+This data analyst position at Vestmark, Inc. was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

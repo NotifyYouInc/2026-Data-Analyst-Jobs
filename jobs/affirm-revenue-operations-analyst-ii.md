@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7686481003) |
+| Location | Canada |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7871462003) |
 
 ## About This Role
 
-This operations position at Affirm was posted on 2026-04-02.
+This data analyst position at Affirm was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

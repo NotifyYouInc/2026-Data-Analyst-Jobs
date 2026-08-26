@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | United States |
 | Category | Project Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Raleigh-NC-remote/Project-Operations-Analyst_JR-191269-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/United-States-of-America---Remote/Project-Operations-Analyst_JR-206786-2) |
 
 ## About This Role
 
-This project manager position at Baxter International was posted on 2026-03-25.
+This project manager position at Baxter International was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

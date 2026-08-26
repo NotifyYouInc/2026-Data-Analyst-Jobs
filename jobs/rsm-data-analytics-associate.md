@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Minneapolis/Data-Analytics-Associate_JR120658) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/Data-Analytics-Associate_JR120673) |
 
 ## About This Role
 
-This data analyst position at RSM was posted on 2026-08-12.
+This data analyst position at RSM was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

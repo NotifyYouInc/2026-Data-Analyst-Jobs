@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Audit-Analytics-Specialist_R159361-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-LONDON-245-HAMMERSMITH-ROAD/Audit-Analytics-Specialist_R168133) |
 
 ## About This Role
 
-This data analyst position at Baker Hughes was posted on 2026-05-27.
+This data analyst position at Baker Hughes was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

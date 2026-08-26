@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-200--300/Business-Intelligence-Developer-Senior_JR198839) |
+| Location | 6 locations |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Business-Intelligence-Developer-Senior_JR204211) |
 
 ## About This Role
 
-This data engineer position at Elevance Health was posted on 2026-07-29.
+This data analyst position at Elevance Health was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

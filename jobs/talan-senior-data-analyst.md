@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141471070-senior-data-analyst) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000144070430-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Talan was posted on 2026-08-04.
+This data analyst position at Talan was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.eu.lever.co/seb/7d921d26-4cc0-4d60-9d46-35b508d7920e) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.eu.lever.co/seb/6d5871c3-1532-465f-a4ed-2f10ac1d5cdd) |
 
 ## About This Role
 
-This data analyst position at SEB bankas was posted on 2026-04-22.
+This data analyst position at SEB bankas was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

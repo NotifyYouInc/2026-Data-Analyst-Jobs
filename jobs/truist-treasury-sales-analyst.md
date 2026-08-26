@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Iselin-NJ/Treasury-Sales-Analyst_R0117165-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Treasury-Sales-Analyst_R0117982) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-08-11.
+This data analyst position at Truist was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Agibank](https://scoutify.ai/companies/agibank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5350162008) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5381349008) |
 
 ## About This Role
 
-This data analyst position at Agibank was posted on 2026-07-17.
+This data analyst position at Agibank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

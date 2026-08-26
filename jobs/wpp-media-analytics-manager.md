@@ -1,16 +1,16 @@
-# Analytics, Manager at WPP Media
+# Analytics Manager at WPP Media
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5174383008) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5389236008) |
 
 ## About This Role
 
-This data analyst position at WPP Media was posted on 2026-04-13.
+This data analyst position at WPP Media was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

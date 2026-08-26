@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Procure-to-Pay-Operations-Senior-Analyst_AIOC-S01643730-1) |
+| Location | Jaipur, Rajasthan, India |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Procure-to-Pay-Operations-Senior-Analyst_AIOC-S01661452-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-07.
+This accounting position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lake Mary, Florida, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Operations-Analyst--Equity-Clearing-Restricted-Securities_R_1477521) |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Operations-Analyst--Equity-Clearing-Restricted-Securities_R_1499390) |
 
 ## About This Role
 
-This business analyst position at TD Bank was posted on 2026-04-21.
+This data analyst position at TD Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

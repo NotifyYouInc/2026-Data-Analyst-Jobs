@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Yokohama, Kanagawa, Japan |
+| Location | Southfield, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Yokohama-Kanagawa-JP/Sales-Analyst_R00248901) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Southfield-Michigan-US/Sales-Analyst_R00257132) |
 
 ## About This Role
 
-This data analyst position at Magna was posted on 2026-06-25.
+This data analyst position at Magna was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

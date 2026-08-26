@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4666808005?gh_jid=4666808005) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4723996005?gh_jid=4723996005) |
 
 ## About This Role
 
-This data analyst position at Inter Carreiras was posted on 2026-04-28.
+This data analyst position at Inter Carreiras was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
