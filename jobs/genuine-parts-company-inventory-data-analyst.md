@@ -5,12 +5,12 @@
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Birmingham, Alabama, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Inventory-Data-Analyst_R26_0000013130) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Inventory-Data-Analyst_R26_0000025998) |
 
 ## About This Role
 
-This data analyst position at Genuine Parts Company was posted on 2026-05-01.
+This data analyst position at Genuine Parts Company was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

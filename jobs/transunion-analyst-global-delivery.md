@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chennai/Analyst--Global-Delivery_19041420) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chennai/Analyst--Global-Delivery_19041491) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-08-18.
+This data analyst position at TransUnion was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

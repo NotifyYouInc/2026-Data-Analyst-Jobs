@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8101595) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8143295) |
 
 ## About This Role
 
-This data analyst position at Coupang was posted on 2026-08-04.
+This data analyst position at Coupang was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

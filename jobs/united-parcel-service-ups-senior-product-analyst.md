@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
-| Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-Product-Analyst_R26001028) |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Senior-Product-Analyst_R26026099) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-02-12.
+This data analyst position at United Parcel Service (UPS) was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

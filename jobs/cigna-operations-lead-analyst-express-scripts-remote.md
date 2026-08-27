@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Operations-Lead-Analyst---Express-Scripts---Remote_26002808-1) |
+| Location | Minnesota, US |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Minnesota-Work-at-Home/Operations-Lead-Analyst---Express-Scripts---Remote_26009781-1) |
 
 ## About This Role
 
-This business analyst position at Cigna was posted on 2026-04-15.
+This data analyst position at Cigna was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

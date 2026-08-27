@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Financial Crimes & AML |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Fraud-Data-Analyst_R113827) |
+| Location | New York, US |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Georgia/Fraud-Data-Analyst_R117024) |
 
 ## About This Role
 
-This financial crimes & aml position at ChoicePoint was posted on 2026-06-22.
+This data analyst position at ChoicePoint was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

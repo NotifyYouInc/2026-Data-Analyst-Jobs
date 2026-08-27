@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Analytics---Transformation_R248273-1) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Analytics---Transformation_R249555-1) |
 
 ## About This Role
 
-This strategy & operations position at Capital One was posted on 2026-08-02.
+This data analyst position at Capital One was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

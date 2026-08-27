@@ -1,16 +1,16 @@
-# BI Analyst at Rockwell Automation
+# Bi Analyst at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bogota-Colombia/BI-Analyst_R26-5829) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Noida-India/Bi-Analyst_R26-5236) |
 
 ## About This Role
 
-This data analyst position at Rockwell Automation was posted on 2026-08-06.
+This data analyst position at Rockwell Automation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pennsylvania, US |
-| Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Functional-Product-Analyst_J280744) |
+| Location | Arkansas, US |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Functional-Product-Analyst_J285887) |
 
 ## About This Role
 
-This business analyst position at Highmark Health was posted on 2026-05-06.
+This data analyst position at Highmark Health was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

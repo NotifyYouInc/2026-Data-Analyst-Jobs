@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kuala-Lumpur---Corporate/Senior-Analyst---Accounting-Operations_R_346075) |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kuala-Lumpur---Corporate/Senior-Analyst---Accounting-Operations_R_359003) |
 
 ## About This Role
 
-This corporate finance position at Marsh & McLennan Companies was posted on 2026-04-17.
+This accounting position at Marsh & McLennan Companies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

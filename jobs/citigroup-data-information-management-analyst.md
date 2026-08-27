@@ -1,16 +1,16 @@
-# Data Information Management Analyst at Citigroup
+# Data Information management Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Information-Management-Analyst_26973238) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Information-management-Analyst_26985863-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-02.
+This data analyst position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Lead-Analyst--Channel-Analytics_R168963-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Lead-Analyst--Channel-Analytics_R168975) |
 
 ## About This Role
 
-This digital / performance marketing position at Adobe was posted on 2026-06-04.
+This data analyst position at Adobe was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

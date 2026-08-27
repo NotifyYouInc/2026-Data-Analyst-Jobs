@@ -1,16 +1,16 @@
-# Senior Analyst, HR Operations at Diageo
+# Senior Analyst - HR Operations at Diageo
 
 | Field | Details |
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Human Resources / People Ops |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Senior-Analyst--HR-Operations_JR1127846) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangkok-Thailand/Senior-Analyst---HR-Operations_JR1128694) |
 
 ## About This Role
 
-This human resources / people ops position at Diageo was posted on 2026-07-29.
+This data analyst position at Diageo was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

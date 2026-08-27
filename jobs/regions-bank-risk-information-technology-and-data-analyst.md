@@ -5,12 +5,12 @@
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Risk-Information-Technology-and-Data-Analyst_R104131) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Risk-Information-Technology-and-Data-Analyst_R104491-1) |
 
 ## About This Role
 
-This data analyst position at Regions Bank was posted on 2026-07-13.
+This data analyst position at Regions Bank was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

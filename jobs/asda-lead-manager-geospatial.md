@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asda](https://scoutify.ai/companies/asda?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://asda.wd103.myworkdayjobs.com/asdajobs/job/Asda-House/Lead-Manager---Geospatial_R-102855) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://asda.wd103.myworkdayjobs.com/asdajobs/job/Asda-House/Lead-Manager---Geospatial_R-102937) |
 
 ## About This Role
 
-This data analyst position at Asda was posted on 2026-08-13.
+This data analyst position at Asda was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

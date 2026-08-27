@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Maynard, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Data-Science-Analyst_2011813) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Holmdel-New-Jersey-US/Data-Science-Analyst_2023188) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-04-22.
+This data analyst position at Cisco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Financial-Data-Analyst_R0237155-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Financial-Data-Analyst_R0247424) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-04-03.
+This data analyst position at Booz Allen was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

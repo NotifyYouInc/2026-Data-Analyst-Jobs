@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000140327799-senior-business-intelligence-analyst) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144575877-senior-business-intelligence-analyst) |
 
 ## About This Role
 
-This data analyst position at Flywire was posted on 2026-07-28.
+This data analyst position at Flywire was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

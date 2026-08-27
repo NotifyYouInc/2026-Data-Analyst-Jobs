@@ -1,16 +1,16 @@
-# Senior Associate, Central Monitor, Data Surveillance, Clinical Data Sciences at Pfizer
+# ​​Senior Associate, Central Monitor, Data Surveillance, Clinical Data Sciences​ at Pfizer
 
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Greece |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Argentina---Buenos-Aires/Senior-Associate--Central-Monitor--Data-Surveillance--Clinical-Data-Sciences_4960542) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece---Thessaloniki-Pylaia/XMLNAME---Senior-Associate--Central-Monitor--Data-Surveillance--Clinical-Data-Sciences-_4962195) |
 
 ## About This Role
 
-This data analyst position at Pfizer was posted on 2026-07-10.
+This data analyst position at Pfizer was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

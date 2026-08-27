@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Imus, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Philippines---Remote/Business-Insights-Analyst_R_2607_9124) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/Business-Insights-Analyst_R_2608_10770-1) |
 
 ## About This Role
 
-This data analyst position at TaskUs was posted on 2026-07-15.
+This data analyst position at TaskUs was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

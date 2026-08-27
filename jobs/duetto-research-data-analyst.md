@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duetto Research](https://scoutify.ai/companies/duetto-research?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Worcester, Massachusetts, United States |
+| Location | Worcester, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/duettoresearch/jobs/7708035) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/duettoresearch/jobs/8138628) |
 
 ## About This Role
 
-This data analyst position at Duetto Research was posted on 2026-03-12.
+This data analyst position at Duetto Research was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pennsylvania, US |
-| Category | Business Analyst |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Pennsylvania/Operations-Analyst_R0017840) |
+| Location | Austin, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Austin-TX---Bridgepoint-Parkway/Operations-Analyst_R0017996) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-08-01.
+This data analyst position at CLEAResult was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

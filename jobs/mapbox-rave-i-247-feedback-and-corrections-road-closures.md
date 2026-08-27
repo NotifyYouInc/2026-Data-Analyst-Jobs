@@ -5,12 +5,12 @@
 | Company | [Mapbox](https://scoutify.ai/companies/mapbox?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Minsk, Minsk City, Belarus |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mapbox/684705df-34f6-4dd9-b12a-dbdb3bcf81be) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mapbox/f63b6448-c6c9-4928-98c3-c7336e494c44) |
 
 ## About This Role
 
-This data analyst position at Mapbox was posted on 2026-06-19.
+This data analyst position at Mapbox was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

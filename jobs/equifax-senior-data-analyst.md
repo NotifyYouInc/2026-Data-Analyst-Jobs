@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Senior-Data-Analyst_J00174014) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Senior-Data-Analyst_J00178644) |
 
 ## About This Role
 
-This business analyst position at Equifax was posted on 2026-02-06.
+This data analyst position at Equifax was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Sales |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Pipeline-Development-Analyst-1_JR112659) |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Inside-Sales-Analyst-1_JR120726) |
 
 ## About This Role
 
-This sales position at RSM was posted on 2026-02-15.
+This data analyst position at RSM was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

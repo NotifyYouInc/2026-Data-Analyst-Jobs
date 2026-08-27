@@ -1,16 +1,16 @@
-# Accounting Operations Analyst  at Wabtec
+# Accounting Operations Analyst at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Astana, Astana, Kazakhstan |
 | Category | Accounting |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014379606-accounting-operations-analyst) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014693286-accounting-operations-analyst) |
 
 ## About This Role
 
-This accounting position at Wabtec was posted on 2026-07-31.
+This accounting position at Wabtec was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Business-Intelligence-Analyst_R2624961) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Business-Intelligence-Analyst_R2626654) |
 
 ## About This Role
 
-This data analyst position at Applied Materials was posted on 2026-07-31.
+This data analyst position at Applied Materials was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

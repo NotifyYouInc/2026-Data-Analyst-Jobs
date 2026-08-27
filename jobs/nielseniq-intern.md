@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Guayaquil, Guayas, Ecuador |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137933289-intern) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144590294-intern) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-15.
+This data analyst position at NielsenIQ was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

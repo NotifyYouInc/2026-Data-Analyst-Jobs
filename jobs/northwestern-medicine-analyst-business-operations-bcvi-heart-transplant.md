@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000143332967-analyst-business-operations-bcvi-heart-transplant) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000144367129-analyst-business-operations-bcvi-heart-transplant) |
 
 ## About This Role
 
-This data analyst position at Northwestern Medicine was posted on 2026-08-13.
+This data analyst position at Northwestern Medicine was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

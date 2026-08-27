@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000135248589-tableau-with-sql-developer-immediate-joiner) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000144496901-tableau-with-sql-developer-immediate-joiner) |
 
 ## About This Role
 
-This data analyst position at WNS was posted on 2026-07-01.
+This data analyst position at WNS was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

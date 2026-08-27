@@ -1,16 +1,16 @@
-# Data Analyst at Capco
+# Data analyst at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7946233) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8143432) |
 
 ## About This Role
 
-This data analyst position at Capco was posted on 2026-05-20.
+This data analyst position at Capco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chicago---Regional-Office/Sales-Analyst--Premier-Market_R000109390) |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chicago---Regional-Office/Sales-Analyst--Premier-Market_R000109953) |
 
 ## About This Role
 
-This business analyst position at Guardian Life was posted on 2026-05-21.
+This data analyst position at Guardian Life was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

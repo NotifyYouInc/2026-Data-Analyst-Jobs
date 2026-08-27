@@ -1,16 +1,16 @@
-# Python SQL Business Analytics Analyst at Citigroup
+# Python & SQL Business Analytics Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Python-SQL-Business-Analytics-Analyst_26974114-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Python---SQL-Business-Analytics-Analyst_26986218-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-16.
+This data analyst position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

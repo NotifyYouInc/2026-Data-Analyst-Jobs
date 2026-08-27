@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Growth Marketing |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000133937309-marketing-data-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000144488625-marketing-data-analyst) |
 
 ## About This Role
 
-This growth marketing position at Sutherland was posted on 2026-06-24.
+This data analyst position at Sutherland was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

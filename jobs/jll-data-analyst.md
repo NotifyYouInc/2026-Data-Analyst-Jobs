@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Bristol, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Data-Analyst_REQ529640) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bristol-GBR/Data-Analyst_REQ529719) |
 
 ## About This Role
 

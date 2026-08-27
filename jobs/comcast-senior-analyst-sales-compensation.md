@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Analyst--Sales-Compensation_R434389) |
+| Location | Pennsylvania, US |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Senior-Analyst--Sales-Compensation_R434386) |
 
 ## About This Role
 
-This business analyst position at Comcast was posted on 2026-04-16.
+This data analyst position at Comcast was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

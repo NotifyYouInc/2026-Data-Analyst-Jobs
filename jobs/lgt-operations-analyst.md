@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Melbourne/Operations-Analyst_JR7802-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Melbourne/Operations-Analyst_JR8146) |
 
 ## About This Role
 
-This business analyst position at LGT was posted on 2026-05-29.
+This data analyst position at LGT was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

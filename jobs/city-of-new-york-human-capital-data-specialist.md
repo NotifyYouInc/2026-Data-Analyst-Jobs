@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014241806-human-capital-data-specialist) |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014667966-human-capital-data-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at City of New York was posted on 2026-07-23.
+This data analyst position at City of New York was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manching, Bavaria, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/A400M-Maintenance-Data-Manager--d-m-w-_JR10404287-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/A400M-Maintenance-Data-Manager--d-m-w-_JR10419208-1) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-05-27.
+This data analyst position at Airbus was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

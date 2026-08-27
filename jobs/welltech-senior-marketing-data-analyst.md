@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Welltech](https://scoutify.ai/companies/welltech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ukraine |
+| Location | Romania |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/welltech/e27481e7-05ff-4707-aa47-143b027c5567) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/welltech/fc155a65-b592-4bd0-a44c-7940cf2a7fc2) |
 
 ## About This Role
 
-This data analyst position at Welltech was posted on 2026-08-07.
+This data analyst position at Welltech was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

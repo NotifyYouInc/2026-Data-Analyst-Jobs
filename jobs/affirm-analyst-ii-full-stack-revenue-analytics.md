@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Poland |
-| Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7813362003) |
+| Location | Spain |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7916080003) |
 
 ## About This Role
 
-This software engineer position at Affirm was posted on 2026-07-28.
+This data analyst position at Affirm was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

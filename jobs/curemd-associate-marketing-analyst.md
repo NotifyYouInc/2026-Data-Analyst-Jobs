@@ -1,16 +1,16 @@
-# Associate Marketing Analyst at CureMD
+# Associate Marketing Analyst  at CureMD
 
 | Field | Details |
 |-------|---------|
 | Company | [CureMD](https://scoutify.ai/companies/curemd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lahore, Punjab, Pakistan |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://curemd.wd1.myworkdayjobs.com/curemd/job/Lahore/Associate-Marketing-Analyst_JR102043) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://curemd.wd1.myworkdayjobs.com/curemd/job/Lahore/Associate-Marketing-Analyst-_JR102256) |
 
 ## About This Role
 
-This data analyst position at CureMD was posted on 2026-07-15.
+This data analyst position at CureMD was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

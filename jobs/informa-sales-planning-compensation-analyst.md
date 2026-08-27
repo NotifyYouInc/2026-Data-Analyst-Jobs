@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000139039378-sales-planning-compensation-analyst) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000144254854-sales-planning-compensation-analyst) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-07-22.
+This data analyst position at Informa was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

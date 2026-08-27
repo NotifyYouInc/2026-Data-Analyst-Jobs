@@ -5,12 +5,12 @@
 | Company | [Nordstrom](https://scoutify.ai/companies/nordstrom?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-3--Merchandising-Customer-Insights--Hybrid--Seattle-_R-819659) |
 
 ## About This Role
 
-This data analyst position at Nordstrom was posted on 2026-03-03.
+This data analyst position at Nordstrom was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

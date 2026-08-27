@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cairo, Cairo, Egypt |
-| Category | UX Researcher |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CAIRO-BUSINESS-OFFICE/Analytics---Insights-Manager_R000155224) |
+| Location | Moscow, Moscow, Russia |
+| Category | Data Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Moscow/Analytics---Insights-Manager_R000157385) |
 
 ## About This Role
 
-This ux researcher position at Procter & Gamble was posted on 2026-07-13.
+This data analyst position at Procter & Gamble was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
