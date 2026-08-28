@@ -5,12 +5,12 @@
 | Company | [Flipp](https://scoutify.ai/companies/flipp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flipp/jobs/7688397) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flipp/jobs/8119249) |
 
 ## About This Role
 
-This data analyst position at Flipp was posted on 2026-07-16.
+This data analyst position at Flipp was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

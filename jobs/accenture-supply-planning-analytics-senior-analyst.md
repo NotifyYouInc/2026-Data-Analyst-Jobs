@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Supply-Chain-Plan-Analyt-Analyst_AIOC-S01625839-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Supply-Chain-Plan-Analyt-Analyst_AIOC-S01641645-1) |
 
 ## About This Role
 

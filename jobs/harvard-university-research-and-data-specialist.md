@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014686206-research-and-data-specialist) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014759531-research-and-data-specialist) |
 
 ## About This Role
 
-This data analyst position at Harvard University was posted on 2026-08-19.
+This data analyst position at Harvard University was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

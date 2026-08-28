@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000144245959-insight-analyst-performance-growth-insights) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000144487469-insight-analyst-performance-growth-insights) |
 
 ## About This Role
 
-This data analyst position at Primark was posted on 2026-08-19.
+This data analyst position at Primark was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint-Mandé, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000140280481-data-director-ketchapp) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000144730115-data-director-ketchapp) |
 
 ## About This Role
 
-This data analyst position at Ubisoft was posted on 2026-07-28.
+This data analyst position at Ubisoft was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

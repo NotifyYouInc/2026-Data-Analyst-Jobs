@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Analyst-Data-Analytics-2_R0055764) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Analyst-Data-Analytics_R0059516) |
 
 ## About This Role
 
-This data analyst position at Empower was posted on 2026-03-17.
+This data analyst position at Empower was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

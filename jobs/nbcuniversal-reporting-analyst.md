@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Hollywood, California, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000123538059-reporting-analyst) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144635070-reporting-analyst) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-04-28.
+This data analyst position at NBCUniversal was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

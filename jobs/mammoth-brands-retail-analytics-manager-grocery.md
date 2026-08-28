@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mammoth Brands](https://scoutify.ai/companies/mammoth-brands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mammothbrands/jobs/8137938) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mammothbrands/jobs/8144676) |
 
 ## About This Role
 
-This data analyst position at Mammoth Brands was posted on 2026-08-17.
+This data analyst position at Mammoth Brands was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

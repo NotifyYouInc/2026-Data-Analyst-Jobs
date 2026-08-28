@@ -1,16 +1,16 @@
-# Senior Insight Analyst – Retailer Customer Success Team at NielsenIQ
+# Senior Insight Analyst – Retailer Customer Success Team  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Oxford, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144286619-senior-insight-analyst-retailer-customer-success-team) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144545788-senior-insight-analyst-retailer-customer-success-team) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-19.
+This data analyst position at NielsenIQ was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

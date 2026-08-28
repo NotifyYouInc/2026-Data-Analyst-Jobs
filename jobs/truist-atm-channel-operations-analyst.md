@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/ATM-Channel-Operations-Analyst_R0114852) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Wilson-NC/ATM-Channel-Operations-Analyst_R0118189) |
 
 ## About This Role
 
-This business analyst position at Truist was posted on 2026-05-20.
+This data analyst position at Truist was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

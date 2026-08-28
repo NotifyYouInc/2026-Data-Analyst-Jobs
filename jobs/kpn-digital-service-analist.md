@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000141464699-digital-service-analist) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000144757181-digital-service-analist) |
 
 ## About This Role
 
-This data analyst position at KPN was posted on 2026-08-04.
+This data analyst position at KPN was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

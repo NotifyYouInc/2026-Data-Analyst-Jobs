@@ -5,12 +5,12 @@
 | Company | [Analyticpartners](https://scoutify.ai/companies/analyticpartners?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.lever.co/analyticpartners/644ad602-93f0-4073-b7ee-975d8f08ce82) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/analyticpartners/9524884a-a8b4-4e10-8f5b-011b0191ed68) |
 
 ## About This Role
 
-This data analyst position at Analyticpartners was posted on 2026-04-13.
+This data analyst position at Analyticpartners was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

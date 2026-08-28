@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
-| Category | QA Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Quality-Analyst-III_R10964) |
+| Location | United States |
+| Category | Data Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Quality-Analyst-III_R13502) |
 
 ## About This Role
 
-This qa engineer position at CareSource was posted on 2026-03-17.
+This data analyst position at CareSource was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

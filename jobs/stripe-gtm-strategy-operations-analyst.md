@@ -1,16 +1,16 @@
-# GTM Strategy & Operations Analyst  at Stripe
+# GTM Strategy & Operations Analyst at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7577370) |
+| Location | New York City, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8145119) |
 
 ## About This Role
 
-This operations position at Stripe was posted on 2026-02-13.
+This data analyst position at Stripe was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

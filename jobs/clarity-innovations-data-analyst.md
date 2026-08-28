@@ -5,12 +5,12 @@
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5193464007) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5164710007) |
 
 ## About This Role
 
-This data analyst position at Clarity Innovations was posted on 2026-07-22.
+This data analyst position at Clarity Innovations was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

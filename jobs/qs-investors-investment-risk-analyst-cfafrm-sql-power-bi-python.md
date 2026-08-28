@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Investment-Risk-Analyst--CFA-FRM--SQL--Power-BI--Python-_867931) |
+| Category | Data Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Investment-Risk-Analyst--CFA-FRM--SQL--Power-BI--Python-_869094) |
 
 ## About This Role
 
-This corporate finance position at QS Investors was posted on 2026-05-26.
+This data analyst position at QS Investors was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

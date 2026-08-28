@@ -5,12 +5,12 @@
 | Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Harlow, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000142176319-energy-intelligence-analytics-manager) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000144632000-energy-intelligence-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at O-I Glass was posted on 2026-08-07.
+This data analyst position at O-I Glass was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

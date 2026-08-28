@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Northampton, England, United Kingdom |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Operations-Analyst_JR-0000117226) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Operations-Analyst_JR-0000120064-6) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-07-28.
+This data analyst position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

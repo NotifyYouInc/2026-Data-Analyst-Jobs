@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | San Diego, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200649475/senior-data-analyst-os-stability) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679313/senior-data-analyst-os-stability) |
 
 ## About This Role
 
-This data analyst position at Apple was posted on 2026-03-03.
+This data analyst position at Apple was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

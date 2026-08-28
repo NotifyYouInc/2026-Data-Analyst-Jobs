@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 6 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Analytics-Consultant_R0055120) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Analytics-Consultant_R0055195-1) |
 
 ## About This Role
 
-This data analyst position at HCSC was posted on 2026-08-04.
+This data analyst position at HCSC was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

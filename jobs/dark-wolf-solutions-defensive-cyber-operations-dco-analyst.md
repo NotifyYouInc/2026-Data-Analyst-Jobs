@@ -5,12 +5,12 @@
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ogden, Utah, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7836247003) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7918616003) |
 
 ## About This Role
 
-This data analyst position at Dark Wolf Solutions was posted on 2026-08-07.
+This data analyst position at Dark Wolf Solutions was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7684108) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8129787) |
 
 ## About This Role
 
-This data analyst position at Pure Storage was posted on 2026-03-06.
+This data analyst position at Pure Storage was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

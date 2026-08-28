@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dublin-Molesworth-Street/Corporate-Operations-Senior-Data-Analyst_JR-0000101586) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dublin-Molesworth-Street/Corporate-Operations-Senior-Data-Analyst_JR-0000116330-1) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-04-03.
+This data analyst position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

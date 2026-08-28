@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000143776330-senior-product-analyst) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000144706189-senior-product-analyst) |
 
 ## About This Role
 
-This data analyst position at ASOS was posted on 2026-08-17.
+This data analyst position at ASOS was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

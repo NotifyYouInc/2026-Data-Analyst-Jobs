@@ -5,12 +5,12 @@
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beirut, Beyrouth, Lebanon |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8370107002) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.artefact.com/careers/8042693002?gh_jid=8042693002) |
 
 ## About This Role
 
-This data analyst position at Artefact was posted on 2026-08-19.
+This data analyst position at Artefact was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
