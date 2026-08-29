@@ -1,16 +1,16 @@
-# Senior Clinical Data Risk Analyst at ICON plc
+# Sr. Sales Operations Analyst at Rectangle Health
 
 | Field | Details |
 |-------|---------|
-| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Company | [Rectangle Health](https://scoutify.ai/companies/rectangle-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | St. Petersburg, Florida, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Clinical-Data-Risk-Analyst_JR158576) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rectanglehealth/jobs/5398790008) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-22.
+This data analyst position at Rectangle Health was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

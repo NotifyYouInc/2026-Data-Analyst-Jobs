@@ -1,16 +1,16 @@
-# Senior Clinical Data Risk Analyst at ICON plc
+# Operations Analyst and Project Lead at Nelnet
 
 | Field | Details |
 |-------|---------|
-| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Clinical-Data-Risk-Analyst_JR158576) |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Operations-Analyst-and-Project-Lead_R23001-1) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-22.
+This data analyst position at Nelnet was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

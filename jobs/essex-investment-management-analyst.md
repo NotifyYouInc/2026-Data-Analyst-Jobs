@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Investment Management Analyst at Essex
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Essex](https://scoutify.ai/companies/essex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Irvine, California, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://essex.wd5.myworkdayjobs.com/essexcareers/job/Orange-County---North/Investment-Management-Analyst_R9338) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at Essex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

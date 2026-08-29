@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Technical Operations Analyst at OpenAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/0f78e08a-669d-4d87-960f-518c649e6700) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at OpenAI was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

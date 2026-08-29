@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Learning Development Operations Analyst at WGU
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Learning-Development-Operations-Analyst_JR-025908) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at WGU was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

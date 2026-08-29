@@ -1,16 +1,16 @@
-# Senior Clinical Data Risk Analyst at ICON plc
+# Sr Escrow Data Analyst (On-site) at Newrez
 
 | Field | Details |
 |-------|---------|
-| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Company | [Newrez](https://scoutify.ai/companies/newrez?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Houston, Texas, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Clinical-Data-Risk-Analyst_JR158576) |
+| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Houston/Sr-Escrow-Data-Analyst--On-site-_R10328-1) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-22.
+This data analyst position at Newrez was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

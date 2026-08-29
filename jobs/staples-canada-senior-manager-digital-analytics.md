@@ -1,16 +1,16 @@
-# Senior Clinical Data Risk Analyst at ICON plc
+# Senior Manager, Digital Analytics at Staples Canada
 
 | Field | Details |
 |-------|---------|
-| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Company | [Staples Canada](https://scoutify.ai/companies/ocs-cx-oj100878?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Framingham, Massachusetts, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Clinical-Data-Risk-Analyst_JR158576) |
+| Apply | [View on company site](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#73656) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-22.
+This data analyst position at Staples Canada was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

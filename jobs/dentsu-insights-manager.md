@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Insights Manager at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/London/Insights-Manager_R1129982) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at Dentsu was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

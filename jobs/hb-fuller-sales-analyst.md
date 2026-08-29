@@ -1,16 +1,16 @@
-# Senior Clinical Data Risk Analyst at ICON plc
+# Sales Analyst at H.B. Fuller
 
 | Field | Details |
 |-------|---------|
-| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Company | [H.B. Fuller](https://scoutify.ai/companies/hbfuller?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Santa Fe Springs, California, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Clinical-Data-Risk-Analyst_JR158576) |
+| Apply | [View on company site](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Santa-Fe-Springs-California-USA/Sales-Analyst_R26_0000001863) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-22.
+This data analyst position at H.B. Fuller was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

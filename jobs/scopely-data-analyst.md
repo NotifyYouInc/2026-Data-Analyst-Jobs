@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | California, US |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5226372008?gh_jid=5226372008) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5397611008?gh_jid=5397611008) |
 
 ## About This Role
 
-This data analyst position at Scopely was posted on 2026-06-15.
+This data analyst position at Scopely was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

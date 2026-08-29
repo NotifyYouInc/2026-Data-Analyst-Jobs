@@ -1,16 +1,16 @@
-# College Aide at City of New York
+# Sr. Marketing Sales Analyst at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014782086-college-aide) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014773417-sr-marketing-sales-analyst) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-08-22.
+This data analyst position at The Nielsen Company was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

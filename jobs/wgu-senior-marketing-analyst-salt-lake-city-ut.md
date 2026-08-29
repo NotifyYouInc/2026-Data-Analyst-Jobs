@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Marketing |
-| Posted | 2026-04-08 |
+| Category | Data Analyst |
+| Posted | 2026-08-21 |
 | Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Marketing-Analyst--Salt-Lake-City--UT_JR-024816) |
 
 ## About This Role
 
-This marketing position at WGU was posted on 2026-04-08.
+This data analyst position at WGU was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

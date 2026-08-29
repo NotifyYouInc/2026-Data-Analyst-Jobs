@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Onboarding Analyst, Customer Success at Doxel
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Doxel](https://scoutify.ai/companies/doxel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://jobs.lever.co/doxel/ed1f1f01-26fb-4a6c-a97d-c09e581bef24) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at Doxel was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

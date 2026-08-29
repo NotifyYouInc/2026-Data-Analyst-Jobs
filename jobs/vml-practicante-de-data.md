@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Practicante de Data at VML
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Lima, Lima Province, Peru |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8735600002?gh_jid=8735600002) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at VML was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

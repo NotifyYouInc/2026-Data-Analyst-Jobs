@@ -1,16 +1,16 @@
-# College Aide at City of New York
+# LN Venues, Fan Research & Strategy Analyst at Live Nation
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014782086-college-aide) |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/LN-Venues--Fan-Research---Strategy-Analyst_JR-92559-3) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-08-22.
+This data analyst position at Live Nation was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

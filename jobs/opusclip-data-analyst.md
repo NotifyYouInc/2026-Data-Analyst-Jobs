@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Data Analyst at Opusclip
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Opusclip](https://scoutify.ai/companies/opusclip?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Burnaby, British Columbia, Canada |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opusclip/7dda1449-644f-4b10-a98b-7087d0e684b6) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at Opusclip was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

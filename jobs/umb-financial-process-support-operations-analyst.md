@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Process-Support-Operations-Analyst_R-8539-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Process-Support-Operations-Analyst_R-9312-1) |
 
 ## About This Role
 
-This business analyst position at UMB Financial was posted on 2026-04-30.
+This data analyst position at UMB Financial was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

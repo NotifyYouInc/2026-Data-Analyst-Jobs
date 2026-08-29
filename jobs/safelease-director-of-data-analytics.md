@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Director of Data & Analytics at Safelease
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Safelease](https://scoutify.ai/companies/safelease?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | 2 locations |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/safelease/fe70d9e4-0efe-46d5-99d2-4d3b14c9cc4d) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at Safelease was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

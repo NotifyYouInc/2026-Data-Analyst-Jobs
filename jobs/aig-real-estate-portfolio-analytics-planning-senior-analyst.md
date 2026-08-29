@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Real Estate Portfolio Analytics & Planning, Senior Analyst at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/Portfolio-Analytics-and-Planning-Lead--EMEA---APAC_JR2600791-1) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at AIG was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

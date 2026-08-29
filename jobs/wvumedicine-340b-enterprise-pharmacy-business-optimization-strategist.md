@@ -1,16 +1,16 @@
-# Analyst, Business Product at Ensemble Health Partners
+# 340B Enterprise Pharmacy Business Optimization Strategist at WVUMedicine
 
 | Field | Details |
 |-------|---------|
-| Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [WVUMedicine](https://scoutify.ai/companies/wvumedicine?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Analyst--Business-Product_R047906) |
+| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/XMLNAME-340B-Enterprise-Pharmacy-Business-Optimization-Strategist_JR26-43334) |
 
 ## About This Role
 
-This data analyst position at Ensemble Health Partners was posted on 2026-08-22.
+This data analyst position at WVUMedicine was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

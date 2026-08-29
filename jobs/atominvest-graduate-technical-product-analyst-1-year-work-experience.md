@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Graduate Technical Product Analyst - 1 Year Work Experience at Atominvest
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Atominvest](https://scoutify.ai/companies/atominvest?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/atominvest/2f08831c-f9b1-4de7-812a-46225949a7d9) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at Atominvest was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

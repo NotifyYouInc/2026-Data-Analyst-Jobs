@@ -1,16 +1,16 @@
-# Senior Clinical Data Risk Analyst at ICON plc
+# Assistant Vice President at Golubcapital
 
 | Field | Details |
 |-------|---------|
-| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Company | [Golubcapital](https://scoutify.ai/companies/golubcapital?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Clinical-Data-Risk-Analyst_JR158576) |
+| Apply | [View on company site](https://golubcapital.wd501.myworkdayjobs.com/golub_capital_careers/job/New-York/Assistant-Vice-President_R-12123) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-22.
+This data analyst position at Golubcapital was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

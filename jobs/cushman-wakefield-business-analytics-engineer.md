@@ -1,16 +1,16 @@
-# Analytics and Reporting Analyst (IKC) at DaVita
+# Business Analytics Engineer at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
-| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Analytics-and-Reporting-Analyst--IKC-_R0472634) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Business-Analytics-Engineer_R333091-1) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-08-21.
+This data analyst position at Cushman & Wakefield was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

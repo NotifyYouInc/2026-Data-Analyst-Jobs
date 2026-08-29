@@ -1,16 +1,16 @@
-# Senior Clinical Data Risk Analyst at ICON plc
+# Statistical Analyst at Travere Therapeutics
 
 | Field | Details |
 |-------|---------|
-| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Blue Bell, Pennsylvania, United States |
+| Company | [Travere Therapeutics](https://scoutify.ai/companies/travere?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | San Diego, California, United States |
 | Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Senior-Clinical-Data-Risk-Analyst_JR158576) |
+| Apply | [View on company site](https://travere.wd1.myworkdayjobs.com/traverecareers/job/San-Diego/Statistical-Analyst_R-100943) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-22.
+This data analyst position at Travere Therapeutics was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

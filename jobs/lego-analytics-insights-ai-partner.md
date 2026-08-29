@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Analytics & Insights (A&I) Partner at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Taipei/Senior-Analyst---HR-Operations_JR1128696) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Madrid/Analytics---Insights--A-I--Partner_0000036572) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-21.
+This data analyst position at LEGO was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
