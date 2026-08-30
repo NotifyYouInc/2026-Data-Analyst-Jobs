@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Belk](https://scoutify.ai/companies/belk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Data Analyst |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://belk.wd1.myworkdayjobs.com/careers-corporate/job/Charlotte-NC---Corporate-Office---Merchandising/Digital-Marketing-Analyst--Owned-Media--Hybrid-_JR-104535-1) |
 
 ## About This Role
 
-This data analyst position at Belk was posted on 2026-08-19.
+This digital / performance marketing position at Belk was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

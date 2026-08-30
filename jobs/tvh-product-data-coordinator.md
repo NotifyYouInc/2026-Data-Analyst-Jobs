@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TVH](https://scoutify.ai/companies/tvh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Waregem, Flanders, Belgium |
-| Category | Project Manager |
+| Category | Data Analyst |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Waregem/Product-Data-Coordinator_JR106650) |
 
 ## About This Role
 
-This project manager position at TVH was posted on 2026-08-20.
+This data analyst position at TVH was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

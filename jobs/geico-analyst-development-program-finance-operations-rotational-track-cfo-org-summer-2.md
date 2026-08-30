@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Leadership Development Program |
+| Category | Data Analyst |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Analyst-Development-Program---Finance---Operations-Rotational-Track--CFO-Org-_R0065370) |
 
 ## About This Role
 
-This leadership development program position at Geico was posted on 2026-08-20.
+This data analyst position at Geico was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

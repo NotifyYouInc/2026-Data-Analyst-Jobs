@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Analyst |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Data-Science-and-AI-Specialist_14647096) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-08-20.
+This digital / performance marketing position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

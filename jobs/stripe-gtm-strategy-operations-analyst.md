@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
+| Category | Go To Market Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8145119) |
 
 ## About This Role
 
-This data analyst position at Stripe was posted on 2026-08-20.
+This go to market engineer position at Stripe was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

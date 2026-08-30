@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Project Manager |
+| Category | Marketing Operations |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000144770829-senior-analyst-project-coordinator-marketing-operations) |
 
 ## About This Role
 
-This project manager position at Nagarro was posted on 2026-08-21.
+This marketing operations position at Nagarro was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
