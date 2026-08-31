@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138852686-grabfin-process-management-and-data-analyst-associate) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145128517-grabfin-process-management-and-data-analyst-associate) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-07-21.
+This data analyst position at Grab was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

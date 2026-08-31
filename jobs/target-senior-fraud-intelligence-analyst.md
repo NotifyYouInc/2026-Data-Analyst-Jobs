@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brooklyn Park, Minnesota, United States |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-Fraud-Intelligence-Analyst_R0000448921) |
 
 ## About This Role
 
-This data analyst position at Target was posted on 2026-08-20.
+This cybersecurity engineer position at Target was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

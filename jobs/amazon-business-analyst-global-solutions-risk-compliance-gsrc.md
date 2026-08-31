@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491271/business-analyst-global-solutions-risk-compliance-gsrc) |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10511763/business-analyst-global-solutions-risk-compliance-gsrc) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-08-04.
+This data analyst position at Amazon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vancouver, British Columbia, Canada |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8693315002) |
 
 ## About This Role
 
-This data analyst position at AlphaSense was posted on 2026-08-20.
+This cybersecurity engineer position at AlphaSense was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

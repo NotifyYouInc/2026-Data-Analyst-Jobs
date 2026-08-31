@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst-1_26977890) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/PLOT-NO-1-SNO-77/KYC-Operations-Analyst-1_26987496) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-10.
+This data analyst position at Citigroup was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

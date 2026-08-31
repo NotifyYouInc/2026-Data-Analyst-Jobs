@@ -1,16 +1,16 @@
-# Senior Analyst - Data Scientist at Inizio Ignite | Putnam
+# Senior Analyst, Data Scientist at Inizio Ignite | Putnam
 
 | Field | Details |
 |-------|---------|
-| Company | [Inizio Ignite | Putnam](https://scoutify.ai/companies/inizio-ignite--putnam?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Inizio Ignite | Putnam](https://scoutify.ai/companies/inizio-ignite-putnam?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/putnamassociatesllc/jobs/7471559) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/putnamassociatesllc/jobs/8141030) |
 
 ## About This Role
 
-This data analyst position at Inizio Ignite | Putnam was posted on 2026-04-24.
+This data analyst position at Inizio Ignite | Putnam was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

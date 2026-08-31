@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ogden, Utah, United States |
-| Category | Data Analyst |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-UT-Ogden/Counterintelligence-Information-Operations-Intelligence--CI-IOI--Analyst---Senior_RQ226948-1) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-08-21.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

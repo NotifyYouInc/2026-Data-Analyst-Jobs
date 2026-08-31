@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8166257002) |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8733374002) |
 
 ## About This Role
 
-This business analyst position at Ethos Life was posted on 2026-04-24.
+This data analyst position at Ethos Life was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
