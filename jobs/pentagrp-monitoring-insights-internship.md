@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Pentagrp](https://scoutify.ai/companies/pentagrp-pentagrp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Pentagrp](https://scoutify.ai/companies/pentagrp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.lever.co/pentagrp/765bf2f4-296b-4f42-a58d-d348ea5534c8) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951) |
 
 ## About This Role
 
-This data analyst position at Pentagrp was posted on 2026-04-03.
+This data analyst position at Pentagrp was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

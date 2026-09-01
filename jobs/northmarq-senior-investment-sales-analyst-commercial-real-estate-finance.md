@@ -1,16 +1,16 @@
-# Senior Investment Sales Analyst - Commercial Real Estate Finance  at Northmarq
+# Senior Investment Sales Analyst - Commercial Real Estate Finance at Northmarq
 
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Houston, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5381854008) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5399892008) |
 
 ## About This Role
 
-This data analyst position at Northmarq was posted on 2026-08-06.
+This data analyst position at Northmarq was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

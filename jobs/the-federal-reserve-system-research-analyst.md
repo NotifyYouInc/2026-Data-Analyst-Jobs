@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/Research-Analyst_R-0000032835-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Research-Analyst_R-0000033125-1) |
 
 ## About This Role
 
-This data analyst position at The Federal Reserve System was posted on 2026-08-18.
+This data analyst position at The Federal Reserve System was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

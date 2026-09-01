@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kwun Tong, Kwun Tong District, Hong Kong |
-| Category | Sales & Trading |
+| Category | Data Analyst |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783573) |
 
 ## About This Role
 
-This sales & trading position at JPMorgan Chase was posted on 2026-08-24.
+This data analyst position at JPMorgan Chase was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager - Analyst / Associate at iCapital Network
+# Product Manager - Analyst / Associate  at iCapital Network
 
 | Field | Details |
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8468779002) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8738666002) |
 
 ## About This Role
 
-This product manager position at iCapital Network was posted on 2026-03-20.
+This data analyst position at iCapital Network was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

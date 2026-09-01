@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Juan, San Juan, Puerto Rico |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/San-Juan-Puerto-Rico/Trade-Marketing-Analyst_R-166399) |
+| Location | Quito, Pichincha, Ecuador |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Quito-Ecuador/Trade-Marketing-Analyst_R-175573) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-05-07.
+This data analyst position at Mondelez International was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Data-Analytics-7---IN-B_2026-0022946) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Data-Analytics-7---IN-B_2026-0025026) |
 
 ## About This Role
 
-This data analyst position at U.S. Bancorp was posted on 2026-07-31.
+This data analyst position at U.S. Bancorp was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

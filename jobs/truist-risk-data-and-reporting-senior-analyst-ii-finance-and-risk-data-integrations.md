@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Risk-Data-and-Reporting-Senior-Analyst-II--Finance-and-Risk-Data-Integrations_R0109944) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Risk-Data-and-Reporting-Senior-Analyst-II--Finance-and-Risk-Data-Integrations_R0118278) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-06-23.
+This data analyst position at Truist was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

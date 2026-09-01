@@ -5,12 +5,12 @@
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000143703609-yield-analyst-associate) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000145381939-yield-analyst-associate) |
 
 ## About This Role
 
-This data analyst position at carsales was posted on 2026-08-16.
+This data analyst position at carsales was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

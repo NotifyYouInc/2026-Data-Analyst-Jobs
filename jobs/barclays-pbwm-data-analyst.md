@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/PBWM-Data-Analyst_JR-0000103986) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-04-01.
+This data analyst position at Barclays was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

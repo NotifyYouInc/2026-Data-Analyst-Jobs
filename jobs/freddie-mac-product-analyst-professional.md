@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Product-Analyst-Professional_JR17241) |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Product-Analyst-Professional_JR17519) |
 
 ## About This Role
 
-This business analyst position at Freddie Mac was posted on 2026-05-28.
+This data analyst position at Freddie Mac was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

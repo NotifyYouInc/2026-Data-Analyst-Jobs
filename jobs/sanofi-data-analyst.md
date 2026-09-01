@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Anagni, Lazio, Italy |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Anagni/Data-Analyst_R2848446) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-Analyst_R2867765-1) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-05-06.
+This data analyst position at Sanofi was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

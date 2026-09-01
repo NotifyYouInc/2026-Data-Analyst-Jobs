@@ -5,12 +5,12 @@
 | Company | [Cube](https://scoutify.ai/companies/cube?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/cube/b2136230-576d-4b8c-967c-a9f71f04a86f) |
 
 ## About This Role
 
-This data analyst position at Cube was posted on 2026-04-13.
+This data analyst position at Cube was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

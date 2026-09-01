@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bolivia |
+| Location | Espoo, Uusimaa, Finland |
 | Category | Data Analyst |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Santa-Cruz--Bolivia/Commercial-Analyst_Essity264732) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Espoo-Finland/Commercial-Analyst_Essity264831) |
 
 ## About This Role
 
-This data analyst position at Essity was posted on 2026-08-22.
+This data analyst position at Essity was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

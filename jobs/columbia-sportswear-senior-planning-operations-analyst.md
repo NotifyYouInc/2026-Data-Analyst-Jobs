@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Columbia Sportswear](https://scoutify.ai/companies/columbia-sportswear?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Portland-Oregon-United-States-of-America/Senior-Planning-Operations-Analyst_R-020879-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Portland-Oregon-United-States-of-America/Senior-Planning-Operations-Analyst_R-026233-3) |
 
 ## About This Role
 
-This business analyst position at Columbia Sportswear was posted on 2026-06-02.
+This data analyst position at Columbia Sportswear was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

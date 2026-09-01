@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000144029616-laboratory-data-analyst-experience-in-a-minerals-laboratory-required) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000145436343-laboratory-data-analyst-experience-in-a-minerals-laboratory-required) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-08-18.
+This data analyst position at SGS was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fintech Solutions](https://scoutify.ai/companies/peak6group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Belfast-Northern-Ireland/Tax-Operations-Analyst_JR104340) |
+| Location | Austin, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Tax-Operations-Analyst_JR105120) |
 
 ## About This Role
 
-This operations position at Apex Fintech Solutions was posted on 2026-02-11.
+This data analyst position at Apex Fintech Solutions was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

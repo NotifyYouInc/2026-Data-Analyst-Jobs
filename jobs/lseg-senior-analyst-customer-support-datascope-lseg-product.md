@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Analyst---Customer-Support--Datascope-LSEG-Product-_R0120745-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Analyst---Customer-Support--Datascope-LSEG-Product-_R0122601) |
 
 ## About This Role
 
-This customer success position at LSEG was posted on 2026-06-15.
+This data analyst position at LSEG was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

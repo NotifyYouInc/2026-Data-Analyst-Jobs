@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gdańsk, Pomerania, Poland |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Gdansk-Poland-Aleja-Grunwaldzka/HR-Analyst--Sales-Compensation-_R244049) |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Gdansk-Poland-Aleja-Grunwaldzka/HR-Analyst--Sales-Compensation-_R247663) |
 
 ## About This Role
 
-This human resources / people ops position at Arrow Electronics was posted on 2026-05-22.
+This data analyst position at Arrow Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

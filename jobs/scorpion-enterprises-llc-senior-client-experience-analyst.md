@@ -5,12 +5,12 @@
 | Company | [Scorpion Enterprises, LLC](https://scoutify.ai/companies/scorpion-enterprises-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scorpionenterprisesllc/jobs/5207644008) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scorpionenterprisesllc/jobs/5399981008) |
 
 ## About This Role
 
-This data analyst position at Scorpion Enterprises, LLC was posted on 2026-07-13.
+This data analyst position at Scorpion Enterprises, LLC was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

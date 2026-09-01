@@ -5,12 +5,12 @@
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Analytics-and-Insights-Specialist_JR107554) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Analytics-and-Insights-Specialist_JR107601-2) |
 
 ## About This Role
 
-This data analyst position at Westpac New Zealand was posted on 2026-07-02.
+This data analyst position at Westpac New Zealand was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boadilla del Monte, Madrid, Spain |
-| Category | Digital / Performance Marketing |
+| Category | Data Analyst |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Growth-and-Performance-Lead-Sr-Analyst_Req1547643) |
 
 ## About This Role
 
-This digital / performance marketing position at Santander was posted on 2026-08-24.
+This data analyst position at Santander was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Analyst--Data-Management_R265822) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Bengaluru-India/Analyst--Data-Management_R266141) |
 
 ## About This Role
 
-This data analyst position at Blackrock was posted on 2026-07-30.
+This data analyst position at Blackrock was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

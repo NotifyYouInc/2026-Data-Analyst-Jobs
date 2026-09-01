@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Associate-Analyst--Operations_R-050980) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Associate-Analyst--Operations_R-051773-2) |
 
 ## About This Role
 
-This business analyst position at LPL Financial Holdings was posted on 2026-06-15.
+This data analyst position at LPL Financial Holdings was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

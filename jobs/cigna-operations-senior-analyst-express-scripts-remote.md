@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Operations-Senior-Analyst---Express-Scripts---Remote_26007938-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Operations-Senior-Analyst---Express-Scripts---Remote_26010377) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-07-09.
+This data analyst position at Cigna was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

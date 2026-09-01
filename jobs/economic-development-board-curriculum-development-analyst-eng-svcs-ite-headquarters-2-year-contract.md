@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Curriculum-Development-Analyst---Eng-Svcs--ITE-Headquarters----2-Year-Contract_JR-10000053463) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Curriculum-Development-Analyst---Eng-Svcs--ITE-Headquarters----2-Year-Contract_JR-10000054449) |
 
 ## About This Role
 
-This data analyst position at Economic Development Board was posted on 2026-07-27.
+This data analyst position at Economic Development Board was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

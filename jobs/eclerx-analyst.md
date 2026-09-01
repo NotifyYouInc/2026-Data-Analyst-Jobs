@@ -1,16 +1,16 @@
-# ANALYST at eClerx
+# Analyst at eClerx
 
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84294) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84731) |
 
 ## About This Role
 
-This data analyst position at eClerx was posted on 2026-08-03.
+This data analyst position at eClerx was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ontario, CA |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R67175) |
 
 ## About This Role
 
-This data analyst position at Motorola Solutions was posted on 2026-07-15.
+This data analyst position at Motorola Solutions was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
