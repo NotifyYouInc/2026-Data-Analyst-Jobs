@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Analyst |
+| Category | Content Marketing |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Institutional-Equity-Division---Manager--Futures-Content-NY_JR041809) |
 
 ## About This Role
 
-This data analyst position at Morgan Stanley was posted on 2026-08-25.
+This content marketing position at Morgan Stanley was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CPI Security](https://scoutify.ai/companies/cpi-security?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Marketing |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4377639006) |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4708328006) |
 
 ## About This Role
 
-This marketing position at CPI Security was posted on 2026-05-27.
+This data analyst position at CPI Security was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

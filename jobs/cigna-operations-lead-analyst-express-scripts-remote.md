@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Minnesota, US |
+| Location | Missouri, US |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Minnesota-Work-at-Home/Operations-Lead-Analyst---Express-Scripts---Remote_26009781-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Missouri-Work-at-Home/Operations-Lead-Analyst---Express-Scripts---Remote_26010511-1) |
 
 ## About This Role
 
-This data analyst position at Cigna was posted on 2026-08-19.
+This data analyst position at Cigna was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

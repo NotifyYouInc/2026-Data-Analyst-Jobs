@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Project Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Operations-Core-Project-Lead-Analyst_26954607-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Operations-Core-Project-Lead-Analyst_26986470) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-05-26.
+This data analyst position at Citigroup was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

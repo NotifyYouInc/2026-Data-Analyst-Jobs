@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lehi, Utah, United States |
-| Category | Data Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/UT-Lehi/Sales-Commission-Analyst_R68168) |
 
 ## About This Role
 
-This data analyst position at Sunrun was posted on 2026-08-24.
+This corporate finance position at Sunrun was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

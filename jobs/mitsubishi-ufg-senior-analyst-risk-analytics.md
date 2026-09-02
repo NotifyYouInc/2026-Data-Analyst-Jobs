@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Senior-Analyst--Risk-Analytics_10077491-WD-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Senior-Analyst--Risk-Analytics_10077492-WD-2) |
 
 ## About This Role
 
-This data analyst position at Mitsubishi UFG was posted on 2026-07-30.
+This data analyst position at Mitsubishi UFG was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

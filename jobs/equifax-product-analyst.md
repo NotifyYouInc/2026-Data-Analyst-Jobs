@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Analyst |
+| Category | Product Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS-Sydney-Blue-Street/Product-Analyst_J00177645) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-08-25.
+This product manager position at Equifax was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

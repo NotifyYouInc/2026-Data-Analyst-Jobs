@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Sr-Data-Analytics-Specialist_R26002064) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Sr-Data-Analytics-Specialist_R26004720) |
 
 ## About This Role
 
-This data analyst position at HD Supply was posted on 2026-04-30.
+This data analyst position at HD Supply was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

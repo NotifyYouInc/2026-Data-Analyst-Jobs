@@ -5,12 +5,12 @@
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rogers, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Rogers-AR/Senior-Sales-Analyst_R-2026-10431) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Rogers-AR/Senior-Sales-Analyst_R-2026-11625) |
 
 ## About This Role
 
-This data analyst position at Smithfield Foods was posted on 2026-08-04.
+This data analyst position at Smithfield Foods was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

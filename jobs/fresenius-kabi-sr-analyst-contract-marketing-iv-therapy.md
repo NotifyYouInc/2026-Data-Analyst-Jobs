@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Kabi](https://scoutify.ai/companies/fresenius-kabi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lake Zurich, Illinois, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Sr-Analyst--Contract-Marketing--IV-Therapy-_R-10210443) |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Sr-Analyst--Contract-Marketing--IV-Therapy-_R-01028931) |
 
 ## About This Role
 
-This business analyst position at Fresenius Kabi was posted on 2026-02-23.
+This data analyst position at Fresenius Kabi was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

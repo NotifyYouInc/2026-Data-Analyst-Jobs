@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pennsylvania, US |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Security-Operations-Analyst_R7846) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Security-Operations-Analyst_R8389) |
 
 ## About This Role
 
-This soc & incident response position at CAI was posted on 2026-06-04.
+This cybersecurity engineer position at CAI was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

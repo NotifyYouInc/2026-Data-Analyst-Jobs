@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Analyst_R-00281484) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Analyst_R-00279595-1) |
 
 ## About This Role
 
-This data analyst position at NatWest Group was posted on 2026-07-10.
+This data analyst position at NatWest Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

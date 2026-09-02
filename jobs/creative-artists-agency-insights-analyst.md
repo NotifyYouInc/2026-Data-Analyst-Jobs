@@ -5,12 +5,12 @@
 | Company | [Creative Artists Agency](https://scoutify.ai/companies/caa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Insights-Analyst_JR9096) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Insights-Analyst_JR9156) |
 
 ## About This Role
 
-This data analyst position at Creative Artists Agency was posted on 2026-08-10.
+This data analyst position at Creative Artists Agency was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

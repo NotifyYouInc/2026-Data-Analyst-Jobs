@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Farmingdale-NY/Lab-Data-Analyst-I_JR153809) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Project Manager |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Lab-Data-Analyst-I_JR153253-1) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-04.
+This project manager position at ICON plc was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

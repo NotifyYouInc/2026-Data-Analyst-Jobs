@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000143785974-customer-due-diligence-analyst) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Corporate Development & M&A |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000145513010-customer-due-diligence-analyst) |
 
 ## About This Role
 
-This data analyst position at Entain was posted on 2026-08-17.
+This corporate development & m&a position at Entain was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Datavail](https://scoutify.ai/companies/us6-cx-oj29582?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Analyst |
+| Category | Sales Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://eifn.fa.us6.oraclecloud.com/jobs/#1901) |
 
 ## About This Role
 
-This data analyst position at Datavail was posted on 2026-08-25.
+This sales engineer position at Datavail was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

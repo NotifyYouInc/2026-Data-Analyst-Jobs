@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Advanced-Analytics-Senior-Analyst_REQ262845-1) |
+| Location | Perth, Western Australia, Australia |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Perth-Central/Advanced-Analytics-Senior-Analyst_REQ257295) |
 
 ## About This Role
 
-This machine learning engineer position at Cba was posted on 2026-07-28.
+This data analyst position at Cba was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

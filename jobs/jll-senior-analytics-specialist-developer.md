@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Analytics-Specialist-Developer_REQ526697-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Analytics-Specialist-Developer_REQ530050) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-08-12.
+This data analyst position at JLL was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

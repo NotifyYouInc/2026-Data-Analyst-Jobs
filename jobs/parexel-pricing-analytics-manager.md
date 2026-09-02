@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Argentina |
-| Category | Data Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Argentina-Remote/Pricing-Analytics-Manager_R0000043903) |
 
 ## About This Role
 
-This data analyst position at Parexel was posted on 2026-08-25.
+This corporate finance position at Parexel was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

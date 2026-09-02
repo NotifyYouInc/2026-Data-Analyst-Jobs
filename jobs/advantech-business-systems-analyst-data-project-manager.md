@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taiwan |
-| Category | Data Analyst |
+| Category | Project Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/_JR202608053) |
 
 ## About This Role
 
-This data analyst position at Advantech was posted on 2026-08-25.
+This project manager position at Advantech was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

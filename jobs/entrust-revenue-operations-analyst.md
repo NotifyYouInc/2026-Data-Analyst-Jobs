@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entrust](https://scoutify.ai/companies/entrust?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Haarlem, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Revenue-Operations-Analyst_R004258) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Netherlands---Haarlem/Revenue-Operations-Analyst_R004332) |
 
 ## About This Role
 
-This data analyst position at Entrust was posted on 2026-07-22.
+This data analyst position at Entrust was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

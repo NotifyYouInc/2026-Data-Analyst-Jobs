@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
-| Category | Data Analyst |
+| Category | Product Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/Senior-IP-Product-Analyst_JREQ136320-1) |
 
 ## About This Role
 
-This data analyst position at Clarivate was posted on 2026-08-25.
+This product manager position at Clarivate was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

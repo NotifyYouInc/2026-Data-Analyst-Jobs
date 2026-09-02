@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Data-Analyst--D-M-W--fr-die-Airbus-Logistik-GmbH_JR10411901-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Data-Analyst--D-M-W--fr-die-Airbus-Logistik-GmbH_JR10435749-1) |
 
 ## About This Role
 
-This data analyst position at Airbus was posted on 2026-05-18.
+This data analyst position at Airbus was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

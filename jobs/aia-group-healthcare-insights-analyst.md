@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Healthcare-Insights--Analyst_JR-66946) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Healthcare-Insights--Analyst_JR-69380) |
 
 ## About This Role
 
-This data analyst position at AIA Group was posted on 2026-07-13.
+This data analyst position at AIA Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Takealot](https://scoutify.ai/companies/takealot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
 | Category | Data Engineer |
-| Posted | 2026-06-04 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/takealotcom/jobs/6278375) |
 
 ## About This Role
 
-This data engineer position at Takealot was posted on 2026-06-04.
+This data engineer position at Takealot was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Statkraft](https://scoutify.ai/companies/statkraft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000144251179-contract-operations-analyst-polish-speaking) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000145690915-contract-operations-analyst-polish-speaking) |
 
 ## About This Role
 
-This data analyst position at Statkraft was posted on 2026-08-19.
+This data analyst position at Statkraft was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

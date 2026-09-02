@@ -1,16 +1,16 @@
-# Data and Analytics Analyst (Data Governance and Reporting) at Regions Bank
+# Data and Analytics Analyst - Data Governance and Reporting at Regions Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hoover, Alabama, United States |
-| Category | Privacy & Data Protection |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Data-and-Analytics-Analyst--Data-Governance-and-Reporting-_R103127) |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Data-and-Analytics-Analyst---Data-Governance-and-Reporting_R105506) |
 
 ## About This Role
 
-This privacy & data protection position at Regions Bank was posted on 2026-06-01.
+This data analyst position at Regions Bank was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

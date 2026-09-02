@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 9 locations |
+| Location | 7 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Estonia-Tallinn/Senior-Statistical-Analyst_JR151335) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Senior-Statistical-Analyst_JR158816) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-06-15.
+This data analyst position at ICON plc was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

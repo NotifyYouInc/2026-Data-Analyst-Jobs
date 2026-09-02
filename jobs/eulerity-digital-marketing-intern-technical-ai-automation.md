@@ -5,12 +5,12 @@
 | Company | [Eulerity](https://scoutify.ai/companies/eulerity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/eulerity/jobs/4695806006) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eulerity/jobs/4708258006) |
 
 ## About This Role
 
-This digital / performance marketing position at Eulerity was posted on 2026-07-09.
+This digital / performance marketing position at Eulerity was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

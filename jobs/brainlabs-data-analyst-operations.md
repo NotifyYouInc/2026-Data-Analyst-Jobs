@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brainlabs](https://scoutify.ai/companies/brainlabs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Argentina |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainlabs/jobs/4942097101) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainlabs/jobs/4944369101) |
 
 ## About This Role
 
-This data analyst position at Brainlabs was posted on 2026-08-07.
+This data analyst position at Brainlabs was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

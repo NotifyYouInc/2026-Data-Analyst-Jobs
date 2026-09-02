@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Product-Management-Sr-Analyst---Assistant-Vice-President_26988347) |
+| Category | Product Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Product-Management-Sr-Analyst---Assistant-Vice-President_26988758) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-20.
+This product manager position at Citigroup was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

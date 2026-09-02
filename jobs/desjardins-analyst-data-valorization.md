@@ -1,16 +1,16 @@
-# Analyst, Data Valorization at Desjardins
+# Analyst, Data valorization at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Lévis, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Valorisation-de-donnes_R2610401) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-ou-conseillre--Valorisation-des-donnes_R2608447) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-08-24.
+This data analyst position at Desjardins was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

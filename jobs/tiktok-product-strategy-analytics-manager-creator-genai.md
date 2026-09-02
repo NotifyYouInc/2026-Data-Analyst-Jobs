@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Jose, California, United States |
-| Category | Data Analyst |
+| Category | Product Manager |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7655398063935129909/detail) |
 
 ## About This Role
 
-This data analyst position at TikTok was posted on 2026-08-24.
+This product manager position at TikTok was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Texas, US |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lackland-AFB-TX/Product-Support-Analyst_R0241131) |
+| Location | San Diego, California, United States |
+| Category | Customer Success |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Product-Support-Analyst_R0247814) |
 
 ## About This Role
 
-This technical support engineer position at Booz Allen was posted on 2026-05-28.
+This customer success position at Booz Allen was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

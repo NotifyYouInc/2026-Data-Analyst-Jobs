@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143736209-senior-analytics-manager) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145647889-senior-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Grab was posted on 2026-08-17.
+This data analyst position at Grab was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

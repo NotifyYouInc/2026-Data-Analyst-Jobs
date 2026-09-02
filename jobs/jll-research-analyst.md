@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Research-Analyst_REQ514964) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Research-Analyst_REQ527444) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-19.
+This data analyst position at JLL was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

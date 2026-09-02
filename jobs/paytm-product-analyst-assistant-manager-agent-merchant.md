@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Paytm](https://scoutify.ai/companies/paytm-paytm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Company | [Paytm](https://scoutify.ai/companies/paytm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.lever.co/paytm/ec4c0c69-9fc7-421b-abf2-000a79fb64cb) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.lever.co/paytm/73be7b61-489e-499e-8856-c5ad3379bde7) |
 
 ## About This Role
 
-This data analyst position at Paytm was posted on 2026-05-08.
+This data analyst position at Paytm was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

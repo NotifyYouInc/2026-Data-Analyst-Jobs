@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Singapore-Office-Marina-One/Analyst--Liquidity-Risk-Product-Control--1-Year-Contract-_10073729-WD) |
 
 ## About This Role
 
-This data analyst position at Mitsubishi UFG was posted on 2026-08-25.
+This corporate finance position at Mitsubishi UFG was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

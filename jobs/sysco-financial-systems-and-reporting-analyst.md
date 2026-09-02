@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Texas, US |
-| Category | Data Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Financial-Systems-and-Reporting-Analyst_R261902-1) |
 
 ## About This Role
 
-This data analyst position at Sysco was posted on 2026-08-25.
+This corporate finance position at Sysco was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

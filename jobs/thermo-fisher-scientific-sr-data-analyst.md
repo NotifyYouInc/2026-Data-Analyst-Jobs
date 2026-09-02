@@ -1,16 +1,16 @@
-# Sr. Data Analyst at Thermo Fisher Scientific
+# Sr Data Analyst at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Data-Analyst_R-01351623) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Sr-Data-Analyst_R-01362559) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-04-29.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

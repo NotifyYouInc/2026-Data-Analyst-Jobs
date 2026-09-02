@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Digital-Marketing-Operations--Data---Client-Segments--Associate--Wealth-Management_PT-JR042293) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Digital-Marketing-Operations--Data---Client-Segments--Associate--Wealth-Management_PT-JR042294) |
 
 ## About This Role
 
-This data analyst position at Morgan Stanley was posted on 2026-08-20.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Reston, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000144138040-data-analyst) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000145584010-data-analyst) |
 
 ## About This Role
 
-This data analyst position at CapTech Consulting was posted on 2026-08-18.
+This data analyst position at CapTech Consulting was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

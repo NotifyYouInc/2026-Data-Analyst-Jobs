@@ -5,12 +5,12 @@
 | Company | [Binus University](https://scoutify.ai/companies/binus-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://binus.wd3.myworkdayjobs.com/lifeatbinus/job/Jakarta/Senior-Data-Analyst_JR2026067879) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://binus.wd3.myworkdayjobs.com/lifeatbinus/job/Jakarta/Senior-Data-Analyst_JR2026088518) |
 
 ## About This Role
 
-This data analyst position at Binus University was posted on 2026-06-08.
+This data analyst position at Binus University was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

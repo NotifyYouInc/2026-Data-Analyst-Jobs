@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India---Hyderabad/Clinical-Data-Analyst-I_R0000044586) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Taipei/Clinical-Data-Analyst-I_R0000045188-1) |
 
 ## About This Role
 
-This data analyst position at Parexel was posted on 2026-08-11.
+This data analyst position at Parexel was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

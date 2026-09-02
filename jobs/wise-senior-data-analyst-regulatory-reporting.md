@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140190459-senior-data-analyst-regulatory-reporting) |
+| Category | Data Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000145550354-senior-data-analyst-regulatory-reporting) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-07-28.
+This data analyst position at WISE was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

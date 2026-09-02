@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000145289358-junior-data-analyst-bi-analyst-mwd-reise) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000145521845-junior-data-analyst-bi-analyst-mwd-reise) |
 
 ## About This Role
 
-This data analyst position at CHECK24 was posted on 2026-08-24.
+This data analyst position at CHECK24 was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

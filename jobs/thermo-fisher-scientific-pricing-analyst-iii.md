@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Pennsylvania, US |
 | Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Pricing-Analyst-III_R-01352306-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Pennsylvania-USA/Pricing-Analyst-III_R-01365063) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-05-08.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

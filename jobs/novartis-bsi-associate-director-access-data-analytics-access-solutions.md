@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/BSI-Associate-Director--Access-Data-Analytics---Access-Solutions_REQ-10076470) |
 
 ## About This Role
 
-This data analyst position at Novartis was posted on 2026-04-29.
+This data analyst position at Novartis was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Austin-TX-US/Marketing-Analyst_R0020754) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Austin/Data-Analyst_R0020755-1) |
 
 ## About This Role
 
-This data analyst position at Aristocrat Leisure was posted on 2026-06-08.
+This data analyst position at Aristocrat Leisure was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

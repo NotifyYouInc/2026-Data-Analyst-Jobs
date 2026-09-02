@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketplace-Operations-Analyst_JR347544) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Marketplace-Operations-Analyst_JR347545) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-07-07.
+This data analyst position at Salesforce was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
