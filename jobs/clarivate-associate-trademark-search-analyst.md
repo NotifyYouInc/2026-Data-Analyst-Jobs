@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/Associate-Trademark-Search-Analyst_JREQ135965-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Associate-Trademark-Search-Analyst_JREQ136369) |
 
 ## About This Role
 
-This data analyst position at Clarivate was posted on 2026-06-30.
+This data analyst position at Clarivate was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

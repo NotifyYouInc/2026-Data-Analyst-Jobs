@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000126354094-research-analyst) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000145730749-research-analyst) |
 
 ## About This Role
 
-This data analyst position at Fastmarkets was posted on 2026-05-13.
+This data analyst position at Fastmarkets was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

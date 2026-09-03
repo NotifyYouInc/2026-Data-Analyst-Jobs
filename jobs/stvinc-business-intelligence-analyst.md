@@ -5,12 +5,12 @@
 | Company | [Stvinc](https://scoutify.ai/companies/stvinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 6 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://stvinc.wd5.myworkdayjobs.com/stv/job/Douglassville-Pennsylvania/Business-Intelligence-Analyst_JR5589) |
 
 ## About This Role
 
-This data analyst position at Stvinc was posted on 2026-04-30.
+This data analyst position at Stvinc was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

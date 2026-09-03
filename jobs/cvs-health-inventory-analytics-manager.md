@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rhode Island, US |
+| Location | Woonsocket, Rhode Island, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Inventory-Analytics-Manager_R0995786) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Mgr--Inventory-analyst_R1015440) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-08-11.
+This data analyst position at CVS Health was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

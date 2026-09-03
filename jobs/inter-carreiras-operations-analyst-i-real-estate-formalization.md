@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4686107005?gh_jid=4686107005) |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4726916005?gh_jid=4726916005) |
 
 ## About This Role
 
-This business analyst position at Inter Carreiras was posted on 2026-04-24.
+This data analyst position at Inter Carreiras was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26987476) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989246) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-20.
+This data analyst position at Citigroup was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

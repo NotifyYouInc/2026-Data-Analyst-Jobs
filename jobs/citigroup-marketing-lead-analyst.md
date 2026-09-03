@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wilmington, North Carolina, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Wilmington-Delaware-United-States/Marketing-Lead-Analyst_26985607-1) |
+| Location | 2 locations |
+| Category | Marketing |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Marketing-Lead-Analyst_26969382-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-10.
+This marketing position at Citigroup was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

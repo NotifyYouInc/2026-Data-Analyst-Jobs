@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://sofi.com/careers/job/7976546003?gh_jid=7976546003) |
 
 ## About This Role
 
-This corporate finance position at SoFi was posted on 2026-08-25.
+This fp&a / strategic finance position at SoFi was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

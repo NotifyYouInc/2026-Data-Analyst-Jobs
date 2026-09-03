@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Medical-Data-Reviewer_JR156093) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Medical-Data-Reviewer_JR158630-1) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-07-27.
+This data analyst position at ICON plc was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

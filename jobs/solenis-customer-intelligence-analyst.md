@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
-| Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Utrecht-Netherlands/Customer-Intelligence-Analyst_R0026423) |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Utrecht-Netherlands/Customer-Intelligence-Analyst_R0031252) |
 
 ## About This Role
 
-This business analyst position at Solenis was posted on 2026-03-06.
+This data analyst position at Solenis was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

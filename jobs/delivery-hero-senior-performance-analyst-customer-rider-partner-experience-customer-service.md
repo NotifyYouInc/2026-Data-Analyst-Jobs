@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140619521-senior-performance-analyst-customer-rider-partner-experience-customer-service) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Strategy & Operations |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145736869-senior-performance-analyst-customer-rider-partner-experience-customer-service) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-07-30.
+This strategy & operations position at Delivery Hero was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Findlay, Ohio, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Marketing-Analyst--Intern-to-Full-Time-Conversion-_00021756) |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Marketing-Analyst--Intern-to-Full-Time-Conversion-_00023557) |
 
 ## About This Role
 
-This business analyst position at Marathon Petroleum was posted on 2026-06-01.
+This data analyst position at Marathon Petroleum was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

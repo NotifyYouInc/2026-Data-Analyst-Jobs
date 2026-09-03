@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133348630-senior-data-analyst) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145884789-senior-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-06-22.
+This data analyst position at Delivery Hero was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

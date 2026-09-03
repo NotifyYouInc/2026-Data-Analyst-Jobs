@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oakville, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-1---Office/Business-Process-Data-Analyst--OTC---Analyste-de-donnes-oprationnelles_R-57677-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-1---Office/Business-Process-Data-Analyst--OTC---Analyste-de-donnes-oprationnelles_R-57678) |
 
 ## About This Role
 
-This business analyst position at Alliaxis was posted on 2026-07-28.
+This data analyst position at Alliaxis was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

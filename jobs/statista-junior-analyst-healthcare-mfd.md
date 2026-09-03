@@ -5,12 +5,12 @@
 | Company | [Statista](https://scoutify.ai/companies/statista?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/statista/94264935-ccb2-4080-8d6d-01a5d6331407) |
 
 ## About This Role
 
-This data analyst position at Statista was posted on 2026-04-30.
+This data analyst position at Statista was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nuevo León, Baja California, Mexico |
-| Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Procurement-BI-Engineer-II_WD30277299) |
+| Category | Data Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Procurement-BI-Engineer-II_WD30278077) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-08-24.
+This data engineer position at Johnson Controls was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

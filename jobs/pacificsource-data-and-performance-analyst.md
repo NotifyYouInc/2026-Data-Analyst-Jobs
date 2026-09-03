@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacificsource](https://scoutify.ai/companies/pacificsource?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Boise, Idaho, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Springfield-OR/Data-and-Performance-Analyst_2026-945-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Boise-ID/Data-and-Performance-Analyst_2026-978-1) |
 
 ## About This Role
 
-This data analyst position at Pacificsource was posted on 2026-08-25.
+This data analyst position at Pacificsource was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Analyst---IT-Product-Support_R_346820) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Noida---Sector-135/Analyst---IT-Product-Support_R_358819) |
 
 ## About This Role
 
-This customer success position at Marsh & McLennan Companies was posted on 2026-04-23.
+This customer success position at Marsh & McLennan Companies was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tampa-FL/Loan-Closing-Operations-Analyst_10077914-WD) |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Loan-Closing-Operations-Analyst_10078665-WD) |
 
 ## About This Role
 
-This corporate finance position at Mitsubishi UFG was posted on 2026-07-28.
+This data analyst position at Mitsubishi UFG was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

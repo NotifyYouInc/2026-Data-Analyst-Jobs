@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Tallahassee, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Analyst-II_R-31104) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/GIS-Analyst-II_R-31293) |
 
 ## About This Role
 
-This data analyst position at HNTB was posted on 2026-08-10.
+This data analyst position at HNTB was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

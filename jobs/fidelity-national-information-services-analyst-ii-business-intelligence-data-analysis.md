@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Analyst-II--Business-Intelligence---Data-Analysis_JR0308108) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Analyst-II--Business-Intelligence---Data-Analysis_JR0307825) |
 
 ## About This Role
 
-This data analyst position at Fidelity National Information Services was posted on 2026-07-13.
+This data analyst position at Fidelity National Information Services was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

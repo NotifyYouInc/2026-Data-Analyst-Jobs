@@ -5,12 +5,12 @@
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7768369003) |
 
 ## About This Role
 
-This data analyst position at Inovalon was posted on 2026-06-11.
+This data analyst position at Inovalon was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

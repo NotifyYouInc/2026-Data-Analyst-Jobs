@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/India---Chennai/Associate-Content-Ingestion-Analyst_JREQ135768) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Associate-Content-Ingestion-Analyst_JREQ136391-1) |
 
 ## About This Role
 
-This data analyst position at Clarivate was posted on 2026-05-29.
+This data analyst position at Clarivate was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

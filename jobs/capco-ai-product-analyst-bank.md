@@ -1,16 +1,16 @@
-# AI Product Analyst | Bank  at Capco
+# AI Product Analyst | Bank at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | China |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8012563) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8160948) |
 
 ## About This Role
 
-This product manager position at Capco was posted on 2026-06-17.
+This product manager position at Capco was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

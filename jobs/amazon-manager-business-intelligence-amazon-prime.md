@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489988/manager-business-intelligence-amazon-prime) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10516502/manager-business-intelligence-amazon-prime) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-08-03.
+This data analyst position at Amazon was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

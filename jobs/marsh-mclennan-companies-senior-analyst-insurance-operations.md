@@ -1,16 +1,16 @@
-# Senior Analyst – Insurance Operations at Marsh & McLennan Companies
+# Senior Analyst - Insurance Operations at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Senior-Analyst---Insurance-Operations_R_356146) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Senior-Analyst---Insurance-Operations_R_363382) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-08-10.
+This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

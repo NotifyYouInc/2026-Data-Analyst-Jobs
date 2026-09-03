@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Nottingham, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000115000937-data-analyst) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145739655-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-03-16.
+This data analyst position at Experian was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

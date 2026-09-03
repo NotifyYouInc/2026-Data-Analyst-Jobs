@@ -5,12 +5,12 @@
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Seoul/Data-Excellence-Administrator_JR_1049720) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Seoul/Data-Excellence-Administrator_JR_1052028) |
 
 ## About This Role
 
-This data analyst position at Zeiss was posted on 2026-05-20.
+This data analyst position at Zeiss was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

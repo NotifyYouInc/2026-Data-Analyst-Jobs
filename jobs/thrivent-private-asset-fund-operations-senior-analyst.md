@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Private-Asset-Fund-Operations-Senior-Analyst_REQ-48080-1) |
 
 ## About This Role
 
-This corporate finance position at Thrivent was posted on 2026-08-25.
+This financial analyst position at Thrivent was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Seer Interactive](https://scoutify.ai/companies/seerinteractive?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.lever.co/seerinteractive/e33adf45-ad4d-4bca-8d9d-5cd96e384032) |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/seerinteractive/b6c353a7-34c4-48a8-a943-977a70f4aba5) |
 
 ## About This Role
 
-This data analyst position at Seer Interactive was posted on 2026-06-18.
+This sales position at Seer Interactive was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

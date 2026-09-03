@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Sr-Healthcare-Data-Analyst--Medicaid-_RQ225041-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Sr-Healthcare-Data-Analyst--Medicaid-_RQ226996-1) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-07-30.
+This data analyst position at General Dynamics Information Technology was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

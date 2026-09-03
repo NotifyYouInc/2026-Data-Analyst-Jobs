@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145441779-revenue-operations-analyst) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145947009-revenue-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-08-25.
+This data analyst position at Experian was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

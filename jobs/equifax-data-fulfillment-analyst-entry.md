@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Costa Rica |
+| Location | San José, San José, Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Data-Fulfillment-Analyst---Entry_J00176623-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Data-Fulfillment-Analyst---Entry_J00178683) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-04-23.
+This data analyst position at Equifax was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

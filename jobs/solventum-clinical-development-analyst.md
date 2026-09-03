@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Utah, US |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Utah/Clinical-Development-Analyst_R01132673) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/AU-NORTH-RYDE-VIRTUAL/Clinical-Development-Analyst_R01133305) |
 
 ## About This Role
 
-This data analyst position at Solventum was posted on 2026-08-07.
+This data analyst position at Solventum was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

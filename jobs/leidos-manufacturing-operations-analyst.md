@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Operations-Analyst_R-00189211) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Operations-Analyst_R-00190568) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-08-10.
+This data analyst position at Leidos was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
