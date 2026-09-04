@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hillsboro, Oregon, United States |
-| Category | Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Sales-Operations-Analyst-II_R-01361288-1) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Tokyo-Japan/Sales-Operations-Analyst-II_R-01365793) |
 
 ## About This Role
 
-This operations position at Thermo Fisher Scientific was posted on 2026-08-07.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

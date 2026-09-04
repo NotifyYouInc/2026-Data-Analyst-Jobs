@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000138813156-chargee-de-projets-data-pilotage-de-la-performance-commerciale-paris-17eme-hf) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000145965910-chargee-de-projets-data-pilotage-de-la-performance-commerciale-paris-17eme-hf) |
 
 ## About This Role
 
-This data analyst position at REXEL was posted on 2026-07-21.
+This data analyst position at REXEL was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000115359808-analytics-developer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000146108489-analytics-developer) |
 
 ## About This Role
 
-This data analyst position at Mattel was posted on 2026-03-18.
+This data analyst position at Mattel was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

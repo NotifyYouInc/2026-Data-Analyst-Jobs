@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/People-Analytics-Specialist_REQ574733) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/People-Analytics-Specialist_REQ575320) |
 
 ## About This Role
 
-This human resources / people ops position at Unisys was posted on 2026-08-04.
+This human resources / people ops position at Unisys was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

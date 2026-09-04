@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Arlington, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8103527) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8160736) |
 
 ## About This Role
 
-This data analyst position at Planet was posted on 2026-08-19.
+This data analyst position at Planet was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

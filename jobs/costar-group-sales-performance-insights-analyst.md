@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Sales-Performance---Insights-Analyst_R39107-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Sales-Performance---Insights-Analyst_R39700-1) |
 
 ## About This Role
 
-This corporate finance position at CoStar Group was posted on 2026-06-04.
+This data analyst position at CoStar Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

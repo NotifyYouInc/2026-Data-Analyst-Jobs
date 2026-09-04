@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Data-Analyst_JREQ134973) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/Data-Analyst_JREQ136414-1) |
 
 ## About This Role
 
-This data analyst position at Clarivate was posted on 2026-03-02.
+This data analyst position at Clarivate was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

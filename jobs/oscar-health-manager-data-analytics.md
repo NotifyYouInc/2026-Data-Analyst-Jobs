@@ -5,12 +5,12 @@
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](http://www.hioscar.com/careers/8030866?gh_jid=8030866) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](http://www.hioscar.com/careers/8146196?gh_jid=8146196) |
 
 ## About This Role
 
-This data analyst position at Oscar Health was posted on 2026-06-27.
+This data analyst position at Oscar Health was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Operations |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01588---DaVita-Home-Modalities-Divisional-Office/Home-Strategy-and-Operations-Sr-Analyst_R0463578) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01588---DaVita-Home-Modalities-Divisional-Office/Home-Strategy-and-Operations-Sr-Analyst_R0472691) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-06-12.
+This strategy & operations position at DaVita was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

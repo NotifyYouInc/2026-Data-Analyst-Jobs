@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143389269-fincrime-operations-analyst-sanctions) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000146116440-fincrime-operations-analyst-sanctions) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-08-13.
+This data analyst position at WISE was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

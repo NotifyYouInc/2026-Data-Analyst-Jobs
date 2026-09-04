@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/SLA-REVENUE-HOUSE-LEVEL-11/Intern--DAT_JR-10000051104) |
+| Category | Data Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/SLA-REVENUE-HOUSE-LEVEL-11/Intern--DAT_JR-10000054935) |
 
 ## About This Role
 
-This business analyst position at Economic Development Board was posted on 2026-05-22.
+This data analyst position at Economic Development Board was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

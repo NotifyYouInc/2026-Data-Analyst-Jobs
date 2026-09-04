@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico |
 | Category | Accounting |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/MEX---Cuajimalpa/Payroll-Analyst--HR-Operations----Senior_J00178257) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/MEX---Cuajimalpa/Payroll-Analyst--HR-Operations----Senior_J00178511) |
 
 ## About This Role
 
-This accounting position at Equifax was posted on 2026-08-14.
+This accounting position at Equifax was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

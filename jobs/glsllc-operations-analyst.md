@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Glsllc](https://scoutify.ai/companies/glsllc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Greenville, North Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/glsllc/d8e09037-7877-43c7-adc1-053cfb2ef5bf) |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.lever.co/glsllc/46903487-3ef8-47db-b142-2df89ed44d90) |
 
 ## About This Role
 
-This business analyst position at Glsllc was posted on 2026-04-23.
+This data analyst position at Glsllc was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

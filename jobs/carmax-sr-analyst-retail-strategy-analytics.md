@@ -5,12 +5,12 @@
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Retail-Strategy---Analytics_JR-182782) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Retail-Strategy---Analytics_JR-185056) |
 
 ## About This Role
 
-This strategy & operations position at CarMax was posted on 2026-07-29.
+This strategy & operations position at CarMax was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

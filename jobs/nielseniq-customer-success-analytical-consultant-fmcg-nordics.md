@@ -1,16 +1,16 @@
-# Customer Success Analytical Consultant FMCG Nordics at NielsenIQ
+# Customer Success Analytical Consultant FMCG Nordics  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oslo, Oslo, Norway |
-| Category | Customer Success Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135491069-customer-success-analytical-consultant-fmcg-nordics) |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145960604-customer-success-analytical-consultant-fmcg-nordics) |
 
 ## About This Role
 
-This customer success manager position at NielsenIQ was posted on 2026-07-02.
+This data analyst position at NielsenIQ was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

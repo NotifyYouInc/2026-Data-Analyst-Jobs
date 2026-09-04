@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Glendale, Arizona, United States |
+| Location | Burbank, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000143395139-data-analyst-revenue-management) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000146016015-data-analyst-revenue-management) |
 
 ## About This Role
 
-This data analyst position at Public Storage was posted on 2026-08-13.
+This data analyst position at Public Storage was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

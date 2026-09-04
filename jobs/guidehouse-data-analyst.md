@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Arlington, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Analyst_42461) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Analyst_43982) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-08-11.
+This data analyst position at Guidehouse was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CIMB Group](https://scoutify.ai/companies/ap1-cx-oj21920?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#36847) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#37191) |
 
 ## About This Role
 
-This data analyst position at CIMB Group was posted on 2026-08-06.
+This data analyst position at CIMB Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Poland |
+| Location | Poznań, Greater Poland, Poland |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Poznan-Pastelowa/Junior-HR-Operations-Analyst_442090-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Poznan-Pastelowa/Junior-HR-Operations-Analyst_446372-1) |
 
 ## About This Role
 
-This human resources / people ops position at GSK was posted on 2026-06-08.
+This human resources / people ops position at GSK was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

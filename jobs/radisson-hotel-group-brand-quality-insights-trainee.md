@@ -5,12 +5,12 @@
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000144568269-brand-quality-insights-trainee) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000145994109-brand-quality-insights-trainee) |
 
 ## About This Role
 
-This data analyst position at Radisson Hotel Group was posted on 2026-08-20.
+This data analyst position at Radisson Hotel Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

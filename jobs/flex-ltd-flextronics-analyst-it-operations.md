@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Analyst--IT-Operations_WD225138) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Analyst--IT-Operations_WD228277) |
 
 ## About This Role
 
-This data analyst position at FLEX LTD. Flextronics was posted on 2026-08-13.
+This data analyst position at FLEX LTD. Flextronics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

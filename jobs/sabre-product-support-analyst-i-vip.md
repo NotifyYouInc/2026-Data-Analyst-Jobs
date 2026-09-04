@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Product-Support-Analyst-I---VIP_JR108487) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Product-Support-Analyst-I---VIP_JR108450) |
 
 ## About This Role
 
-This data analyst position at Sabre was posted on 2026-08-11.
+This customer success position at Sabre was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

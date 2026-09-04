@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Restaurant Brands International](https://scoutify.ai/companies/restaurant-brands-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://rbi.wd3.myworkdayjobs.com/rbi_external_career_site/job/Orlando-FL/Sr-Analyst--Operations-Performance-Support--Popeyes-Louisiana-Kitchen--US-C_R3385) |
+| Location | Miami, Florida, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://rbi.wd3.myworkdayjobs.com/rbi_external_career_site/job/Corp---Popeyes-Miami-Corporate-Office/Sr-Analyst--Operations-Performance-Support--Popeyes-Louisiana-Kitchen--US-C_R3732) |
 
 ## About This Role
 
-This business analyst position at Restaurant Brands International was posted on 2026-06-08.
+This data analyst position at Restaurant Brands International was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chile |
-| Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/CD-Noviciado-Chile/Customer-Operations-Analyst_21158) |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/CD-Noviciado-Chile/Customer-Operations-Analyst_23149) |
 
 ## About This Role
 
-This business analyst position at Clorox was posted on 2026-02-23.
+This data analyst position at Clorox was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

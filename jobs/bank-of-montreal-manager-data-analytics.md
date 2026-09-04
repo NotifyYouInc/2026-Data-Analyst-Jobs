@@ -1,16 +1,16 @@
-# Manager, Data & Analytics at Bank of Montreal
+# Manager, Data Analytics at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Manager--Data---Analytics_R260011354) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Data-Analytics_R260025348-1) |
 
 ## About This Role
 
-This data analyst position at Bank of Montreal was posted on 2026-04-14.
+This data analyst position at Bank of Montreal was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

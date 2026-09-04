@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NISC](https://scoutify.ai/companies/nisc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nisc/jobs/8098700) |
+| Location | United States |
+| Category | Product Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nisc/jobs/8161777) |
 
 ## About This Role
 
-This business analyst position at NISC was posted on 2026-07-31.
+This product manager position at NISC was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

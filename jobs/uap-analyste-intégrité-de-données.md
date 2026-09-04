@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Longueuil, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000136293575-analyste-integrite-de-donnees) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000146038961-analyste-integrite-de-donnees) |
 
 ## About This Role
 
-This data analyst position at UAP was posted on 2026-07-07.
+This data analyst position at UAP was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

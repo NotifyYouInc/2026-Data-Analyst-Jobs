@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/KYC-Operations-Analyst-2---C10---HEREDIA_26973776-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/KYC-Operations-Analyst-2---C10---HEREDIA_26985723-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-07.
+This data analyst position at Citigroup was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

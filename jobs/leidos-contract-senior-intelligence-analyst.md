@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlottesville, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Charlottesville-VA/Contract-Senior-Intelligence-Analyst_R-00188969) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Charlottesville-VA/Contract-Senior-Intelligence-Analyst_R-00190705) |
 
 ## About This Role
 
-This data analyst position at Leidos was posted on 2026-08-06.
+This data analyst position at Leidos was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

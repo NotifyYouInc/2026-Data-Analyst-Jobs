@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ohio, US |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Data-Analyst--IT-Service-Center_20180207) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Data-Analyst--IT-Service-Center_20186226) |
 
 ## About This Role
 
-This data analyst position at Cardinal Health was posted on 2026-05-19.
+This data analyst position at Cardinal Health was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

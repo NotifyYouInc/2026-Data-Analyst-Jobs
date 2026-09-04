@@ -5,12 +5,12 @@
 | Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Customer-Support-Analyst_R3103) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Customer-Support-Analyst_R3360) |
 
 ## About This Role
 
-This customer success position at Waystar was posted on 2026-04-03.
+This customer success position at Waystar was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

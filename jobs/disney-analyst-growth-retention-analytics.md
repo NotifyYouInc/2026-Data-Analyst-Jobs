@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Buenos-Aires-Argentina/Analyst--Growth---Retention-Analytics_10143438) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Buenos-Aires-Argentina/Coordinator--Growth---Retention-Analytics_10157884) |
 
 ## About This Role
 
-This data analyst position at Disney was posted on 2026-03-09.
+This data analyst position at Disney was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

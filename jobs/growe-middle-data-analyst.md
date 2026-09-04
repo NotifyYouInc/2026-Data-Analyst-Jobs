@@ -5,12 +5,12 @@
 | Company | [GROWE](https://scoutify.ai/companies/growe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/growe/jobs/4925992101) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/growe/jobs/4962001101) |
 
 ## About This Role
 
-This data analyst position at GROWE was posted on 2026-07-16.
+This data analyst position at GROWE was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

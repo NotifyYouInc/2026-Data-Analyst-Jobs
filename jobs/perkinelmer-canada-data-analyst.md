@@ -5,12 +5,12 @@
 | Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New Haven, Connecticut, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Alexion-New-Haven---Customer-Site-CT/Data-Analyst_REQ-057174) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Alexion-New-Haven---Customer-Site-CT/Data-Analyst_REQ-058315) |
 
 ## About This Role
 
-This data analyst position at PerkinElmer Canada was posted on 2026-04-15.
+This data analyst position at PerkinElmer Canada was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

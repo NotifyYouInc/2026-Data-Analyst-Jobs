@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Strategy & Operations |
-| Posted | 2026-02-26 |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Data-Analyst---Strategic-Business-Marketing-Supervisory-Department--Marketing-Division_1032115-15) |
 
 ## About This Role
 
-This strategy & operations position at Rakuten was posted on 2026-02-26.
+This strategy & operations position at Rakuten was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

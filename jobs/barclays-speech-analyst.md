@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Speech-Analyst_JR-0000116987) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Speech-Analyst_JR-0000130343) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-07-29.
+This data analyst position at Barclays was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

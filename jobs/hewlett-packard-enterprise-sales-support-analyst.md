@@ -1,16 +1,16 @@
-# Sales support analyst at Hewlett Packard Enterprise
+# Sales Support Analyst at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bogota-Cundinamarca-Colombia/Sales-support-analyst_1203021) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Sales-Support-Analyst_1210153-2) |
 
 ## About This Role
 
-This business analyst position at Hewlett Packard Enterprise was posted on 2026-02-26.
+This data analyst position at Hewlett Packard Enterprise was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

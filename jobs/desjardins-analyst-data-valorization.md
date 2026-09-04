@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lévis, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-ou-conseillre--Valorisation-des-donnes_R2608447) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Valorisation-de-la-donne-financire_R2610544) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-08-25.
+This data analyst position at Desjardins was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

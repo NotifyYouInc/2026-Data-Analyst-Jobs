@@ -5,12 +5,12 @@
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Analyst--Prospect-Management_JR37846) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Analyst--Prospect-Management_JR38791) |
 
 ## About This Role
 
-This data analyst position at University of Ottawa was posted on 2026-07-16.
+This data analyst position at University of Ottawa was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

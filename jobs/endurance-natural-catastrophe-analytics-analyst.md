@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endurance](https://scoutify.ai/companies/endurance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Actuary / Insurance Analytics |
+| Category | Corporate Finance |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://endurance.wd103.myworkdayjobs.com/sompointernational/job/London-United-Kingdom/Natural-Catastrophe-Analytics-Analyst_R4388) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Endurance was posted on 2026-08-27.
+This corporate finance position at Endurance was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

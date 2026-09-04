@@ -5,12 +5,12 @@
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Krakow/Junior-Master-Data-Specialist_JR0045855-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Krakow/Junior-Master-Data-Specialist_JR0047800) |
 
 ## About This Role
 
-This data analyst position at Alfa Laval was posted on 2026-05-28.
+This data analyst position at Alfa Laval was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

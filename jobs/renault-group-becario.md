@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Valladolid, Castille and León, Spain |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Valladolid/Becario_JOBREQ_50263544) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Valladolid/Becario_JOBREQ_50263295) |
 
 ## About This Role
 
-This data analyst position at Renault Group was posted on 2026-05-25.
+This data analyst position at Renault Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Evansville, Indiana, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Business-Analytics-Analyst_REQ_94803) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Business-Analytics-Analyst_REQ_95467) |
 
 ## About This Role
 
-This data analyst position at Amcor was posted on 2026-08-13.
+This data analyst position at Amcor was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

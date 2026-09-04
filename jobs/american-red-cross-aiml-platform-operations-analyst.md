@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | South Carolina, US |
-| Category | Data Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-NC/AI-ML-Platform-Operations-Analyst_RC89726) |
+| Location | Maryland, US |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-NC/AI-ML-Platform-Operations-Analyst_RC90996) |
 
 ## About This Role
 
-This data engineer position at American Red Cross was posted on 2026-07-30.
+This data analyst position at American Red Cross was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

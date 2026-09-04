@@ -1,16 +1,16 @@
-# Data Domain Architect senior Associate at JPMorgan Chase
+# Data Domain Architect Senior Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Data Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744016) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783565) |
 
 ## About This Role
 
-This data engineer position at JPMorgan Chase was posted on 2026-06-03.
+This data analyst position at JPMorgan Chase was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

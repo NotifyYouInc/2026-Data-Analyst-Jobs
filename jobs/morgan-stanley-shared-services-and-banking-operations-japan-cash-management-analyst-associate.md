@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Treasury & Capital Markets |
+| Category | Corporate Finance |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tokyo-Japan/Advanced-Specialist--Core-Services---Job-Level---Director_PT-JR036507-4) |
 
 ## About This Role
 
-This treasury & capital markets position at Morgan Stanley was posted on 2026-08-26.
+This corporate finance position at Morgan Stanley was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Intern, Sales Excellence Data Analyst  at Robert Bosch
+# Intern, Sales Excellence Data Analyst at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114893933-intern-sales-excellence-data-analyst) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146109095-intern-sales-excellence-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-03-16.
+This data analyst position at Robert Bosch was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

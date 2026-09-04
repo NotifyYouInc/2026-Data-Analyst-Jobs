@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Texas, US |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Sam-Houston-TX/Forward-Deployed-Analyst_R0244381-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Sam-Houston-TX/Forward-Deployed-Analyst_R0248073) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-07-14.
+This data analyst position at Booz Allen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

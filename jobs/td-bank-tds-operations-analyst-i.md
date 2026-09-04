@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDS-Operations-Analyst-I_R_1491626) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/TDS-Operations-Analyst-I_R_1507619) |
 
 ## About This Role
 
-This business analyst position at TD Bank was posted on 2026-05-29.
+This data analyst position at TD Bank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

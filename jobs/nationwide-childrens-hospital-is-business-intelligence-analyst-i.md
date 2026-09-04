@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide Children's Hospital](https://scoutify.ai/companies/nationwidechildrens?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-23316-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-27748-1) |
 
 ## About This Role
 
-This business analyst position at Nationwide Children's Hospital was posted on 2026-02-25.
+This data analyst position at Nationwide Children's Hospital was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Cybersecurity Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/IND0011---Gurgaon---Downtown---Expedia/Analyst-II--Global-Crisis-Operations_R-109037) |
 
 ## About This Role
 
-This cybersecurity engineer position at Expedia was posted on 2026-08-27.
+This soc & incident response position at Expedia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
