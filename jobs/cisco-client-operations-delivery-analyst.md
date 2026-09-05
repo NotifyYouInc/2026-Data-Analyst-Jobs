@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-Costa-Rica/Client-Operations-Delivery-Analyst_2017454-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Client-Operations-Delivery-Analyst_2023562) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-08-05.
+This data analyst position at Cisco was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Florida, US |
 | Category | Data Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLFt-Lauderdale3250-West-Commercial-Boulevard/Senior-GIS-Analyst_R-154632-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLFt-Lauderdale3250-West-Commercial-Boulevard/Senior-GIS-Analyst_R-162949) |
 
 ## About This Role
 
-This data analyst position at AtkinsRéalis was posted on 2026-04-30.
+This data analyst position at AtkinsRéalis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

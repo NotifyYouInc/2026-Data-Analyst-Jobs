@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gaithersburg, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Analytics---Insights-Associate-Director---Oncology_R-258518) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Analytics---Insights-Associate-Director---Oncology_R-259057) |
 
 ## About This Role
 
-This data analyst position at AstraZeneca was posted on 2026-08-19.
+This data analyst position at AstraZeneca was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

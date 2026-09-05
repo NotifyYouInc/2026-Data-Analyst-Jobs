@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wisconsin, US |
-| Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Work-from-home/IT-Customer-Service-Analyst_R0967630) |
+| Location | Hartford, Connecticut, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/IT-Customer-Service-Analyst_R1014948) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-07-13.
+This it & systems administration position at CVS Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

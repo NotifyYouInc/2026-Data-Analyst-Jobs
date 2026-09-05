@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Navi Mumbai, Maharashtra, India |
-| Category | Data Analyst |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Application-Platform---Operations-IT-Analyst_R2068117) |
 
 ## About This Role
 
-This data analyst position at Dow was posted on 2026-08-27.
+This devops engineer position at Dow was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warner Robins, Georgia, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-GA-Robins-AFB/Operations-Analyst-Technician_RQ226311-1) |
+| Location | Georgia, US |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-GA-Fort-Moore/Operations-Analyst-Technician_RQ227131) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-08-15.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TN---Nashville/Quality-Manager--Data---Insights-Analytics_R0990293) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Quality-Manager--Data---Insights-Analytics_R1016262-1) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-07-30.
+This data analyst position at CVS Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

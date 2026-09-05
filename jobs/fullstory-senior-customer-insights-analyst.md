@@ -1,16 +1,16 @@
-# Senior Customer Insights Analyst at FullStory
+# Senior Customer Insights Analyst  at FullStory
 
 | Field | Details |
 |-------|---------|
 | Company | [FullStory](https://scoutify.ai/companies/fullstory?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fullstory/3509c311-0d4a-44bc-96d8-e9d3095ab8fb) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fullstory/eca4d460-8f5e-4544-9d69-05cbd5a6decf) |
 
 ## About This Role
 
-This customer success position at FullStory was posted on 2026-02-18.
+This customer success position at FullStory was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

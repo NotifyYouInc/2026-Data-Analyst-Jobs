@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Brooklyn Park, Minnesota, United States |
-| Category | Operations |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Operations-Analyst_R0000440571) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Operations-Analyst_R0000451323) |
 
 ## About This Role
 
-This operations position at Target was posted on 2026-05-29.
+This data analyst position at Target was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

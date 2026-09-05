@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gaithersburg, Maryland, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Insights-Senior-Manager--US-Oncology_R-253086-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Insights-Senior-Manager--US-Oncology_R-259053-1) |
 
 ## About This Role
 
-This data analyst position at AstraZeneca was posted on 2026-07-16.
+This data analyst position at AstraZeneca was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

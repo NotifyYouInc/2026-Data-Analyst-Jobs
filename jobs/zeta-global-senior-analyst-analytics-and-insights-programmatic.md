@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeta Global](https://scoutify.ai/companies/zeta-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/6018573004) |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/6162295004) |
 
 ## About This Role
 
-This business analyst position at Zeta Global was posted on 2026-06-19.
+This digital / performance marketing position at Zeta Global was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LG Ad Solutions](https://scoutify.ai/companies/lg-ad-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lgads/e5e78b30-13dc-4d12-b0ec-eb819de7d53a) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943) |
 
 ## About This Role
 
-This data analyst position at LG Ad Solutions was posted on 2026-06-04.
+This data analyst position at LG Ad Solutions was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

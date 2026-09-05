@@ -5,12 +5,12 @@
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6005540004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6167525004) |
 
 ## About This Role
 
-This data analyst position at BTG Pactual was posted on 2026-05-25.
+This data analyst position at BTG Pactual was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

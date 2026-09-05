@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014564656-manager-business-analytics) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014924286-manager-business-analytics) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-08-12.
+This data analyst position at AbbVie was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Analyst - Monopoly GO! at Scopely
+# Senior Product Analyst - MONOPOLY GO! at Scopely
 
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5083338008?gh_jid=5083338008) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5409401008?gh_jid=5409401008) |
 
 ## About This Role
 
-This data analyst position at Scopely was posted on 2026-06-01.
+This data analyst position at Scopely was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

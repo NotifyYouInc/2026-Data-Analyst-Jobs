@@ -5,12 +5,12 @@
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Fundamental-Trading-Analyst--Clean-Products-and-Renewables-_00021942) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Fundamental-Trading-Analyst--Clean-Products-and-Renewables-_00023667) |
 
 ## About This Role
 
-This data analyst position at Marathon Petroleum was posted on 2026-05-11.
+This data analyst position at Marathon Petroleum was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Resorts World Las Vegas](https://scoutify.ai/companies/resorts-world-las-vegas?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Marketing |
-| Posted | 2026-03-25 |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://rwlasvegas.wd501.myworkdayjobs.com/rwlv_external_careers/job/Resorts-World-Las-Vegas/Analyst--eCommerce---Marketing_JR-01398) |
 
 ## About This Role
 
-This marketing position at Resorts World Las Vegas was posted on 2026-03-25.
+This digital / performance marketing position at Resorts World Las Vegas was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Trust & Safety |
-| Posted | 2026-02-24 |
+| Category | Data Analyst |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/openai/c9e9e3a5-fb93-4162-b876-6266016819c0) |
 
 ## About This Role
 
-This trust & safety position at OpenAI was posted on 2026-02-24.
+This data analyst position at OpenAI was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

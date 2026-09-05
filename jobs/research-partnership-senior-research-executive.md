@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Research Partnership](https://scoutify.ai/companies/researchpartnership?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/researchpartnership/jobs/8125488) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/researchpartnership/jobs/8156385) |
 
 ## About This Role
 
-This data analyst position at Research Partnership was posted on 2026-08-12.
+This data analyst position at Research Partnership was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

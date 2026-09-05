@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C3 AI](https://scoutify.ai/companies/c3-ai?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Redwood City, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://c3.ai/job-description/8639116002?gh_jid=8639116002) |
+| Location | Guadalajara, Jalisco, Mexico |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://c3.ai/job-description/8760941002?gh_jid=8760941002) |
 
 ## About This Role
 
-This data analyst position at C3 AI was posted on 2026-07-17.
+This accounting position at C3 AI was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

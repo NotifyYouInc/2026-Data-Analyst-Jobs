@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TVH](https://scoutify.ai/companies/tvh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Waregem, Flanders, Belgium |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Waregem/Data-Quality-Officer_JR106333) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Pune/Data-Quality-Officer_JR106781-2) |
 
 ## About This Role
 
-This data analyst position at TVH was posted on 2026-06-30.
+This data analyst position at TVH was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
