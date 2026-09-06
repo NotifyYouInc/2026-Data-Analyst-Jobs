@@ -1,16 +1,16 @@
-# GTM Strategy & Analytics Manager at Chownow
+# Principal Data Analyst at Ethos Life
 
 | Field | Details |
 |-------|---------|
-| Company | [Chownow](https://scoutify.ai/companies/chownow?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
-| Category | Operations |
+| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.lever.co/chownow/c20b3c8c-6659-43ed-8b38-4a11cfae0db6) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8750545002) |
 
 ## About This Role
 
-This operations position at Chownow was posted on 2026-08-29.
+This data analyst position at Ethos Life was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

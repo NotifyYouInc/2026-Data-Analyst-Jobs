@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Sales-Operations-Analyst--eCOA-Neuroscience-Sales_R18124) |
 
 ## About This Role
 
-This data analyst position at Clarioclinical was posted on 2026-08-28.
+This operations position at Clarioclinical was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

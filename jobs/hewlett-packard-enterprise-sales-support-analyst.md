@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Sales-Support-Analyst_1210153-2) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard Enterprise was posted on 2026-08-27.
+This operations position at Hewlett Packard Enterprise was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

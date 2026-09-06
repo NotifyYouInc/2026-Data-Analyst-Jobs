@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott International](https://scoutify.ai/companies/marriott-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Tokyo, JP |
 | Category | Financial Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26090605) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26109491) |
 
 ## About This Role
 
-This financial analyst position at Marriott International was posted on 2026-07-22.
+This financial analyst position at Marriott International was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

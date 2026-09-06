@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Ethernet-Sales-Operations-Analyst_JR0286672) |
 
 ## About This Role
 
-This data analyst position at Intel was posted on 2026-08-27.
+This operations position at Intel was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

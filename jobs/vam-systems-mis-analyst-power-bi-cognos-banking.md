@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Data Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000145924297-mis-analyst-power-bi-cognos-banking) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000146339889-mis-analyst-power-bi-cognos-banking) |
 
 ## About This Role
 
-This data analyst position at VAM Systems was posted on 2026-08-27.
+This data analyst position at VAM Systems was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

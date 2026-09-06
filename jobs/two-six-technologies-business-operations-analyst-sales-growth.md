@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6167047004) |
 
 ## About This Role
 
-This strategy & operations position at Two Six Technologies was posted on 2026-08-28.
+This operations position at Two Six Technologies was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

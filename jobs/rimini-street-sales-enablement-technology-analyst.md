@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Sales-Enablement-Technology-Analyst_R-102403) |
 
 ## About This Role
 
-This data analyst position at Rimini Street was posted on 2026-08-27.
+This operations position at Rimini Street was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
