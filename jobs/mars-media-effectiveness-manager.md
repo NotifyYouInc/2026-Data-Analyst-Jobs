@@ -5,12 +5,12 @@
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Franklin, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Media-Effectiveness-Manager_R160350-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-Tennessee-Franklin/Media-Effectiveness-Manager_R164547-1) |
 
 ## About This Role
 
-This data analyst position at Mars was posted on 2026-07-14.
+This data analyst position at Mars was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

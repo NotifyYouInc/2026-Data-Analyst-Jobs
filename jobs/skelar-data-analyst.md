@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/9562534a-ac6a-4603-a72a-d8231b0be6ea) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/41e1b0aa-e81d-4c82-a944-3660274fbb55) |
 
 ## About This Role
 
-This data analyst position at SKELAR was posted on 2026-07-13.
+This data analyst position at SKELAR was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

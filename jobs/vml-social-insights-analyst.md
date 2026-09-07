@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8568326002?gh_jid=8568326002) |
+| Location | Madrid, Madrid, Spain |
+| Category | Social Media / Community |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8764380002?gh_jid=8764380002) |
 
 ## About This Role
 
-This data analyst position at VML was posted on 2026-06-08.
+This social media / community position at VML was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

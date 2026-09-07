@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Credit-Analyst_R-00282318) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Customer-Service---Operations-Credit-Analyst_R-00284313) |
 
 ## About This Role
 
-This data analyst position at NatWest Group was posted on 2026-07-23.
+This financial analyst position at NatWest Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

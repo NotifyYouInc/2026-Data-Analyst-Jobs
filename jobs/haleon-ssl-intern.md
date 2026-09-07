@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Huangpu, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/SSL-Intern_544024) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/SSL-Intern_547400) |
 
 ## About This Role
 
-This data analyst position at Haleon was posted on 2026-05-20.
+This data analyst position at Haleon was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

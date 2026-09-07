@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/CHENNAI-TAMIL-NADU--CHENNAI/Sales-Surveillance-Sr-Analyst---Assistant-Vice-President_26965257-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Sales-Surveillance-Sr-Analyst---Assistant-Vice-President_26989107) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-05-19.
+This data analyst position at Citigroup was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-FL/Sr-Data-Analyst_R72246) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/US-Telecommuter/Senior-Data-Analyst_R73082) |
 
 ## About This Role
 
-This data analyst position at Sedgwick Group was posted on 2026-04-09.
+This data analyst position at Sedgwick Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

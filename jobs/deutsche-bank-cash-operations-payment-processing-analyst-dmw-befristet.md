@@ -1,16 +1,16 @@
-# Cash Operations – Payment Processing Analyst (d/m/w) - befristet at Deutsche Bank
+# Cash Operations - Payment Processing Analyst (d/m/w) – befristet at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Cash-Operations---Payment-Processing-Analyst--d-m-w----befristet_R0441167-1) |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Cash-Operations---Payment-Processing-Analyst--d-m-w----befristet_R0443892-1) |
 
 ## About This Role
 
-This data analyst position at Deutsche Bank was posted on 2026-07-29.
+This financial analyst position at Deutsche Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

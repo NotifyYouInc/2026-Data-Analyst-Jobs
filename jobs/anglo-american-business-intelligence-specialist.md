@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000122660894-business-intelligence-specialist) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000146441739-business-intelligence-specialist) |
 
 ## About This Role
 
-This data analyst position at Anglo American was posted on 2026-04-24.
+This data analyst position at Anglo American was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

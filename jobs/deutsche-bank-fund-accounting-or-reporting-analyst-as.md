@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jaipur, Rajasthan, India |
-| Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Fund-Accounting---or-Reporting-Analyst--AS_R0416044) |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Fund-Accounting---or-Reporting-Analyst--AS_R0423532) |
 
 ## About This Role
 
-This data analyst position at Deutsche Bank was posted on 2026-08-12.
+This accounting position at Deutsche Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

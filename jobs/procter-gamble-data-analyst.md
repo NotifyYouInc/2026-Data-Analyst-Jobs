@@ -5,12 +5,12 @@
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/BUCHAREST-OFFICE/Data-Analyst_R000145567) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/BUCHAREST-OFFICE/Data-Analyst_R000158183) |
 
 ## About This Role
 
-This data analyst position at Procter & Gamble was posted on 2026-02-12.
+This data analyst position at Procter & Gamble was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

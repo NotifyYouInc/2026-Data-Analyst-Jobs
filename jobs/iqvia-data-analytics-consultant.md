@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Data-Analytics-Consultant_R1535406-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Data-Analytics-Consultant_R1559138) |
 
 ## About This Role
 
-This technology / it consulting position at IQVIA was posted on 2026-04-13.
+This data analyst position at IQVIA was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

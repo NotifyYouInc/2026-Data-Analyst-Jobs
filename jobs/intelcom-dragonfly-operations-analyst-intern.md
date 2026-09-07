@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intelcom | Dragonfly](https://scoutify.ai/companies/intelcomgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Operations-Analyst-Intern_JR110851) |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Operations-Analyst-Intern_JR111559) |
 
 ## About This Role
 
-This business analyst position at Intelcom | Dragonfly was posted on 2026-05-01.
+This data analyst position at Intelcom | Dragonfly was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

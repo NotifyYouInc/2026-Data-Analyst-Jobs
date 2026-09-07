@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Athens, Attica, Greece |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000144309024-data-analyst-prediction-markets) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000146411550-data-analyst-prediction-markets) |
 
 ## About This Role
 
-This data analyst position at Sportradar was posted on 2026-08-19.
+This data analyst position at Sportradar was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
