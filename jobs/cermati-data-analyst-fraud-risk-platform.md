@@ -5,12 +5,12 @@
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000144601344-data-analyst-fraud-risk-platform) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000146623344-data-analyst-fraud-risk-platform) |
 
 ## About This Role
 
-This data analyst position at Cermati was posted on 2026-08-20.
+This data analyst position at Cermati was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

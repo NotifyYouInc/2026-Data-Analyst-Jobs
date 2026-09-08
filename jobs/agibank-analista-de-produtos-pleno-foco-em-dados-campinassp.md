@@ -1,16 +1,16 @@
-# Analista de Produtos Pleno - Foco em Dados - Campinas/SP  at Agibank
+# Analista de Produtos Pleno - Foco em Dados - Campinas/SP at Agibank
 
 | Field | Details |
 |-------|---------|
 | Company | [Agibank](https://scoutify.ai/companies/agibank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5261945008) |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5410456008) |
 
 ## About This Role
 
-This business analyst position at Agibank was posted on 2026-06-15.
+This data analyst position at Agibank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

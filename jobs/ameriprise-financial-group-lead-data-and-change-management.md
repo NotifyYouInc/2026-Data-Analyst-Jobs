@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Program Manager |
+| Category | Data Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Group-Lead---Data-and-Change-Management_R26_3485) |
 
 ## About This Role
 
-This program manager position at Ameriprise Financial was posted on 2026-08-31.
+This data analyst position at Ameriprise Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

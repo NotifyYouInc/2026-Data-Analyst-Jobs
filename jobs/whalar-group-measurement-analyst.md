@@ -5,12 +5,12 @@
 | Company | [Whalar Group](https://scoutify.ai/companies/whalar-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/whalarinc/jobs/6133878004) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/whalarinc/jobs/6173373004) |
 
 ## About This Role
 
-This data analyst position at Whalar Group was posted on 2026-08-04.
+This data analyst position at Whalar Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Dalian-Liaoning-China/Sales-Processing-Analyst-I_1208188) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Sales-Processing-Analyst-I_1198860) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard Enterprise was posted on 2026-07-16.
+This data analyst position at Hewlett Packard Enterprise was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belen, Loreto, Peru |
-| Category | Project Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Analytics-and-Modeling-Manager_R00331300) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-and-Modeling-Manager_AIOC-S01663424-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-05-20.
+This data analyst position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

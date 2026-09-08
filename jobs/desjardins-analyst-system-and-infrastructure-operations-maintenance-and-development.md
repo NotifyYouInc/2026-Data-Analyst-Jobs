@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-d-affaires--Systme-BSA--Guidewire_R2609989) |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-fonctionnel-ou-analyste-fonctionnelle_R2610691-1) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-08-10.
+This data analyst position at Desjardins was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

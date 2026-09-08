@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Kabi](https://scoutify.ai/companies/fresenius-kabi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lake Zurich, Illinois, United States |
-| Category | Marketing |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Marketing-Analyst_R-01023005) |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Marketing-Analyst_R-01029116-1) |
 
 ## About This Role
 
-This marketing position at Fresenius Kabi was posted on 2026-04-16.
+This data analyst position at Fresenius Kabi was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/MadridMadrid---ESP/Solar-Performance-Engineer_NX-4271) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Sorocaba-Sao-Paulo---BRA/Solar-Performance-Engineer_NX-4506) |
 
 ## About This Role
 
-This data analyst position at Nextracker was posted on 2026-07-10.
+This data analyst position at Nextracker was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

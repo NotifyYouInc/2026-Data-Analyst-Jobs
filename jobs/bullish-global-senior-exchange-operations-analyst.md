@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bullish Global](https://scoutify.ai/companies/bullish-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://bullish.wd3.myworkdayjobs.com/bullish/job/Hong-Kong/Senior-Exchange-Operations-Analyst_JR2001273) |
 
 ## About This Role
 
-This operations position at Bullish Global was posted on 2026-08-31.
+This strategy & operations position at Bullish Global was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

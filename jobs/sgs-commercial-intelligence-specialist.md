@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000139204289-commercial-intelligence-specialist) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000146620864-commercial-intelligence-specialist) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-07-23.
+This data analyst position at SGS was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

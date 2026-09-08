@@ -5,12 +5,12 @@
 | Company | [Wesco](https://scoutify.ai/companies/us2-cx-oj118628?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#32678) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#32634) |
 
 ## About This Role
 
-This data analyst position at Wesco was posted on 2026-06-29.
+This data analyst position at Wesco was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Treasury-Sales-Analyst_R0118207) |
+| Location | Orlando, Florida, United States |
+| Category | Financial Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Orlando-FL/Treasury-Sales-Analyst_R0118412-1) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-08-20.
+This financial analyst position at Truist was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

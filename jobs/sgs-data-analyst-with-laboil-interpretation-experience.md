@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000141629020-data-analyst-with-laboil-interpretation-experience) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000146620009-data-analyst-with-laboil-interpretation-experience) |
 
 ## About This Role
 
-This data analyst position at SGS was posted on 2026-08-05.
+This data analyst position at SGS was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

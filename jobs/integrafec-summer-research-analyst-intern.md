@@ -5,12 +5,12 @@
 | Company | [IntegraFEC](https://scoutify.ai/companies/integrafec?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/integra/jobs/4896479008) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/integra/jobs/5406119008) |
 
 ## About This Role
 
-This data analyst position at IntegraFEC was posted on 2026-03-05.
+This data analyst position at IntegraFEC was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

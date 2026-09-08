@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [David Yurman](https://scoutify.ai/companies/davidyurman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-08-29 |
 | Apply | [View on company site](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Product-Costing---Analytics-Analyst_R-100944-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at David Yurman was posted on 2026-08-29.
+This corporate finance position at David Yurman was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

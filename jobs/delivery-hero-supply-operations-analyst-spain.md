@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146440389-supply-operations-analyst-spain) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-08-31.
+This strategy & operations position at Delivery Hero was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

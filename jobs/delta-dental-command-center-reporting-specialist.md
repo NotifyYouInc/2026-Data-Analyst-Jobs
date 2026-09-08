@@ -5,12 +5,12 @@
 | Company | [Delta Dental](https://scoutify.ai/companies/rhsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Farmington Hills, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/DDMI_Michigan/Command-Center-Reporting-Specialist_JR101333) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Farmington-Hills-MI/Command-Center-Reporting-Specialist_JR101437-1) |
 
 ## About This Role
 
-This data analyst position at Delta Dental was posted on 2026-05-27.
+This data analyst position at Delta Dental was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

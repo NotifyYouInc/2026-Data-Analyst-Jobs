@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Australian Capital Territory, AU |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Harman-Australian-Capital-Territory-Australia/Junior-Security-Operations-Analyst_R-00181542) |
+| Location | Canberra, Australian Capital Territory, Australia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Harman-Australian-Capital-Territory-Australia/Junior-Security-Operations-Analyst_R-00190962) |
 
 ## About This Role
 
-This soc & incident response position at Leidos was posted on 2026-04-23.
+This cybersecurity engineer position at Leidos was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Zagreb, Zagreb, Croatia |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000145427139-crm-data-specialist-mz-ured-uprave-zagreb) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000146649110-crm-data-specialist-mz-ured-uprave-zagreb) |
 
 ## About This Role
 
-This data analyst position at METRO/MAKRO was posted on 2026-08-25.
+This data analyst position at METRO/MAKRO was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

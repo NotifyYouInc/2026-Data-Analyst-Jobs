@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Madison-WI/Study-Coordinator-I---Bioanalytical_2613717) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Madison-WI/Study-Coordinator-I---Bioanalytical_2630598-1) |
 
 ## About This Role
 
-This data analyst position at Labcorp was posted on 2026-04-27.
+This data analyst position at Labcorp was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

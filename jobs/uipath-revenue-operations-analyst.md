@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Operations |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/0b59921b-0e4f-4e0a-b331-73c32c741e4c) |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/88fc2cbc-233c-4581-b04f-28f4d05859fc) |
 
 ## About This Role
 
-This operations position at UiPath was posted on 2026-05-22.
+This data analyst position at UiPath was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

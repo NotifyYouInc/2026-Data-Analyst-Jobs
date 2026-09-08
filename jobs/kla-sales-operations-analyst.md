@@ -5,12 +5,12 @@
 | Company | [KLA](https://scoutify.ai/companies/kla?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Analyst--Sales-Ops-1_2638747) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Sales-Operations-Analyst_2640084-2) |
 
 ## About This Role
 
-This data analyst position at KLA was posted on 2026-07-14.
+This data analyst position at KLA was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

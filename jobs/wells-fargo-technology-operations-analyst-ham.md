@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
+| Category | Data Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Technology-Operations-Analyst---HAM_R-568700-1) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-08-31.
+This data analyst position at Wells Fargo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Kansas City, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Omaha-NE/Research-Associate_R-0000032383-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Research-Associate_R-0000033197-1) |
 
 ## About This Role
 
-This data analyst position at The Federal Reserve System was posted on 2026-05-27.
+This data analyst position at The Federal Reserve System was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

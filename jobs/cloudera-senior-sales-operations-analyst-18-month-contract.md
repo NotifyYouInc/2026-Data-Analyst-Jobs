@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cork, Munster, Ireland |
-| Category | Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Ireland-Cork/Senior-Sales-Operations-Analyst--18-Month-Contract-_261256-1) |
 
 ## About This Role
 
-This operations position at Cloudera was posted on 2026-08-31.
+This data analyst position at Cloudera was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

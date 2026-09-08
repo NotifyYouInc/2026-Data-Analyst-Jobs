@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Analyst-Cloud-Financial-Operations_R0061689) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Empower was posted on 2026-08-28.
+This corporate finance position at Empower was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106208) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1) |
 
 ## About This Role
 
-This human resources / people ops position at Expedia was posted on 2026-05-20.
+This human resources / people ops position at Expedia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlestown, Massachusetts, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Research-Data-Analyst_RQ4071406) |
+| Location | Belmont, California, United States |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Belmont-MA/Research-Data-Analyst_RQ4077629) |
 
 ## About This Role
 
-This data analyst position at Mass General Brigham was posted on 2026-07-02.
+This bioinformatics / computational biology position at Mass General Brigham was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

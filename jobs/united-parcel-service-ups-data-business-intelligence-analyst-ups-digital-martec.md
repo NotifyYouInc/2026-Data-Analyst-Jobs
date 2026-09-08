@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Data---Business-Intelligence-Analyst---UPS-Digital-MARTEC_R26006216) |
 
 ## About This Role
 
-This data analyst position at United Parcel Service (UPS) was posted on 2026-03-17.
+This data analyst position at United Parcel Service (UPS) was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

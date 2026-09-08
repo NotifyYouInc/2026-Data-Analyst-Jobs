@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-Intern---Sales-Analytics_R12356) |
 
 ## About This Role
 
-This operations position at Workiva was posted on 2026-08-31.
+This data analyst position at Workiva was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

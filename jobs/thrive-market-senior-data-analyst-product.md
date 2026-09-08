@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thrive Market](https://scoutify.ai/companies/thrive-market?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | California, US |
+| Location | Vista, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://thrivemarketjobs.com/job_posting.html?id=4105269009&gh_jid=4105269009) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://thrivemarketjobs.com/job_posting.html?id=4388680009&gh_jid=4388680009) |
 
 ## About This Role
 
-This data analyst position at Thrive Market was posted on 2026-03-10.
+This data analyst position at Thrive Market was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

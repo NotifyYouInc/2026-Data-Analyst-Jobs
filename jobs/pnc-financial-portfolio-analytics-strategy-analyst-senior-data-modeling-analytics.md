@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Delaware-Avenue-Offices-DE023/Portfolio-Analytics---Strategy-Analyst-Senior---Data--Modeling---Analytics_R223882-1) |
+| Location | Pittsburgh, Pennsylvania, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Data--Modeling---Analytics_R229998-2) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-01.
+This strategy & operations position at PNC Financial was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

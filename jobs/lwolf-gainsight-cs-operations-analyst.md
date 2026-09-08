@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lwolf](https://scoutify.ai/companies/lwolf?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Operations |
+| Category | Data Analyst |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.lever.co/lwolf/d8d7f154-8351-4adb-b897-84db97ce44a9) |
 
 ## About This Role
 
-This operations position at Lwolf was posted on 2026-08-28.
+This data analyst position at Lwolf was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

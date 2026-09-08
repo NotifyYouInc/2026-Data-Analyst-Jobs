@@ -1,16 +1,16 @@
-# Associate Specialist, Clinical Data Management, Hybrid at Merck
+# Associate Specialist, Clinical Data Management - Hybrid at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rahway, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Specialist--Clinical-Data-Management--Hybrid_R409501-2) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Specialist--Clinical-Data-Management---Hybrid_R414694-2) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-08-24.
+This data analyst position at Merck was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
