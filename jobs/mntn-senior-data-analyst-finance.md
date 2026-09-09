@@ -1,16 +1,16 @@
-# Senior Data Analyst - Finance at MNTN
+# Senior Data Analyst, Finance at MNTN
 
 | Field | Details |
 |-------|---------|
 | Company | [MNTN](https://scoutify.ai/companies/mntn?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/8011503) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/8172119) |
 
 ## About This Role
 
-This data analyst position at MNTN was posted on 2026-06-24.
+This data analyst position at MNTN was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

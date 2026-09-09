@@ -5,12 +5,12 @@
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Research-Assistant_R-0000032112-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Research-Assistant_R-0000033280-2) |
 
 ## About This Role
 
-This data analyst position at The Federal Reserve System was posted on 2026-04-28.
+This data analyst position at The Federal Reserve System was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

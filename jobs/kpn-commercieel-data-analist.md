@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000133939539-commercieel-data-analist) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000146910749-commercieel-data-analist) |
 
 ## About This Role
 
-This data analyst position at KPN was posted on 2026-06-24.
+This data analyst position at KPN was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

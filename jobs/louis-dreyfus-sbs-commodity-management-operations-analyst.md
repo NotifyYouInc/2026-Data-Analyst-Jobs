@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tianjin, Tianjin, China |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000146661889-sbs-commodity-management-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at Louis Dreyfus was posted on 2026-09-01.
+This business analyst position at Louis Dreyfus was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

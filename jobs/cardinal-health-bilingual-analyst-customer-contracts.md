@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vaughan, Ontario, Canada |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Canada-Vaughan/Bilingual-Analyst--Customer-Contracts_20185615-1) |
 
 ## About This Role
 
-This data analyst position at Cardinal Health was posted on 2026-08-31.
+This business analyst position at Cardinal Health was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Shawbrook Bank](https://scoutify.ai/companies/shawbrookbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000131457038-decision-science-senior-analyst) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000146753063-decision-science-senior-analyst) |
 
 ## About This Role
 
-This data analyst position at Shawbrook Bank was posted on 2026-06-10.
+This data analyst position at Shawbrook Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

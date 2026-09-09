@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200680928/ww-business-operations-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Apple was posted on 2026-08-31.
+This business analyst position at Apple was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

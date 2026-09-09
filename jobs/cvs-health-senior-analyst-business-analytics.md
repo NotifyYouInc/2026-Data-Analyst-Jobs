@@ -1,16 +1,16 @@
-# Senior Analyst - Business Analytics at CVS Health
+# Senior Analyst, Business Analytics at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Connecticut, US |
+| Location | Kansas, US |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Senior-Analyst---Business-Analytics_R0980150) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Senior-Analyst--Business-Analytics_R1020718) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-08-13.
+This data analyst position at CVS Health was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

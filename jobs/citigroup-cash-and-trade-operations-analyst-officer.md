@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Shanghai-Shanghai-China/Cash-and-Trade-Operations-Analyst-Officer_26990642) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-09-01.
+This business analyst position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

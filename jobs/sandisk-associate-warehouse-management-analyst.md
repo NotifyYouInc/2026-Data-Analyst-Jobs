@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000146579223-associate-warehouse-management-analyst) |
 
 ## About This Role
 
-This data analyst position at SanDisk was posted on 2026-09-01.
+This business analyst position at SanDisk was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Richmond, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Associate-Research-Consultant_R39534-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R39758) |
 
 ## About This Role
 
-This data analyst position at CoStar Group was posted on 2026-08-06.
+This data analyst position at CoStar Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

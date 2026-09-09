@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Westferry-London-United-Kingdom/Senior-Market-Fundamental-Analyst--Petrochemical-_R000073363-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Singapore-DUO-Tower-Singapore/Senior-Market-Fundamental-Analyst_R000067848) |
 
 ## About This Role
 
-This data analyst position at Chevron was posted on 2026-08-31.
+This data analyst position at Chevron was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

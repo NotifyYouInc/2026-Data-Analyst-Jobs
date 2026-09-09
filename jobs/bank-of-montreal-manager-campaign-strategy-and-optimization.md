@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Marketing |
-| Posted | 2026-05-29 |
+| Category | Strategy & Operations |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Campaign-Strategy-and-Optimization_R260016318) |
 
 ## About This Role
 
-This marketing position at Bank of Montreal was posted on 2026-05-29.
+This strategy & operations position at Bank of Montreal was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

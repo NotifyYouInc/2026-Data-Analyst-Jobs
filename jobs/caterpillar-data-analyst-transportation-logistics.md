@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Grimbergen, Flanders, Belgium |
 | Category | Data Analyst |
-| Posted | 2026-03-10 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Grimbergen-Flemish-Brabant/Data-Analyst---Transportation---Logistics_R0000356061) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-03-10.
+This data analyst position at Caterpillar was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

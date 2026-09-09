@@ -1,16 +1,16 @@
-# Senior Analyst - HR Operations at Diageo
+# Senior Analyst, HR Operations at Diageo
 
 | Field | Details |
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tabanan, Bali, Indonesia |
-| Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Tabanan-Bali/Senior-Analyst---HR-Operations_JR1128695) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Tokyo-Japan/Senior-Analyst--HR-Operations_JR1129203) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-08-24.
+This human resources / people ops position at Diageo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

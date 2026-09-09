@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123997969-senior-service-operations-analyst) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146836399-senior-service-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-04-30.
+This business analyst position at Experian was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Associate-Product-Analyst_JR112433) |
+| Category | Customer Success |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Associate-Product-Analyst_JR112662) |
 
 ## About This Role
 
-This data analyst position at PTC was posted on 2026-07-21.
+This customer success position at PTC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

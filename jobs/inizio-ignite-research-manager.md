@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inizio Ignite](https://scoutify.ai/companies/inizio-ignite?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
+| Category | UX Researcher |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ashfieldadvisory/jobs/8156500) |
 
 ## About This Role
 
-This data analyst position at Inizio Ignite was posted on 2026-09-01.
+This ux researcher position at Inizio Ignite was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Statkraft](https://scoutify.ai/companies/statkraft?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
-| Category | Data Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000144717620-operations-analyst-wmd-metering-market-operations) |
+| Category | Business Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000146931859-operations-analyst-wmd-metering-market-operations) |
 
 ## About This Role
 
-This data analyst position at Statkraft was posted on 2026-08-21.
+This business analyst position at Statkraft was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

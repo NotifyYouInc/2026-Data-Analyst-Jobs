@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Strategy & Operations |
+| Category | Quant Research |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786014) |
 
 ## About This Role
 
-This strategy & operations position at JPMorgan Chase was posted on 2026-09-01.
+This quant research position at JPMorgan Chase was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

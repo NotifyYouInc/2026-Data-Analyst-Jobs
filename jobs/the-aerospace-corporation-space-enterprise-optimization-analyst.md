@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Space-Enterprise-Optimization-Analyst_R015042) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Space-Enterprise-Optimization-Analyst_R016378) |
 
 ## About This Role
 
-This data analyst position at The Aerospace Corporation was posted on 2026-08-28.
+This data analyst position at The Aerospace Corporation was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

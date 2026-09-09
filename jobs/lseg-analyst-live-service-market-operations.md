@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
-| Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Analyst--Live-Service--Market-Operations_R0122686) |
+| Location | North Carolina, US |
+| Category | Business Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Greater-Charlotte-Area-United-States/Analyst--Live-Service--Market-Operations_R0122678-1) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-08-24.
+This business analyst position at LSEG was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Agency-Quality-Excellence-Analyst_JR00127492) |
 
 ## About This Role
 
-This data analyst position at Sun Life Financial was posted on 2026-09-01.
+This business analyst position at Sun Life Financial was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

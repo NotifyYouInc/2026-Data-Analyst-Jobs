@@ -1,16 +1,16 @@
-# Engineering Analyst, YouTube, Trust and Safety at Google
+# Engineering Analyst, YouTube Trust and Safety at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Trust & Safety |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/97380318515733190-engineering-analyst-youtube-trust-and-safety?sort_by=date&page=1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUXGnpP5Luyd-A7-TnS5yuTyEQwOFjrQiz9BK6PxEmPpEjsA1Ny_i6MnWPmd__7o9R5UqyQ_0G_9_fN2TFH2pKaQnzIOjZz30ffWpKTM5VY9PQlyPkV3v65zfzupZw%3D%3D_V2&loc=IN&title=Engineering+Analyst) |
 
 ## About This Role
 
-This trust & safety position at Google was posted on 2026-03-25.
+This data analyst position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

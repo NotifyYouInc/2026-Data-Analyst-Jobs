@@ -5,12 +5,12 @@
 | Company | [OVO Energy](https://scoutify.ai/companies/ovo-energy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Financial Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://careers.ovo.com/?gh_jid=7938607) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://careers.ovo.com/?gh_jid=8161538) |
 
 ## About This Role
 
-This financial analyst position at OVO Energy was posted on 2026-05-19.
+This financial analyst position at OVO Energy was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

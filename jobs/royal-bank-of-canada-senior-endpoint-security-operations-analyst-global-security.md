@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Security Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Endpoint-Security-Operations-Analyst--Global-Security-_R-0000175250-1) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Endpoint-Security-Operations-Analyst--Global-Security-_R-0000185867-1) |
 
 ## About This Role
 
-This security engineer position at Royal Bank of Canada was posted on 2026-06-09.
+This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

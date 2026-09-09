@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Analyst--Product-Integration_R-289015) |
+| Location | Pune, Maharashtra, India |
+| Category | Customer Success |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Analyst--Product-Integration_R-287203) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-08-24.
+This customer success position at Mastercard was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

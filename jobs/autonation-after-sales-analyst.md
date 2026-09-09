@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AutoNation](https://scoutify.ai/companies/autonation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/AutoNation-Headquarters/After-Sales-Analyst_JR2026147885) |
 
 ## About This Role
 
-This data analyst position at AutoNation was posted on 2026-08-31.
+This business analyst position at AutoNation was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

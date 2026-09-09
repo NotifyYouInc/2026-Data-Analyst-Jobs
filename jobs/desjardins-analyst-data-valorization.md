@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Valorisation-de-la-donne-financire_R2610544) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-domaine-AI-LLM_R2610560) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-08-27.
+This data analyst position at Desjardins was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

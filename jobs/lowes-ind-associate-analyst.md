@@ -1,16 +1,16 @@
-# IND-Associate Analyst at Lowe's
+# IND- Associate Analyst at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst_JR-02615308) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND--Associate-Analyst_JR-02639404) |
 
 ## About This Role
 
-This data analyst position at Lowe's was posted on 2026-08-26.
+This data analyst position at Lowe's was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

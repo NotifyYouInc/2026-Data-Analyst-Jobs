@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dieppe, New Brunswick, Canada |
-| Category | Data Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dieppe-New-Brunswick/Finance-Operations-Analyst-I_R_1503606-1) |
+| Category | Financial Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dieppe-New-Brunswick/Finance-Operations-Analyst-I_R_1505296-1) |
 
 ## About This Role
 
-This data analyst position at TD Bank was posted on 2026-08-06.
+This financial analyst position at TD Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Quantitative-Analytics---Monitoring_R-0000169295-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Quantitative-Analytics---Monitoring_R-0000184408) |
 
 ## About This Role
 
-This data analyst position at Royal Bank of Canada was posted on 2026-04-24.
+This data analyst position at Royal Bank of Canada was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

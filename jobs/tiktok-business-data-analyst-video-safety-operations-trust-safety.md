@@ -1,16 +1,16 @@
-# Business Data Analyst (Video Safety Operations), Trust & Safety at TikTok
+# Business Data Analyst - Video Safety Operations - Trust & Safety at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | San Jose, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7678220364667128069/detail) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7680565907624216837/detail) |
 
 ## About This Role
 
-This data analyst position at TikTok was posted on 2026-08-27.
+This data analyst position at TikTok was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

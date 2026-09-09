@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Corporate Finance |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/0e7f98cc-27fb-42a3-aa38-99c06415742e) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/6459c0c4-728b-4004-bcc8-33be5544e181) |
 
 ## About This Role
 
-This corporate finance position at SKELAR was posted on 2026-02-14.
+This fp&a / strategic finance position at SKELAR was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Global-Security-Operations-Center-Analyst_JR183370) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Global-Security-Operations-Center-Analyst_JR204103) |
 
 ## About This Role
 
-This soc & incident response position at Elevance Health was posted on 2026-03-03.
+This cybersecurity engineer position at Elevance Health was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

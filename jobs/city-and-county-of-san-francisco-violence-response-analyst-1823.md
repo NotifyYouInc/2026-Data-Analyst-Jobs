@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Analyst |
+| Category | Program Manager |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990014964916-violence-response-analyst-1823) |
 
 ## About This Role
 
-This data analyst position at City and County of San Francisco was posted on 2026-09-01.
+This program manager position at City and County of San Francisco was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

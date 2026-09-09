@@ -1,16 +1,16 @@
-# Data Analyst  at Hippo Insurance
+# Data Analyst at Hippo Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [Hippo Insurance](https://scoutify.ai/companies/hippo70?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://boards.greenhouse.io/hippo70/jobs/8599821002?gh_jid=8599821002) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/hippo70/jobs/8767349002?gh_jid=8767349002) |
 
 ## About This Role
 
-This data analyst position at Hippo Insurance was posted on 2026-06-22.
+This data analyst position at Hippo Insurance was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

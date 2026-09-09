@@ -5,12 +5,12 @@
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/b5c3f5f1-bedc-456d-810f-c91900c5a827) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/09a19ada-03bf-430f-a95f-608871640868) |
 
 ## About This Role
 
-This data analyst position at SpotOn: Sales (Career Site) was posted on 2026-07-20.
+This data analyst position at SpotOn: Sales (Career Site) was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

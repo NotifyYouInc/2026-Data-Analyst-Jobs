@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pluxee](https://scoutify.ai/companies/pluxee?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bertrange, Luxembourg, Luxembourg |
-| Category | Business Analyst |
-| Posted | 2026-06-09 |
+| Category | Data Analyst |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://pluxee.wd3.myworkdayjobs.com/pluxee_career_site/job/Bertrange/Junior---Payment---Operations-Analyst_R5096) |
 
 ## About This Role
 
-This business analyst position at Pluxee was posted on 2026-06-09.
+This data analyst position at Pluxee was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

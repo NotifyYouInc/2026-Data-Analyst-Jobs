@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nairobi, Nairobi County, Kenya |
-| Category | Data Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000109641335-data-insights-analytics-manager) |
+| Category | Data Scientist |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000146954439-data-insights-analytics-manager) |
 
 ## About This Role
 
-This data analyst position at Standard Bank was posted on 2026-02-17.
+This data scientist position at Standard Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
