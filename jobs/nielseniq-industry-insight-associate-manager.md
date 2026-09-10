@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142131434-industry-insight-associate-manager) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000146965419-industry-insight-associate-manager) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-07.
+This data analyst position at NielsenIQ was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

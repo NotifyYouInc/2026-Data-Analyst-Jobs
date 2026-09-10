@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Analyst--Sales-Strategy---Operations--Transcatheter-Heart-Valve_Req-50486-1) |
 
 ## About This Role
 
-This operations position at Edwards Lifesciences was posted on 2026-09-01.
+This strategy & operations position at Edwards Lifesciences was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000146531179-senior-analytics-specialist-product-digital-mfd) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000147009619-senior-analytics-specialist-product-digital-mfd) |
 
 ## About This Role
 
-This data analyst position at Sixt was posted on 2026-08-31.
+This data analyst position at Sixt was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

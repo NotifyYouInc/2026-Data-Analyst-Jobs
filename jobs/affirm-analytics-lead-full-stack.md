@@ -5,12 +5,12 @@
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7793242003) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7872398003) |
 
 ## About This Role
 
-This software engineer position at Affirm was posted on 2026-07-20.
+This software engineer position at Affirm was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

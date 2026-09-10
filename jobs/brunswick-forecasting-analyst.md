@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Juárez, Chiapas, Mexico |
-| Category | FP&A / Strategic Finance |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Acme-de-Mexico-Servicios---Juarez/Forecasting-Analyst_JR-050862) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Brunswick was posted on 2026-09-02.
+This data analyst position at Brunswick was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst - HR Operations: Hire to Retire : 1 Year Contract to Hire at AtkinsRéalis
+# Analyst- HR Operations: Hire to Retire: 1 Year Contract to Hire at AtkinsRéalis
 
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst---HR-Operations--Hire-to-Retire---1-Year-Contract-to-Hire_R-153476-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst--HR-Operations--Hire-to-Retire--1-Year-Contract-to-Hire_R-163223) |
 
 ## About This Role
 
-This human resources / people ops position at AtkinsRéalis was posted on 2026-04-22.
+This human resources / people ops position at AtkinsRéalis was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inizio Ignite | STEM](https://scoutify.ai/companies/inizio-ignite-stem?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | York, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/stemhealthcare/jobs/8044122) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/stemhealthcare/jobs/8174305) |
 
 ## About This Role
 
-This data analyst position at Inizio Ignite | STEM was posted on 2026-07-03.
+This data analyst position at Inizio Ignite | STEM was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

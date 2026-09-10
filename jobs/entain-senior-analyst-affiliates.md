@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000141748215-senior-analyst-affiliates) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000147012509-senior-analyst-affiliates) |
 
 ## About This Role
 
-This data analyst position at Entain was posted on 2026-08-05.
+This data analyst position at Entain was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

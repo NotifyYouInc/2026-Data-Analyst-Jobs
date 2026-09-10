@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Marketing |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Paris-France/Pharmaceutical-Market-Research-Analyst--French-speaker-_R1566799) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Pharmaceutical-Market-Research-Analyst--French-speaker-_R1559670) |
 
 ## About This Role
 
-This product marketing position at IQVIA was posted on 2026-09-01.
+This product marketing position at IQVIA was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

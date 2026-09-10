@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7814613003) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7984869003) |
 
 ## About This Role
 
-This data analyst position at dunnhumby was posted on 2026-07-30.
+This data analyst position at dunnhumby was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

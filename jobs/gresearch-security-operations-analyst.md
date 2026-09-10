@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gresearch](https://scoutify.ai/companies/gresearch?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Security-Operations-Analyst_R3663) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Security-Operations-Analyst_R3723) |
 
 ## About This Role
 
-This soc & incident response position at Gresearch was posted on 2026-07-20.
+This cybersecurity engineer position at Gresearch was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

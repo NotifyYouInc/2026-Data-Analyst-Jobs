@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Athens, Attica, Greece |
-| Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133863635-business-insights-analytics-lead) |
+| Category | Data Scientist |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000147201469-business-insights-analytics-lead) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-06-24.
+This data scientist position at Delivery Hero was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

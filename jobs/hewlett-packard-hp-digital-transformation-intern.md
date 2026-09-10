@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bogota-Distrito-Capital-de-Bogot-Colombia/Digital-Transformation-Intern_3159320-1) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard (HP) was posted on 2026-02-23.
+This data analyst position at Hewlett Packard (HP) was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

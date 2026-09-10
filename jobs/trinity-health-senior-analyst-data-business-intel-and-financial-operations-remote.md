@@ -5,12 +5,12 @@
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/MMCIA---MercyOne-Des-Moines-Medical-Center-Central-IA/Senior-Analyst--Data--Business-Intel-and-Financial-Operations--Remote_00681402-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/MMCIA---MercyOne-Des-Moines-Medical-Center-Central-IA/Senior-Analyst--Data--Business-Intel-and-Financial-Operations--Remote_00690856) |
 
 ## About This Role
 
-This data analyst position at Trinity Health was posted on 2026-07-21.
+This data analyst position at Trinity Health was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

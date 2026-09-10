@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Analyst--Data-Governance--Corp-Functions-_R-13364) |
+| Category | Privacy & Data Protection |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Analyst--Data-Governance--Corp-Functions-_R-13365) |
 
 ## About This Role
 
-This data analyst position at Invesco was posted on 2026-08-24.
+This privacy & data protection position at Invesco was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

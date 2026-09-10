@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-10-Upper-Bank-Street/Data-Analyst--Chief-Data-Office-Data-Governance-Function_R0435107-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-10-Upper-Bank-Street/Data-Analyst--Chief-Data-Office-Data-Governance-Function_R0435113-1) |
 
 ## About This Role
 
-This data analyst position at Deutsche Bank was posted on 2026-05-18.
+This data analyst position at Deutsche Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Senior-Specialist--External-Data-Acquisition-and-Delivery_R48310) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Senior-Specialist--External-Data-Acquisition-and-Delivery_R48307-1) |
 
 ## About This Role
 
-This data analyst position at Regeneron was posted on 2026-06-08.
+This data analyst position at Regeneron was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

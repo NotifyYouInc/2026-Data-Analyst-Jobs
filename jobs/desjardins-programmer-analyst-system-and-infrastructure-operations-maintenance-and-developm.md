@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
-| Category | IT & Systems Administration |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-programmeur-ou-Analyste-programmeuse--Support--la-production_R2610778) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Tech-lead-Net-React_R2610944) |
 
 ## About This Role
 
-This it & systems administration position at Desjardins was posted on 2026-09-01.
+This software engineer position at Desjardins was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

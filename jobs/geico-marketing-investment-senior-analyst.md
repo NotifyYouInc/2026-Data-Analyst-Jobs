@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bethesda, Maryland, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Senior-Analyst--Marketing-Investment---Planning_R0064127-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Geico was posted on 2026-09-01.
+This corporate finance position at Geico was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

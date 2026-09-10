@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Sales-Strategy-Analyst_JR355109-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Strategy & Operations |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sales-Strategy-Analyst_JR355866) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-08-12.
+This strategy & operations position at Salesforce was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

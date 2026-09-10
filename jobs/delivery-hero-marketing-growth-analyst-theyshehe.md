@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139587903-marketing-growth-analyst-theyshehe) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146979131-marketing-growth-analyst-theyshehe) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-07-24.
+This data analyst position at Delivery Hero was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

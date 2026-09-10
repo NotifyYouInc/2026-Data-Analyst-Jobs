@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | South Africa |
-| Category | Data Analyst |
+| Category | Privacy & Data Protection |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146913721-data-governance-specialist) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-09-02.
+This privacy & data protection position at Experian was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

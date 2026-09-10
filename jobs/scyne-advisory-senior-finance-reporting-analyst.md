@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scyne Advisory](https://scoutify.ai/companies/scyne-advisory?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | FP&A / Strategic Finance |
+| Category | Financial Analyst |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/scyneadvisory/6000000001367763-senior-finance-reporting-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Scyne Advisory was posted on 2026-09-01.
+This financial analyst position at Scyne Advisory was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

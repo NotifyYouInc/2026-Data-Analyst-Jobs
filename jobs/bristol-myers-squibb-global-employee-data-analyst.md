@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Global-Employee-Data-Analyst_R1602956) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Global-Employee-Data-Analyst_R1605723) |
 
 ## About This Role
 
-This human resources / people ops position at Bristol-Myers Squibb was posted on 2026-06-08.
+This human resources / people ops position at Bristol-Myers Squibb was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

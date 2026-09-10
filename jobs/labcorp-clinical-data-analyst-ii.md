@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-26 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Clinical-Data-Analyst-II_2617783) |
 
 ## About This Role
 
-This data analyst position at Labcorp was posted on 2026-05-26.
+This data analyst position at Labcorp was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

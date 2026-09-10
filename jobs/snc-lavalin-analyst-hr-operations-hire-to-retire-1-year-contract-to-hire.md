@@ -1,16 +1,16 @@
-# Analyst - HR Operations: Hire to Retire: 1 Year Contract to Hire at SNC-Lavalin
+# Analyst- HR Operations: Hire to Retire: 1 Year Contract to Hire at SNC-Lavalin
 
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst---HR-Operations--Employee-Lifecycle--1-Year-Contract-to-Hire_R-155879-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Analyst--HR-Operations--Hire-to-Retire--1-Year-Contract-to-Hire_R-163223) |
 
 ## About This Role
 
-This human resources / people ops position at SNC-Lavalin was posted on 2026-05-27.
+This human resources / people ops position at SNC-Lavalin was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

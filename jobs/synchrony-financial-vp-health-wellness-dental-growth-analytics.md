@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | 19 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/NYC-Bryant-Park-Site/VP--Health---Wellness---Dental-Growth-Analytics_2601345-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/NYC-Bryant-Park-Hub/VP--Health---Wellness---Dental-Growth-Analytics_2601345-1) |
 
 ## About This Role
 
-This data analyst position at Synchrony Financial was posted on 2026-05-05.
+This data analyst position at Synchrony Financial was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

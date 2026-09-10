@@ -5,12 +5,12 @@
 | Company | [ConocoPhillips](https://scoutify.ai/companies/conocophillips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Midland, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://conocophillips.wd1.myworkdayjobs.com/External/job/Midland-TX/Operations-Engineering-Analyst---Midland--TX_REQ-005598) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://conocophillips.wd1.myworkdayjobs.com/External/job/Midland-TX/Operations-Engineering-Analyst---Midland--TX_REQ-006529) |
 
 ## About This Role
 
-This data analyst position at ConocoPhillips was posted on 2026-02-18.
+This data analyst position at ConocoPhillips was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

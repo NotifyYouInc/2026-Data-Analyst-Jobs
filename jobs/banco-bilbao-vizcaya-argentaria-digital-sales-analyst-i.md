@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DIGITAL-SALES-ANALYST-I_JR00108800) |
+| Location | Lima, Lima Province, Peru |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DIGITAL-SALES-ANALYST-I_JR00113734) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-09.
+This digital / performance marketing position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

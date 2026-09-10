@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Taiwan---Taipei/Sr-Analyst--Finance--Planning---Analysis--Sales_33932) |
 
 ## About This Role
 
-This fp&a / strategic finance position at SC Johnson was posted on 2026-09-02.
+This corporate finance position at SC Johnson was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

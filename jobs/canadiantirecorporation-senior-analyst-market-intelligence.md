@@ -5,12 +5,12 @@
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Marketing |
-| Posted | 2026-05-19 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Toronto-ON/Senior-Analyst--Market-Intelligence_JR161095) |
 
 ## About This Role
 
-This product marketing position at Canadiantirecorporation was posted on 2026-05-19.
+This product marketing position at Canadiantirecorporation was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

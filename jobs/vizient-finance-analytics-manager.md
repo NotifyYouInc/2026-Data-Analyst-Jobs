@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irving, Texas, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Finance-Analytics-Manager_34164R) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Vizient was posted on 2026-09-02.
+This corporate finance position at Vizient was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

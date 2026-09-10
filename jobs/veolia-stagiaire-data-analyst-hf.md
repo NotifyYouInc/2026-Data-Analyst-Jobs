@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114080237-stagiaire-data-analyst-hf) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000147204923-stagiaire-data-analyst-hf) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-03-11.
+This data analyst position at Veolia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

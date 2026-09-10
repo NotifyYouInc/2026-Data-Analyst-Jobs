@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139619524-data-analyst-alteryx-powerbi-donnees-esg-hf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000147007299-data-analyst-alteryx-powerbi-donnees-esg-hf) |
 
 ## About This Role
 
-This data analyst position at Nexton was posted on 2026-07-24.
+This data analyst position at Nexton was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/KYC-Operations-Analyst-1---C09---KUALA-LUMPUR_26983352) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/KYC-Operations-Analyst-1---C09---KUALA-LUMPUR_26983744) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-18.
+This data analyst position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Analytics & Reporting Analyst at HCSC
+# Sr Analytics & Reporting Analyst at HCSC
 
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Analytics---Reporting-Analyst_R0055198-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Analytics---Reporting-Analyst_R0055520-2) |
 
 ## About This Role
 
-This data analyst position at HCSC was posted on 2026-08-07.
+This data analyst position at HCSC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

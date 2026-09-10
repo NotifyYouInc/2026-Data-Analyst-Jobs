@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beaverton, Oregon, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Corporate Finance |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Analyst--Product-Finance_R-91106) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Nike was posted on 2026-09-01.
+This corporate finance position at Nike was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

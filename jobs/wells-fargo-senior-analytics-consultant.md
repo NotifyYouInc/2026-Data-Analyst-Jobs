@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Analytics-Consultant_R-567665-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Senior-Analytics-Consultant_R-569726-1) |
 
 ## About This Role
 
-This data analyst position at Wells Fargo was posted on 2026-09-01.
+This data analyst position at Wells Fargo was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

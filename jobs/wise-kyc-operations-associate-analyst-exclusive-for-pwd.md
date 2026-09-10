@@ -1,16 +1,16 @@
-# KYC Operations Associate Analyst (Exclusive for PwD) at WISE
+# KYC Operations Associate Analyst - Exclusive for PwD at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143525478-kyc-operations-associate-analyst-exclusive-for-pwd) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147047778-kyc-operations-associate-analyst-exclusive-for-pwd) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-08-14.
+This data analyst position at WISE was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

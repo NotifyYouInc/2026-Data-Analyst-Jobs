@@ -1,16 +1,16 @@
-# Senior Energy Market Analyst  at Energy Exemplar 
+# Senior Energy Market Analyst at Energy Exemplar 
 
 | Field | Details |
 |-------|---------|
 | Company | [Energy Exemplar ](https://scoutify.ai/companies/energy-exemplar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/energyexemplarllc/jobs/5353733008) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/energyexemplarllc/jobs/5414630008) |
 
 ## About This Role
 
-This data analyst position at Energy Exemplar  was posted on 2026-07-15.
+This data analyst position at Energy Exemplar  was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
