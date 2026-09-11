@@ -5,12 +5,12 @@
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pardubice, Pardubický, Czechia |
 | Category | Data Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000146917770-business-data-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000147432329-business-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Stäubli was posted on 2026-09-02.
+This data analyst position at Stäubli was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

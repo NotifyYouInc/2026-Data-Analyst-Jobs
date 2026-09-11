@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Project Manager |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Principal-Computer-Operations-Analyst_R10248932) |
 
 ## About This Role
 
-This project manager position at Northrop Grumman was posted on 2026-09-02.
+This data analyst position at Northrop Grumman was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Data-Insight-Analyst_R10226508) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Data-Insight-Analyst_R10248875) |
 
 ## About This Role
 
-This data analyst position at Northrop Grumman was posted on 2026-03-20.
+This data analyst position at Northrop Grumman was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

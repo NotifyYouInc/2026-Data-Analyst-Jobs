@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [R1 Rcm](https://scoutify.ai/companies/r1rcm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Gurugram-India/Associate-Analyst_R260000005246) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Noida-India/Associate-Analyst_R260000003664) |
 
 ## About This Role
 
-This data analyst position at R1 Rcm was posted on 2026-08-27.
+This data analyst position at R1 Rcm was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

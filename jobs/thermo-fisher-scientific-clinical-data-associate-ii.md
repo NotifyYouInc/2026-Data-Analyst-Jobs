@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Philippines/Clinical-Data-Associate-II_R-01358500) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Clinical-Data-Associate-II_R-01365601) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-07-20.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

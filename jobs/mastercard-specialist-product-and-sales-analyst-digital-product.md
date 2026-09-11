@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New South Wales, AU |
-| Category | Product Manager |
+| Category | Data Analyst |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Specialist--Product-and-Sales-Analyst---Digital-Product_R-289210) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-09-03.
+This data analyst position at Mastercard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

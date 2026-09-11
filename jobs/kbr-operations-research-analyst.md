@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2128993) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2129344) |
 
 ## About This Role
 
-This data analyst position at KBR was posted on 2026-08-26.
+This data analyst position at KBR was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

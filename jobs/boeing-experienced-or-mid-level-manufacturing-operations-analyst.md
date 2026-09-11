@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mesa, Arizona, United States |
-| Category | Business Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Experienced-or-Mid-Level-Manufacturing-Operations-Analyst_JR2026523160-1) |
+| Category | Data Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Experienced-or-Mid-Level-Manufacturing-Operations-Analyst_JR2026523928-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-09-02.
+This data analyst position at Boeing was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Kansas-City-MO/Research-Associate_R-0000033197-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/Research-Associate_R-0000033304-1) |
 
 ## About This Role
 
-This data analyst position at The Federal Reserve System was posted on 2026-08-31.
+This data analyst position at The Federal Reserve System was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

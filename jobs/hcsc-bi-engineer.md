@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/BI-Engineer_R0049982) |
+| Category | Data Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/BI-Engineer_R0055538-2) |
 
 ## About This Role
 
-This data engineer position at HCSC was posted on 2026-04-20.
+This data analyst position at HCSC was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

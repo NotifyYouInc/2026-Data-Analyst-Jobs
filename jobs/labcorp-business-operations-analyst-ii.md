@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Illinois, US |
 | Category | Strategy & Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Raleigh-NC/Business-Operations-Analyst-II_268477) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_United-States/Business-Operations-Analyst-II_2630966) |
 
 ## About This Role
 
-This strategy & operations position at Labcorp was posted on 2026-03-24.
+This strategy & operations position at Labcorp was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

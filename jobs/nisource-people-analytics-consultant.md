@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiSource](https://scoutify.ai/companies/nisource?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Human Resources / People Ops |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/People-Analytics-Consultant_R00943604) |
 
 ## About This Role
 
-This human resources / people ops position at NiSource was posted on 2026-09-02.
+This data analyst position at NiSource was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

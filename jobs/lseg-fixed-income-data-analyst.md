@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buffalo, New York, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Buffalo---Fountain-Plaza/Fixed-Income-Data-Analyst_R0121053-1) |
+| Location | Gdynia, Pomerania, Poland |
+| Category | Quant Research |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Fixed-Income-Data-Analyst_R0122644) |
 
 ## About This Role
 
-This data analyst position at LSEG was posted on 2026-07-13.
+This quant research position at LSEG was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

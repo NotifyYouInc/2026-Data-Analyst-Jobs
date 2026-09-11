@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014999867-market-access-analytics) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015057041-market-access-analytics) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-09-01.
+This data analyst position at AbbVie was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

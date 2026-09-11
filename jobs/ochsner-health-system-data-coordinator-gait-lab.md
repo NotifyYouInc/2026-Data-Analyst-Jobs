@@ -5,12 +5,12 @@
 | Company | [Ochsner Health System](https://scoutify.ai/companies/ochsner-health-system?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jefferson, Louisiana, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/Jefferson---New-Orleans-Region---Louisiana/Data-Coordinator---Gait-Lab_REQ_00260986) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/Jefferson---New-Orleans-Region---Louisiana/Data-Coordinator---Gait-Lab_REQ_00273187) |
 
 ## About This Role
 
-This data analyst position at Ochsner Health System was posted on 2026-04-27.
+This data analyst position at Ochsner Health System was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

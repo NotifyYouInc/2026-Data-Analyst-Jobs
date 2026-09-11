@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pennsylvania, US |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Operations-Analyst---Mutual-Fund-Control_R0036909) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Operations-Analyst---Mutual-Fund-Control_R0037949) |
 
 ## About This Role
 
-This asset management / portfolio management position at SEI Investments was posted on 2026-06-08.
+This corporate finance position at SEI Investments was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

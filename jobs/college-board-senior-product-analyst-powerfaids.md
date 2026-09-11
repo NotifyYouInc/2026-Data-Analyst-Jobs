@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [College Board](https://scoutify.ai/companies/college-board?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Senior-Product-Analyst--PowerFAIDS_REQ002881-1) |
 
 ## About This Role
 
-This business analyst position at College Board was posted on 2026-09-02.
+This data analyst position at College Board was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

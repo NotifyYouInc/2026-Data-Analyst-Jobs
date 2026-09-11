@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Zebulon, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/USA---North-Carolina---Zebulon/ERP-Data-Management-Lead_441282) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/USA---North-Carolina---Zebulon/ERP-Data-Management-Lead_447280) |
 
 ## About This Role
 
-This data analyst position at GSK was posted on 2026-05-19.
+This data analyst position at GSK was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

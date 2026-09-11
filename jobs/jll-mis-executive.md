@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/MIS-Executive_REQ523555) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/MIS-Executive_REQ532859) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-08-04.
+This data analyst position at JLL was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

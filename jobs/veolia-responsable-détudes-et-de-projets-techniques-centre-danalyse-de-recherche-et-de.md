@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sainte-Maxime, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137394761-responsable-detudes-et-de-projets-techniques-centre-danalyse-de-recherche-et-de-reporting-operationnel-fh) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000147473039-responsable-detudes-et-de-projets-techniques-centre-danalyse-de-recherche-et-de-reporting-operationnel-fh) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-07-13.
+This data analyst position at Veolia was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

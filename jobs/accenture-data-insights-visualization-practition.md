@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Insights---Visualization-Practition_ATCI-5683988-S2064207-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Insights---Visualization-Practition_ATCP-1480860-S428054) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-08-13.
+This data analyst position at Accenture was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

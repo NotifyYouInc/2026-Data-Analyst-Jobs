@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York, US |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/IT-Lead-Product-Analyst-Vice-President_26988773) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-09-02.
+This data analyst position at Citigroup was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

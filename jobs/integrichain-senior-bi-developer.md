@@ -5,12 +5,12 @@
 | Company | [IntegriChain](https://scoutify.ai/companies/integrichain1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IntegriChain1/744000145300280-senior-bi-developer) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IntegriChain1/744000147322439-senior-bi-developer) |
 
 ## About This Role
 
-This data analyst position at IntegriChain was posted on 2026-08-24.
+This data analyst position at IntegriChain was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000145676389-digital-marketing-analytics-manager) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000147267298-digital-marketing-analytics-manager) |
 
 ## About This Role
 
-This digital / performance marketing position at Primark was posted on 2026-08-26.
+This digital / performance marketing position at Primark was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

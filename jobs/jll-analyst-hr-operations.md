@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Human Resources / People Ops |
+| Category | Data Analyst |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Analyst---HR-Operations_REQ528645) |
 
 ## About This Role
 
-This human resources / people ops position at JLL was posted on 2026-09-03.
+This data analyst position at JLL was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

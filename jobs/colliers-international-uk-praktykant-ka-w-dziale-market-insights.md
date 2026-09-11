@@ -5,12 +5,12 @@
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000121722263-praktykant-ka-w-dziale-market-insights) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000147452995-praktykant-ka-w-dziale-market-insights) |
 
 ## About This Role
 
-This data analyst position at Colliers International UK was posted on 2026-04-20.
+This data analyst position at Colliers International UK was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Machine Learning Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000147214369-ai-automation-intern) |
 
 ## About This Role
 
-This machine learning engineer position at Eurofins Scientific was posted on 2026-09-03.
+This data analyst position at Eurofins Scientific was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

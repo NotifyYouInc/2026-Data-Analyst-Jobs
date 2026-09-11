@@ -5,12 +5,12 @@
 | Company | [DTN](https://scoutify.ai/companies/dtn?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bloomington, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Bloomington-Minnesota/Associate-Weather-Risk-Analyst_R-003114) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Bloomington-Minnesota/Associate-Weather-Risk-Analyst_R-003148) |
 
 ## About This Role
 
-This data analyst position at DTN was posted on 2026-06-17.
+This data analyst position at DTN was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

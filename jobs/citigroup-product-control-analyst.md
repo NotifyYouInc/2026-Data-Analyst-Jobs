@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Product-Control-Analyst_26984806) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Product-Control-Analyst_26990290) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-07.
+This corporate finance position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

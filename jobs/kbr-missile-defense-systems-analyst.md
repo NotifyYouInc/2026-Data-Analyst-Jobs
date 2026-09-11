@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Missile-Defense-Systems-Analyst_R2129284) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-09-02.
+This data analyst position at KBR was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

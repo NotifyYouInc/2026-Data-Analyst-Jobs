@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Definition-Analyst-3_R36097-2) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Product-Definition-Analyst-3_R32924) |
 
 ## About This Role
 
-This data analyst position at Amadeus was posted on 2026-08-20.
+This data analyst position at Amadeus was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

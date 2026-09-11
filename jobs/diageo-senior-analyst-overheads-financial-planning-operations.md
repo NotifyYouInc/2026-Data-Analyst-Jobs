@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Budapest-Hungary/Senior-Analyst-Overheads-Planning_JR1128184) |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Budapest-Hungary/Senior-Analyst-Overheads---Financial-Planning---Operations_JR1129340-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Diageo was posted on 2026-08-27.
+This corporate finance position at Diageo was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

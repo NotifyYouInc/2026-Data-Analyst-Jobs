@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Maryland, US |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Maryland-USA---Remote/Operations-Analyst_REQ-1000048379) |
 
 ## About This Role
 
-This business analyst position at Stanley Black & Decker was posted on 2026-09-02.
+This data analyst position at Stanley Black & Decker was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

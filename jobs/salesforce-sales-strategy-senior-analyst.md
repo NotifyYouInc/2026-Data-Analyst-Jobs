@@ -1,16 +1,16 @@
-# Sales Strategy, (Senior) Analyst at Salesforce
+# Sales Strategy Senior Analyst at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Corporate Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Sales-Strategy---Senior--Analyst_JR344933) |
+| Location | San Francisco, California, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sales-Strategy-Senior-Analyst_JR358366) |
 
 ## About This Role
 
-This corporate finance position at Salesforce was posted on 2026-06-08.
+This strategy & operations position at Salesforce was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Enova](https://scoutify.ai/companies/enova?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/enova/jobs/8174981) |
 
 ## About This Role
 
-This data engineer position at Enova was posted on 2026-09-02.
+This data analyst position at Enova was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

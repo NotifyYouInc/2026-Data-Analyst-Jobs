@@ -5,12 +5,12 @@
 | Company | [Essentia Health](https://scoutify.ai/companies/essentia-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Duluth, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Duluth-MN/Business-Intelligence-Analyst-I--II--or-Senior_R079985) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Duluth-MN/Business-Intelligence-Analyst-I--II--or-Senior_R082228) |
 
 ## About This Role
 
-This data analyst position at Essentia Health was posted on 2026-07-06.
+This data analyst position at Essentia Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

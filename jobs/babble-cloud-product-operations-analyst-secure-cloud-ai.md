@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Babble Cloud](https://scoutify.ai/companies/babble-cloud?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pristina, Pristina, Kosovo |
-| Category | Product Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000146693701-product-operations-analyst-secure-cloud-ai) |
+| Location | Cape Town, Western Cape, South Africa |
+| Category | Data Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000147325090-product-operations-analyst-secure-cloud-ai) |
 
 ## About This Role
 
-This product manager position at Babble Cloud was posted on 2026-09-01.
+This data analyst position at Babble Cloud was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

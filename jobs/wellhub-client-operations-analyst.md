@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellhub](https://scoutify.ai/companies/wellhub?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brazil |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gympass/jobs/8766277002) |
 
 ## About This Role
 
-This business analyst position at Wellhub was posted on 2026-09-02.
+This data analyst position at Wellhub was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

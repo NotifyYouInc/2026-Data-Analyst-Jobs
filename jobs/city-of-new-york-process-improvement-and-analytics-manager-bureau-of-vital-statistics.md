@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014189736-process-improvement-and-analytics-manager-bureau-of-vital-statistics) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015072006-process-improvement-and-analytics-manager-bureau-of-vital-statistics) |
 
 ## About This Role
 
-This data analyst position at City of New York was posted on 2026-07-21.
+This data analyst position at City of New York was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

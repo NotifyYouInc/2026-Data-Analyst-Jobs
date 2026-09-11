@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boystown](https://scoutify.ai/companies/boystown?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Facilities-Operations-Analyst_REQ-2026-9305-1) |
 
 ## About This Role
 
-This business analyst position at Boystown was posted on 2026-09-02.
+This data analyst position at Boystown was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

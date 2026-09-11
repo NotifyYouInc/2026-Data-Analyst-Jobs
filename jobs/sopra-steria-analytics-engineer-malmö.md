@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malmö, Skåne, Sweden |
 | Category | Data Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146123529-analytics-engineer-malmo) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147453305-analytics-engineer-malmo) |
 
 ## About This Role
 
-This data analyst position at Sopra Steria was posted on 2026-08-28.
+This data analyst position at Sopra Steria was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

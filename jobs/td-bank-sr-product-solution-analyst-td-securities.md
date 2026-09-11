@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Sr-Product-Solution-Analyst--TD-Securities_R_1494376) |
+| Category | Data Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Sr-Product-Solution-Analyst--TD-Securities_R_1509358) |
 
 ## About This Role
 
-This business analyst position at TD Bank was posted on 2026-06-12.
+This data analyst position at TD Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/Business-and-Data-Analyst_R0247719) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Herndon-VA/Business-and-Data-Analyst_R0248664) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-08-24.
+This data analyst position at Booz Allen was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

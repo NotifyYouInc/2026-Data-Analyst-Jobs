@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125360545-staff-analyst-pricing-experience) |
+| Category | Data Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147282960-staff-analyst-pricing-experience) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-05-08.
+This data analyst position at WISE was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

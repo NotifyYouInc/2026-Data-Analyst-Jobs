@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/BRA-Product-Analyst-II_Req1608862) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-09-02.
+This data analyst position at Santander was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oakville, Ontario, Canada |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Oakville-Canada/Sales-Reporting-Analyst_Essity262638) |
 
 ## About This Role
 
-This financial analyst position at Essity was posted on 2026-09-02.
+This corporate finance position at Essity was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

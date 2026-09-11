@@ -5,12 +5,12 @@
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Insights-Analyst_JR100659-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Insights-Analyst_JR101023) |
 
 ## About This Role
 
-This data analyst position at Hub24management was posted on 2026-04-13.
+This data analyst position at Hub24management was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

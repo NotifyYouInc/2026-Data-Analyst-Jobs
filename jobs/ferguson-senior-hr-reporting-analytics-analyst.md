@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Newport News, Virginia, United States |
-| Category | Human Resources / People Ops |
+| Category | Data Analyst |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Senior-HR-Reporting---Analytics-Analyst_R-140271) |
 
 ## About This Role
 
-This human resources / people ops position at Ferguson was posted on 2026-09-02.
+This data analyst position at Ferguson was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

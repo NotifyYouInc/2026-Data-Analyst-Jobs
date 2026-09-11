@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Muntinlupa/DE033712-Insurance-Operations-Sr-Analyst_CXO-133545-S80005-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-09-03.
+This data analyst position at Accenture was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
