@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Cordova, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000138895450-domestic-inventory-logistics-and-sales-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000147543219-domestic-inventory-logistics-and-sales-analyst) |
 
 ## About This Role
 
-This data analyst position at Louis Dreyfus was posted on 2026-07-21.
+This data analyst position at Louis Dreyfus was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Analytics-Consultant---Deposit-Pricing---Portfolio-Analytics_R-534315) |
+| Location | 5 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Analytics-Consultant---Deposit-Pricing---Portfolio-Analytics_R-570784) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-04-14.
+This data analyst position at Wells Fargo was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

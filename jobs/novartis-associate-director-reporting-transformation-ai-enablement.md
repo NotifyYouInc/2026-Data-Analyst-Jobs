@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Strategy & Operations |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Director---Reporting-Transformation---AI-Enablement_REQ-10073036) |
 
 ## About This Role
 
-This strategy & operations position at Novartis was posted on 2026-09-04.
+This ai / llm engineer position at Novartis was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

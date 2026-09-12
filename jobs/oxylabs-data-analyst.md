@@ -5,12 +5,12 @@
 | Company | [Oxylabs](https://scoutify.ai/companies/oxylabs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.lever.co/oxylabs/8543fdbd-55b8-46a6-b7b5-fc53bd78a773) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.lever.co/oxylabs/5cb8c64f-5053-4d2d-a4da-d436ec49c5f8) |
 
 ## About This Role
 
-This data analyst position at Oxylabs was posted on 2026-08-11.
+This data analyst position at Oxylabs was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

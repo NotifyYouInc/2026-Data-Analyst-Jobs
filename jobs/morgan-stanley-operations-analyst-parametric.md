@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Operations-Analyst---Parametric_JR041736) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Operations-Analyst---Parametric_PT-JR040862) |
 
 ## About This Role
 
-This business analyst position at Morgan Stanley was posted on 2026-08-01.
+This corporate finance position at Morgan Stanley was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

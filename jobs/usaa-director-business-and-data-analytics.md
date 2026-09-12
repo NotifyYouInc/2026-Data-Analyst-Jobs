@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Director--Business-and-Data-Analytics_R0118154) |
+| Location | 6 locations |
+| Category | Data Scientist |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Business-and-Data-Analytics_R0120318) |
 
 ## About This Role
 
-This business analyst position at USAA was posted on 2026-06-19.
+This data scientist position at USAA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

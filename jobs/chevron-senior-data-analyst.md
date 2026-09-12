@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Senior-Data-Analyst_R000067781) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Senior-Data-Analyst_R000072657) |
 
 ## About This Role
 
-This data analyst position at Chevron was posted on 2026-02-12.
+This data analyst position at Chevron was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

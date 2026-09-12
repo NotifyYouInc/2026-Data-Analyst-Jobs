@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Fort Meade, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tampa-FL/Operations-Research-Analyst--Senior_R0245457) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Operations-Research-Analyst--Senior_R0248770) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-07-28.
+This data scientist position at Booz Allen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tempus AI](https://scoutify.ai/companies/tempus-oj105940?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://tempus.wd5.myworkdayjobs.com/tempus_careers/job/Chicago/Sr-Business-Intelligence-Engineer_JR202600620) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tempus.wd5.myworkdayjobs.com/tempus_careers/job/Chicago/Sr-Business-Intelligence-Engineer_JR202600882) |
 
 ## About This Role
 
-This data analyst position at Tempus AI was posted on 2026-06-29.
+This data analyst position at Tempus AI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

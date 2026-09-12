@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aquafinance](https://scoutify.ai/companies/aquafinance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Georgia, US |
-| Category | Data Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://aquafinance.wd12.myworkdayjobs.com/aqua_finance/job/Remote----United-States/Compliance-Testing-Data-Analyst_467-1) |
 
 ## About This Role
 
-This data analyst position at Aquafinance was posted on 2026-09-03.
+This compliance & risk management position at Aquafinance was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Des Moines, Iowa, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000135292154-sr-financial-data-analyst-healthcare-economics) |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000147605769-sr-financial-data-analyst-healthcare-economics) |
 
 ## About This Role
 
-This data analyst position at Wellmark, Inc. was posted on 2026-07-01.
+This corporate finance position at Wellmark, Inc. was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

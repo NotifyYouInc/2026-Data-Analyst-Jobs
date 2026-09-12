@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Data Systems Analysts, Inc.](https://scoutify.ai/companies/data-systems-analysts-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kingsville, Texas, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5171189008) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5417240008) |
 
 ## About This Role
 
-This data analyst position at Data Systems Analysts, Inc. was posted on 2026-06-11.
+This data analyst position at Data Systems Analysts, Inc. was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

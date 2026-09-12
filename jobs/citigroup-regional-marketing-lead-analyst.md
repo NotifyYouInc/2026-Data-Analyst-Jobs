@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Regional-Marketing-Lead-Analyst_26967331) |
+| Location | New York City, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Regional-Marketing-Lead-Analyst_26991449) |
 
 ## About This Role
 
-This marketing position at Citigroup was posted on 2026-05-28.
+This data analyst position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

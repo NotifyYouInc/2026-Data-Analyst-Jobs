@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Islamabad, Islamabad, Pakistan |
-| Category | Operations |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8671135002) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8671133002) |
 
 ## About This Role
 
-This operations position at Motive was posted on 2026-08-06.
+This strategy & operations position at Motive was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

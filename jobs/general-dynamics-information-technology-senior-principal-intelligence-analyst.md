@@ -1,16 +1,16 @@
-# Senior Principal Intelligence Analyst at General Dynamics Information Technology
+# Senior Principal Intelligence Analyst at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Senior-Principal-Intelligence-Analyst_RQ222500-2) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Senior-Principal-Intelligence-Analyst_RQ227837-2) |
 
 ## About This Role
 
-This data analyst position at General Dynamics Information Technology was posted on 2026-06-16.
+This data analyst position at General Dynamics Information Technology was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

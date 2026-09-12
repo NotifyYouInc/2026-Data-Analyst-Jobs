@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Intelligence-d-affaires---pargne-Retraite-Collective_R2610940) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-en-valorisation-de-donnes--Power-BI_R2611040) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-09-03.
+This data analyst position at Desjardins was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

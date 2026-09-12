@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Data--Analytics---Reporting-Analyst---Data-Engineering-Team_R26_3014-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/London-United-Kingdom/Data--Analytics---Reporting-Analyst---Data-Engineering-Team_R26_3463-1) |
 
 ## About This Role
 
-This data analyst position at Ameriprise Financial was posted on 2026-08-21.
+This data analyst position at Ameriprise Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Measurement-and-Report-Senior-Analyst_AIOC-S01662922-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Measurement-and-Report-Senior-Analyst_AIOC-S01664379-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-08-27.
+This data analyst position at Accenture was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

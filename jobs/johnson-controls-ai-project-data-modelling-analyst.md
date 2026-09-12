@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Pedro Garza García, Nuevo León, Mexico |
+| Location | Nuevo León, Baja California, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/AI-Project-Data-Modelling-Analyst_WD30272834) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/AI-Project-Data-Modelling-Analyst_WD30278831) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-06-24.
+This data analyst position at Johnson Controls was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

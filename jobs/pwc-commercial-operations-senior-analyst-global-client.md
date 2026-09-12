@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Commercial-Operations-Senior-Analyst---Global-Alliances-Client_714139WD-1) |
+| Category | Operations |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Commercial-Operations-Senior-Analyst---Global-Client_759722WD-1) |
 
 ## About This Role
 
-This business analyst position at PwC was posted on 2026-04-23.
+This operations position at PwC was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

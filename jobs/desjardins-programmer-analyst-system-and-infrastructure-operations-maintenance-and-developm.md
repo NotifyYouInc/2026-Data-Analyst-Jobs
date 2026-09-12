@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Tech-lead-Net-React_R2610944) |
+| Category | Data Analyst |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--CI-CD-DevOps_R2611029) |
 
 ## About This Role
 
-This software engineer position at Desjardins was posted on 2026-09-02.
+This data analyst position at Desjardins was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

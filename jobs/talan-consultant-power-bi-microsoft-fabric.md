@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000144599424-consultant-power-bi-microsoft-fabric) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000147542689-consultant-power-bi-microsoft-fabric) |
 
 ## About This Role
 
-This data analyst position at Talan was posted on 2026-08-20.
+This data analyst position at Talan was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New Brunswick, New Jersey, United States |
+| Location | 2 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Senior-Analyst--Digital-Sales-Strategy_R-062487) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Senior-Analyst--Digital-Sales-Strategy_R-097274) |
 
 ## About This Role
 
-This strategy & operations position at Johnson & Johnson was posted on 2026-03-11.
+This strategy & operations position at Johnson & Johnson was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
