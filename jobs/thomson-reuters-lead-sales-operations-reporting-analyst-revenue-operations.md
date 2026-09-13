@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Eagan, Minnesota, United States |
-| Category | Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Sales---Operations-Reporting-Analyst--Revenue-Operations_JREQ203433-1) |
 
 ## About This Role
 
-This operations position at Thomson Reuters was posted on 2026-09-04.
+This data analyst position at Thomson Reuters was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

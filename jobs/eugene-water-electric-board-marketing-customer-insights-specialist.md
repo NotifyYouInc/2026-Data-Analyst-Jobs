@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eugene Water & Electric Board](https://scoutify.ai/companies/recruiting-ultipro-com-oj36143?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Eugene, Oregon, United States |
-| Category | Data Analyst |
+| Category | Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://recruiting.ultipro.com/eug1001eweb/JobBoard/23d62d3c-f909-4124-8b2c-4aa0d61f4f1d/OpportunityDetail?opportunityId=c5a6b14b-2c6d-4dde-85cb-2bc3ab73c249) |
 
 ## About This Role
 
-This data analyst position at Eugene Water & Electric Board was posted on 2026-09-04.
+This marketing position at Eugene Water & Electric Board was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

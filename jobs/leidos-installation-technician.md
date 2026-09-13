@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Alexandria, Virginia, United States |
-| Category | IT & Systems Administration |
+| Category | Data Analyst |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Installation-Technician_R-00191553) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-09-04.
+This data analyst position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GiveDirectly](https://scoutify.ai/companies/givedirectly?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United Kingdom |
-| Category | Accounting |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/givedirectly/jobs/4729518005) |
 
 ## About This Role
 
-This accounting position at GiveDirectly was posted on 2026-09-04.
+This compliance & risk management position at GiveDirectly was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

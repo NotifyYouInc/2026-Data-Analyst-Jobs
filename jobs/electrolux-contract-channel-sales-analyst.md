@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Contract-Channel-Sales-Analyst_JR80546) |
 
 ## About This Role
 
-This operations position at Electrolux was posted on 2026-09-03.
+This data analyst position at Electrolux was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

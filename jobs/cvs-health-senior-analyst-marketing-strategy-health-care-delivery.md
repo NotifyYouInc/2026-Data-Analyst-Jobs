@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rhode Island, US |
-| Category | Digital / Performance Marketing |
+| Category | Strategy & Operations |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Senior-Analyst--Marketing-Strategy---Health-Care-Delivery_R1026376) |
 
 ## About This Role
 
-This digital / performance marketing position at CVS Health was posted on 2026-09-03.
+This strategy & operations position at CVS Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

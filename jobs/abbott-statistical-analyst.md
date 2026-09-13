@@ -1,16 +1,16 @@
-# Business Intelligence Engineer II, Customer Returns , Amazon at Amazon
+# Statistical Analyst at Abbott
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10530730/business-intelligence-engineer-ii-customer-returns-amazon) |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Gurgaon/Statistical-Analyst_31160930) |
 
 ## About This Role
 
-This data analyst position at Amazon was posted on 2026-09-06.
+This data analyst position at Abbott was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

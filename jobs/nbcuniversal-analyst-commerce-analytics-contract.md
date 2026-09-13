@@ -1,16 +1,16 @@
-# Analyst - Operations Consultant at S&P Global
+# Analyst, Commerce Analytics (Contract) at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-09-05 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Penang-Jalan-MYS/Analyst---Operations-Consultant_329790-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147641579-analyst-commerce-analytics-contract) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-09-05.
+This data analyst position at NBCUniversal was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

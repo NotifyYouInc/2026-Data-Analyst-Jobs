@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DIRECTV](https://scoutify.ai/companies/directv?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://directv.wd1.myworkdayjobs.com/careers/job/New-York-NY/Advertising-Sales-Intern_R260261) |
 
 ## About This Role
 
-This data analyst position at DIRECTV was posted on 2026-09-03.
+This marketing position at DIRECTV was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

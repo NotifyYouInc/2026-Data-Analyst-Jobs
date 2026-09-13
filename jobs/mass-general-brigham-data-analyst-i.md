@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Charlestown, Massachusetts, United States |
+| Location | Somerville, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Data-Analyst-I_RQ4073540) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299) |
 
 ## About This Role
 
-This data analyst position at Mass General Brigham was posted on 2026-07-30.
+This data analyst position at Mass General Brigham was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

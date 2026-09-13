@@ -1,16 +1,16 @@
-# Revenue Operations Analyst, Paris at Mirakl
+# Senior Data Business Analyst at Skyzone
 
 | Field | Details |
 |-------|---------|
-| Company | [Mirakl](https://scoutify.ai/companies/mirakl?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Skyzone](https://scoutify.ai/companies/skyzone?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Data Analyst |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mirakl/jobs/6182493004) |
+| Apply | [View on company site](https://skyzone.wd12.myworkdayjobs.com/skyzone/job/Dallas-Headquarters/Senior-Data-Business-Analyst_R6836) |
 
 ## About This Role
 
-This data analyst position at Mirakl was posted on 2026-09-04.
+This data analyst position at Skyzone was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Analyst, Aftersales Business Intelligence at Nissan
+# Senior Analyst Aftersales Business Intelligence at Nissan
 
 | Field | Details |
 |-------|---------|
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Franklin, Tennessee, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Senior-Analyst--Aftersales-Business-Intelligence_R00212277-1) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Mt-Juliet-Tennessee---United-States-of-America/Senior-Analyst-Aftersales-Business-Intelligence_R00213427-1) |
 
 ## About This Role
 
-This data analyst position at Nissan was posted on 2026-07-29.
+This data analyst position at Nissan was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 
