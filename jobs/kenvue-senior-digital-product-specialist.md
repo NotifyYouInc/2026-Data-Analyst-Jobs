@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Summit, New Jersey, United States |
-| Category | Data Analyst |
+| Category | Sales Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-New-Jersey-Summit/Senior-Digital-Product-Specialist_2607048493W) |
 
 ## About This Role
 
-This data analyst position at Kenvue was posted on 2026-09-04.
+This sales engineer position at Kenvue was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

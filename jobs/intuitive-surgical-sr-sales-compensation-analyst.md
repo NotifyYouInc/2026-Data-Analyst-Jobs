@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Peachtree Corners, Georgia, United States |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000147531666-sr-sales-compensation-analyst) |
 
 ## About This Role
 
-This data analyst position at Intuitive Surgical was posted on 2026-09-04.
+This operations position at Intuitive Surgical was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

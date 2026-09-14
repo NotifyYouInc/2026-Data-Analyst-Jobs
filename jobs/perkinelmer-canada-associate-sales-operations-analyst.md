@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Analyst |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/So-Paulo/Associate-Sales-Operations-Analyst_REQ-058275) |
 
 ## About This Role
 
-This data analyst position at PerkinElmer Canada was posted on 2026-09-04.
+This operations position at PerkinElmer Canada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

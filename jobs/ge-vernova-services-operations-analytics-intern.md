@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Shanghai/Services-Operations-Analytics-Intern_R5042344-2) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Shanghai/Services-Operations-Analytics-Intern_R5051502) |
 
 ## About This Role
 
-This data analyst position at GE Vernova was posted on 2026-05-18.
+This data analyst position at GE Vernova was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

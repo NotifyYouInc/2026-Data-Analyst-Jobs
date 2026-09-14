@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Analyst--US-Commercial-Contract-Operations_R19108) |
+| Category | Operations |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Analyst--US-Commercial-Contract-Operations_R19707) |
 
 ## About This Role
 
-This business analyst position at Moderna was posted on 2026-05-19.
+This operations position at Moderna was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

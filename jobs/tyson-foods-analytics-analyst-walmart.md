@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arkansas, US |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483000) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678) |
 
 ## About This Role
 
-This data analyst position at Tyson Foods was posted on 2026-09-03.
+This data analyst position at Tyson Foods was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

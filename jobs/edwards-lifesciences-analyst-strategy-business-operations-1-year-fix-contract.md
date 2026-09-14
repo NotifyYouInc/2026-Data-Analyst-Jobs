@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Korea-Seoul/Analyst--Strategy---Business-Operations--1-year-Fix-Contract-_Req-50460) |
 
 ## About This Role
 
-This strategy & operations position at Edwards Lifesciences was posted on 2026-09-04.
+This operations position at Edwards Lifesciences was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

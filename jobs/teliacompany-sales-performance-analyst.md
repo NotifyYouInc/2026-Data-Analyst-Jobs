@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Solna, Stockholm, Sweden |
-| Category | Business Analyst |
-| Posted | 2026-04-21 |
+| Category | Operations |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Solna/Sales-Performance-Analyst_59744) |
 
 ## About This Role
 
-This business analyst position at Teliacompany was posted on 2026-04-21.
+This operations position at Teliacompany was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

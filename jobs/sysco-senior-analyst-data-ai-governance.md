@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
-| Category | Trust & Safety |
-| Posted | 2026-04-27 |
+| Location | Sri Lanka |
+| Category | Data Analyst |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Analyst---Data---AI-Governance_R241696) |
 
 ## About This Role
 
-This trust & safety position at Sysco was posted on 2026-04-27.
+This data analyst position at Sysco was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

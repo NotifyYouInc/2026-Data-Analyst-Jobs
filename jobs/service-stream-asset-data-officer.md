@@ -5,12 +5,12 @@
 | Company | [Service Stream](https://scoutify.ai/companies/service-stream?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rockdale, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/NSW---Rockdale/Asset-Data-Officer_JR-117083) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://servicestream.wd3.myworkdayjobs.com/servicestream_careers/job/NSW---Rockdale/Asset-Data-Officer_JR-118849) |
 
 ## About This Role
 
-This data analyst position at Service Stream was posted on 2026-02-23.
+This data analyst position at Service Stream was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

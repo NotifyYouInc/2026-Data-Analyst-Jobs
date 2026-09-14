@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Marketing |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTZJDb5Z7FaEP4BWowJluAwlUifw1pvL7CQolPDApkj4EjsA1Ny_i2-FLQuxW4RvqQZ_sD63pItz1diRhn6sMsELZ-0sSmmmmQOSRTMiDPDolzScQlHxxiqvo34clg%3D%3D_V2&loc=IN&title=Measurement+and+Analytics+Lead) |
 
 ## About This Role
 
-This marketing position at Google was posted on 2026-09-04.
+This digital / performance marketing position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

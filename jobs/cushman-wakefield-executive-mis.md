@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Brookfield-Pune/Executive---MIS_R325260) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bharti-Airtel-Ltd/Executive---MIS_R334696) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-06-25.
+This data analyst position at Cushman & Wakefield was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

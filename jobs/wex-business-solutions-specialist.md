@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Ireland |
-| Category | Data Analyst |
+| Category | Sales Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Ireland---Remote/Business-Solutions-Specialist_R22784) |
 
 ## About This Role
 
-This data analyst position at Wex was posted on 2026-09-04.
+This sales engineer position at Wex was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

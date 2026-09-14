@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Imus, Calabarzon, Philippines |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/Business-Insights-Analyst_R_2608_11045) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Gurugram-India/Business-Insights-Analyst_R_2609_11542) |
 
 ## About This Role
 
-This data analyst position at TaskUs was posted on 2026-08-27.
+This data analyst position at TaskUs was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

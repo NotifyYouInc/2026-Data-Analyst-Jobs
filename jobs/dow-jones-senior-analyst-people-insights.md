@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Senior-Analyst--People-Insights_Job_Req_54064-1) |
+| Location | London, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/London-1-London-Bridge-St/Senior-Analyst--People-Insights_Job_Req_55105) |
 
 ## About This Role
 
-This human resources / people ops position at Dow Jones was posted on 2026-07-10.
+This data analyst position at Dow Jones was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

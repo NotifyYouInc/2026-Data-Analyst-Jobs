@@ -1,16 +1,16 @@
-# Regional Qualification Specialist at Sanofi
+# Regional qualification specialist at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Regional-Qualification-Specialist_R2864595) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Regional-qualification-specialist_R2870292) |
 
 ## About This Role
 
-This data analyst position at Sanofi was posted on 2026-07-14.
+This data analyst position at Sanofi was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Management Lead Analyst - Vice President at Citigroup
+# Product Management Lead Analyst, Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Product-Management-Lead-Analyst---Vice-President_26988763) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Analyst |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Product-Management-Lead-Analyst--Vice-President_26991921) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-08-25.
+This data analyst position at Citigroup was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
