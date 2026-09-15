@@ -1,16 +1,16 @@
-# Sales Operations Analyst at Experian
+# Sales operations Analyst at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335447-sales-operations-analyst) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147982509-sales-operations-analyst) |
 
 ## About This Role
 
-This operations position at Experian was posted on 2026-02-04.
+This operations position at Experian was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

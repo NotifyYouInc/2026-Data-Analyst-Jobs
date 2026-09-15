@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BIP](https://scoutify.ai/companies/ocs-cx-oj14025?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Italy |
+| Location | Tirana, Tirana, Albania |
 | Category | Data Analyst |
-| Posted | 2025-09-01 |
-| Apply | [View on company site](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1736) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2437) |
 
 ## About This Role
 
-This data analyst position at BIP was posted on 2025-09-01.
+This data analyst position at BIP was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

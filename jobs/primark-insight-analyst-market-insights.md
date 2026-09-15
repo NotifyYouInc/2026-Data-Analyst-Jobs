@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000147171799-insight-analyst-market-insights) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000148200612-insight-analyst-market-insights) |
 
 ## About This Role
 
-This data analyst position at Primark was posted on 2026-09-03.
+This data analyst position at Primark was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ISS | Institutional Shareholder Services](https://scoutify.ai/companies/iss-institutional-shareholder-services?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Digital / Performance Marketing |
+| Category | Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Makati-City-Philippines/Ad-Operations-Analyst_JR_10298) |
 
 ## About This Role
 
-This digital / performance marketing position at ISS | Institutional Shareholder Services was posted on 2026-09-07.
+This marketing position at ISS | Institutional Shareholder Services was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

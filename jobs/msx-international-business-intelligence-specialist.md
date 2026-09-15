@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Southfield, Michigan, United States |
+| Location | Troy, Michigan, United States |
 | Category | Data Analyst |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015075306-business-intelligence-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015078806-business-intelligence-specialist) |
 
 ## About This Role
 

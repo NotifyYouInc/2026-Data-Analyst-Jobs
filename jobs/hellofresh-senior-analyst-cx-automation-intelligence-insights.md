@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8141849?gh_jid=8141849) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8185045?gh_jid=8185045) |
 
 ## About This Role
 
-This data analyst position at HelloFresh was posted on 2026-08-31.
+This data analyst position at HelloFresh was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

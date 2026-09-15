@@ -1,16 +1,16 @@
-# Sr. Analyst, Data Science and Analytics at TransUnion
+# Sr Analyst, Data Science and Analytics at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Sr-Analyst--Data-Science-and-Analytics_19040669-1) |
+| Location | Costa Rica |
+| Category | Data Scientist |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Sr-Analyst--Data-Science-and-Analytics_19042158) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-05-22.
+This data scientist position at TransUnion was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

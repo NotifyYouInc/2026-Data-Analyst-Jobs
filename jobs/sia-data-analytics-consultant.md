@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147443109-data-analytics-consultant) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147872969-data-analytics-consultant) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-09-04.
+This data analyst position at SIA was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monotype](https://scoutify.ai/companies/monotype?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Product Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://monotype.wd1.myworkdayjobs.com/monotype/job/Noida/Trainee--Market-Intelligence_R0004860) |
 
 ## About This Role
 
-This product marketing position at Monotype was posted on 2026-09-07.
+This data analyst position at Monotype was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

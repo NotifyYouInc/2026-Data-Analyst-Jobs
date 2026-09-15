@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Marketing Operations |
+| Category | Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Budapest-Hungary/Marketing-Finance---Operations-Analyst_JR1129446) |
 
 ## About This Role
 
-This marketing operations position at Diageo was posted on 2026-09-07.
+This marketing position at Diageo was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

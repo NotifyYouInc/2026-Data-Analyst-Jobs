@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Fond du Lac, Wisconsin, United States |
-| Category | Product Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Sales-Operations---Market-Intelligence-Intern_JR-051496) |
 
 ## About This Role
 
-This product marketing position at Brunswick was posted on 2026-09-04.
+This data analyst position at Brunswick was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

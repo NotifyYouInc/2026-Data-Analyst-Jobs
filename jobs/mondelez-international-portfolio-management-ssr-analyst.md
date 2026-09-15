@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Argentina |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Thames-Argentina/Portfolio-Management-Ssr-Analyst_R-167277) |
+| Category | Quant Research |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Thames-Argentina/Portfolio-Management-Ssr-Analyst_R-176902) |
 
 ## About This Role
 
-This asset management / portfolio management position at Mondelez International was posted on 2026-05-12.
+This quant research position at Mondelez International was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

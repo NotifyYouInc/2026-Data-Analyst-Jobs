@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Manchester, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Data-Analyst--Specialist_179098) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Data-Analyst--Specialist_182097) |
 
 ## About This Role
 
-This data analyst position at Vanguard was posted on 2026-08-10.
+This data analyst position at Vanguard was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

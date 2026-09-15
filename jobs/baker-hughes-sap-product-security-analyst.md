@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-03-24 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-TG-HYDERABAD-SKYVIEW-BUILDING/SAP-Product-Security-Analyst_R161608) |
 
 ## About This Role
 
-This security engineer position at Baker Hughes was posted on 2026-03-24.
+This cybersecurity engineer position at Baker Hughes was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

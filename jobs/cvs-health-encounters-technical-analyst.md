@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arkansas, US |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Encounters-Technical-Analyst_R0899993-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Encounters-Technical-Analyst_R0948889-1) |
 
 ## About This Role
 
-This data analyst position at CVS Health was posted on 2026-07-09.
+This data analyst position at CVS Health was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

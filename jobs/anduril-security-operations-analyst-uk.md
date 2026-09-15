@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5190870007?gh_jid=5190870007) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5222558007?gh_jid=5222558007) |
 
 ## About This Role
 
-This soc & incident response position at Anduril was posted on 2026-07-21.
+This cybersecurity engineer position at Anduril was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

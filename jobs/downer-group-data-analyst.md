@@ -5,12 +5,12 @@
 | Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Canberra, Australian Capital Territory, Australia |
 | Category | Data Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#732657) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#736629) |
 
 ## About This Role
 
-This data analyst position at Downer Group was posted on 2026-05-15.
+This data analyst position at Downer Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

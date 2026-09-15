@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/SAP-BI-BW-Developer_R-01365150) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/SAP-BI-BW-Developer_R-01365149) |
 
 ## About This Role
 
-This data analyst position at Thermo Fisher Scientific was posted on 2026-08-31.
+This data analyst position at Thermo Fisher Scientific was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

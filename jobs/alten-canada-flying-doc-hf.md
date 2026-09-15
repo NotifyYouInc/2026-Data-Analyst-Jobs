@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poissy, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142679474-flying-doc-hf) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148179009-flying-doc-hf) |
 
 ## About This Role
 
-This data analyst position at ALTEN Canada was posted on 2026-08-10.
+This data analyst position at ALTEN Canada was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Program Manager |
+| Category | Data Analyst |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Product-Analyst_REQ-10087153) |
 
 ## About This Role
 
-This program manager position at Novartis was posted on 2026-09-07.
+This data analyst position at Novartis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Digital / Performance Marketing |
+| Category | Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001380821-search-engine-marketing-sem-analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Qantas Group was posted on 2026-09-07.
+This marketing position at Qantas Group was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

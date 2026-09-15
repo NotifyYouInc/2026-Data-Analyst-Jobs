@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Circle Health Group](https://scoutify.ai/companies/circle-health-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Digital / Performance Marketing |
+| Category | Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://circlehealth.wd103.myworkdayjobs.com/chgcareers/job/Head-Office---Central-London/Digital-Marketing-Analyst_JR116366) |
 
 ## About This Role
 
-This digital / performance marketing position at Circle Health Group was posted on 2026-09-07.
+This marketing position at Circle Health Group was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

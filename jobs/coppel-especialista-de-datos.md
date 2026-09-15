@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Culiacán, Sinaloa, Mexico |
-| Category | Program Manager |
+| Category | Data Analyst |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#316338) |
 
 ## About This Role
 
-This program manager position at Coppel was posted on 2026-09-05.
+This data analyst position at Coppel was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New Brunswick, New Jersey, United States |
-| Category | Program Manager |
+| Category | Data Analyst |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/IT-Lead--Product-Analyst--Third-Party-Management--TPM-_R-091793-2) |
 
 ## About This Role
 
-This program manager position at Johnson & Johnson was posted on 2026-09-04.
+This data analyst position at Johnson & Johnson was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arrivia](https://scoutify.ai/companies/recruiting-ultipro-com-oj7762?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Scottsdale, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://recruiting.ultipro.com/int1043excur/JobBoard/ad5e5978-552f-4ef7-90c8-70ebb0a57994/OpportunityDetail?opportunityId=a1f8f2d5-8cc4-4aae-94fb-adfb2d3e6cca) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://recruiting.ultipro.com/int1043excur/JobBoard/ad5e5978-552f-4ef7-90c8-70ebb0a57994/OpportunityDetail?opportunityId=d3923bde-fe88-40c3-a08a-aff3bee4407b) |
 
 ## About This Role
 
-This data analyst position at Arrivia was posted on 2026-08-05.
+This data analyst position at Arrivia was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
