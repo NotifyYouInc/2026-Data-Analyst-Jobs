@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Ireland---Dublin/Sr-Clin-Data-Mgmt-Assoc_R0054660-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States--Remote/Sr-Clin-Data-Mgmt-Assoc_R0055067) |
 
 ## About This Role
 
-This data analyst position at Gilead Sciences was posted on 2026-08-26.
+This data analyst position at Gilead Sciences was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

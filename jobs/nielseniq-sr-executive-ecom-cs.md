@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140201499-sr-executive-ecom-cs) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148416634-sr-executive-ecom-cs) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-28.
+This data analyst position at NielsenIQ was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

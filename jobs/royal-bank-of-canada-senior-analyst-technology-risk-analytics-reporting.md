@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-06-24 |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/16-YORK-STTORONTO/Senior-Analyst--Technology-Risk-Analytics---Reporting_R-0000176587-1) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-06-24.
+This cybersecurity engineer position at Royal Bank of Canada was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

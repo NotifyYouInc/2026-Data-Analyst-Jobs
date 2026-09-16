@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000111228953-cricket-data-analyst) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000148371479-cricket-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Sportradar was posted on 2026-02-25.
+This data analyst position at Sportradar was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

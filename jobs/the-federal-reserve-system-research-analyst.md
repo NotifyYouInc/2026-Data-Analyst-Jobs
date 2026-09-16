@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Research-Analyst_R-0000033125-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/Research-Analyst_R-0000033336) |
 
 ## About This Role
 
-This data analyst position at The Federal Reserve System was posted on 2026-08-24.
+This data analyst position at The Federal Reserve System was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

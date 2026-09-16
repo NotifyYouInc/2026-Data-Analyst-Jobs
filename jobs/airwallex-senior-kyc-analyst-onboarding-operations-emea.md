@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Compliance & Risk Management |
+| Category | Data Analyst |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/ebeeb22d-09b4-444a-a4f4-e5629d46970c) |
 
 ## About This Role
 
-This compliance & risk management position at Airwallex was posted on 2026-09-08.
+This data analyst position at Airwallex was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

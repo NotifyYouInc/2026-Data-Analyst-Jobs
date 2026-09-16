@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Germany |
 | Category | Data Analyst |
-| Posted | 2026-04-22 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Praktikant-Transformation-Office---Data-Driven-Reporting--w-m-d-_REQ-10113532) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-04-22.
+This data analyst position at ING was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

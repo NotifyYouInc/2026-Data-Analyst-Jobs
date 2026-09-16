@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warminster, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Warminster-Wiltshire/Data-Analyst_01828896) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Warminster-Wiltshire/Data-Analyst_01870852) |
 
 ## About This Role
 
-This data analyst position at RTX was posted on 2026-05-18.
+This data analyst position at RTX was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

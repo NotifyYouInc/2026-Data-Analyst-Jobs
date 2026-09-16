@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | 6 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Support-Analyst-Senior_R0118765) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Support-Analyst-Senior_R0120500-1) |
 
 ## About This Role
 
-This data analyst position at USAA was posted on 2026-07-13.
+This data analyst position at USAA was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

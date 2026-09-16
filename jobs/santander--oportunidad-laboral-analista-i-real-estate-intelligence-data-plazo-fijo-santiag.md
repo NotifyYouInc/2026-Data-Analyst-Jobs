@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/XMLNAME----Oportunidad-laboral--Analista-I---Real-Estate-Intelligence---Data---Plazo-fijo-Santiago_Req1582968) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-06-16.
+This data analyst position at Santander was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

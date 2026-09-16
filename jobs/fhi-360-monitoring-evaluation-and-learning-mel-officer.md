@@ -1,16 +1,16 @@
-# Monitoring, Evaluation, and Learning (MEL) Officer at Fhi 360
+# Monitoring, Evaluation and Learning (MEL) Officer at Fhi 360
 
 | Field | Details |
 |-------|---------|
 | Company | [Fhi 360](https://scoutify.ai/companies/fhi-360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Location | Port Moresby, National Capital, Papua New Guinea |
 | Category | Data Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Rabat-Morocco/Monitoring--Evaluation--and-Learning--MEL--Officer_Requisition-2026200852) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fhi.wd1.myworkdayjobs.com/fhi_360_external_career_portal/job/Port-Moresby-Papua-New-Guinea/Monitoring--Evaluation-and-Learning--MEL--Officer_Requisition-2026201232) |
 
 ## About This Role
 
-This data analyst position at Fhi 360 was posted on 2026-08-26.
+This data analyst position at Fhi 360 was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

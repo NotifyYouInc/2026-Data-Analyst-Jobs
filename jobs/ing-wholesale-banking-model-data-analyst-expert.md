@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Wholesale-Banking-Model-Data-Analyst-Expert_REQ-10116393-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Wholesale-Banking-Model-Data-Analyst-Expert_REQ-10121200-1) |
 
 ## About This Role
 
-This data analyst position at ING was posted on 2026-06-12.
+This data analyst position at ING was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/Lead-Analyst---Financial---Operations_R-25907) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-New-York-Binghamton/Lead-Analyst---Financial---Operations_R-24379) |
 
 ## About This Role
 
-This corporate finance position at Iberdrola Group was posted on 2026-05-01.
+This corporate finance position at Iberdrola Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

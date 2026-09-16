@@ -1,16 +1,16 @@
-# Manager, Strategy & Insights-Regional Grocery at Heinz
+# Manager, Strategy & Insights- Regional Grocery at Heinz
 
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/Manager--Strategy---Insights-Regional-Grocery_R-105428-1) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/Manager--Strategy---Insights--Regional-Grocery_R-106421) |
 
 ## About This Role
 
-This data analyst position at Heinz was posted on 2026-08-24.
+This strategy & operations position at Heinz was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

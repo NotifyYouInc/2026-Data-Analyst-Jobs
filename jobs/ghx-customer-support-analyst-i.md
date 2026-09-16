@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GHX](https://scoutify.ai/companies/ghx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4699789005) |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4731165005) |
 
 ## About This Role
 
-This customer success position at GHX was posted on 2026-05-28.
+This data analyst position at GHX was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

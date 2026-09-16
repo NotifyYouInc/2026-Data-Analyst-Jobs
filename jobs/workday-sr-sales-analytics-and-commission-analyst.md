@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Sr-Sales-Analytics-and-Commission-Analyst_JR-0108725) |
 
 ## About This Role
 
-This operations position at Workday was posted on 2026-09-08.
+This data analyst position at Workday was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

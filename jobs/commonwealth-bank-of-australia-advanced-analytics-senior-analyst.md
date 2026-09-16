@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Perth, Western Australia, Australia |
-| Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Perth-Central/Advanced-Analytics-Senior-Analyst_REQ256544) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Advanced-Analytics-Senior-Analyst_REQ253455) |
 
 ## About This Role
 
-This data scientist position at Commonwealth Bank of Australia was posted on 2026-07-13.
+This data analyst position at Commonwealth Bank of Australia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

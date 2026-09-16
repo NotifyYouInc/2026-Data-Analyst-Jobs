@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Network-Operations-Center-Analyst_R0247293) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Network-Operations-Center-Analyst_R0248899) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-08-18.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

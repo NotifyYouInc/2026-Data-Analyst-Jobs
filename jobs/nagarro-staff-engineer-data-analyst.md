@@ -1,16 +1,16 @@
-# Staff Engineer (Data Analyst) at Nagarro
+# Staff Engineer - Data Analyst at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000120371477-staff-engineer-data-analyst) |
+| Location | Guadalajara, Jalisco, Mexico |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000148314060-staff-engineer-data-analyst) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-04-13.
+This data analyst position at Nagarro was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

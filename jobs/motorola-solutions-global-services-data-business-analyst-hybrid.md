@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Services-Data---Business-Analyst--Hybrid-_R63775-1) |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Services-Data---Business-Analyst--Hybrid-_R68570) |
 
 ## About This Role
 
-This business analyst position at Motorola Solutions was posted on 2026-05-13.
+This data analyst position at Motorola Solutions was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

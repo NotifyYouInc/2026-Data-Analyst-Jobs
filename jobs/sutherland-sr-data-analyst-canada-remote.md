@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Windsor, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000147591679-sr-data-analyst-canada-remote) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000148314909-sr-data-analyst-canada-remote) |
 
 ## About This Role
 
-This data analyst position at Sutherland was posted on 2026-09-04.
+This data analyst position at Sutherland was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

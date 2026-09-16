@@ -1,16 +1,16 @@
-# Junior Modelling Analyst at NielsenIQ
+# Junior Modelling Analyst  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116466741-junior-modelling-analyst) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148449349-junior-modelling-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-24.
+This data analyst position at NielsenIQ was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Peek](https://scoutify.ai/companies/peek?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/peek/75944193-c077-4ef0-a7f3-75d5a6614ff9) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/peek/1d5d89c5-0960-4f15-8988-4069f72ac316) |
 
 ## About This Role
 
-This data analyst position at Peek was posted on 2026-04-01.
+This data analyst position at Peek was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

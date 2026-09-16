@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Performance-Analyst_REQ512786) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cheshire-GBR/Performance-Analyst_REQ532934) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-11.
+This data analyst position at JLL was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cxnpl](https://scoutify.ai/companies/cxnpl?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.lever.co/cxnpl/2c57d4f6-8db5-4038-825e-d78fe9bc2410) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/cxnpl/0fef2a2e-7665-4821-8894-6743bd8bf23d) |
 
 ## About This Role
 
-This data analyst position at Cxnpl was posted on 2026-08-11.
+This data analyst position at Cxnpl was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

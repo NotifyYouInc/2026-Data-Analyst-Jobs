@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | Data Analyst |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000147863339-data-operations-analyst) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148459510-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-09-07.
+This data analyst position at NielsenIQ was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

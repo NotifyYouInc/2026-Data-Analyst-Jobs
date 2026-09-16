@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tekmetric](https://scoutify.ai/companies/tekmetric?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/tekmetric/jobs/6166605004) |
 
 ## About This Role
 
-This operations position at Tekmetric was posted on 2026-09-07.
+This data analyst position at Tekmetric was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

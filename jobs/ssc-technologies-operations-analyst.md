@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Denver-CO/Operations-Analyst_R42112) |
+| Location | Maryland, US |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Maryland-US/Operations-Analyst_R45687) |
 
 ## About This Role
 
-This business analyst position at SS&C Technologies was posted on 2026-03-26.
+This data analyst position at SS&C Technologies was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

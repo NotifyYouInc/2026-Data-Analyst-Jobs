@@ -5,12 +5,12 @@
 | Company | [Appier](https://scoutify.ai/companies/appier?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Data Analyst |
-| Posted | 2026-01-21 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/appier/jobs/7495834) |
 
 ## About This Role
 
-This data analyst position at Appier was posted on 2026-01-21.
+This data analyst position at Appier was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

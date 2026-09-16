@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000143758304-senior-data-analyst-quick-commerce-partnerships) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148401339-senior-data-analyst-quick-commerce-partnerships) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-08-17.
+This data analyst position at Delivery Hero was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Customer Success |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Product-Support-Analyst-I_JR108614) |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Product-Support-Analyst-I_JR108648) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-09-02.
+This data analyst position at Sabre was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

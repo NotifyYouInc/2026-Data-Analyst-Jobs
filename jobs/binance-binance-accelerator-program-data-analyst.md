@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | Asia, Western Visayas, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.lever.co/binance/c85bb74a-025e-4a23-abfa-b3a452807f7d) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/binance/f610850c-df60-4c64-9951-23ca130f58eb) |
 
 ## About This Role
 
-This data analyst position at Binance was posted on 2026-06-29.
+This data analyst position at Binance was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

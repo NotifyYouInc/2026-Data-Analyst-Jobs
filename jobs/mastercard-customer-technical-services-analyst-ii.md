@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Customer Success |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Customer-Technical-Services-Analyst-II_R-288073) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Customer-Technical-Services-Analyst-II_R-281995) |
 
 ## About This Role
 
-This customer success position at Mastercard was posted on 2026-08-07.
+This data analyst position at Mastercard was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

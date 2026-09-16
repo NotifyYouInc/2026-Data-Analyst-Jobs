@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Brest, Brittany, France |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000141231139-data-analyst) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148464125-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Inetum was posted on 2026-08-03.
+This data analyst position at Inetum was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

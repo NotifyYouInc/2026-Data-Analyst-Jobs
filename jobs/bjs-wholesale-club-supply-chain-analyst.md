@@ -5,12 +5,12 @@
 | Company | [BJ's Wholesale Club](https://scoutify.ai/companies/bj-s-wholesale-club?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Marlborough, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://bjswholesaleclub.wd1.myworkdayjobs.com/bjscareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Supply-Chain-Analyst_R250494) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://bjswholesaleclub.wd1.myworkdayjobs.com/bjscareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Supply-Chain-Analyst_R251007) |
 
 ## About This Role
 
-This data analyst position at BJ's Wholesale Club was posted on 2026-09-01.
+This data analyst position at BJ's Wholesale Club was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

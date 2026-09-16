@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Megaport](https://scoutify.ai/companies/megaport?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.lever.co/megaport/1c1b8ddf-57bb-4d59-baaf-8dda416b1a35) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/megaport/3dea2bba-a1e6-4a82-ba5a-7825f9aedcff) |
 
 ## About This Role
 
-This data analyst position at Megaport was posted on 2026-08-13.
+This data analyst position at Megaport was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

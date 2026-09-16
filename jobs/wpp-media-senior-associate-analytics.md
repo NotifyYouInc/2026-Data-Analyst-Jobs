@@ -5,12 +5,12 @@
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5396611008) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5414821008) |
 
 ## About This Role
 
-This data analyst position at WPP Media was posted on 2026-09-07.
+This data analyst position at WPP Media was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

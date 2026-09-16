@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Specialized-Analytics-Lead-Analyst_26978369) |
+| Location | 5 locations |
+| Category | Data Scientist |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Specialized-Analytics-Lead-Analyst_26991503-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-17.
+This data scientist position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

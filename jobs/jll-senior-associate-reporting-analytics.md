@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Associate---Reporting---Analytics_REQ512969) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Associate---Reporting---Analytics_REQ533569) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-06-17.
+This data analyst position at JLL was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

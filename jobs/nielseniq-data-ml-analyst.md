@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139053939-data-ml-analyst) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148255709-data-ml-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-22.
+This data analyst position at NielsenIQ was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

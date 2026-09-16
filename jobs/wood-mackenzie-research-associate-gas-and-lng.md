@@ -5,12 +5,12 @@
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Gurugram-IN/Research-Associate---Gas-and-LNG_JR3191) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Gurugram-IN/Research-Associate---Gas-and-LNG_JR3301) |
 
 ## About This Role
 
-This data analyst position at Wood Mackenzie was posted on 2026-08-07.
+This data analyst position at Wood Mackenzie was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

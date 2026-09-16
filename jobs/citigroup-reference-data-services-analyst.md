@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Olsztyn, Warmia-Masuria, Poland |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Reference-Data-Services-Analyst_26989459) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Ref-Data-Mgmt-Analyst-1---C09---OLSZTYN_26993261) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-08-25.
+This data analyst position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

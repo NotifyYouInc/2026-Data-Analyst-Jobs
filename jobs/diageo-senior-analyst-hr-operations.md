@@ -1,16 +1,16 @@
-# Senior Analyst -HR operations at Diageo
+# Senior Analyst, HR Operations at Diageo
 
 | Field | Details |
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Senior-Analyst--HR-operations_JR1129243) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Senior-Analyst--HR-Operations_JR1129448-1) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-09-04.
+This data analyst position at Diageo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

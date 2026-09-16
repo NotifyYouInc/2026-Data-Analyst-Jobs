@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-Colorado-Louisville/Sales-Analyst_R152843-2) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CAN-Ontario-Toronto/Sales-Analyst_R164734-1) |
 
 ## About This Role
 
-This data analyst position at Mars was posted on 2026-04-08.
+This data analyst position at Mars was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

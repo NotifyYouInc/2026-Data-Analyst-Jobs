@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/Data-Analyst_R0016220) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Home---UK--England/Data-Analyst_R0018940) |
 
 ## About This Role
 
-This data analyst position at Howden was posted on 2026-02-18.
+This data analyst position at Howden was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Associate-Technology-Operations-Analyst_JREQ135309) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Associate-Technology-Operations-Analyst_JREQ136345) |
 
 ## About This Role
 
-This it & systems administration position at Clarivate was posted on 2026-04-10.
+This data analyst position at Clarivate was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

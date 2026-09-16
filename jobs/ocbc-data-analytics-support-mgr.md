@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Analytics---Support---MGR_JR00008560) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Analytics---Support---MGR_JR00010878) |
 
 ## About This Role
 
-This data analyst position at OCBC was posted on 2026-06-17.
+This data analyst position at OCBC was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Singapore |
 | Category | Data Analyst |
-| Posted | 2026-06-12 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/LTA-SMO-MAIN/XMLNAME--LTA-TRO--MANAGER--INTELLIGENCE_JR-10000048440) |
 
 ## About This Role
 
-This data analyst position at Economic Development Board was posted on 2026-06-12.
+This data analyst position at Economic Development Board was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

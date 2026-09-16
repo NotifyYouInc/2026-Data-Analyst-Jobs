@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guarulhos, São Paulo, Brazil |
-| Category | Marketing |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000127015189-marketing-analyst) |
+| Category | Content Marketing |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000148266879-marketing-analyst) |
 
 ## About This Role
 
-This marketing position at Aumovio was posted on 2026-05-18.
+This content marketing position at Aumovio was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

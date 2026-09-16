@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Michigan, US |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Austin-TX---Bridgepoint-Parkway/Operations-Analyst_R0017996) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Operations-Analyst_R0018090) |
 
 ## About This Role
 
-This data analyst position at CLEAResult was posted on 2026-08-19.
+This data analyst position at CLEAResult was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

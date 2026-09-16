@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santa Fe, Jalisco, Mexico |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Sales-Support-Analyst---Santa-Fe_26991832) |
 
 ## About This Role
 
-This sales position at Citigroup was posted on 2026-09-07.
+This account executive position at Citigroup was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
