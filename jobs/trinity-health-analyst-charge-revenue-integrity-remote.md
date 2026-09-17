@@ -1,16 +1,16 @@
-# Analyst Charge Revenue Integrity (Remote) at Trinity Health
+# Analyst Charge - Revenue Integrity (Remote) at Trinity Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Livonia, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Analyst-Charge-Revenue-Integrity--Remote-_00683570) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Analyst-Charge---Revenue-Integrity--Remote-_00689333) |
 
 ## About This Role
 
-This data analyst position at Trinity Health was posted on 2026-08-07.
+This data analyst position at Trinity Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

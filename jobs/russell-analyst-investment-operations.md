@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Russell](https://scoutify.ai/companies/russell?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Mumbai/Analyst--Investment-Operations_R-04204) |
 
 ## About This Role
 
-This corporate finance position at Russell was posted on 2026-09-09.
+This financial analyst position at Russell was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

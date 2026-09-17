@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Tokyo, JP |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10533921/business-intelligence-engineer-central-operation-sort-center) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-09-09.
+This data engineer position at Amazon was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

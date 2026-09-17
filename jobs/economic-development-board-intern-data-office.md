@@ -1,16 +1,16 @@
-# Intern, Data Office at Economic Development Board
+# Intern (Data Office) at Economic Development Board
 
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Not specified |
+| Location | Singapore |
 | Category | Data Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/NAC---GAC/Intern--Data-Office_JR-10000048194) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/HQ/Intern--Data-Office-_JR-10000055347-1) |
 
 ## About This Role
 
-This data analyst position at Economic Development Board was posted on 2026-03-03.
+This data analyst position at Economic Development Board was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

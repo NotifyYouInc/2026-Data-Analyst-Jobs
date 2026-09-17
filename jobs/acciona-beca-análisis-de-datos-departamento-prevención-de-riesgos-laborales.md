@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Madrid/Beca-Anlisis-de-Datos--Departamento-Prevencin-de-Riesgos-Laborales-_20098451) |
 
 ## About This Role
 
-This data analyst position at Acciona was posted on 2026-06-24.
+This data analyst position at Acciona was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

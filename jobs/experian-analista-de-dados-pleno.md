@@ -1,16 +1,16 @@
-#  ANALISTA DE DADOS PLENO  at Experian
+# Analista de Dados Pleno at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | São Carlos, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000143096165-analista-de-dados-pleno) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000148588079-analista-de-dados-pleno) |
 
 ## About This Role
 
-This data analyst position at Experian was posted on 2026-08-12.
+This data analyst position at Experian was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

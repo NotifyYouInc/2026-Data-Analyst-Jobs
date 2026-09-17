@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/VNM---Ho-Chi-Minh---Ho-Chi-Minh-City-Le-Duan/Senior-Specialist--Business-Insights---Analytics_R416587-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Mumbai-WeWork/Senior-Specialist--Business-Insights---Analytics_R416585-1) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-09-08.
+This data analyst position at Merck was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

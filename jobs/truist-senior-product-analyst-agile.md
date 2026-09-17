@@ -1,16 +1,16 @@
-# Senior Product Analyst-Agile at Truist
+# Senior Product Analyst- Agile at Truist
 
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Analyst-Agile_R0117116-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Analyst--Agile_R0118996) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-07-24.
+This data analyst position at Truist was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

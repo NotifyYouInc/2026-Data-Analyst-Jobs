@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Centennial, Colorado, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Centennial-Office/Analyst--Operations---Cash-Management_JR5201) |
+| Category | Financial Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Centennial-CO/Analyst--Operations---Cash-Management_JR4826) |
 
 ## About This Role
 
-This data analyst position at Axos Bank was posted on 2026-08-15.
+This financial analyst position at Axos Bank was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

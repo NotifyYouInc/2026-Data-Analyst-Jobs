@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bengaluru/Intern_R1123280) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Guangzhou/Intern_R1125025) |
 
 ## About This Role
 
-This software engineer position at Dentsu was posted on 2026-05-20.
+This data analyst position at Dentsu was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

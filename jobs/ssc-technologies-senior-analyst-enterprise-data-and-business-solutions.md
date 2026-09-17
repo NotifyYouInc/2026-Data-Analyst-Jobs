@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Senior-Analyst---Enterprise-Data-and-Business-Solutions_R43600) |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Senior-Analyst---Enterprise-Data-and-Business-Solutions_R45685) |
 
 ## About This Role
 
-This business analyst position at SS&C Technologies was posted on 2026-05-21.
+This data analyst position at SS&C Technologies was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

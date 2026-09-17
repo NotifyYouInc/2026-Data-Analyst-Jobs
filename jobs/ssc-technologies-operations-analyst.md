@@ -6,7 +6,7 @@
 | Location | Maryland, US |
 | Category | Data Analyst |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Maryland-US/Operations-Analyst_R45687) |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Maryland-US/Operations-Analyst_R45688) |
 
 ## About This Role
 

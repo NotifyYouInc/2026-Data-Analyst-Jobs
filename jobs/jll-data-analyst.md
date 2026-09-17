@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bristol-GBR/Data-Analyst_REQ529719) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Data-Analyst_REQ528183) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-08-19.
+This data analyst position at JLL was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

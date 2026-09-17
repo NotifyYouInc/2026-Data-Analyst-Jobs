@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Senior-Analyst--Product-Delivery_R-289405) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Manila-Philippines/Senior-Analyst--Product-Delivery_R-289646) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-08-26.
+This data analyst position at Mastercard was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

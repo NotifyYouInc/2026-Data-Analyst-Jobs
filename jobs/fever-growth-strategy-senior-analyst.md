@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Growth Marketing |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4969725101) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4972758101) |
 
 ## About This Role
 
-This growth marketing position at Fever was posted on 2026-09-07.
+This growth marketing position at Fever was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

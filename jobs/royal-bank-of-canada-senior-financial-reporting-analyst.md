@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Financial-Reporting-Analyst_R-0000181280) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Financial-Reporting-Analyst_R-0000182615) |
 
 ## About This Role
 
-This accounting position at Royal Bank of Canada was posted on 2026-07-29.
+This accounting position at Royal Bank of Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

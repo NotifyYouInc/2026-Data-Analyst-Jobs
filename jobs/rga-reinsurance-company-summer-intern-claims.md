@@ -5,12 +5,12 @@
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chesterfield, Missouri, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Claims_J26697) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Claims_J28706) |
 
 ## About This Role
 
-This data analyst position at RGA Reinsurance Company was posted on 2026-03-17.
+This data analyst position at RGA Reinsurance Company was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

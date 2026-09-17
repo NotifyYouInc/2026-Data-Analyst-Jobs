@@ -5,12 +5,12 @@
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Customer-Experience-Analyst_JR80762) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Charlotte/Customer-Experience-Analyst_JR80783) |
 
 ## About This Role
 
-This data analyst position at Electrolux was posted on 2026-09-08.
+This data analyst position at Electrolux was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

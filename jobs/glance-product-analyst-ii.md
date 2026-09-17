@@ -5,12 +5,12 @@
 | Company | [Glance](https://scoutify.ai/companies/glance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/7984518) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/glance/jobs/8138477) |
 
 ## About This Role
 
-This data analyst position at Glance was posted on 2026-07-22.
+This data analyst position at Glance was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

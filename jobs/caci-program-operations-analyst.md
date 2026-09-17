@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Aberdeen Proving Ground, Maryland, United States |
-| Category | Program Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Program-Operations-Analyst_327379) |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Program-Operations-Analyst_331740) |
 
 ## About This Role
 
-This program manager position at CACI was posted on 2026-06-05.
+This data analyst position at CACI was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

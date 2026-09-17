@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145418019-research-executive) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148668886-research-executive) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-08-25.
+This data analyst position at NielsenIQ was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

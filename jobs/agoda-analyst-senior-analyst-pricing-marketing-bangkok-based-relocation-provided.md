@@ -1,16 +1,16 @@
-# Analyst/ Senior Analyst, Pricing, Marketing (Bangkok Based, relocation provided) at Agoda
+# Analyst/ Senior Analyst, Pricing Marketing (Bangkok Based, relocation provided) at Agoda
 
 | Field | Details |
 |-------|---------|
 | Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/4354954) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/8190632) |
 
 ## About This Role
 
-This digital / performance marketing position at Agoda was posted on 2026-05-05.
+This digital / performance marketing position at Agoda was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

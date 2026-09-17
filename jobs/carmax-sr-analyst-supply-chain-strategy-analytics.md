@@ -5,12 +5,12 @@
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Supply-Chain-Strategy---Analytics_JR-182969) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Analyst--Supply-Chain-Strategy---Analytics_JR-185864) |
 
 ## About This Role
 
-This strategy & operations position at CarMax was posted on 2026-08-01.
+This strategy & operations position at CarMax was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

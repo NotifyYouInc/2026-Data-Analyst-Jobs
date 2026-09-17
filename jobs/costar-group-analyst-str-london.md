@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-04-16 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/UK-London/Analyst--STR---London_R38684-1) |
 
 ## About This Role
 
-This data analyst position at CoStar Group was posted on 2026-04-16.
+This data analyst position at CoStar Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

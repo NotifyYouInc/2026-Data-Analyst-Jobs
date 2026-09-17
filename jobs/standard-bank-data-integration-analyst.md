@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Douglas, Douglas, Isle of Man |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000147339915-data-integration-analyst) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000148485719-data-integration-analyst) |
 
 ## About This Role
 
-This data analyst position at Standard Bank was posted on 2026-09-03.
+This data analyst position at Standard Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Program Manager |
-| Posted | 2026-06-12 |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Change-Management---Analytics-Lead_R1538376) |
 
 ## About This Role
 
-This program manager position at IQVIA was posted on 2026-06-12.
+This data analyst position at IQVIA was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

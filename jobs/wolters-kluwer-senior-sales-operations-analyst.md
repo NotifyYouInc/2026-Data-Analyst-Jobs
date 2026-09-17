@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | 11 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Senior-Sales-Operations-Analyst_R0058821) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Philadelphia-PA/Senior-Sales-Operations-Analyst_R0059793-2) |
 
 ## About This Role
 
-This data analyst position at Wolters Kluwer was posted on 2026-07-16.
+This data analyst position at Wolters Kluwer was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

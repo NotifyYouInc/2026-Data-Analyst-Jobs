@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Douglas-IOM/Customer-Service---Operations-Analyst---Anti-Money-Laundering_R-00274321-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Analyst---Anti-Money-Laundering_R-00284855) |
 
 ## About This Role
 
-This financial crimes & aml position at NatWest Group was posted on 2026-04-16.
+This data analyst position at NatWest Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

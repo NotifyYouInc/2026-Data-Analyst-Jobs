@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139108155-insights-analyst) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000148713489-insights-analyst) |
 
 ## About This Role
 
-This data analyst position at LinkedIn was posted on 2026-07-22.
+This data analyst position at LinkedIn was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

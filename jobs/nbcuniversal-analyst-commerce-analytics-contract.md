@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147641579-analyst-commerce-analytics-contract) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000148521539-analyst-commerce-analytics-contract) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-09-05.
+This data analyst position at NBCUniversal was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

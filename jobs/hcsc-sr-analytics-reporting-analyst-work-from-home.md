@@ -1,16 +1,16 @@
-# Sr. Analytics & Reporting Analyst - Work From Home at HCSC
+# Sr Analytics & Reporting Analyst - Work From Home at HCSC
 
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 8 locations |
+| Location | 6 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/MT---Helena/Sr-Analytics---Reporting-Analyst---Work-From-Home_R0052488) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/Nashville-Tennessee-HQ-500-Great-Circle-Road/Sr-Analytics---Reporting-Analyst---Work-From-Home_R0055609) |
 
 ## About This Role
 
-This data analyst position at HCSC was posted on 2026-07-08.
+This data analyst position at HCSC was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Marketing Science Intern  at Smartly
+# Marketing Science Intern at Smartly
 
 | Field | Details |
 |-------|---------|
 | Company | [Smartly](https://scoutify.ai/companies/smartly?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Growth Marketing |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartlyio/jobs/5997171004) |
+| Location | Chicago, Illinois, United States |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartlyio/jobs/6186906004) |
 
 ## About This Role
 
-This growth marketing position at Smartly was posted on 2026-05-15.
+This data analyst position at Smartly was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

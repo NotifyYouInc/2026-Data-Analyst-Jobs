@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Billing-Operations-Senior-Analyst_R15421) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Billing-Operations-Senior-Analyst_R15473) |
 
 ## About This Role
 
-This accounting position at Athena Health was posted on 2026-08-28.
+This accounting position at Athena Health was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

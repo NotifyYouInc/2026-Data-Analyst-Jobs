@@ -1,16 +1,16 @@
-# Especialista de Datos at Coppel
+# ESPECIALISTA DE DATOS at Coppel
 
 | Field | Details |
 |-------|---------|
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Culiacán, Sinaloa, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#316338) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#321942) |
 
 ## About This Role
 
-This data analyst position at Coppel was posted on 2026-09-05.
+This data analyst position at Coppel was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

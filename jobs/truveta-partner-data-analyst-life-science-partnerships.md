@@ -5,12 +5,12 @@
 | Company | [Truveta](https://scoutify.ai/companies/truveta?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truveta/jobs/6092004004) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truveta/jobs/6186935004) |
 
 ## About This Role
 
-This data analyst position at Truveta was posted on 2026-06-16.
+This data analyst position at Truveta was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

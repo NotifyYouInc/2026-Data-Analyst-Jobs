@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/BI-Reporting-Engineer_R240526) |
+| Location | Denver, Colorado, United States |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/BI-Reporting-Engineer_R247408) |
 
 ## About This Role
 
-This data engineer position at Arrow Electronics was posted on 2026-04-13.
+This data analyst position at Arrow Electronics was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

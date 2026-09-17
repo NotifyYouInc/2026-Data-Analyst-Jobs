@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Makati-City---SLC/Associate--Operations-Reporting_R1756347) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Bonifacio-Global-City---Bonifacio-One-Technology-Tower/Associate--Operations-Reporting_R1757408-1) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-09-03.
+This data analyst position at Concentrix was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

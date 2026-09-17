@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Stockholm/Analytics-Consultant_R1127046) |
+| Location | Michigan, US |
+| Category | Data Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Michigan--Eastern-Time/Analytics-Consultant_R1130749) |
 
 ## About This Role
 
-This technology / it consulting position at Dentsu was posted on 2026-07-07.
+This data analyst position at Dentsu was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

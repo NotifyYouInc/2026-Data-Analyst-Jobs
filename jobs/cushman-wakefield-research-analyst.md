@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Denver-Colorado-USA/Research-Analyst_R319993) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Research-Analyst_R335752) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-06-01.
+This data analyst position at Cushman & Wakefield was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
