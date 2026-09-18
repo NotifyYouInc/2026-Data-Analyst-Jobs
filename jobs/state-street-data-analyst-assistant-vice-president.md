@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Kilkenny, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Data-Analyst--Assistant-Vice-President_R-787118) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Data-Analyst--Assistant-Vice-President_R-794416) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-03-27.
+This data analyst position at State Street was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

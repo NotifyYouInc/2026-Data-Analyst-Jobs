@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Mumbai-WeWork/Senior-Specialist--Business-Insights---Analytics_R416585-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IDN---Jakarta---Jakarta-Menara-Astra/Senior-Specialist--Business-Insights---Analytics_R416114) |
 
 ## About This Role
 
-This data analyst position at Merck was posted on 2026-09-09.
+This data analyst position at Merck was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

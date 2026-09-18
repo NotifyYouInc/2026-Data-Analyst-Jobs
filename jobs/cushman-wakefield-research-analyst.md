@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Research-Analyst_R335752) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Vancouver-Canada/Research-Analyst_R334805) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-09-09.
+This data analyst position at Cushman & Wakefield was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

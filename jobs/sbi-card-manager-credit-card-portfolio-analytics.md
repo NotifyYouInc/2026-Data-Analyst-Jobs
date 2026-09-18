@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBI Card](https://scoutify.ai/companies/ap1-cx-oj95884?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Analyst |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#21656) |
 
 ## About This Role
 
-This asset management / portfolio management position at SBI Card was posted on 2026-09-10.
+This data analyst position at SBI Card was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

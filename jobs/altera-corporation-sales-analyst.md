@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Beijing, Beijing, China |
 | Category | Data Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Shenzhen-Guangdong-China-Remote/Sales-Analyst_R02746) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Beijing-China-Remote/Sales-Analyst_R03126) |
 
 ## About This Role
 
-This data analyst position at Altera Corporation was posted on 2026-07-14.
+This data analyst position at Altera Corporation was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

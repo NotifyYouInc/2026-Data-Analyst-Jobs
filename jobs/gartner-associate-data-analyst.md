@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Associate-Data-Analyst_110590) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Associate-Data-Analyst_113906) |
 
 ## About This Role
 
-This data analyst position at Gartner was posted on 2026-05-14.
+This data analyst position at Gartner was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

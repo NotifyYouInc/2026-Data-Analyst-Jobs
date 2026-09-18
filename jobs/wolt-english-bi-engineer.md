@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolt - English](https://scoutify.ai/companies/wolt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/8188464) |
 
 ## About This Role
 
-This data engineer position at Wolt - English was posted on 2026-09-10.
+This data analyst position at Wolt - English was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

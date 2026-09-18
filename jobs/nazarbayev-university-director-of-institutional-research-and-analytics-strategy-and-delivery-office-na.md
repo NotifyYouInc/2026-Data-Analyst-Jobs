@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nazarbayev University](https://scoutify.ai/companies/nazarbayevuniversity?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Astana, Astana, Kazakhstan |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NazarbayevUniversity1/744000148750959-director-of-institutional-research-and-analytics-strategy-and-delivery-office-nazarbayev-university) |
 
 ## About This Role
 
-This strategy & operations position at Nazarbayev University was posted on 2026-09-10.
+This data analyst position at Nazarbayev University was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

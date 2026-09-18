@@ -5,12 +5,12 @@
 | Company | [VaynerMedia LLC](https://scoutify.ai/companies/vaynermedia-llc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://vaynermedia.com/careers?gh_jid=7573017) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://vaynermedia.com/careers?gh_jid=8126062) |
 
 ## About This Role
 
-This data analyst position at VaynerMedia LLC was posted on 2026-03-26.
+This data analyst position at VaynerMedia LLC was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

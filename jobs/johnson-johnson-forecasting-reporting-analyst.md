@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-06-23 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taguig-National-Capital-Region-Manila-Philippines/Forecasting---Reporting-Analyst_R-082404-1) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-06-23.
+This data analyst position at Johnson & Johnson was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

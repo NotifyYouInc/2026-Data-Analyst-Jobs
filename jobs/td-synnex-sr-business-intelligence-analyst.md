@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Jose-Costa-Rica/Sr-Business-Intelligence-Analyst_R48505) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Jose-Costa-Rica/Sr-Business-Intelligence-Analyst_R56129) |
 
 ## About This Role
 
-This business analyst position at TD Synnex was posted on 2026-03-04.
+This data analyst position at TD Synnex was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

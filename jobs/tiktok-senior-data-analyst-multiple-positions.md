@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Jose, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7636940157476079877/detail) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7683308708633332021/detail) |
 
 ## About This Role
 
-This data analyst position at TikTok was posted on 2026-05-09.
+This data analyst position at TikTok was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

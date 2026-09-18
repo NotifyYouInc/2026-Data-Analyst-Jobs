@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Towson, Maryland, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Incentive-Compensation---Data-Analyst_REQ-1000047010) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Maryland-USA---Remote/Incentive-Compensation---Data-Analyst_REQ-1000051968) |
 
 ## About This Role
 
-This corporate finance position at Stanley Black & Decker was posted on 2026-04-02.
+This data analyst position at Stanley Black & Decker was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

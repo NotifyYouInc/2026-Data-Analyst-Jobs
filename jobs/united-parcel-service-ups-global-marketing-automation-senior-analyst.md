@@ -1,16 +1,16 @@
-# GLOBAL MARKETING AUTOMATION SENIOR ANALYST at United Parcel Service (UPS)
+# Global Marketing Automation Senior Analyst at United Parcel Service (UPS)
 
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Growth Marketing |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/GLOBAL-MARKETING-AUTOMATION-SENIOR-ANALYST_R26011520-1) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Global-Marketing-Automation-Senior-Analyst_R26031123-1) |
 
 ## About This Role
 
-This growth marketing position at United Parcel Service (UPS) was posted on 2026-04-08.
+This data analyst position at United Parcel Service (UPS) was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

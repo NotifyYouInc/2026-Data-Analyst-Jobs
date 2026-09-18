@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000147446829-fmcg-nordics-customer-success-analytic-consultant) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148966154-fmcg-nordics-customer-success-analytic-consultant) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-09-04.
+This data analyst position at NielsenIQ was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

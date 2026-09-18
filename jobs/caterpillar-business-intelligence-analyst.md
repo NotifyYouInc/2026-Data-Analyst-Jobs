@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000385600-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Business-Intelligence-Analyst_R0000393849) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-07-29.
+This data analyst position at Caterpillar was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

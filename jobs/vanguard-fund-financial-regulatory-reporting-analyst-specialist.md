@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Malvern, Arkansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Fund-Financial---Regulatory-Reporting-Analyst--Specialist_177357-1) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Melbourne-Australia/Fund-Financial---Regulatory-Reporting-Analyst--Specialist_180907) |
 
 ## About This Role
 
-This corporate finance position at Vanguard was posted on 2026-04-28.
+This financial analyst position at Vanguard was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

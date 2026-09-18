@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Tier-2-Security-Operations-Center--SOC--Analyst_R-00191295) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Tier-2-Security-Operations-Center--SOC--Analyst_R-00191876) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-09-02.
+This cybersecurity engineer position at Leidos was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

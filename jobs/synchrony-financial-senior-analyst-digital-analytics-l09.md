@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Indiana, US |
 | Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Central-Region-Engagement-Hub-IN/Senior-Analyst--Digital-Analytics--L09-_2602435) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Southern-Region-Engagement-Hub-IN/Senior-Analyst--Digital-Analytics--L09-_2602531) |
 
 ## About This Role
 
-This data analyst position at Synchrony Financial was posted on 2026-08-20.
+This data analyst position at Synchrony Financial was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

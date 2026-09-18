@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Denver, Colorado, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5215091007) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5235176007) |
 
 ## About This Role
 
-This data analyst position at Xometry was posted on 2026-08-18.
+This data analyst position at Xometry was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

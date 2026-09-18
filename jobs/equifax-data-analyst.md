@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Analyst_J00177327) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/NZL---Auckland/Data-Analyst_J00178521) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-06-30.
+This data analyst position at Equifax was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

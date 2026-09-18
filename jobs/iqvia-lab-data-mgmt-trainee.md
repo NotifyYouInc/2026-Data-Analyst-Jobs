@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lab-Data-Mgmt-Trainee_R1524033) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mumbai-India/Lab-Data-Mgmt-Trainee_R1565100) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-04-24.
+This data analyst position at IQVIA was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

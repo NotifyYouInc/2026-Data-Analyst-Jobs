@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Data-Analyst--Specialist_182097) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Scottsdale-AZ/Data-Analyst--Specialist_182167-1) |
 
 ## About This Role
 
-This data analyst position at Vanguard was posted on 2026-09-07.
+This data analyst position at Vanguard was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

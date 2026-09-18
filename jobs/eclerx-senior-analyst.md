@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Chandigarh, Chandigarh, India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83376) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84975) |
 
 ## About This Role
 
-This data analyst position at eClerx was posted on 2026-07-28.
+This data analyst position at eClerx was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

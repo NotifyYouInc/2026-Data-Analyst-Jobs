@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Sales-Operations-Senior-Analyst_JR-158981-1) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Sales-Operations-Senior-Analyst_JR-163348) |
 
 ## About This Role
 
-This operations position at Equinix was posted on 2026-03-19.
+This data analyst position at Equinix was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

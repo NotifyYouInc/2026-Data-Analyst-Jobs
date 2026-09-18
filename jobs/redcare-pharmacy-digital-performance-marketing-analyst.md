@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Settala, Lombardy, Italy |
-| Category | Digital / Performance Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148691314-digital-performance-marketing-analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Redcare Pharmacy was posted on 2026-09-10.
+This data analyst position at Redcare Pharmacy was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

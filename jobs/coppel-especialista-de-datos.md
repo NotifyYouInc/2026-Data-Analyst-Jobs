@@ -5,12 +5,12 @@
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Culiacán, Sinaloa, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#321942) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#325709) |
 
 ## About This Role
 
-This data analyst position at Coppel was posted on 2026-09-10.
+This data analyst position at Coppel was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

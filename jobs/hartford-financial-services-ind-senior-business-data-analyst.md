@@ -5,12 +5,12 @@
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | India |
 | Category | Data Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Business-Data-Analyst_R2625909) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Business-Data-Analyst_R2626497) |
 
 ## About This Role
 
-This data analyst position at Hartford Financial Services was posted on 2026-06-25.
+This data analyst position at Hartford Financial Services was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

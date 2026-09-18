@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tigerbrands](https://scoutify.ai/companies/tigerbrands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | South Africa |
-| Category | Account Executive |
+| Category | Data Analyst |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Ndabeni/Sales-Representative_JR003134) |
 
 ## About This Role
 
-This account executive position at Tigerbrands was posted on 2026-09-10.
+This data analyst position at Tigerbrands was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Location | Chatham, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/San-Jose-California-USA/BI-Manager_R305965) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chatham-New-Jersey-USA/BI-Manager_R335958) |
 
 ## About This Role
 
-This data analyst position at Cushman & Wakefield was posted on 2026-02-18.
+This data analyst position at Cushman & Wakefield was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Data Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cheshire-GBR/Performance-Analyst_REQ532934) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Canberra-ACT/Performance-Analyst_REQ534489) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-09-08.
+This data analyst position at JLL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

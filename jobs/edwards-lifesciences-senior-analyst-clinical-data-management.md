@@ -5,12 +5,12 @@
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Analyst--Clinical-Data-Management_Req-50198-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Analyst--Clinical-Data-Management_Req-50735-1) |
 
 ## About This Role
 
-This data analyst position at Edwards Lifesciences was posted on 2026-08-19.
+This data analyst position at Edwards Lifesciences was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

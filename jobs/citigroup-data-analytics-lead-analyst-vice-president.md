@@ -1,16 +1,16 @@
-# Data Analytics Lead Analyst – Vice President at Citigroup
+# Data Analytics Lead Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Lead-Analyst---Vice-President_26953010) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Data-Analytics-Lead-Analyst---Vice-President_26984620-1) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-04-27.
+This data analyst position at Citigroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

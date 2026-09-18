@@ -1,16 +1,16 @@
-# COORDINADOR DE INFORMACIÓN TERRITORIAL at Grupo Mariposa
+# COORDINADOR DE INFORMACIÓN TERRITORIAL  at Grupo Mariposa
 
 | Field | Details |
 |-------|---------|
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Data Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990014442186-coordinador-de-informacion-territorial) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990015193226-coordinador-de-informacion-territorial) |
 
 ## About This Role
 
-This data analyst position at Grupo Mariposa was posted on 2026-08-04.
+This data analyst position at Grupo Mariposa was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Senior-Analyst---QBS-Delegated-Processes--Ciudad-de-Mxico--Cuauhtmoc-_JR00108612) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Senior-Analyst---QBS-Delegated-Processes--Ciudad-de-Mxico--Cuauhtmoc-_JR00114051) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-10.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

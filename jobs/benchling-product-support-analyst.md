@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/ab7ea47a-c9af-4d2d-9ba3-002a556a7686) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/8def72e4-3cdc-4005-b091-8f740369ff4c) |
 
 ## About This Role
 
-This data analyst position at Benchling was posted on 2026-07-21.
+This data analyst position at Benchling was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Kuala-Lumpur---Corporate/Analyst---IT-Product-Support_R_363767) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Analyst---IT-Product-Support_R_363329) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-09-04.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

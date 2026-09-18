@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Customer-Svc-Intmd-Analyst_26991427) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/Customer-Svc-Intmd-Analyst_26989094) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-09-02.
+This data analyst position at Citigroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | 7 locations |
 | Category | Data Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ESP---Madrid-Castellana/Senior-Sales-Programs-Analyst_R0059775) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Kennesaw-GA/Senior-Sales-Programs-Analyst_R0059761) |
 
 ## About This Role
 
-This data analyst position at Wolters Kluwer was posted on 2026-09-08.
+This data analyst position at Wolters Kluwer was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

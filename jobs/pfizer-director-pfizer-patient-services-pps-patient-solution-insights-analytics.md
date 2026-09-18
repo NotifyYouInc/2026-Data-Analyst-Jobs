@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Pfizer-Patient-Services--PPS--Patient-Solution-Insights---Analytics_4954445-2) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Pfizer-Patient-Services--PPS--Patient-Solution-Insights---Analytics_4963378-1) |
 
 ## About This Role
 
-This data analyst position at Pfizer was posted on 2026-03-27.
+This data analyst position at Pfizer was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

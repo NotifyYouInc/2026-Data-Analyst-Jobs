@@ -1,16 +1,16 @@
-# Operations - Full Time Analyst, WARSAW, 2026 at Citigroup
+# Operations - Full Time Analyst - WARSAW 2026 at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Operations---Full-Time-Analyst--WARSAW--2026_26965122) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Operations---Full-Time-Analyst---WARSAW-2026_26994218) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-21.
+This data analyst position at Citigroup was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

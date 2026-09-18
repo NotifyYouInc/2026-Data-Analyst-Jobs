@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rogers, Arkansas, United States |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/US-AR-Rogers-Office/Customer-Support-Analyst_R-000847) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/US-AR-Rogers-Office/Customer-Support-Analyst_R-001221) |
 
 ## About This Role
 
-This customer success position at Spscommerce was posted on 2026-05-21.
+This data analyst position at Spscommerce was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

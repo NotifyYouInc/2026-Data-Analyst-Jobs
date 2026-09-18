@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Isidro, Buenos Aires, Argentina |
-| Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires---San-Isidro/Sr-Analyst-Customer-Fulfillment_33127) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires---San-Isidro/Sr-Analyst-Customer-Fulfillment_33970-1) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-06-03.
+This data analyst position at SC Johnson was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
