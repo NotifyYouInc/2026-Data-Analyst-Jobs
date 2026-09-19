@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OECD](https://scoutify.ai/companies/oecd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/oecd/744000148967989-statistician-development-finance) |
 
 ## About This Role
 
-This data analyst position at OECD was posted on 2026-09-11.
+This data scientist position at OECD was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#246282) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#256890) |
 
 ## About This Role
 
-This data analyst position at Kotak Mahindra Bank was posted on 2026-06-27.
+This data analyst position at Kotak Mahindra Bank was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

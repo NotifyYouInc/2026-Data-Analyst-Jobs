@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brownadvisory](https://scoutify.ai/companies/brownadvisory?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://brownadvisory.wd1.myworkdayjobs.com/brown/job/Baltimore-MD/Business-Intelligence-Analyst_JR1644) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://brownadvisory.wd1.myworkdayjobs.com/brown/job/Baltimore-MD/Business-Intelligence-Analyst_JR1735) |
 
 ## About This Role
 
-This data analyst position at Brownadvisory was posted on 2026-07-31.
+This data analyst position at Brownadvisory was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

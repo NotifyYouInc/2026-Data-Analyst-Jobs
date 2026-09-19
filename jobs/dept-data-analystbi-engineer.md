@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United States |
+| Location | Argentina |
 | Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7602175) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8198039) |
 
 ## About This Role
 
-This data analyst position at DEPT® was posted on 2026-04-21.
+This data analyst position at DEPT® was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

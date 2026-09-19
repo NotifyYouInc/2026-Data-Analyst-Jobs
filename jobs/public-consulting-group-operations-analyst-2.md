@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Public Consulting Group](https://scoutify.ai/companies/pcg?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/New-York-NY/Operations-Analyst-2_JR101715) |
+| Category | Data Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/US/Operations-Analyst-2_JR102173) |
 
 ## About This Role
 
-This business analyst position at Public Consulting Group was posted on 2026-04-08.
+This data analyst position at Public Consulting Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

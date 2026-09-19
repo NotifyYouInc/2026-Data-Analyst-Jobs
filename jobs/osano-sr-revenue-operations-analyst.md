@@ -5,12 +5,12 @@
 | Company | [Osano](https://scoutify.ai/companies/osano?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/osano/jobs/5370408008) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/osano/jobs/5422172008) |
 
 ## About This Role
 
-This data analyst position at Osano was posted on 2026-07-24.
+This data analyst position at Osano was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

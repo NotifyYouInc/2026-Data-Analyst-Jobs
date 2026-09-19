@@ -5,12 +5,12 @@
 | Company | [Zocdoc](https://scoutify.ai/companies/zocdoc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zocdoc/jobs/8002904) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zocdoc/jobs/8192340) |
 
 ## About This Role
 
-This data analyst position at Zocdoc was posted on 2026-06-16.
+This data analyst position at Zocdoc was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

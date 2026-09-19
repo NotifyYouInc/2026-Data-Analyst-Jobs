@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01664670-1) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01665237-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-09-09.
+This accounting position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

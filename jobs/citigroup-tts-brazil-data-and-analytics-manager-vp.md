@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/TTS-Brazil-Data-and-Analytics-Manager---VP_26982133) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-09-11.
+This data scientist position at Citigroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

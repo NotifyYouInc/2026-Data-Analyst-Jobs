@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Marketing |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4675599005&gh_jid=4675599005) |
+| Location | Austin, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4727205005&gh_jid=4727205005) |
 
 ## About This Role
 
-This marketing position at SolarWinds was posted on 2026-04-01.
+This data analyst position at SolarWinds was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

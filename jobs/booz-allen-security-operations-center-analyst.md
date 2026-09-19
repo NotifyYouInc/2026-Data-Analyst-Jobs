@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbia, South Carolina, United States |
-| Category | SOC & Incident Response |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Columbia-MD/Security-Operations-Center-Analyst_R0246874) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Columbia-MD/Security-Operations-Center-Analyst_R0249274) |
 
 ## About This Role
 
-This soc & incident response position at Booz Allen was posted on 2026-08-13.
+This cybersecurity engineer position at Booz Allen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

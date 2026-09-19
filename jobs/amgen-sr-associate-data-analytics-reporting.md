@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Analytics---Reporting_R-253959) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Analytics---Reporting_R-255157) |
 
 ## About This Role
 
-This data analyst position at Amgen was posted on 2026-09-03.
+This data analyst position at Amgen was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

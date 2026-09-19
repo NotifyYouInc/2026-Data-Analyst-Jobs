@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Data Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5235121007) |
 
 ## About This Role
 
-This data analyst position at Verkada was posted on 2026-09-11.
+This strategy & operations position at Verkada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

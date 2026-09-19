@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Toronto---Queens-Quay---Headquarters/Senior-Data-Steward_R-105930) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Senior-Data-Steward_R-106657-1) |
 
 ## About This Role
 
-This data analyst position at Heinz was posted on 2026-08-20.
+This data analyst position at Heinz was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

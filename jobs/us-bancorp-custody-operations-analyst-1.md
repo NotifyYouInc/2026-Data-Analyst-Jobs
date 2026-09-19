@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Custody-Operations-Analyst-1_2026-0025438) |
+| Location | Missouri, US |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Custody-Operations-Analyst-1_2026-0027526) |
 
 ## About This Role
 
-This data analyst position at U.S. Bancorp was posted on 2026-08-18.
+This corporate finance position at U.S. Bancorp was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

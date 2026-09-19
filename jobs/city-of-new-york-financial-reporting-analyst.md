@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Queens, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013506091-financial-reporting-analyst) |
+| Category | Accounting |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015199936-financial-reporting-analyst) |
 
 ## About This Role
 
-This corporate finance position at City of New York was posted on 2026-06-06.
+This accounting position at City of New York was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

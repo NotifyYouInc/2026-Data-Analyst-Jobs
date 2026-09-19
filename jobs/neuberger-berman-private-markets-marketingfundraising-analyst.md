@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Neuberger Berman](https://scoutify.ai/companies/nb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Private-Markets-Marketing-Fundraising-Analyst_R0012602) |
 
 ## About This Role
 
-This data analyst position at Neuberger Berman was posted on 2026-09-10.
+This corporate finance position at Neuberger Berman was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyreco](https://scoutify.ai/companies/lyreco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Analyst |
-| Posted | 2026-07-02 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://lyreco.wd3.myworkdayjobs.com/lyreco_careers/job/Gdansk_LM/Research---Insights-Analyst-F-M--Advanced-Quant---Data-Integration-_JR-1000029834) |
 
 ## About This Role
 
-This data analyst position at Lyreco was posted on 2026-07-02.
+This data analyst position at Lyreco was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

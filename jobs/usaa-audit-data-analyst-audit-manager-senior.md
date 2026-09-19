@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Accounting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Audit-Manager--Senior-_R0116102) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Audit-Manager--Senior-_R0120590) |
 
 ## About This Role
 
-This accounting position at USAA was posted on 2026-03-27.
+This accounting position at USAA was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | United Kingdom |
-| Category | Data Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/8097446?gh_jid=8097446) |
+| Location | United States |
+| Category | Financial Analyst |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444) |
 
 ## About This Role
 
-This data analyst position at Coinbase was posted on 2026-08-05.
+This financial analyst position at Coinbase was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 
