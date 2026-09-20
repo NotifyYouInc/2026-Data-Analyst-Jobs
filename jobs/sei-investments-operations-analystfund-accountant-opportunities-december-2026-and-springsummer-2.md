@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pennsylvania, US |
-| Category | Accounting |
+| Category | Financial Analyst |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Operations-Analyst-Fund-Accountant-Opportunities--December-2026-and-Spring-Summer-2027-Graduates-_R0037827) |
 
 ## About This Role
 
-This accounting position at SEI Investments was posted on 2026-09-10.
+This financial analyst position at SEI Investments was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

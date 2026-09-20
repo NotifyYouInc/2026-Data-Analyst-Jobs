@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CUAJIMALPA--MEXICO/Analyst--Customer-Support-Billing_R0073796) |
 
 ## About This Role
 
-This accounting position at Global Payments was posted on 2026-09-12.
+This corporate finance position at Global Payments was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Accountant-Operations-Analyst-II_R-01366713) |
 
 ## About This Role
 
-This accounting position at Thermo Fisher Scientific was posted on 2026-09-11.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

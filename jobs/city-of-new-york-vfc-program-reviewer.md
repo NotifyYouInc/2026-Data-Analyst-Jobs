@@ -1,16 +1,16 @@
-# Financial Reporting Analyst at City of New York
+# VFC Program Reviewer at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Queens, New York, United States |
-| Category | Financial Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015199936-financial-reporting-analyst) |
+| Location | Long Island City, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015224336-vfc-program-reviewer) |
 
 ## About This Role
 
-This financial analyst position at City of New York was posted on 2026-09-11.
+This data analyst position at City of New York was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

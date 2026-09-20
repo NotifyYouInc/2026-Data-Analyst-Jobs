@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Edmonton, Kentucky, United States |
-| Category | Accounting |
+| Category | Financial Analyst |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Financial-Reporting-Analyst_R-2026-3634) |
 
 ## About This Role
 
-This accounting position at Finning was posted on 2026-09-12.
+This financial analyst position at Finning was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

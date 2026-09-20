@@ -1,16 +1,16 @@
-# Supply Chain Data Analyst Stage at Red Bull
+# AI Implementation Analyst (Construction Management) - Gryps at TrueMeter
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Company | [TrueMeter](https://scoutify.ai/companies/pear-vc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Analyst |
 | Posted | 2026-09-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000149192810-supply-chain-data-analyst-stage) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pear-vc/486e0e82-e9ea-493b-9f34-9971b0b4e079) |
 
 ## About This Role
 
-This data analyst position at Red Bull was posted on 2026-09-13.
+This data analyst position at TrueMeter was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

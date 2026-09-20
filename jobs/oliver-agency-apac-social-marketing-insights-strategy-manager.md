@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OLIVER Agency - APAC](https://scoutify.ai/companies/oliver-agency-apac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Strategy & Operations |
+| Category | Marketing Operations |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/oliverseapac/jobs/8188440) |
 
 ## About This Role
 
-This strategy & operations position at OLIVER Agency - APAC was posted on 2026-09-11.
+This marketing operations position at OLIVER Agency - APAC was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
