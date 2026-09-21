@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444) |
 
 ## About This Role
 
-This financial analyst position at Coinbase was posted on 2026-09-12.
+This corporate finance position at Coinbase was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Data Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8145119) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Strategy & Operations |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8195483) |
 
 ## About This Role
 
-This data analyst position at Stripe was posted on 2026-08-20.
+This strategy & operations position at Stripe was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

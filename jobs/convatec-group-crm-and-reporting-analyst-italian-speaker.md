@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ConvaTec Group](https://scoutify.ai/companies/convatec-group?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Data Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://convatec.wd1.myworkdayjobs.com/convatec/job/Lisbon-Portugal/CRM-and-Reporting-Analyst---Italian-Speaker_JR00021407-1) |
 
 ## About This Role
 
-This data analyst position at ConvaTec Group was posted on 2026-09-11.
+This it & systems administration position at ConvaTec Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

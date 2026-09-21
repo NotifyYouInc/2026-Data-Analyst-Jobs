@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Malaysia |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Analyst--IT-Operations_WD228277) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Johor/Analyst--IT-Operations_WD228449) |
 
 ## About This Role
 
-This it & systems administration position at FLEX LTD. Flextronics was posted on 2026-08-27.
+This it & systems administration position at FLEX LTD. Flextronics was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

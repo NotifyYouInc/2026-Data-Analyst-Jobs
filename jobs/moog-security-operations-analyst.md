@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Tewkesbury, England, United Kingdom |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Baguio-City-PH/Security-Operations-Analyst_R-26-19935-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Tewkesbury-GBR/Security-Operations-Analyst_R-26-19936) |
 
 ## About This Role
 
-This cybersecurity engineer position at Moog was posted on 2026-09-10.
+This cybersecurity engineer position at Moog was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

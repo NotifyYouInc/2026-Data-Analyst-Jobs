@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cummins](https://scoutify.ai/companies/ocs-cx-oj27349?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Data Analyst |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2436194) |
 
 ## About This Role
 
-This data analyst position at Cummins was posted on 2026-09-12.
+This talent acquisition / recruiting position at Cummins was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Analyst |
+| Category | Customer Success Manager |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/GURUGRAM-INDIA/Senior-Analyst--Commercial-Customer-Experience_JR1129266-1) |
 
 ## About This Role
 
-This data analyst position at Diageo was posted on 2026-09-11.
+This customer success manager position at Diageo was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

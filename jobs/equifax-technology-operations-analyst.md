@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Costa Rica |
-| Category | Data Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Technology-Operations-Analyst_J00179094) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-09-11.
+This it & systems administration position at Equifax was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

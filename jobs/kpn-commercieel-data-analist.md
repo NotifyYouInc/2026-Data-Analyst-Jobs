@@ -1,4 +1,4 @@
-# Commercieel data analist at KPN
+# Commercieel Data Analist at KPN
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000149016944-commercieel-data-analist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000149077234-commercieel-data-analist) |
 
 ## About This Role
 

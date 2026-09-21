@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Analyst_584337) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Analyst_590454) |
 
 ## About This Role
 
-This data analyst position at Philips was posted on 2026-06-03.
+This data analyst position at Philips was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Trust-Reporting-Analyst----Collateralized-Loan-Obligation_2026-0025356) |
 
 ## About This Role
 
-This financial analyst position at U.S. Bank was posted on 2026-09-11.
+This corporate finance position at U.S. Bank was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

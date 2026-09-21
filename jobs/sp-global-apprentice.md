@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Apprentice_328642-1) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Apprentice_328797-1) |
 
 ## About This Role
 

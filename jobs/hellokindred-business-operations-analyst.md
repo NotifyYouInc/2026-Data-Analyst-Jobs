@@ -5,12 +5,12 @@
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Telford, England, United Kingdom |
 | Category | Strategy & Operations |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014961856-business-operations-analyst) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990015229206-business-operations-analyst) |
 
 ## About This Role
 
-This strategy & operations position at HelloKindred was posted on 2026-08-31.
+This strategy & operations position at HelloKindred was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

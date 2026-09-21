@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/NEW-YORK/Trade-Finance---Working-Capital-USA---US-Corporate-Sales-Senior-Analyst_JR00113888) |
 
 ## About This Role
 
-This financial analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-11.
+This corporate finance position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

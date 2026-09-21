@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Data-and-Financial-Insights-Analyst_JR360001) |
 
 ## About This Role
 
-This financial analyst position at Salesforce was posted on 2026-09-11.
+This corporate finance position at Salesforce was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

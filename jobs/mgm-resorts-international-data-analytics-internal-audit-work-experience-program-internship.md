@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Accounting |
+| Category | Data Analyst |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-880-Grier-Dr/Data-Analytics-Internal-Audit-Work-Experience-Program---Internship_279377) |
 
 ## About This Role
 
-This accounting position at MGM Resorts International was posted on 2026-09-11.
+This data analyst position at MGM Resorts International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

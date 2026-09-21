@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Global Partners](https://scoutify.ai/companies/global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Newton, Massachusetts, United States |
-| Category | Data Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Network-Operations-Service-Analyst_R0031886) |
 
 ## About This Role
 
-This data analyst position at Global Partners was posted on 2026-09-11.
+This it & systems administration position at Global Partners was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

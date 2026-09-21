@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Senior-Analyst---Data-Center-Operations--_R_362650) |
 
 ## About This Role
 
-This data analyst position at Marsh & McLennan Companies was posted on 2026-09-11.
+This it & systems administration position at Marsh & McLennan Companies was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

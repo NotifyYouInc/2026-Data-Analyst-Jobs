@@ -5,12 +5,12 @@
 | Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Brisbane-Office---Newstead-Village/Senior-AML-Systems-and-Data-Analyst_JR101737) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Melbourne-Office---Elizabeth-St/Senior-AML-Systems-and-Data-Analyst_JR101822) |
 
 ## About This Role
 
-This data analyst position at Boq was posted on 2026-07-24.
+This data analyst position at Boq was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Financial Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/External-Reporting-Analyst_R34951) |
 
 ## About This Role
 
-This financial analyst position at Allstate was posted on 2026-09-11.
+This corporate finance position at Allstate was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
