@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Malaysia |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000144254854-sales-planning-compensation-analyst) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000149342089-sales-planning-compensation-analyst) |
 
 ## About This Role
 
-This data analyst position at Informa was posted on 2026-08-19.
+This data analyst position at Informa was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

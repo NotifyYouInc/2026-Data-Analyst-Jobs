@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7801285003?gh_jid=7801285003) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7994132003?gh_jid=7994132003) |
 
 ## About This Role
 
-This data analyst position at Realtor.com was posted on 2026-07-13.
+This data analyst position at Realtor.com was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

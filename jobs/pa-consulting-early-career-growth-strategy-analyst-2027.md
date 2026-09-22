@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York, US |
 | Category | Strategy & Operations |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000149072899-early-career-growth-strategy-analyst-2027) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000149388126-early-career-growth-strategy-analyst-2027) |
 
 ## About This Role
 
-This strategy & operations position at PA Consulting was posted on 2026-09-11.
+This strategy & operations position at PA Consulting was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

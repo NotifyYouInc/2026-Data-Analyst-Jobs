@@ -5,12 +5,12 @@
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Reporting-Analyst-II_R-11947) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Reporting-Analyst-II_R-15405) |
 
 ## About This Role
 
-This corporate finance position at Invesco was posted on 2026-03-09.
+This corporate finance position at Invesco was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

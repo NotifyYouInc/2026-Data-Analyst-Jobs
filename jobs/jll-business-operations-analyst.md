@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Database Administration |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Business-Operations-Analyst_REQ525083) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Strategy & Operations |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Business-Operations-Analyst_REQ529076-1) |
 
 ## About This Role
 
-This database administration position at JLL was posted on 2026-07-31.
+This strategy & operations position at JLL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

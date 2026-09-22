@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Associate-Product-Definition-Analyst_R33872) |
+| Category | Data Analyst |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Associate-Product-Definition-Analyst_R36245) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-03-06.
+This data analyst position at Amadeus was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

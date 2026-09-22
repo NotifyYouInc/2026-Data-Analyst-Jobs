@@ -1,16 +1,16 @@
-# Sr Product Analyst at United Parcel Service (UPS)
+# Sr. Product Analyst at United Parcel Service (UPS)
 
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-SUPPLY-CHAIN-SOLUTIONS-GAAPR/Sr-Product-Analyst_R26014583) |
+| Location | India |
+| Category | Data Analyst |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Sr-Product-Analyst_R26026103) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-05-14.
+This data analyst position at United Parcel Service (UPS) was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

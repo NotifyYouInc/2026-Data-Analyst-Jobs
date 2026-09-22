@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Product-Analyst_R_106531) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Product-Analyst_R_106894) |
 
 ## About This Role
 
-This data analyst position at Remitly was posted on 2026-07-06.
+This data analyst position at Remitly was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

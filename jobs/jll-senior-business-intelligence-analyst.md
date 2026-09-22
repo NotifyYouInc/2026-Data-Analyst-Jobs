@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rosemead, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Rosemead-CA/Senior-Business-Intelligence-Analyst_REQ491769) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Business-Intelligence-Analyst_REQ531686) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-03-16.
+This data analyst position at JLL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

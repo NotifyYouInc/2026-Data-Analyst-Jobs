@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Philippines |
+| Location | Davao, Davao Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Bonifacio-Global-City---Bonifacio-One-Technology-Tower/Associate--Operations-Reporting_R1757408-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Davao-9th-11th-12th--14th-Flrs-Davao-Finance-Center/Associate--Operations-Reporting_R1761660-1) |
 
 ## About This Role
 
-This data analyst position at Concentrix was posted on 2026-09-09.
+This data analyst position at Concentrix was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

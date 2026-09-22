@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Barueri, São Paulo, Brazil |
-| Category | Data Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barueri-Green-Valley-Andromeda/BI-Engineer_14540211) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/BI-Engineer_ATCI-5520280-S2068521-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-09-02.
+This data engineer position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

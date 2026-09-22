@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Newark, New Jersey, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Product-Analyst--Hybrid-_JR1084463) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Product-Analyst--Hybrid-_JR1085596) |
 
 ## About This Role
 
-This data analyst position at Broadridge was posted on 2026-08-17.
+This data analyst position at Broadridge was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

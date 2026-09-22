@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Senior-Analyst-Planning---Inventory-Management-Operations--Discretionary-SSA--Minneapolis-_R0000441626) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Senior-Analyst-Planning---Inventory-Management-Operations--Discretionary-SSA--Minneapolis-_R0000448410) |
 
 ## About This Role
 
-This data analyst position at Target was posted on 2026-07-20.
+This data analyst position at Target was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

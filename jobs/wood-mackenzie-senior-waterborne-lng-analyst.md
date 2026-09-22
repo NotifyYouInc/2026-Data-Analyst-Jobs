@@ -5,12 +5,12 @@
 | Company | [Wood Mackenzie](https://scoutify.ai/companies/woodmac?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/London-GB/Senior-Waterborne-LNG-Analyst_JR3219) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/London-GB/Senior-Waterborne-LNG-Analyst_JR3347) |
 
 ## About This Role
 
-This data analyst position at Wood Mackenzie was posted on 2026-08-14.
+This data analyst position at Wood Mackenzie was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

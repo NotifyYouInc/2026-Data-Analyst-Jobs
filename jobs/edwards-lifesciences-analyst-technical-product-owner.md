@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irvine, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Analyst--Technical-Product-Owner_Req-48880) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1442-AltonMIC/Analyst--Technical-Product-Owner_Req-50811) |
 
 ## About This Role
 
-This data analyst position at Edwards Lifesciences was posted on 2026-07-10.
+This technical product manager position at Edwards Lifesciences was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tunis, Tunis Governorate, Tunisia |
-| Category | Data Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/TUN-ARIA-150/Product-Technical-Support-Analyst_JR0308866) |
+| Location | Serbia |
+| Category | Customer Success |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/SRB-BELG-136B-FLR2/Product-Technical-Support-Analyst_JR0309397) |
 
 ## About This Role
 
-This data analyst position at Fidelity National Information Services was posted on 2026-08-17.
+This customer success position at Fidelity National Information Services was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

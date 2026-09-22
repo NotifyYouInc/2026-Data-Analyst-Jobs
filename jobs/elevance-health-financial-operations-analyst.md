@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mason, Ohio, United States |
-| Category | Financial Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Financial-Operations-Analyst_JR200386-1) |
+| Location | Norfolk, Virginia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Financial-Operations-Analyst_JR206230) |
 
 ## About This Role
 
-This financial analyst position at Elevance Health was posted on 2026-09-09.
+This corporate finance position at Elevance Health was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

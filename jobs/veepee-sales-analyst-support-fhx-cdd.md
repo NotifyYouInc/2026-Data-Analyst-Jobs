@@ -5,12 +5,12 @@
 | Company | [Veepee](https://scoutify.ai/companies/veepee?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint-Denis, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.lever.co/veepee/052b11cf-b79a-42dc-af26-a305f6f9daf6) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.lever.co/veepee/0c926997-e459-4d70-913e-e2e7c30284e5) |
 
 ## About This Role
 
-This data analyst position at Veepee was posted on 2026-05-22.
+This data analyst position at Veepee was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-060669) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1) |
 
 ## About This Role
 
-This data analyst position at Johnson & Johnson was posted on 2026-03-11.
+This data analyst position at Johnson & Johnson was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

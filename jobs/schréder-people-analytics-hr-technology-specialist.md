@@ -5,12 +5,12 @@
 | Company | [Schréder](https://scoutify.ai/companies/schrder?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Carnaxide, Lisbon, Portugal |
 | Category | Data Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Schrder/744000148823709-people-analytics-hr-technology-specialist) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Schrder/744000149558122-people-analytics-hr-technology-specialist) |
 
 ## About This Role
 
-This data analyst position at Schréder was posted on 2026-09-10.
+This data analyst position at Schréder was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

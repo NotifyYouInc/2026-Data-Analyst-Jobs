@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MYOB](https://scoutify.ai/companies/myob?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.lever.co/myob-2/d044f5ad-3f52-4910-96db-980fe6a97d12) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.lever.co/myob-2/c2528a90-43f4-46f5-bfd1-acf836d965da) |
 
 ## About This Role
 
-This data analyst position at MYOB was posted on 2026-09-10.
+This data analyst position at MYOB was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Jalisco, Chiapas, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Supply-Demand-Analyst--Revenue-Operations_JR110888) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/Supply-Demand-Analyst--Revenue-Operations_JR110891) |
 
 ## About This Role
 
-This data analyst position at Micron was posted on 2026-09-08.
+This data analyst position at Micron was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

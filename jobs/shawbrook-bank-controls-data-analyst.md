@@ -5,12 +5,12 @@
 | Company | [Shawbrook Bank](https://scoutify.ai/companies/shawbrookbank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000112666426-controls-data-analyst) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Shawbrook/744000149540689-controls-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Shawbrook Bank was posted on 2026-03-04.
+This data analyst position at Shawbrook Bank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

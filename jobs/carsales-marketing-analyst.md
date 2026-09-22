@@ -5,12 +5,12 @@
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000145432684-marketing-analyst) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149506509-marketing-analyst) |
 
 ## About This Role
 
-This data analyst position at carsales was posted on 2026-08-25.
+This data analyst position at carsales was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) |
 
 ## About This Role
 
-This data scientist position at Robinhood was posted on 2026-09-14.
+This data analyst position at Robinhood was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

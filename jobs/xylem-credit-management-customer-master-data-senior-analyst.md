@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guadalupe, Nuevo León, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Guadalupe/Credit-Management---Customer-Master-Data-Senior-Analyst_R48056) |
+| Category | Corporate Finance |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Guadalupe/Credit-Management---Customer-Master-Data-Senior-Analyst_R50682) |
 
 ## About This Role
 
-This business analyst position at Xylem was posted on 2026-04-23.
+This corporate finance position at Xylem was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

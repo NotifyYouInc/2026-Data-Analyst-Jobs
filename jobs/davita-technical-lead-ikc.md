@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Technical-Lead--IKC-_R0461647) |
+| Category | Data Analyst |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Technical-Lead--IKC-_R0472243) |
 
 ## About This Role
 
-This software engineer position at DaVita was posted on 2026-07-13.
+This data analyst position at DaVita was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

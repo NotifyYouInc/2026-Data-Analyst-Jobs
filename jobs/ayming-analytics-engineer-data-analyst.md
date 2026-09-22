@@ -5,12 +5,12 @@
 | Company | [Ayming](https://scoutify.ai/companies/ayming?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000136186736-analytics-engineer-data-analyst) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000149533188-analytics-engineer-data-analyst) |
 
 ## About This Role
 
-This data analyst position at Ayming was posted on 2026-07-07.
+This data analyst position at Ayming was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

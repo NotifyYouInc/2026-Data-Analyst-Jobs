@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | Customer Success |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Customer-Contact-Management-Senior-Analyst_R2859189-1) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Customer Success Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Petaling-Jaya/Customer-Contact-Management-Senior-Analyst_R2870424-1) |
 
 ## About This Role
 
-This customer success position at Sanofi was posted on 2026-06-09.
+This customer success manager position at Sanofi was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

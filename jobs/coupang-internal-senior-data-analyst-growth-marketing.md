@@ -5,12 +5,12 @@
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Growth Marketing |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7764902?gh_jid=7764902) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8203575?gh_jid=8203575) |
 
 ## About This Role
 
-This growth marketing position at Coupang Internal was posted on 2026-04-01.
+This growth marketing position at Coupang Internal was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

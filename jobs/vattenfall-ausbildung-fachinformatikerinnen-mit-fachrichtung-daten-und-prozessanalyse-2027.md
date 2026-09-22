@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000135995592-ausbildung-fachinformatikerinnen-mit-fachrichtung-daten-und-prozessanalyse-2027) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000149341061-ausbildung-fachinformatikerinnen-mit-fachrichtung-daten-und-prozessanalyse-2027) |
 
 ## About This Role
 
-This data analyst position at Vattenfall was posted on 2026-07-06.
+This data analyst position at Vattenfall was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

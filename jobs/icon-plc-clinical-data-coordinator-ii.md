@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Livingston, Scotland, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Poland-Warsaw/Clinical-Data-Coordinator-II_JR159631) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Livingston/Clinical-Data-Coordinator-II_JR160219) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-09-11.
+This data analyst position at ICON plc was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

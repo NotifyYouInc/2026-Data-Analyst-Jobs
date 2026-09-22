@@ -5,12 +5,12 @@
 | Company | [Nebraska Medicine](https://scoutify.ai/companies/nebraskamed?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Trauma-Data-Specialist_REQ-35146) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Trauma-Data-Specialist_REQ-38831) |
 
 ## About This Role
 
-This data analyst position at Nebraska Medicine was posted on 2026-05-05.
+This data analyst position at Nebraska Medicine was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
