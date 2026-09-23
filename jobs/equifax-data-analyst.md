@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Data Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/NZL---Auckland/Data-Analyst_J00178521) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/NZL---Auckland/Data-Analyst_J00178180) |
 
 ## About This Role
 
-This data analyst position at Equifax was posted on 2026-09-11.
+This data analyst position at Equifax was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

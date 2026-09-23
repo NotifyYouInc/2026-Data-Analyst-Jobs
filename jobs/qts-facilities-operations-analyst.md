@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QTS](https://scoutify.ai/companies/qtsdatacenters?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Facilities-Operations-Analyst_R2026-1957-1) |
+| Location | 8 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Phoenix-AZ/Facilities-Operations-Analyst_R2026-2069-2) |
 
 ## About This Role
 
-This business analyst position at QTS was posted on 2026-09-01.
+This data analyst position at QTS was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

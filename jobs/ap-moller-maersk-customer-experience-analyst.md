@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Santos, São Paulo, Brazil |
-| Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/BRSSZ12---Santos---Avenida-Ana-Costa-228/Customer-Experience-Analyst-II_R185054-1) |
+| Category | Customer Success Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/BRSSZ12---Santos---Avenida-Ana-Costa-228/Customer-Experience-Analyst_R195775) |
 
 ## About This Role
 
-This data analyst position at A.P. Moller - Maersk was posted on 2026-09-04.
+This customer success manager position at A.P. Moller - Maersk was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

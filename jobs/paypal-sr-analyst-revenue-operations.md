@@ -1,16 +1,16 @@
-# Sr Analyst, Revenue Operations at PayPal
+# Sr, Analyst - Revenue Operations at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Operations |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Analyst--Revenue-Operations_R0134342-1) |
+| Location | San Jose, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr--Analyst---Revenue-Operations_R0138036) |
 
 ## About This Role
 
-This operations position at PayPal was posted on 2026-03-13.
+This data analyst position at PayPal was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

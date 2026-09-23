@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Analyst--CIB-Daily-Operations---Business-Execution-Associate_R-565269) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Analyst--CIB-Daily-Operations---Business-Execution-Associate_R-565274) |
 
 ## About This Role
 
-This data analyst position at Wells Fargo was posted on 2026-08-14.
+This data analyst position at Wells Fargo was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1600642) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/BRA-Estagiario-J6_Req1567778) |
 
 ## About This Role
 
-This data analyst position at Santander was posted on 2026-08-21.
+This data analyst position at Santander was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

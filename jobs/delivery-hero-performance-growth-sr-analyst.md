@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149366660-performance-growth-sr-analyst) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149601979-performance-growth-sr-analyst) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-09-14.
+This data analyst position at Delivery Hero was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

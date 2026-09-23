@@ -5,12 +5,12 @@
 | Company | [Vistex](https://scoutify.ai/companies/recruiting2-ultipro-com-oj116090?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/vis1012visx/JobBoard/23e64b4e-ff01-4579-9e5a-835480ac7a51/OpportunityDetail?opportunityId=5095cdf0-d1da-4a44-99d2-bf4c1783df48) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/vis1012visx/JobBoard/23e64b4e-ff01-4579-9e5a-835480ac7a51/OpportunityDetail?opportunityId=7c8b154b-1279-4a03-b7c0-6baeb4dbda0c) |
 
 ## About This Role
 
-This data analyst position at Vistex was posted on 2026-07-27.
+This data analyst position at Vistex was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

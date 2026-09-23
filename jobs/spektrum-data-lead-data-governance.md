@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Braine-l'Alleud, Wallonia, Belgium |
-| Category | Data Analyst |
+| Category | Privacy & Data Protection |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4976252101) |
 
 ## About This Role
 
-This data analyst position at Spektrum was posted on 2026-09-15.
+This privacy & data protection position at Spektrum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

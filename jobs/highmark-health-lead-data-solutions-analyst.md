@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Arkansas, US |
-| Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Lead-Data-Solutions-Analyst_J286561) |
+| Location | Pittsburgh, Pennsylvania, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Lead-Data-Solutions-Analyst_J286833) |
 
 ## About This Role
 
-This data analyst position at Highmark Health was posted on 2026-09-04.
+This technical product manager position at Highmark Health was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

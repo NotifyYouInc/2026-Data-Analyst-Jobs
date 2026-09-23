@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/JPN-Tokyo-Hybrid/Sr-SAS_25107980) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/JPN-Tokyo-Hybrid/Sr-SAS_25112568) |
 
 ## About This Role
 
-This data analyst position at Syneoshealth was posted on 2026-05-14.
+This data analyst position at Syneoshealth was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

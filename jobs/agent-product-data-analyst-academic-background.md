@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agent](https://scoutify.ai/companies/agent?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mexico |
+| Location | Brazil |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/agent/232e0bca-2618-4aec-be56-28e265adefc6) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/agent/a7fc32c6-f309-4af1-9df8-2546502974b7) |
 
 ## About This Role
 
-This data analyst position at Agent was posted on 2026-09-03.
+This data analyst position at Agent was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

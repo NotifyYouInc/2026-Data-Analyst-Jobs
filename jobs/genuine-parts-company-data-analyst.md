@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Australia |
+| Location | Brendale, Queensland, Australia |
 | Category | Data Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/AUS-APG-Queensland/Data-Analyst_R26_0000017141) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/AUS-APG-Queensland/Data-Analyst_R26_0000029949) |
 
 ## About This Role
 
-This data analyst position at Genuine Parts Company was posted on 2026-05-29.
+This data analyst position at Genuine Parts Company was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

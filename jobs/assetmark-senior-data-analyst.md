@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assetmark](https://scoutify.ai/companies/assetmark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Phoenix-AZ/Senior-Data-Analyst_Req-003816-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Senior-Data-Analyst_Req-003817) |
 
 ## About This Role
 
-This data analyst position at Assetmark was posted on 2026-04-29.
+This data analyst position at Assetmark was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

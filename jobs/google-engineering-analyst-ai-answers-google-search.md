@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXQrTJBcN9925ZQsjC_-DEtfLBOlg14gUqOuL_KFMDLUEjsA1Ny_i3W3xISR1H52Qxz1N372BNNnClCMDbB6LfqwhIAzy_ppvIHHQYI2vJOBiKYEuqNRd3yKfaZVTw%3D%3D_V2&loc=IE&title=Engineering+Analyst) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXmFaacii0RlatG4twNQJMbB-yorl6knirPYmiZJ3sxzEjsA9yzvgnM7oF5w2rhvQyABlG0Nk1brrXa4cRcqwDEK86-gwrCE4Js2VNgdmXzR-Qc7RkubTtlpdBoz4g%3D%3D_V2&loc=IE&title=Engineering+Analyst) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-08-12.
+This data analyst position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

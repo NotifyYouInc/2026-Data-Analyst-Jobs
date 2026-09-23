@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Information-Management-Analyst-Lead_R0119303) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Metro-TX-Home/Information-Management-Analyst-Lead_R0120670-1) |
 
 ## About This Role
 
-This data analyst position at USAA was posted on 2026-07-17.
+This data analyst position at USAA was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

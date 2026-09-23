@@ -5,12 +5,12 @@
 | Company | [University of British Columbia (UBC)](https://scoutify.ai/companies/university-of-british-columbia-ubc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Data-Analyst_JR25313) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Data-Analyst_JR26003) |
 
 ## About This Role
 
-This data analyst position at University of British Columbia (UBC) was posted on 2026-07-16.
+This data analyst position at University of British Columbia (UBC) was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

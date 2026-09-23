@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000149440191-perinatal-data-specialist-full-time-days) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000149642276-perinatal-data-specialist-full-time-days) |
 
 ## About This Role
 
-This data analyst position at Northwestern Medicine was posted on 2026-09-14.
+This data analyst position at Northwestern Medicine was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

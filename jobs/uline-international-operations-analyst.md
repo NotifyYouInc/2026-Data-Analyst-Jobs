@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst_R262265-2) |
+| Location | 5 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst_R267465-1) |
 
 ## About This Role
 
-This business analyst position at Uline was posted on 2026-03-18.
+This data analyst position at Uline was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Investment-Operations-Analyst-Lead_R0117634) |
 
 ## About This Role
 
-This corporate finance position at USAA was posted on 2026-05-18.
+This corporate finance position at USAA was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

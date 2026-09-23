@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Desford, England, United Kingdom |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Desford-United-Kingdom/Demand---Orders-Analyst_R0000381180) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Demand---Orders-Analyst_R0000394144) |
 
 ## About This Role
 
-This data analyst position at Caterpillar was posted on 2026-07-15.
+This data analyst position at Caterpillar was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

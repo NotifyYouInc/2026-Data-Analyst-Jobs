@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | San Jose, California, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Operations-Analyst_2022958) |
+| Location | Milpitas, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Business-Operations-Analyst_2022968-1) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-08-29.
+This corporate finance position at Cisco was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

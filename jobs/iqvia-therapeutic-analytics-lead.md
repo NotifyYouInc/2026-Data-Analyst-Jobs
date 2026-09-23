@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Therapeutic-Analytics-Lead_R1560302) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Therapeutic-Analytics-Lead_R1559772) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-07-27.
+This data analyst position at IQVIA was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

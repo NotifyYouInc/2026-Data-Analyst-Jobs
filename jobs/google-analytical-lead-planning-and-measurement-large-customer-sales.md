@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 6 locations |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQbC5ozQYYEPn38klRUEcFamozv3vJX4z1AoGstD9sYuEjoA1Ny_i1Zi2MBYTUlbDTy1ZTicHyfQ3FOMZZf-vJMNHPaibrXMrn2klgkgFY2cqD3DVsikPL1q2sQM_V2&loc=SG&title=Analytical+Lead) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWRljx0xTLu8FjW6C-NPIdZ4U5QsVKIi50y3HJ_-Hk35EjoA9yzvgg4Cq0ekU0mL2eW9M246xyHMu_nutZWuRgM7UeNGjL79J9HLwF0VkQKACr4-Pi-9k7bKiH8y_V2&loc=SG&title=Analytical+Lead) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-08-13.
+This data analyst position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

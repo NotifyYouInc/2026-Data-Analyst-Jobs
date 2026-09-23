@@ -5,12 +5,12 @@
 | Company | [Link Snacks](https://scoutify.ai/companies/linksnacks?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Data Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000149425064-supply-chainsales-analyst-intern) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000149673039-supply-chainsales-analyst-intern) |
 
 ## About This Role
 
-This data analyst position at Link Snacks was posted on 2026-09-14.
+This data analyst position at Link Snacks was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

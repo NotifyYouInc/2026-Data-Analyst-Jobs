@@ -1,16 +1,16 @@
-# Senior Data Analyst - Sanctions - Filter Support at Bank of America
+# Senior Data Analyst -  Sanctions Filter Support at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Richmond/Senior-Data-Analyst---Sanctions---Filter-Support_26021296) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Analyst----Sanctions-Filter-Support_26033955) |
 
 ## About This Role
 
-This data analyst position at Bank of America was posted on 2026-06-24.
+This data analyst position at Bank of America was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

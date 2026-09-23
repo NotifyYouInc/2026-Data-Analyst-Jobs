@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Operations-Senior-Analyst_AIOC-S01665011-1) |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Operations-Specialist_AIOC-S01613974-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-09-10.
+This corporate finance position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

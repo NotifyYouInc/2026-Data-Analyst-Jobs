@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000147011609-power-bi-consultant) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000149829973-power-bi-consultant) |
 
 ## About This Role
 
-This data analyst position at Version 1 was posted on 2026-09-02.
+This data analyst position at Version 1 was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

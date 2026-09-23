@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Vietnam |
-| Category | Business Analyst |
-| Posted | 2026-06-15 |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Ho-Chi-Minh-Vietnam/Senior-Client-Service-Analyst_R1537546) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-06-15.
+This data analyst position at IQVIA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

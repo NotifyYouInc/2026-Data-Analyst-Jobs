@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Emsi](https://scoutify.ai/companies/economicmodeling?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Moscow, Idaho, United States |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.lever.co/economicmodeling/a1dc86ca-3f28-4ba7-898b-1e00a15132eb) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.lever.co/economicmodeling/74d755ce-ef6a-4e5a-a278-8f75c1544ddf) |
 
 ## About This Role
 
-This data analyst position at Emsi was posted on 2026-08-27.
+This data analyst position at Emsi was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

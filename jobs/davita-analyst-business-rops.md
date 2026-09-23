@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Analyst--Business--ROPS-_R0476214) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09510---Washington-Remote/Analyst--Business--ROPS-_R0475962) |
 
 ## About This Role
 
-This data analyst position at DaVita was posted on 2026-09-09.
+This data analyst position at DaVita was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-programmeur-ou-analyste-programmeuse--CI-CD-DevOps_R2611029) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Tech-Lead-Java_R2611305-1) |
 
 ## About This Role
 
-This data analyst position at Desjardins was posted on 2026-09-04.
+This data analyst position at Desjardins was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

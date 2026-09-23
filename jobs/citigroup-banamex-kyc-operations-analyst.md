@@ -1,16 +1,16 @@
-# Banamex KYC Operations Analyst at Citigroup
+# BANAMEX KYC Operations Analyst at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-KYC-Operations-Analyst_26992307) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-KYC-Operations-Analyst_26993110) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-09-11.
+This data analyst position at Citigroup was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

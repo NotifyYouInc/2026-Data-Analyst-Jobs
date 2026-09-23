@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Tax-Operations-Senior-Analyst_26977505) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Tax-Operations-Senior-Analyst_26993256-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-07-27.
+This compliance & risk management position at Citigroup was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
