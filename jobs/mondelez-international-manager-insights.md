@@ -1,16 +1,16 @@
-# Manager Insights at Mondelez International
+# Manager, Insights at Mondelez International
 
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/Manager-Insights_R-172473-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/Manager--Insights_R-172201) |
 
 ## About This Role
 
-This data analyst position at Mondelez International was posted on 2026-07-06.
+This data analyst position at Mondelez International was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

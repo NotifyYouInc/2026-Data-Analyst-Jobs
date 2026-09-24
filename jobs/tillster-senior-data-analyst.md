@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tillster](https://scoutify.ai/companies/tillster?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Florida, US |
+| Location | North Carolina, US |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/tillster/4e0a27ee-4acf-43e0-b877-ff6b07f7b469) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tillster/a955b367-c667-4e91-b9bf-12b1ff2fafe4) |
 
 ## About This Role
 
-This data analyst position at Tillster was posted on 2026-05-01.
+This data analyst position at Tillster was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

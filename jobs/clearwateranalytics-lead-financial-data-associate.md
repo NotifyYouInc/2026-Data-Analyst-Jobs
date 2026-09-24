@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Data Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Edinburgh/Lead-Financial-Data-Associate_R12011-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Lead-Financial-Data-Associate_R12159) |
 
 ## About This Role
 
-This data analyst position at Clearwateranalytics was posted on 2026-07-30.
+This data analyst position at Clearwateranalytics was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

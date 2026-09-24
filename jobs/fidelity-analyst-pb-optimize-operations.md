@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Analyst--PB-Optimize-Operations_2133942-2) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Analyst--PB-Optimize-Operations_2133941) |
 
 ## About This Role
 
-This data analyst position at Fidelity was posted on 2026-09-15.
+This data analyst position at Fidelity was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

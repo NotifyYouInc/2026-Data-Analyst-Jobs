@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Florida, US |
 | Category | Strategy & Operations |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Supply-Chain-Analyst---Design-Hub-Build-Strategy_R26003831) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Remote-TX-US/Supply-Chain-Analyst---Design-Hub-Build-Strategy_R26005173) |
 
 ## About This Role
 
-This strategy & operations position at HD Supply was posted on 2026-07-21.
+This strategy & operations position at HD Supply was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

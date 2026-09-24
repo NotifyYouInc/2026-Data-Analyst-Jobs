@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PT SMART Tbk](https://scoutify.ai/companies/pt-smart-tbk?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | ESG / Sustainability |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Product-Carbon-Footprint--PCF--Analyst-Officer_R-26000598) |
+| Category | Data Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://goldenagri.wd3.myworkdayjobs.com/smart_careers/job/DKI-Jakarta/Product-Carbon-Footprint--PCF--Analyst-Officer_R-26001374) |
 
 ## About This Role
 
-This esg / sustainability position at PT SMART Tbk was posted on 2026-05-05.
+This data analyst position at PT SMART Tbk was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

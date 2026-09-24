@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Sales-Operations-Analyst_AIOC-S01665786-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Sales-Operations-Analyst_AIOC-S01665799-1) |
 
 ## About This Role
 

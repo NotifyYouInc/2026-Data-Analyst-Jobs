@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Franklin Park, Illinois, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Aurora-Colorado-United-States-of-America/Operations-Analyst_WD30273814) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Franklin-Park-Illinois-United-States-of-America/Operations-Analyst_WD30279515) |
 
 ## About This Role
 
-This data analyst position at Johnson Controls was posted on 2026-07-09.
+This data analyst position at Johnson Controls was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

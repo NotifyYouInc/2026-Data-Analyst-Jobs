@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Treasury-Management-Sales-Support-Analyst_R-567495) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Treasury-Management-Sales-Support-Analyst_R-574003-1) |
 
 ## About This Role
 
-This treasury & capital markets position at Wells Fargo was posted on 2026-08-25.
+This data analyst position at Wells Fargo was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

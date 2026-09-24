@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Raleigh-NC/Lead-Data-Analyst_327455-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Data-Analyst_331323-1) |
 
 ## About This Role
 
-This data analyst position at S&P Global was posted on 2026-09-09.
+This data analyst position at S&P Global was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

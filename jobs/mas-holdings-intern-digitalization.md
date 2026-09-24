@@ -5,12 +5,12 @@
 | Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sri Lanka |
 | Category | Data Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#20416) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21398) |
 
 ## About This Role
 
-This data analyst position at MAS Holdings was posted on 2026-07-16.
+This data analyst position at MAS Holdings was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Data Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Canberra-ACT/Performance-Analyst_REQ534489) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/HerediaCRI/Performance-Analyst_REQ535617) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-09-11.
+This data analyst position at JLL was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

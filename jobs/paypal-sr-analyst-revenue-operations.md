@@ -1,4 +1,4 @@
-# Sr, Analyst - Revenue Operations at PayPal
+# Sr Analyst, Revenue Operations at PayPal
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | San Jose, California, United States |
 | Category | Data Analyst |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr--Analyst---Revenue-Operations_R0138036) |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0138037) |
 
 ## About This Role
 

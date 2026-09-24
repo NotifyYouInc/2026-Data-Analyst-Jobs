@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
-| Category | Marketing |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/SG---UPS-HOUSE-SGSIG/Marketing-Analyst_R26018764) |
+| Location | Philippines |
+| Category | Data Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---UPS---PARANAQUE-PHMNI/Marketing-Analyst_R26032686) |
 
 ## About This Role
 
-This marketing position at United Parcel Service (UPS) was posted on 2026-05-31.
+This data analyst position at United Parcel Service (UPS) was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

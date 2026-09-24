@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Business Analyst |
-| Posted | 2026-06-25 |
+| Category | Data Analyst |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#24826) |
 
 ## About This Role
 
-This business analyst position at Pearson was posted on 2026-06-25.
+This data analyst position at Pearson was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

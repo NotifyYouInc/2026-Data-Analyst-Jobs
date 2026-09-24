@@ -5,12 +5,12 @@
 | Company | [Fieldwire](https://scoutify.ai/companies/fieldwire?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.fieldwire.com/job/8645684002?gh_jid=8645684002) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.fieldwire.com/job/8814802002?gh_jid=8814802002) |
 
 ## About This Role
 
-This data analyst position at Fieldwire was posted on 2026-07-22.
+This data analyst position at Fieldwire was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

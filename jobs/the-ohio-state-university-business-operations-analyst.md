@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | United States |
 | Category | Strategy & Operations |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Business-Operations-Analyst_R156123-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Remote-Location/Business-Operations-Analyst_R159248-1) |
 
 ## About This Role
 
-This strategy & operations position at The Ohio State University was posted on 2026-08-03.
+This strategy & operations position at The Ohio State University was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

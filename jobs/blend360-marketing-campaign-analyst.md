@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Purchase, New York, United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000148320579-marketing-campaign-analyst) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000149925787-marketing-campaign-analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Blend360 was posted on 2026-09-08.
+This digital / performance marketing position at Blend360 was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

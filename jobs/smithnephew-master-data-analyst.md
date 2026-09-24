@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Wroclaw/Master-Data-Analyst_R91684) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/SGP---Singapore/Master-Data-Analyst_R92563) |
 
 ## About This Role
 
-This data analyst position at Smith+Nephew was posted on 2026-07-22.
+This data analyst position at Smith+Nephew was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

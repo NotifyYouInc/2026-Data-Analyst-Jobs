@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013861056-associate-director-market-analytics-and-business-insights) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015325146-associate-director-market-analytics-and-business-insights) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-06-30.
+This data analyst position at AbbVie was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

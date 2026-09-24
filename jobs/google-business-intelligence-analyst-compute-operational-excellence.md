@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc_-hwBKm7DgQI1ogpHMR-b_5bzOD4WVzLt96ExHOeWEEjsACxwdTLzj742kXnxBJs1DjasX1Pq_gIurAYE3LP05p--oPZCzyycz9IIXF8YqnSa5IYXQJVV1o_JMGw%3D%3D_V2&loc=US&title=Business+Intelligence+Analyst) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRGqtslCRCD_B5UmAYCrFprj2vZdgWNJvq7Df5LPxrI6EjsA9yzvgpGaoqalWZzM17LjFcmI4wRVPe1uXgTa8hJ9usBMyMPBCEbc9SRFd_RmLhIOjPORqe5AJjsI5w%3D%3D_V2&loc=US&title=Business+Intelligence+Analyst) |
 
 ## About This Role
 
-This data analyst position at Google was posted on 2026-05-20.
+This data analyst position at Google was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

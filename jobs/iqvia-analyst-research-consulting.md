@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Manila-Philippines/Analyst--Research-Consulting_R1556785) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Zagreb-Croatia/Analyst--Research-Consulting_R1569163-1) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-08-11.
+This data analyst position at IQVIA was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8077639) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8208305) |
 
 ## About This Role
 
-This data analyst position at Capco was posted on 2026-07-21.
+This data analyst position at Capco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

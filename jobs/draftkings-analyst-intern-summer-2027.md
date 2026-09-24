@@ -5,12 +5,12 @@
 | Company | [DraftKings](https://scoutify.ai/companies/draftkings?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14927) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147) |
 
 ## About This Role
 
-This data analyst position at DraftKings was posted on 2026-08-31.
+This data analyst position at DraftKings was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

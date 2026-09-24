@@ -1,16 +1,16 @@
-# Analista de Datos Maestros at Abbott
+# ANALISTA DE DATOS MAESTROS at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Cali, Valle del Cauca Department, Colombia |
 | Category | Data Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Chile---Santiago/Analista-de-Datos-Maestros_31148668) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Cali/ANALISTA-DE-DATOS-MAESTROS_31161964) |
 
 ## About This Role
 
-This data analyst position at Abbott was posted on 2026-04-23.
+This data analyst position at Abbott was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

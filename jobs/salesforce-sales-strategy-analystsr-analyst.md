@@ -1,16 +1,16 @@
-# Sales Strategy Analyst/Sr Analyst at Salesforce
+# Sales Strategy Analyst/Sr. Analyst at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | 3 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/Sales-Strategy-Analyst-Sr-Analyst_JR332086) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Sales-Strategy-Analyst-Sr-Analyst_JR360116) |
 
 ## About This Role
 
-This strategy & operations position at Salesforce was posted on 2026-03-06.
+This strategy & operations position at Salesforce was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

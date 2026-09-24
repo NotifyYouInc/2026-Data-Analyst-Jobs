@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AES](https://scoutify.ai/companies/aes?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Senior-Analyst--Commercial-Operations_R1063629) |
+| Location | Houston, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Houston-TX/Senior-Analyst--Commercial-Operations_R1064938) |
 
 ## About This Role
 
-This business analyst position at AES was posted on 2026-05-28.
+This data analyst position at AES was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

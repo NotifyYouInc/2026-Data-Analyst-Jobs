@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Data Analyst |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Inventory-Planning-Analyst_R26005148) |
 
 ## About This Role
 
-This data analyst position at HD Supply was posted on 2026-09-15.
+This fp&a / strategic finance position at HD Supply was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

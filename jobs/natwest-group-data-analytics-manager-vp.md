@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data---Analytics-Manager--VP_R-00273852) |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data---Analytics-Manager--VP_R-00284591) |
 
 ## About This Role
 
-This project manager position at NatWest Group was posted on 2026-02-27.
+This data analyst position at NatWest Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guyancourt, Île-de-France, France |
-| Category | Data Analyst |
+| Category | Project Manager |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/CS-BAC-4-DATA-ANALYST---PROJECT-MANAGER---Assistant-SENIOR-MANAGER-Ventes-Directes-BtoB-France---H-F-_JOBREQ_50278794) |
 
 ## About This Role
 
-This data analyst position at Renault Group was posted on 2026-09-16.
+This project manager position at Renault Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director - Aromatics EMEA at Dow Jones
+# Director, Aromatics EMEA at Dow Jones
 
 | Field | Details |
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/London-1-London-Bridge-St/Director---Aromatics-EMEA_Job_Req_53708) |
+| Location | Utrecht, Utrecht, The Netherlands |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Utrecht-Netherlands/Director--Aromatics-EMEA_Job_Req_55337) |
 
 ## About This Role
 
-This business analyst position at Dow Jones was posted on 2026-06-23.
+This data analyst position at Dow Jones was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

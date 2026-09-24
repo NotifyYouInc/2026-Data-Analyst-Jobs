@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fairlife](https://scoutify.ai/companies/fairlife?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Goodyear, Arizona, United States |
+| Location | Webster, Massachusetts, United States |
 | Category | Data Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fairlife/jobs/5101612007) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fairlife/jobs/5239915007) |
 
 ## About This Role
 
-This data analyst position at Fairlife was posted on 2026-04-07.
+This data analyst position at Fairlife was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

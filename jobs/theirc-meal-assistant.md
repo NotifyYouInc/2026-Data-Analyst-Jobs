@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Mandalay, Mandalay Region, Myanmar |
+| Location | Afghanistan |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Mandalay-Myanmar/MEAL-Assistant_JR00003535) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Nangarhar-Afghanistan/MEAL-Assistant_JR00005029) |
 
 ## About This Role
 
-This data analyst position at Theirc was posted on 2026-05-25.
+This data analyst position at Theirc was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

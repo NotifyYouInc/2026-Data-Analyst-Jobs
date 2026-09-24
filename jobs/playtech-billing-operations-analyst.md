@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Nicosia, Nicosia, Cyprus |
-| Category | Data Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000143075289-billing-operations-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000149899324-billing-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at Playtech was posted on 2026-08-12.
+This corporate finance position at Playtech was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

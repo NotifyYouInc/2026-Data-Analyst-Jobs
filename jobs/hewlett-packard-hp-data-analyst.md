@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Sant Cugat del Vallès, Catalonia, Spain |
+| Location | Cambridge, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst_3165851-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Data-Analyst_3160884-2) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard (HP) was posted on 2026-08-25.
+This data analyst position at Hewlett Packard (HP) was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

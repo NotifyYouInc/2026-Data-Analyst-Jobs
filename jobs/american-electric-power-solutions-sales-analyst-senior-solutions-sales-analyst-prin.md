@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Data Analyst |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solutions-Sales-Analyst-Senior---Solutions-Sales-Analyst-Prin_R19241) |
 
 ## About This Role
 
-This data analyst position at American Electric Power was posted on 2026-09-15.
+This sales development (sdr / bdr) position at American Electric Power was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
