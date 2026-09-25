@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 3 locations |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Sales-Strategy-Analyst-Sr-Analyst_JR360116) |
 
 ## About This Role
 
-This strategy & operations position at Salesforce was posted on 2026-09-16.
+This data analyst position at Salesforce was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

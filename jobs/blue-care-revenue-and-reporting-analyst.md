@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Brisbane, Queensland, Australia |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Brisbane/Revenue-and-Reporting-Analyst_JR124183-1) |
 
 ## About This Role
 
-This corporate finance position at Blue Care was posted on 2026-09-17.
+This fp&a / strategic finance position at Blue Care was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

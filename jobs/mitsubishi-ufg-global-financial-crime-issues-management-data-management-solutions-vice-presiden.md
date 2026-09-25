@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Compliance & Risk Management |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Vice-President---Data-Management-Solutions_10075903-WD) |
 
 ## About This Role
 
-This compliance & risk management position at Mitsubishi UFG was posted on 2026-09-16.
+This data analyst position at Mitsubishi UFG was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

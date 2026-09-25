@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Melbourne---727-Collins/Senior-Investment-Data-Analyst_R_362545) |
 
 ## About This Role
 
-This asset management / portfolio management position at Marsh & McLennan Companies was posted on 2026-09-17.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

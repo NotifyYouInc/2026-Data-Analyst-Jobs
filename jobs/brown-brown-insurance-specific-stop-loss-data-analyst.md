@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Specific-Stop-Loss-Data-Analyst_R26_0000003167) |
 
 ## About This Role
 
-This corporate finance position at Brown & Brown Insurance was posted on 2026-09-16.
+This data analyst position at Brown & Brown Insurance was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

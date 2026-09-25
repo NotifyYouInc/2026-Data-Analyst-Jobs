@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Hong-Kong/China-Economist_JR7329) |
 
 ## About This Role
 
-This corporate finance position at Capital Group was posted on 2026-09-17.
+This data analyst position at Capital Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

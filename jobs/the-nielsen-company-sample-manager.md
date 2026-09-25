@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015002147-sample-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015344126-sample-manager) |
 
 ## About This Role
 
-This data analyst position at The Nielsen Company was posted on 2026-09-01.
+This data analyst position at The Nielsen Company was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

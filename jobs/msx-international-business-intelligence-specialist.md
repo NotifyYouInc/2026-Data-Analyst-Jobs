@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Troy, Michigan, United States |
 | Category | Data Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015186336-business-intelligence-specialist) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015338936-business-intelligence-specialist) |
 
 ## About This Role
 
-This data analyst position at MSX International was posted on 2026-09-10.
+This data analyst position at MSX International was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

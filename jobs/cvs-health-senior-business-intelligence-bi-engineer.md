@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 5 locations |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Business-Intelligence--BI--Engineer_R1037904) |
 
 ## About This Role
 
-This data engineer position at CVS Health was posted on 2026-09-16.
+This data analyst position at CVS Health was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

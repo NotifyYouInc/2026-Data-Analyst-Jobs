@@ -1,16 +1,16 @@
-# Data Analyst I (Intern) United States at Cisco
+# Data Analyst I (Intern) - United States at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern--United-States_2000155-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1) |
 
 ## About This Role
 
-This data analyst position at Cisco was posted on 2026-03-23.
+This data analyst position at Cisco was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

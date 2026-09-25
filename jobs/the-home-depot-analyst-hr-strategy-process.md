@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Analyst--HR-Strategy---Process_Req193487) |
 
 ## About This Role
 
-This strategy & operations position at The Home Depot was posted on 2026-09-17.
+This data analyst position at The Home Depot was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

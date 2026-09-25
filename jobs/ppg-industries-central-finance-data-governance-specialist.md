@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/ESP--Barcelona-Office/Central-Finance-Data-Governance-Specialist_JR2611210) |
 
 ## About This Role
 
-This corporate finance position at PPG Industries was posted on 2026-09-16.
+This fp&a / strategic finance position at PPG Industries was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

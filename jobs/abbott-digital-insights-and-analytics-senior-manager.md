@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Digital-Insights-and-Analytics-Senior-Manager_31152737-1) |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Digital-Insights-and-Analytics-Senior-Manager_31161360-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-06-12.
+This data analyst position at Abbott was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

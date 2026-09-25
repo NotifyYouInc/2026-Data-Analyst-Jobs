@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Auckland---NZL/Consulting---Finance-and-Operations-Transformation---Senior-Analyst_762945WD) |
 
 ## About This Role
 
-This strategy & operations position at PwC was posted on 2026-09-17.
+This data analyst position at PwC was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8128786) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8191531) |
 
 ## About This Role
 
-This data analyst position at DRW was posted on 2026-08-13.
+This data analyst position at DRW was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

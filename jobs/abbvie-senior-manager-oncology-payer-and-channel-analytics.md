@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014184376-senior-manager-oncology-payer-and-channel-analytics) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015362016-senior-manager-oncology-payer-and-channel-analytics) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-07-20.
+This data analyst position at AbbVie was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

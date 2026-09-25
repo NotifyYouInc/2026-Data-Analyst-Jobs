@@ -1,16 +1,16 @@
-# Customer Service & Operations Analyst - Anti-Money Laundering at NatWest Group
+# Customer Service & Operations Analyst, Anti-money Laundering at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Customer-Service---Operations-Analyst---Anti-Money-Laundering_R-00284855) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Douglas-IOM/Customer-Service---Operations-Analyst--Anti-money-Laundering_R-00285265-2) |
 
 ## About This Role
 
-This data analyst position at NatWest Group was posted on 2026-09-09.
+This data analyst position at NatWest Group was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 5 locations |
+| Location | 18 locations |
 | Category | Data Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/SCA-Data-Technician_JR192050) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/SCA-Data-Technician_JR207482) |
 
 ## About This Role
 
-This data analyst position at Elevance Health was posted on 2026-05-20.
+This data analyst position at Elevance Health was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

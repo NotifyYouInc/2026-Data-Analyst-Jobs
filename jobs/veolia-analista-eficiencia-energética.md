@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149369309-analista-eficiencia-energetica) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150161684-analista-eficiencia-energetica) |
 
 ## About This Role
 
-This data analyst position at Veolia was posted on 2026-09-14.
+This data analyst position at Veolia was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

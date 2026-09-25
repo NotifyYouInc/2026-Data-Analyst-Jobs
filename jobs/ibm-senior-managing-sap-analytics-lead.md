@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97909) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=132947) |
 
 ## About This Role
 
-This data analyst position at IBM was posted on 2026-03-02.
+This data analyst position at IBM was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

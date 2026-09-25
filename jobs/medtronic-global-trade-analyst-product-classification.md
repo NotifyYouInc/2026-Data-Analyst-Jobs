@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Compliance & Risk Management |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Global-Trade-Analyst---Product-Classification_R75166-1) |
 
 ## About This Role
 
-This compliance & risk management position at Medtronic was posted on 2026-09-16.
+This data analyst position at Medtronic was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

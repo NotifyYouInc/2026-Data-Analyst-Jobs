@@ -5,12 +5,12 @@
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
 | Category | Data Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Collections-Strategy-Analyst_R0000021461) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Collections-Strategy-Analyst_R0000020779) |
 
 ## About This Role
 
-This data analyst position at GLOBE was posted on 2026-08-11.
+This data analyst position at GLOBE was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

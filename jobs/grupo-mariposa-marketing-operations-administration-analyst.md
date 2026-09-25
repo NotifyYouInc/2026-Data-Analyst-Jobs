@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Guatemala |
-| Category | Marketing Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990015323591-marketing-operations-administration-analyst) |
 
 ## About This Role
 
-This marketing operations position at Grupo Mariposa was posted on 2026-09-16.
+This data analyst position at Grupo Mariposa was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

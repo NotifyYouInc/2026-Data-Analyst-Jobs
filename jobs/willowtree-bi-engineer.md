@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/72b77238-b2de-4e46-b660-f5e6d02ae29b) |
 
 ## About This Role
 
-This data engineer position at WillowTree was posted on 2026-09-17.
+This data analyst position at WillowTree was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

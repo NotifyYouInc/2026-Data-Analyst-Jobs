@@ -1,16 +1,16 @@
-# Real World Data Specialist at Mytomorrows
+# Real World Data Specialist  at Mytomorrows
 
 | Field | Details |
 |-------|---------|
 | Company | [Mytomorrows](https://scoutify.ai/companies/mytomorrows?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mytomorrows/a9d40172-64c0-4d7e-a7ad-b7ba1dedb1d3) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mytomorrows/7b483255-cfe5-4893-8e23-23dc42c493cb) |
 
 ## About This Role
 
-This data analyst position at Mytomorrows was posted on 2026-05-19.
+This data analyst position at Mytomorrows was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

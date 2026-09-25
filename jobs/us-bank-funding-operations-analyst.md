@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Saint Paul, Minnesota, United States |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Funding-Operations-Analyst_2026-0028633) |
 
 ## About This Role
 
-This corporate finance position at U.S. Bank was posted on 2026-09-16.
+This data analyst position at U.S. Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Manager, Data Analytics at The Home Depot
+# SR MANAGER DATA ANALYTICS at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Manager--Data-Analytics_Req186858) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/SR-MANAGER-DATA-ANALYTICS_Req193670-1) |
 
 ## About This Role
 
-This data analyst position at The Home Depot was posted on 2026-07-20.
+This data analyst position at The Home Depot was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

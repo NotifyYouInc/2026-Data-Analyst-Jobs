@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Sales-Analytics---Data-Operations-Analyst_JR104261) |
+| Category | Data Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Sales-Analytics---Data-Operations-Analyst_JR104652) |
 
 ## About This Role
 
-This corporate finance position at Delegate CX was posted on 2026-05-28.
+This data analyst position at Delegate CX was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

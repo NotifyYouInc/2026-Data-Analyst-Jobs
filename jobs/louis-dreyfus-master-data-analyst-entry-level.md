@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Corporate Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115681189-master-data-analyst-entry-level) |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000150303969-master-data-analyst-entry-level) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-19.
+This data analyst position at Louis Dreyfus was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

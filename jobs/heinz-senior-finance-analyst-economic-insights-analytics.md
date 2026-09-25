@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Senior-Finance-Analyst--Economic-Insights---Analytics_R-106762) |
 
 ## About This Role
 
-This corporate finance position at Heinz was posted on 2026-09-16.
+This fp&a / strategic finance position at Heinz was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

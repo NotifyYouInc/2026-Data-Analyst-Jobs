@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Porto Salvo, Lisbon, Portugal |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Porto-Salvo-Portugal/Financial-Operations-Analyst--French-Speaker-_R1537807-1) |
 
 ## About This Role
 
-This corporate finance position at IQVIA was posted on 2026-09-17.
+This data analyst position at IQVIA was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

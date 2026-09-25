@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CIMB Group](https://scoutify.ai/companies/ap1-cx-oj21920?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malaysia |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#37401) |
 
 ## About This Role
 
-This strategy & operations position at CIMB Group was posted on 2026-09-17.
+This data analyst position at CIMB Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

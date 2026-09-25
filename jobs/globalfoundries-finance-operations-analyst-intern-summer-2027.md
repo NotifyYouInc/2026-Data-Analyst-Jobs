@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Malta, Montana, United States |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Finance---Operations-Analyst-Intern--Summer-2027-_JR-2605140) |
 
 ## About This Role
 
-This corporate finance position at GlobalFoundries was posted on 2026-09-16.
+This fp&a / strategic finance position at GlobalFoundries was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

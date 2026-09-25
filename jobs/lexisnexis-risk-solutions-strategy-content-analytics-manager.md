@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | 2 locations |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/New-York-NY/Strategy---Content-Analytics-Manager_R117863) |
 
 ## About This Role
 
-This strategy & operations position at LexisNexis Risk Solutions was posted on 2026-09-16.
+This data analyst position at LexisNexis Risk Solutions was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Compliance & Risk Management |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Operations-Risk-Review-Analyst_2026-0007334-1) |
 
 ## About This Role
 
-This compliance & risk management position at U.S. Bank was posted on 2026-09-16.
+This data analyst position at U.S. Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

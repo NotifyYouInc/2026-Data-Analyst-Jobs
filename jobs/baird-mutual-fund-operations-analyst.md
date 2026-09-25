@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Mutual-Fund-Operations-Analyst_R20261036-1) |
 
 ## About This Role
 
-This corporate finance position at Baird was posted on 2026-09-16.
+This data analyst position at Baird was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

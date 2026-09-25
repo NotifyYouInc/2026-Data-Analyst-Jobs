@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Engineer |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000149917584-business-intelligence-analyst-revenue-operations-india-remote-hours-1-9pm-ist) |
 
 ## About This Role
 
-This data engineer position at Turnitin was posted on 2026-09-16.
+This data analyst position at Turnitin was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

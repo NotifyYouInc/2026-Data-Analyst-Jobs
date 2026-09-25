@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jersey |
 | Category | Data Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Analyst_R-00276707) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/St-Helier-Jersey/Customer-Service---Operations-Analyst_R-00285249-2) |
 
 ## About This Role
 
-This data analyst position at NatWest Group was posted on 2026-09-08.
+This data analyst position at NatWest Group was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

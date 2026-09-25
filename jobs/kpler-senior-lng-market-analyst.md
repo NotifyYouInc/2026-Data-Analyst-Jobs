@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kpler](https://scoutify.ai/companies/kpler?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | London, England, United Kingdom |
 | Category | Data Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.lever.co/kpler/db490413-d848-4030-988c-1bb90bd84072) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.lever.co/kpler/35db18e4-9d96-4378-901b-f712325f1dd2) |
 
 ## About This Role
 
-This data analyst position at Kpler was posted on 2026-09-11.
+This data analyst position at Kpler was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

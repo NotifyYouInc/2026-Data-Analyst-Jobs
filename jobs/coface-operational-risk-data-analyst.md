@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Poland |
-| Category | Compliance & Risk Management |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000150051144-operational-risk-data-analyst) |
 
 ## About This Role
 
-This compliance & risk management position at Coface was posted on 2026-09-17.
+This data analyst position at Coface was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

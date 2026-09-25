@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 4 locations |
-| Category | Product Marketing |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Consumer-Product-Sales-Lead-Analyst--Vice-President--Hybrid-_26966154-1) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Wilmington-Delaware-United-States/Consumer-Product-Sales-Lead-Analyst--Vice-President--Hybrid-_26974229-1) |
 
 ## About This Role
 
-This product marketing position at Citigroup was posted on 2026-08-03.
+This data analyst position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | IT & Systems Administration |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Specialist--EH-S-System-Administrator-and-Data-Analytics-and-Reporting_JR0153216) |
 
 ## About This Role
 
-This it & systems administration position at McKesson was posted on 2026-09-16.
+This data analyst position at McKesson was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

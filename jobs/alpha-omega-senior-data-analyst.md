@@ -5,12 +5,12 @@
 | Company | [Alpha Omega](https://scoutify.ai/companies/recruiting-ultipro-com-oj4186?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://recruiting.ultipro.com/alp1013apao/JobBoard/4db1723d-a288-4922-9a21-754e6e1cf5c4/OpportunityDetail?opportunityId=65887349-a8d5-4e72-8b17-5718b48a1fe0) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://recruiting.ultipro.com/alp1013apao/JobBoard/4db1723d-a288-4922-9a21-754e6e1cf5c4/OpportunityDetail?opportunityId=224779d3-59ae-437a-9291-e061d1c9e823) |
 
 ## About This Role
 
-This data analyst position at Alpha Omega was posted on 2026-08-28.
+This data analyst position at Alpha Omega was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

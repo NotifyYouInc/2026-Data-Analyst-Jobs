@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tensorwave](https://scoutify.ai/companies/tensorwave?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Talent Acquisition / Recruiting |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/tensorwave/cad0a97f-2781-4782-89ca-bb1b4a42245c) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Tensorwave was posted on 2026-09-16.
+This data analyst position at Tensorwave was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

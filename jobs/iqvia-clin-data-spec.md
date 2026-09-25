@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clin-Data-Spec_R1543416) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Clin-Data-Spec_R1562632) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-05-25.
+This data analyst position at IQVIA was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

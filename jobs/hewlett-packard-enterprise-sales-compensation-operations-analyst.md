@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Data Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Wroclaw-Lower-Silesian-Poland/Sales-Compensation-Operations-Analyst_1213842) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Wroclaw-Lower-Silesian-Poland/Sales-Compensation-Operations-Analyst_1214463) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard Enterprise was posted on 2026-09-14.
+This data analyst position at Hewlett Packard Enterprise was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

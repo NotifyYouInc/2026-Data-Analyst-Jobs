@@ -1,16 +1,16 @@
-# Analyst Marketing at Mastercard
+# Analyst, Marketing at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Rome-Italy/Analyst-Marketing_R-286377) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Shanghai-China/Analyst--Marketing_R-291331) |
 
 ## About This Role
 
-This data analyst position at Mastercard was posted on 2026-07-21.
+This data analyst position at Mastercard was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

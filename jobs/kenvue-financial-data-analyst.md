@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Corporate Finance |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Brazil-Sao-Paulo-Sao-Jose-dos-Campos/Financial-Data-Analyst_2607049052W-1) |
 
 ## About This Role
 
-This corporate finance position at Kenvue was posted on 2026-09-16.
+This data analyst position at Kenvue was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

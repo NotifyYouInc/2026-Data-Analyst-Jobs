@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | United States |
-| Category | Brand Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://careers.airbnb.com/positions/8207084?gh_jid=8207084) |
 
 ## About This Role
 
-This brand marketing position at Airbnb was posted on 2026-09-16.
+This data analyst position at Airbnb was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

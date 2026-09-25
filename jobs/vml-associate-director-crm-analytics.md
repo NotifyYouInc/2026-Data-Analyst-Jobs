@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8558398002?gh_jid=8558398002) |
+| Location | 8 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8761396002?gh_jid=8761396002) |
 
 ## About This Role
 
-This marketing position at VML was posted on 2026-05-21.
+This data analyst position at VML was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

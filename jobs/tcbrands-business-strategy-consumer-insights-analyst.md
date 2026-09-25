@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tcbrands](https://scoutify.ai/companies/tcbrands?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Huntington Beach, California, United States |
-| Category | Strategy & Operations |
+| Category | Data Analyst |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://tcbrands.wd1.myworkdayjobs.com/travismathew-careers/job/TM---HQ---Huntington-Beach/Business-Strategy---Consumer-Insights-Analyst_JR2023-16568) |
 
 ## About This Role
 
-This strategy & operations position at Tcbrands was posted on 2026-09-16.
+This data analyst position at Tcbrands was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Core One](https://scoutify.ai/companies/core-one?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Charlottesville, Virginia, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/coreone/jobs/8569320002) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/coreone/jobs/8816684002) |
 
 ## About This Role
 
-This data analyst position at Core One was posted on 2026-05-28.
+This data analyst position at Core One was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
