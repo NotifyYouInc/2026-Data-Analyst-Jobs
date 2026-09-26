@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Dalian, Liaoning, China |
-| Category | Corporate Finance |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Procure-to-Pay-Operations-Analyst_14643192) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Procure-to-Pay-Operations-Analyst_AIOC-S01666422-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-09-04.
+This data analyst position at Accenture was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

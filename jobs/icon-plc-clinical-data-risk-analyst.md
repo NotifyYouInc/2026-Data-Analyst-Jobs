@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | 3 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Bulgaria-Sofia/Clinical-Data-Risk-Analyst_JR157531) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Clinical-Data-Risk-Analyst_JR157594) |
 
 ## About This Role
 
-This data analyst position at ICON plc was posted on 2026-08-07.
+This data analyst position at ICON plc was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

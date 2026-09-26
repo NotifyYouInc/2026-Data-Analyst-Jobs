@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Data Analyst |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000149916011-business-intelligence-analyst-revenue-operations-philippines-remote-hours-3-11pm-phst) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000150440959-business-intelligence-analyst-revenue-operations-philippines-remote-hours-3-11pm-phst) |
 
 ## About This Role
 
-This data analyst position at Turnitin was posted on 2026-09-16.
+This data analyst position at Turnitin was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

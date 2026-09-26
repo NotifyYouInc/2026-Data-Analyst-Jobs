@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Serbia |
-| Category | Customer Success |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/SRB-BELG-136B-FLR2/Product-Technical-Support-Analyst_JR0309397) |
+| Location | 3 locations |
+| Category | Data Analyst |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Product-Technical-Support-Analyst_JR0307862) |
 
 ## About This Role
 
-This customer success position at Fidelity National Information Services was posted on 2026-09-14.
+This data analyst position at Fidelity National Information Services was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

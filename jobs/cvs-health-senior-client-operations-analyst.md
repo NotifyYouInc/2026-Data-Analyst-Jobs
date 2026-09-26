@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Texas, US |
-| Category | Customer Success |
+| Category | Customer Success Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Client-Operations-Analyst_R1028477) |
 
 ## About This Role
 
-This customer success position at CVS Health was posted on 2026-09-17.
+This customer success manager position at CVS Health was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

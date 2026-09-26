@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000149001009-data-analytics-lead-product-intelligence) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000150389449-data-analytics-lead-product-intelligence) |
 
 ## About This Role
 
-This data analyst position at Nexthink was posted on 2026-09-11.
+This data analyst position at Nexthink was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

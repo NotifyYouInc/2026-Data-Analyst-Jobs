@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Glasgow, Kentucky, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KY---Glasgow/Senior-Operations---Inventory-Analyst_R0984545) |
+| Category | Data Analyst |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KY---Glasgow/Senior-Operations---Inventory-Analyst_R1039641) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-07-29.
+This data analyst position at CVS Health was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Aachen, North Rhine-Westphalia, Germany |
-| Category | UX Researcher |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000136817249-senior-retail-media-insights-manager-mwd) |
+| Location | Germany |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000150355599-senior-retail-media-insights-manager-mwd) |
 
 ## About This Role
 
-This ux researcher position at Redcare Pharmacy was posted on 2026-07-09.
+This data analyst position at Redcare Pharmacy was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

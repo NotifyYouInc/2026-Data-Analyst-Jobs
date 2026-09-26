@@ -5,12 +5,12 @@
 | Company | [Vuori, Inc](https://scoutify.ai/companies/vuori-inc?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000138962614-sr-retail-analyst) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vuoriinc/744000150420222-sr-retail-analyst) |
 
 ## About This Role
 
-This data analyst position at Vuori, Inc was posted on 2026-07-21.
+This data analyst position at Vuori, Inc was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

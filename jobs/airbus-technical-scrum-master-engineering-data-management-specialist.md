@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Scrum Master & Agile Coach |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bucharest/Technical-Scrum-Master--Engineering-Data-Management-Specialist-_JR10442496) |
 
 ## About This Role
 
-This scrum master & agile coach position at Airbus was posted on 2026-09-17.
+This data analyst position at Airbus was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

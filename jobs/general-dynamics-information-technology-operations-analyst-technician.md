@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Georgia, US |
+| Location | Virginia, US |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-GA-Fort-Moore/Operations-Analyst-Technician_RQ227131) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fort-Eustis/Operations-Analyst-Technician_RQ228451-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-29.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

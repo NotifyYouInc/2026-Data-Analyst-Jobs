@@ -5,12 +5,12 @@
 | Company | [Centuria](https://scoutify.ai/companies/centuria?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Data Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.lever.co/centuria/73b6573c-626d-449c-bc93-27fd87bc3ec1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.lever.co/centuria/578d581d-460c-4cc6-8215-b79624322d3f) |
 
 ## About This Role
 
-This data analyst position at Centuria was posted on 2026-06-30.
+This data analyst position at Centuria was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000141345878-staff-data-analyst-lean-and-process-improvement-co-manufacturing) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000150473029-staff-data-analyst-lean-and-process-improvement-co-manufacturing) |
 
 ## About This Role
 
-This data analyst position at Mattel was posted on 2026-08-03.
+This data analyst position at Mattel was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

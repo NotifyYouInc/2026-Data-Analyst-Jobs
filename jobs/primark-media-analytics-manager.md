@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Reading, England, United Kingdom |
-| Category | Digital / Performance Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000150114979-media-analytics-manager) |
 
 ## About This Role
 
-This digital / performance marketing position at Primark was posted on 2026-09-17.
+This data analyst position at Primark was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

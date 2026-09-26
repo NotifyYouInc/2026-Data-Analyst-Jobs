@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Human Resources / People Ops |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014879516-senior-workforce-analytics-analyst-ii) |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015394656-senior-workforce-analytics-analyst-ii) |
 
 ## About This Role
 
-This human resources / people ops position at The Nielsen Company was posted on 2026-08-26.
+This data analyst position at The Nielsen Company was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | North Hollywood, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000149368559-analyst-streaming-monetization-insights) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000150370952-analyst-streaming-monetization-insights) |
 
 ## About This Role
 
-This data analyst position at NBCUniversal was posted on 2026-09-14.
+This data analyst position at NBCUniversal was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

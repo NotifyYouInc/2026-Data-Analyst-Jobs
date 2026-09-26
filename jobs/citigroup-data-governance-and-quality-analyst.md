@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Privacy & Data Protection |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Governance-and-Quality-Analyst_26990983) |
+| Location | Karnataka, IN |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangaluru-Karnataka-India/Data-Governance-and-Quality-Analyst_26995063) |
 
 ## About This Role
 
-This privacy & data protection position at Citigroup was posted on 2026-09-09.
+This data analyst position at Citigroup was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Irvine, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014276326-system-design-analyst-ii-hybrid) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015377677-system-design-analyst-ii-hybrid) |
 
 ## About This Role
 
-This data analyst position at AbbVie was posted on 2026-07-24.
+This data analyst position at AbbVie was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

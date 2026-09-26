@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Radiosystemscorporation](https://scoutify.ai/companies/radiosystemscorporation?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | Not specified |
-| Category | Digital / Performance Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://radiosystemscorporation.wd501.myworkdayjobs.com/psbcareers/job/RSC-Remote/DTC-Ecommerce-Ops---Insights-Specialist_JR101081) |
 
 ## About This Role
 
-This digital / performance marketing position at Radiosystemscorporation was posted on 2026-09-17.
+This data analyst position at Radiosystemscorporation was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

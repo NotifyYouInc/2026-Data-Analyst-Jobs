@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grow Therapy](https://scoutify.ai/companies/grow-therapy?utm_source=github&utm_medium=repo&utm_campaign=data-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Digital / Performance Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/grow-therapy/9567113c-0222-463b-a736-e626c38e08bd) |
 
 ## About This Role
 
-This digital / performance marketing position at Grow Therapy was posted on 2026-09-17.
+This data analyst position at Grow Therapy was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
